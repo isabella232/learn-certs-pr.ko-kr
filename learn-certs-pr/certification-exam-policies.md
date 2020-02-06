@@ -540,10 +540,10 @@ Microsoft 인증 시험을 최대한 유효하고 타당성 있게 유지하기 
 
 시험이 모국어로 제공되지 않아 시간이 더 필요하신 경우 [제 2언어로 영어 양식](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)을 제출하여 요청할 수 있습니다. 양식의 지침을 따르십시오. 
 
-시험을 치를 때 특수 장비 또는 기타 시설이 필요한 장애인인 경우 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 에서 “합리적 조정 요청 시스템”[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 합리적 조정 요청 시스템은 편의시설 요청 및 증빙 서류를 제출시 사용할 수 있는 안전한 온라인 시스템입니다.
+시험을 치를 때 특수 장비 또는 기타 시설이 필요한 장애인인 경우 [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 에서 “합리적 조정 요청 시스템”[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 합리적 조정 요청 시스템은 편의시설 요청 및 증빙 서류를 제출시 사용할 수 있는 안전한 온라인 시스템입니다.
 
 - 요청 시스템을 처음 사용하시는 경우, 사용자 ID 및 암호를 생성해야 합니다. - 사용자 ID를 생성하시려면 면 로그인 화면에서 “가입” 링크를 클릭하십시오. 실제 사용하는 이메일 계정이 있어야 시스템에서 ID를 생성할 수 있습니다.
-- Pearson VUE는 증빙 서류 업로드를 위한 보안 시스템을 사용하고 있습니다. 증빙 서류를 업로드하지 않은 경우, 감정인(의사, 정신과 의사)에게 장애 판정을 위한[감정인용 지침](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 사본을 제공하십시오. 감정인은 제공하는 문서가 당사의 지침을 준수하는지 확인해야 합니다. 대부분의 경우, 의사 또는 정신과 의사가 감정인이 되어 일련의 정신과적, 교육 또는 의료 검진을 수행하며, 진단서 사본 또는 소견서 사본을 발급합니다.
+- Pearson VUE는 증빙 서류 업로드를 위한 보안 시스템을 사용하고 있습니다. 증빙 서류를 업로드하지 않은 경우, 감정인(의사, 정신과 의사)에게 장애 판정을 위한[감정인용 지침](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 사본을 제공하십시오. 감정인은 제공하는 문서가 당사의 지침을 준수하는지 확인해야 합니다. 대부분의 경우, 의사 또는 정신과 의사가 감정인이 되어 일련의 정신과적, 교육 또는 의료 검진을 수행하며, 진단서 사본 또는 소견서 사본을 발급합니다.
 - **Pearson VUE에서 제출 자료를 검토하는 데는 약 10 영업일이 소요됩니다. 요청 제출시 이를 염두에 두십시오.**
 - 요청 검토가 완료되면, 결정에 관한 이메일이 발송됩니다. 결정 편지는 "합리적 조정 요청 시스템"의 "내 문서" 섹션에 나타납니다. 승인될 경우, 결정 편지에는 편의 시험을 예약하는 데 필요한 지침이 제공됩니다.
 - 편의 시설 제공 여부 결정에 불만이 있는 경우, “합리적 조정 요청” 시스템의 결정 편지에서 “이의 신청” 버튼을 눌러 결정을 불복할 수 있습니다.  버튼을 눌러 이의 신청 양식을 작성한 후 업로드해주시기 바랍니다. 장애 담당 전문가는 모든 이의 신청을 검토합니다.
@@ -621,7 +621,7 @@ MCT들이 인증을 준비하는 많은 응시자와 함께 할 것입니다. �
 
 또한 이러한 작업을 수행하는 방법을 다른 사용자에게 묻거나, 백서, MSDN 또는 TechNet을 읽고 시험 범위 작업에 대한 추가 정보를 얻을 수 있으며 시험 세부 정보 페이지에 있는 “준비 자료” 섹션에서 제공되는 리소스를 탐색할 수 있습니다. 페이지는 이용 가능한 온라인 과정, 마이크로러닝, 옵션 및 강사 지도식 교육 옵션을 확인할 수 있는 포털과 연결됩니다.
 
-또한, 인증 시험의 일부로 [Microsoft 공식 연습 시험](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1)에 응시하실 수 있습니다. 여기에서 특정 강점 및 약점에 대한 추가 정보를 찾아볼 수 있을 것입니다. 그러나 연습 시험을 통과한다고 인증 시험 통과를 보장하는 것은 아닙니다.
+또한, 인증 시험의 일부로 [Microsoft 공식 연습 시험](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1)에 응시하실 수 있습니다. 여기에서 특정 강점 및 약점에 대한 추가 정보를 찾아볼 수 있을 것입니다. 그러나 연습 시험을 통과한다고 인증 시험 통과를 보장하는 것은 아닙니다.
 
 시험에 통과하지 못했다면, 시험 성적에서 가장 취약한 부분이라고 표시된 콘텐츠 영역과 가장 높은 문항 비율을 가진 콘텐츠 영역을 중점으로 연습해야 할 기술 능력의 우선 순위를 정하십시오.
 
@@ -631,17 +631,17 @@ MCT들이 인증을 준비하는 많은 응시자와 함께 할 것입니다. �
 
 **영어로 시험을 치러야 합니까?**
 
-Microsoft 인증 시험은 여러 언어로 제공됩니다. 그러나 사용자의 모국어가 아니라 영어로 시험을 치러야 하는 응시자는 추가 시간을 요청할 수 있습니다. 추가 시간 승인은 조건에 따라 다릅니다. [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 또는 [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm)에서 시험 편의 시설을 요청하십시오.
+Microsoft 인증 시험은 여러 언어로 제공됩니다. 그러나 사용자의 모국어가 아니라 영어로 시험을 치러야 하는 응시자는 추가 시간을 요청할 수 있습니다. 추가 시간 승인은 조건에 따라 다릅니다. [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 또는 [Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm)에서 시험 편의 시설을 요청하십시오.
 
 **어떤 장애인 편의시설을 사용할 수 있습니까?**
 
-Microsoft는 장애를 가진 사용자를 포함하여 모든 사용자가 시험을 치를 수 있도록 최선을 다합니다. 사용 가능한 편의 시설 목록을 알아보기 위해 [편의시설 페이지](http://www.pearsonvue.com/accommodations/)를 방문해 보십시오.
+Microsoft는 장애를 가진 사용자를 포함하여 모든 사용자가 시험을 치를 수 있도록 최선을 다합니다. 사용 가능한 편의 시설 목록을 알아보기 위해 [편의시설 페이지](https://www.pearsonvue.com/accommodations/)를 방문해 보십시오.
 
 **시험 응시료는 얼마입니까?**
 
 전문가 및 준 전문가 시험은 일반적으로 미화 165달러이지만 특정 국가 및 지역의 통화 가치에 따라 가격이 책정됩니다. 시험 응시료는 변경될 수 있습니다. 일부 국가 및 지역에서는 세금이 추가될 수 있습니다.
 
-- Microsoft Office Specialist (MOS)의 정확한 가격을 확인하시려면, [Certiport](http://www.certiport.com/)에 문의하십시오.
+- Microsoft Office Specialist (MOS)의 정확한 가격을 확인하시려면, [Certiport](https://www.certiport.com/)에 문의하십시오.
 
 기타 다른 모든 시험에 대해서는 [모든 시험 찾아보기](https://www.microsoft.com/learning/exam-list.aspx)를 보시면 페이지에 시험 응시료가 나와있습니다.
 
@@ -653,7 +653,7 @@ Microsoft는 장애를 가진 사용자를 포함하여 모든 사용자가 시�
 
 특정 항목의 기술 정확성에 대해 우려 사항이 있을 경우 [시헝 항목 질문](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) 절차를 따르십시오.
 
-시험을 보는 동안 겪은 시험 센터 또는 기술적인 어려움에 대한 우려사항을 보고하려면 [Pearson VUE](http://www.pearsonvue.com/microsoft/) 또는 [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)를 통해 고객 서비스에 문의하십시오.
+시험을 보는 동안 겪은 시험 센터 또는 기술적인 어려움에 대한 우려사항을 보고하려면 [Pearson VUE](https://www.pearsonvue.com/microsoft/) 또는 [Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)를 통해 고객 서비스에 문의하십시오.
 
 다른 유형의 피드백을 제공하려면 [Microsoft 지역 서비스 센터](https://www.microsoft.com/learning/help.aspx)에 문의하십시오.
 
@@ -846,7 +846,7 @@ Microsoft 시험은 합격/불합격을 결정하는 데 전체 시험 점수를
 
 Microsoft 인증 시험이 응시자가 기술을 더 개발해야 하는 영역에 대한 피드백을 제공하지만 시험은 세부적인 진단 피드백을 제공하도록 설계되지 않았습니다. 시험 세부 정보 페이지의 "측정 능력" 섹션을 검토하고 시험에서 평가되는 기술과 사용자의 기술을 냉정하게 평가해 보십시오. 최선의 방법은 나열된 과제를 실제로 수행해 보고 접하게 되는 문제점을 기록하는 것입니다. 이러한 문제점을 더 이상 겪지 않을 때까지 연습하십시오. 해당 작업을 어떻게 수행하는지 다른 사람에게 조언을 구할 수도 있습니다. 다른 사람들은 다른 방식으로 작업을 수행합니까? 왜 다른 방식으로 작업을 수행하는지 파악하십시오. 백서, 문서 등에서 시험에 포함된 작업에 대한 추가 정보를 확인할 수 있습니다. 시험 세부 정보 페이지 의 "준비 옵션" 에서 제공되는 리소스를 찾아보거나, 시험 세부 정보 페이지 하단에서 찾을 수 있는 스터디 그룹에 참가할 수 있습니다.
 
-마지막으로 인증 시험의 일부로 [Microsoft 공식 연습 시험](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)에 응시하실 수 있습니다. 여기에서 특정 강점 및 약점에 대한 추가 정보를 찾아볼 수 있을 것입니다. 그러나 연습 시험을 통과한다고 인증 시험 통과를 보장하는 것은 아닙니다.
+마지막으로 인증 시험의 일부로 [Microsoft 공식 연습 시험](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)에 응시하실 수 있습니다. 여기에서 특정 강점 및 약점에 대한 추가 정보를 찾아볼 수 있을 것입니다. 그러나 연습 시험을 통과한다고 인증 시험 통과를 보장하는 것은 아닙니다.
 
 **Exam Replay 정책은 무엇입니까?**
 
@@ -1067,7 +1067,7 @@ MCSA, MCSD, MCSE 인증은 관련 시험이 계속 시행되는 한 취득할 �
 
 **편의 시설을 요청하려면 어떻게 해야 합니까?**
 
-시험을 치를 때 특수 장비 또는 기타 편의 시설이 필요한 장애인인 경우 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)에서 “합리적 조정 요청 시스템”[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 자세한 내용은 위의 시험 응시를 위한 특수 편의 시설 섹션을 참고하시기 바랍니다.
+시험을 치를 때 특수 장비 또는 기타 편의 시설이 필요한 장애인인 경우 [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)에서 “합리적 조정 요청 시스템”[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 자세한 내용은 위의 시험 응시를 위한 특수 편의 시설 섹션을 참고하시기 바랍니다.
 
 **서류를 제출해야 하는 이유는 무엇입니까?**
 
