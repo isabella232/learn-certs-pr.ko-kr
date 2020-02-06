@@ -23,7 +23,7 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft 볼륨 라이선싱
 
   Microsoft E-Reference Library는 Microsoft 제품 및 관련 기술에 대한 포괄적인 콘텐츠를 제공합니다. 모든 인터넷 연결을 통해 온라인으로 호스트되는 사용하기 쉬운 Microsoft Press 전자책 모음은 인쇄 라이브러리에 대한 효과적이고 비용 효율적인 대안 및 강의실 교육 및 e-러닝 과정에 대한 우수한 과정 이후 추가 학습 자료를 제공합니다.
 
-  * [샘플 E-Reference Library 내용 참조](http://mseref.safaribooksonline.com/)
+  * [샘플 E-Reference Library 내용 참조](https://mseref.safaribooksonline.com/)
 
 * Microsoft 인증 시험 쿠폰
 
@@ -60,14 +60,14 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft 볼륨 라이선싱
   * 학교 등록 (캠퍼스 및 학교 계약에 따름)
   * 교육 기관용 추가 기능 선택
 
-  자세한 내용은 교육 기관 라이선싱 재판매인에게 문의하거나 [산업을 위한 Microsoft 라이선싱 프로그램](http://www.microsoft.com/licensing/licensing-options/for-industries.aspx) 페이지를 방문하십시오.
+  자세한 내용은 교육 기관 라이선싱 재판매인에게 문의하거나 [산업을 위한 Microsoft 라이선싱 프로그램](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx) 페이지를 방문하십시오.
 
   **추가 볼륨 라이선싱 학술 인증 리소스**
 
-  * [Microsoft Imagine Academy 프로그램 혜택 가이드](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [교육 기관 데이터시트 용 Microsoft 인증](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine 교육 기관 인증 로드맵](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [교육 기관 볼륨 라이선싱 데이터시트용 Microsoft 인증 시험 팩](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Microsoft Imagine Academy 프로그램 혜택 가이드](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [교육 기관 데이터시트 용 Microsoft 인증](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine 교육 기관 인증 로드맵](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [교육 기관 볼륨 라이선싱 데이터시트용 Microsoft 인증 시험 팩](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 추가 볼륨 라이선싱 학술 e-러닝 리소스
 
@@ -77,14 +77,14 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft 볼륨 라이선싱
 
   Microsoft는 더 이상 볼륨 라이선싱에서 e-러닝을 판매하지 않습니다. 다음 리소스는 기존 계약에 따라 여전히 당사의 e-러닝 콘텐츠를 소비하는 고객을 위한 것입니다. 볼륨 라이선싱 e-러닝 구매를 배포, 구성 및 관리하는 데 도움이 됩니다.
 
-  * [온라인 사용을 위한 볼륨 라이선싱 온라인 서비스 관리자 가이드](http://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [온라인 사용을 위한 볼륨 라이선싱 최종 사용자/학생 가이드](http://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [e-러닝 활성화 데모](http://www.microsoft.com/learning/_silverlight/vl/vl.htm)
-  * [온라인 사용을 위한 비즈니스 관리 센터 가이드](http://www.microsoft.com/learning/_silverlight/bac/bac.htm)
-  * [Microsoft Imagine 교육 프로그램](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
-  * [교육 기관 용 Microsoft 인증](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine 교육 기관 인증 로드맵](http://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [교육 기관 볼륨 라이선싱을 위한 Microsoft 인증 시험 팩](http://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [온라인 사용을 위한 볼륨 라이선싱 온라인 서비스 관리자 가이드](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [온라인 사용을 위한 볼륨 라이선싱 최종 사용자/학생 가이드](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [e-러닝 활성화 데모](https://www.microsoft.com/learning/_silverlight/vl/vl.htm)
+  * [온라인 사용을 위한 비즈니스 관리 센터 가이드](https://www.microsoft.com/learning/_silverlight/bac/bac.htm)
+  * [Microsoft Imagine 교육 프로그램](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [교육 기관 용 Microsoft 인증](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine 교육 기관 인증 로드맵](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [교육 기관 볼륨 라이선싱을 위한 Microsoft 인증 시험 팩](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 문의하기
 
@@ -147,7 +147,7 @@ Microsoft 교육 및 인증 솔루션은 Microsoft 볼륨 라이선싱 온라인
 
 Microsoft 교육 및 인증 솔루션은 1계층의 단일 패키지 가격 책정 기능을 제공합니다. Microsoft 교육 및 인증 솔루션 패키지는 12개월 구독으로 주문하거나 마스터 계약에 남은 월 수를 기준으로 비례 배분할 수 있습니다. 볼륨 라이센싱 온라인 서비스의 다른 프로그램에 필요한 별도의 USL(사용자 구독 라이선스) 또는 ASL(애드온 구독 라이선스)이 필요하지 않습니다.
 
-**참고** Microsoft 교육 및 인증 솔루션을 12개월 구독으로 주문한 경우 이후의 주문은 초기 12개월 구독 주문과 동시에 만료됩니다. [온라인 서비스 가이드를 방문하십시오](http://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**참고** Microsoft 교육 및 인증 솔루션을 12개월 구독으로 주문한 경우 이후의 주문은 초기 12개월 구독 주문과 동시에 만료됩니다. [온라인 서비스 가이드를 방문하십시오](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
 
 **큐: 몇 개의 코드를 취득해야 합니까?**
 
@@ -180,7 +180,7 @@ Microsoft 교육 및 인증 솔루션은 1계층의 단일 패키지 가격 책�
 
 **큐: 기관이 MCP 테스트 센터가 되는 방법은 무엇입니까?**
 
-Microsoft IT 인증 및 MCP 사이트 팩 시험을 제공하는 경우 Pearson VUE 웹 사이트를 방문하여 [Pearson VUE 테스트 센터](http://www.pearsonvue.com/microsoft)가 되는 방법에 대해 알아보십시오. MOS 및 MTA 인증 시험은 Certiport를 통해 제공됩니다.
+Microsoft IT 인증 및 MCP 사이트 팩 시험을 제공하는 경우 Pearson VUE 웹 사이트를 방문하여 [Pearson VUE 테스트 센터](https://www.pearsonvue.com/microsoft)가 되는 방법에 대해 알아보십시오. MOS 및 MTA 인증 시험은 Certiport를 통해 제공됩니다.
 
 **큐: MCP 클래스 팩은 어떻게 처리됩니까?**
 
@@ -188,7 +188,7 @@ Microsoft IT 인증 및 MCP 사이트 팩 시험을 제공하는 경우 Pearson 
 
 **큐: MOS 또는 MTA 사이트 라이선스를 배포하기 위한 요구 사항은 무엇입니까?**
 
-기관이 MOS 또는 MTA 사이트 팩 혜택을 활용하고 MOS 또는 MTA 시험을 실시하려면 등록된 Certiport 공인 테스트 센터여야 하며 [Certiport 웹 사이트](http://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm)에 게시된 기술 요구사항을 준수해야 합니다. 기관이 Certiport 공인 테스트 센터가 아닌 경우 [Certiport 테스트 센터로 되기](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)에 대한 프로세스를 거쳐야 합니다.
+기관이 MOS 또는 MTA 사이트 팩 혜택을 활용하고 MOS 또는 MTA 시험을 실시하려면 등록된 Certiport 공인 테스트 센터여야 하며 [Certiport 웹 사이트](https://www.certiport.com/Portal/desktopdefault.aspx?page=common/pagelibrary/techRequirements.htm)에 게시된 기술 요구사항을 준수해야 합니다. 기관이 Certiport 공인 테스트 센터가 아닌 경우 [Certiport 테스트 센터로 되기](https://www.certiport.com/PORTAL/desktopdefault.aspx?tabid=682&roleid=101)에 대한 프로세스를 거쳐야 합니다.
 
 **큐: 볼륨 라이선싱을 통해 MOS 또는 MTA 사이트 팩을 주문한 후 시험 쿠폰에 액세스했는지 어떻게 알 수 있습니까?**
 

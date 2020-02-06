@@ -51,7 +51,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
 - title: 재응시하기
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md

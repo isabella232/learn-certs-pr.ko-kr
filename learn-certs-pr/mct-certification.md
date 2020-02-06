@@ -63,7 +63,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - 현재 MCT 프로그램에 적격한 Microsoft 인증 또는 자격을 보유해야 합니다.
 (자격 인증 목록은 아래를 참조하십시오)
 
-- [Metrics that Matter (MTM)](http://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) 또는 다른 인정 가능한 측정도구를 통해 검증된 방법을 사용하여 최소 하나의 반을 가르쳐 본 교육 경력 요건을 충족해야 합니다.
+- [Metrics that Matter (MTM)](https://www.executiveboard.com/exbd/human-resources/metrics-that-matter/index.page) 또는 다른 인정 가능한 측정도구를 통해 검증된 방법을 사용하여 최소 하나의 반을 가르쳐 본 교육 경력 요건을 충족해야 합니다.
 
 **참고** 갱신 요건은 변경될 수 있습니다.
 
