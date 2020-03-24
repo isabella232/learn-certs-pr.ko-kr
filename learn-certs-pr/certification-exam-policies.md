@@ -2,6 +2,7 @@
 title: 'certification-exam-policies | Microsoft Docs'
 description: 'certification-exam-policies' 
 documentationcenter: NA 
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
@@ -12,7 +13,7 @@ ms.author: micsullivan
 
 전 세계의 파트너와 고객들은 Microsoft가 최고 품질의 시험 및 인증을 제공하기를 기대합니다. Microsoft 인증 시험 정책은 다음과 같은 인증 프로그램 목적을 지원하기 위해 개발되어 왔습니다:
 
-## <a name="security-policies"></a> 보안 및 재응시 정책
+## 보안 및 재응시 정책
 
 Microsoft는 Microsoft Certified Professional(MCP) 시험과 적합한 관련이 있는 보안 분야를 다루는 특정한 정책을 시행하고 있습니다.
 
@@ -79,7 +80,7 @@ Microsoft는 Microsoft Certified Professional(MCP) 시험과 적합한 관련이
     2. 본 정책은 일반 재응시 정책을 대체합니다.
 5. Exam Replay 정책 예외 조항
     1. 경우에 따라서 Microsoft는 특정 시험에 대해 특수 정책을 수립할 수 있습니다.
-    2. Microsoft는 일부 시험을 재응시할 수 있도록 만들 권리가 있습니다. 1년에 한 번 재응시가 가능한 시험 목록을 보시려면 [여기](https://www.microsoft.com/learning/exam-certification-retakes.aspx)를 클릭하세요.
+    2. Microsoft는 일부 시험을 재응시할 수 있도록 만들 권리가 있습니다. 년에 한 번 재응시가 가능한 시험 목록을 보시려면 [여기](https://www.microsoft.com/learning/exam-certification-retakes.aspx)를 클릭하세요.
 
 ### 보안 상의 이유로 인한 시험 센터 폐쇄
 
@@ -119,10 +120,10 @@ Microsoft는 기본적으로 응시자의 의사와 상관 없이 데이터 포�
 
 약 400명에게 베타 시험을 할인가로 응시할 수 있는 자격이 부여됩니다. 할인 혜택을 받으시려면, 시험 등록 결제 시 베타 코드를 입력해야 합니다. 다음 순서를 따라 베타 코드를 얻으세요.
 
-1. SME Profile 데이터베이스에 가입합니다. 시험 콘텐츠 영역과 기술이 일치하는 회원에게 베타 코드가 포함된 이메일을 보내드립니다. 코드는 해당 그룹 전용입니다. (2018년 3월부터 SME Profile 데이터베이스 프로그램은 [Microsoft Collaborate](https://aka.ms/collaborate)에서 운영합니다. 블로그 게시물 [시험 작성 도움 및 학습 내용!](https://borntolearn.mslearn.net/b/weblog/posts/help-us-create-exams-and-learning-content-join-our-sme-database-today) 을 참조하세요. 지금 SME 데이터베이스에 가입하세요!)
-2. 곧 제공되는 베타 시험에 관한 정보는 커뮤니티 블로그를 참조하시기 바랍니다. 해당 블로그 포스트에는 시험 할인을 받을 수 있는 코드가 포함되어 있습니다. 해당 포스트는 보통 베타 시험 등록 개시일에 게시됩니다. 해당 코드는 당사 데이터베이스에 속한 SME에 지급된 코드와 다릅니다.
+1. SME Profile 데이터베이스에 가입합니다. 시험 콘텐츠 영역과 기술이 일치하는 회원에게 베타 코드가 포함된 이메일을 보내드립니다. 코드는 해당 그룹 전용입니다. SME 데이터베이스 구성원인 경우, 베타 시험에 조기에 액세스하려면 프로필을 최신으로 유지해야 합니다. 새로운 시험과 관련된 기술을 가진 사람들에게 코드를 배포하기 때문입니다. (SME Profile 데이터베이스 프로그램은 [Microsoft Collaborate](https://aka.ms/collaborate)에서 운영합니다. 블로그 게시물 [시험 작성 도움 및 학습 내용!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375069) 을 참조하세요. 지금 SME 데이터베이스에 가입하세요!)
+2. 곧 제공되는 베타 시험에 관한 정보는 Microsoft Learn 또는 [커뮤니티 블로그](https://www.microsoft.com/en-us/learning/community-blog.aspx)에서 참조하시기 바랍니다. 해당 블로그 포스트에는 시험 할인을 받을 수 있는 코드가 포함되어 있습니다. 해당 포스트는 보통 베타 시험 등록 개시일에 게시됩니다. 해당 코드는 당사 데이터베이스에 속한 SME에 지급된 코드와 다릅니다.
 
-베타 시험 할인 응시 코드는 선착순으로 제한된 수량으로 제공됩니다.
+베타 시험 할인 응시 코드는 선착순으로 제한된 수량으로 제공되며 중국, 인도, 파키스탄 또는 터키에는 보안상의 이유로 베타 시험을 배송하지 않습니다.
 
 베타 시험 절차에 참여해주신 데 감사하는 의미로, 시험이 정식으로 출시되고 약 6주 후에 Pearson VUE에서 25% 할인 쿠폰을 증정할 예정입니다. 해당 쿠폰은 VUE에서 제공하는 것으로, 시험 등록 시 사용한 이메일 주소로 발송됩니다. 정식 시험 출시일로부터 6주 이내에 25% 할인 쿠폰을 받지 못하신 경우에는, [pvamericascustomerservice@pearson.com](mailto:pvamericascustomerservice@pearson.com)으로 이메일을 보내주시기 바랍니다.
 
@@ -136,14 +137,14 @@ Microsoft Certified Professional(MCP) 시험에 대한 교육 기관용 응시�
 
 1. Microsoft 계정 자격 증명에 로그인합니다.
 2. 페이지 상단에 있는 **계정** 메뉴에서 **프로필 설정**을 선택합니다.
-3. **직업** 메뉴에서 **학생**을 선택하거나 이를 선택했는지 확인합니다.
+3. **직업** 메뉴에서 *학생*을 선택하거나 이를 선택했는지 확인합니다.
 4. **직업 메뉴** 옆에 있는 교육 기관용 응시료 표시를 확인합니다. 아직 학생 자격을 증명하지 않은 경우 "인증하기"를 클릭하여 상태를 증명합니다.
 
 ### 시험 등록 시 학생 자격 적용
 
 1. Microsoft 계정 자격 증명에 로그인합니다.
 2. 등록할 시험에서 **시험 예약**을 클릭합니다.
-3. **시험 등록 세부사항 확인** 페이지의 **직업** 란이 "학생 - 인증됨" 이라고 되어있는지 확인합니다. 인증이 되어 있지 않은 경우 “인증하기”를 클릭하여 자격을 인증하거나 **편집**을 클릭하여 자격을 변경합니다.
+3. **시험 등록 세부사항 확인** 페이지의 **직업** 란이 "학생 - 인증됨" 이라고 되어있는지 확인합니다. 인증이 되어 있지 않은 경우 "인증하기"를 클릭하여 자격을 인증하거나 **편집**을 클릭하여 자격을 변경합니다.
 
 ### 교육 기관용 자격 증명
 
@@ -157,13 +158,13 @@ Microsoft Certified Professional(MCP) 시험에 대한 교육 기관용 응시�
 
 ## 비밀 유지 계약
 
-수정일: 2018년 5월
+Updated: 2018년 5월
 
 ### Microsoft 인증 시험 규약
 
-**Microsoft 인증 시험 규약 (“규약”)을 주의 깊게 읽으시기 바랍니다. “예” 버튼을 클릭하면 응시자는 본 규약을 체결할 권한이 있음을 인정함과 동시에 본 규약의 모든 약관에 동의한 것으로 간주됩니다. 동의하지 않으면 “아니오”를 선택하십시오. Microsoft 인증 시험에 응시하려면 “예”를 선택해야 합니다.**
+**Microsoft 인증 시험 규약 ("규약")을 주의 깊게 읽으시기 바랍니다. "예" 버튼을 클릭하면 응시자는 본 규약을 체결할 권한이 있음을 인정함과 동시에 본 규약의 모든 약관에 동의한 것으로 간주됩니다. 동의하지 않으면 "아니오"를 선택하십시오. Microsoft 인증 시험에 응시하려면 "예"를 선택해야 합니다.**
 
-본 규약은 응시자의 동의일로부터 응시자(“**응시자**” 또는 “**응시자의**”) 및 Microsoft Corporation (“***Microsoft***”) 사이에 효력이 발생합니다.
+본 규약은 응시자의 동의일로부터 응시자("**응시자**" 또는 "**응시자의**") 및 Microsoft Corporation ("***Microsoft***") 사이에 효력이 발생합니다.
 
 1. **기밀 유지**
 
@@ -171,7 +172,7 @@ Microsoft Certified Professional(MCP) 시험에 대한 교육 기관용 응시�
 
     본 시험은 Microsoft의 기밀 및 독점 정보이며 지식재산권법의 보호를 받습니다. 응시자는 시험 과목에서 응시자의 지식과 역량을 테스트하기 위한 목적으로만 사용 가능합니다.
 
-    시험 및 시험 문제, 정답, 내용, 수식, 도표, 그림 또는 연습장을 포함한 시험과 관련된 정보 (“***시험 관련 정보***”)의 공개는 엄격히 금지됩니다. 응시자는 현재 알려져 있거나 이후에 고안된 어떤 방법으로 시험 및 시험과 관련된 정보의 전체 또는 일부를 공개, 배포, 복사, 전시, 게시, 요약, 촬영, 녹음, 다운로드, 전송 또는 출판하지 않습니다.
+    시험 및 시험 문제, 정답, 내용, 수식, 도표, 그림 또는 연습장을 포함한 시험과 관련된 정보 ("***시험 관련 정보***")의 공개는 엄격히 금지됩니다. 응시자는 현재 알려져 있거나 이후에 고안된 어떤 방법으로 시험 및 시험과 관련된 정보의 전체 또는 일부를 공개, 배포, 복사, 전시, 게시, 요약, 촬영, 녹음, 다운로드, 전송 또는 출판하지 않습니다.
 
 2. **응시자 행동 방침**
 
@@ -193,7 +194,7 @@ Microsoft Certified Professional(MCP) 시험에 대한 교육 기관용 응시�
 
 3. **시험 정책**
 
-    응시자는 [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)에 기술한 Microsoft 인증 시험 정책과 절차 페이지를 이해하고 준수해야 할 전적인 책임이 있으며 , 시험 제공 업체의 정책과 절차 또한 준수해야 합니다.
+    응시자는 [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)에 기술한 Microsoft Certification Exam정책과 절차 페이지를 이해하고 준수해야 할 전적인 책임이 있으며 , 시험 제공 업체의 정책과 절차 또한 준수해야 합니다.
 
     응시자는 [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx)에서 Microsoft Exam Replay 정책 뿐만 아니라 기타 시험 및 절차에 대해서도 검토할 수 있습니다. 응시자는 시험 제공업체의 웹사이트에서 시험 제공기관의 정책 및 절차에 대해 자세히 알아볼 수 있습니다.
 
@@ -232,28 +233,30 @@ Microsoft Certified Professional(MCP) 시험에 대한 교육 기관용 응시�
 
     7.2. **구제 방법**. 법률 또는 본 규약에 의해 제공되는 기타 권한 및 처리 방안과 더불어 Microsoft는 본 규약의 위반 및/또는 Microsoft 지식재산권의 침해로 인해 발생하는 모든 법적 및 공정한 구제 방법을 본 규약에 따라 명시적으로 보유합니다.
 
+
 ## Microsoft Certification Program 규약
 
-Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"** 또는 **"사용자의"**)와 Microsoft(**"Microsoft"**) 사이의 Microsoft Certification Program(**“프로그램”**)에 관한 법적 효력이 있는 문서입니다. 본 규약의 약관은 (a) 사용자가 획득한 모든 Microsoft 인증 및 (b) Microsoft Certification Program 혜택, 및 Microsoft가 프로그램의 일부로 사용자에게 제공하는 모든 Microsoft 인증 자격 증명의 액세스 및 사용을 비롯하여 모든 해당 프로그램 참여에 적용됩니다. 본 약관을 주의 깊게 읽으십시오. Microsoft Certification Program 혜택, 또는 Microsoft 인증 자격증명에 액세스하거나 사용하면 본 규약의 약관에 동의한 것으로 간주됩니다. 본 규약에 동의하지 않는 경우 Microsoft Certification Program 혜택, 또는 Microsoft 인증 자격 증명에 액세스하거나 사용하지 마십시오.
+Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"** 또는 **"사용자의"**)와 Microsoft(**"Microsoft"**) 사이의 Microsoft Certification Program(**"프로그램"**)에 관한 법적 효력이 있는 문서입니다. 본 규약의 약관은 (a) 사용자가 획득한 모든 Microsoft 인증 및 (b) Microsoft Certification Program 혜택, 및 Microsoft가 프로그램의 일부로 사용자에게 제공하는 모든 Microsoft 인증 자격 증명의 액세스 및 사용을 비롯하여 모든 해당 프로그램 참여에 적용됩니다. 본 약관을 주의 깊게 읽으십시오. Microsoft Certification Program 혜택, 또는 Microsoft 인증 자격증명에 액세스하거나 사용하면 본 규약의 약관에 동의한 것으로 간주됩니다. 본 규약에 동의하지 않는 경우 Microsoft Certification Program 혜택, 또는 Microsoft 인증 자격 증명에 액세스하거나 사용하지 마십시오.
 
 1. 정의
 
-   1. “***계열사***”란 소유하거나, 소유되어 있거나 공유된 법인을 의미합니다. "소유"란 50%를 초과한 소유권을 보유하고 있거나 법인을 직접 관리할 수 있는 권한이 있다는 것을 의미합니다.
-   2. “***Microsoft 공인 전문가 웹사이트***”란 Microsoft공인 전문가가 독점적으로 보유한 Microsoft 웹사이트를 의미합니다.
-   3. “***Microsoft***”란 12.4항에 명시된 Microsoft 법인을 의미합니다.
+   1. "***계열사***"란 소유하거나, 소유되어 있거나 공유된 법인을 의미합니다. "소유"란 50%를 초과한 소유권을 보유하고 있거나 법인을 직접 관리할 수 있는 권한이 있다는 것을 의미합니다.
+   2. "***Microsoft 공인 전문가 웹사이트***"란 Microsoft공인 전문가가 독점적으로 보유한 Microsoft 웹사이트를 의미합니다.
+   3. "***Microsoft***"란 12.4항에 명시된 Microsoft 법인을 의미합니다.
    4. "***Microsoft 인증***"이란 시험 필수 조건을 통과하거나 관련 자격 증명 또는 로고를 사용할 수 있는 모든 인증 또는 재인증 요건의 규정 준수를 충족 및 유지하는 상태를 의미합니다. 최신 Microsoft 인증 목록은 [Microsoft Certifications](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)에서 보실 수 있습니다.
    5. "***Microsoft 인증 자격 증명***" 또는"***자격 증명***"이란 특정 Microsoft 인증에 대해 개인이 요건을 준수한다는 것을 나타내는 데 사용되는 Microsoft 인증의 전체 또는 약식 제목을 의미합니다.
    6. "***Microsoft 인증 시험***" 또는 "***시험***"이란 해당 시험과 관련된 특정 Microsoft 기술에 대한 개인의 능력을 검증하는 데 도움이 되도록 설계된 Microsoft 인증 시험을 의미합니다.
+   
 
 2. Microsoft 인증
    1. *Microsoft 인증 획득 및 유지 관리*. Microsoft 인증을 획득하고 유지 관리하려면 다음 요건을 충족해야 합니다.
-
-        1. 모든 필수 시험 통과 및 해당 [Microsoft 인증](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)에 관한 모든 인증 및 재인증 요건 충족,
+          
+        1. 모든 필수 시험 통과 및 해당 [Microsoft Certification](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)에 관한 모든 인증 및 재인증 요건 충족,
         2. 본 규약의 약관 동의,
         3. 현행 규약의 약관 및 모든 프로그램 요건준수, 및
         4. 해당 Microsoft 인증에 관한 모든 추가 요건 준수.
 
-   2. *Microsoft 인증 요건의 변경*. Microsoft는 일방적으로 [Microsoft 교육 및 인증 웹사이트](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) 또는 [Microsoft 인증 웹사이트](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)에 변경 사항을 게시하여 언제든지 Microsoft 인증 요건을 (최초 및 지속적으로) 변경할 수 있습니다. 사용자는 Microsoft가 변경 사항을 게시한 날로부터 3개월 이내에 모든 추가 요건을 준수해야 합니다. 특정 자격 증명과 관련된 추가 인증 또는 재인증 요건을 준수하지 못하는 경우 해당 자격 증명 사용에 대한 권한이 종료될 수 있습니다.
+   2. *Microsoft 인증 요건의 변경*. Microsoft는 일방적으로 [Microsoft training and certification website](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) 또는 [Microsoft Certification website](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based)에 변경 사항을 게시하여 언제든지 Microsoft 인증 요건을 (최초 및 지속적으로) 변경할 수 있습니다. 사용자는 Microsoft가 변경 사항을 게시한 날로부터 3개월 이내에 모든 추가 요건을 준수해야 합니다. 특정 자격 증명과 관련된 추가 인증 또는 재인증 요건을 준수하지 못하는 경우 해당 자격 증명 사용에 대한 권한이 종료될 수 있습니다.
 
    3. *시험 규약의 위반*
 
@@ -287,15 +290,15 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
 
         1. 사용자는 (i) Microsoft의 평판에 저해가 되는 행동을 금지하고 (ii) 사기, 허위 또는 비윤리적인 행동을 피하고 (iii) Microsoft를 대신하여 고객에게 어떠한 대의, 보증 또는 확약을 할 수 없으며 (iv) 모든 해당 미국 수출 규제 및 기타 해당 정부 법률 및 규제를 준수하고, (v) 저작권 및 기타 지식재산권 및 소유권 보호를 준수하는 데 동의합니다.
         2. 획득한 해당 인증에 대한 모든 요건을 성공적으로 완수하는 경우를 제외하고 Microsoft에 의해 고용되거나, 계열사이거나, 지지 또는 후원한다고 어떤 방식으로든 광고, 프로모션, 언급 또는 제안할 수 없습니다. 본 규약 기간 동안 Microsoft 기술과 관련하여 제공하는 서비스 아래 각 계약에 다음 문구를 삽입합니다.
-
+    
              "*Microsoft는 본 규약의 당사자가 아니며, Microsoft는 본 계약과 관련하여 발생하는 모든 서비스에 대해 아무런 책임이 없습니다. Microsoft 인증 자격 증명이란 관련 Microsoft 인증 자격 증명에 대한 요건을 성공적으로 완수했다는 것을 의미합니다. 제공하는 서비스는 Microsoft에서 지지 또는 후원하지 않습니다.*"
-        3. 일부 주 및 국가에서는 “엔지니어(engineer)”라는 용어의 사용을 규제하며 Microsoft 공인된 시스템 엔지니어를 획득한 경우 해당하는 모든 법률을 준수해야 합니다.
+        3. 일부 주 및 국가에서는 "엔지니어(engineer)"라는 용어의 사용을 규제하며 Microsoft 공인된 시스템 엔지니어를 획득한 경우 해당하는 모든 법률을 준수해야 합니다.
 
    2. *성적 증명서*. 사용자는 Microsoft 인증 성적 증명서에 현재 보유한 인증이 정확히 반영되었는지 검토할 책임이 있습니다. 성적 증명서가 올바르지 않은 경우 성적 증명서에 표시되지 않지만 현재 보유하고 있는 인증의 이행을 평가하도록 최종 시험을 통과한 날로부터 1년 이내에 문제가 되는 부분에 대한 요청을 Microsoft에 제출해야 인증을 획득 또는 유지 관리할 수 있습니다.
 
 7. 변경
 
-   Microsoft는 (a) 규약 및 지침을 업데이트 및 변경하고, (b) 인증 중단, 인증 요건 변경 및 프로그램 요건 및 혜택 변경 권한을 비롯하여 언제든지 프로그램 또는 관련 사항을 변경하고, (c) 프로그램을 중단할 수 있는 권한이 있습니다. Microsoft는 [Microsoft 인증 웹사이트](https://www.microsoft.com/learning/program-membership.aspx)에 변경 사항을 게시합니다. 사용자는 Microsoft 공인 전문가 웹사이트에서 주기적으로 변경사항을 확인할 의무가 있습니다. 변경 사항은 변경 사항을 게시한 날부터 효력이 발생합니다. 변경 사항은 소급적으로 적용되지 않습니다.
+   Microsoft는 (a) 규약 및 지침을 업데이트 및 변경하고, (b) 인증 중단, 인증 요건 변경 및 프로그램 요건 및 혜택 변경 권한을 비롯하여 언제든지 프로그램 또는 관련 사항을 변경하고, (c) 프로그램을 중단할 수 있는 권한이 있습니다. Microsoft는 [Microsoft Certification website](https://www.microsoft.com/learning/program-membership.aspx)에 변경 사항을 게시합니다. 사용자는 Microsoft 공인 전문가 웹사이트에서 주기적으로 변경사항을 확인할 의무가 있습니다. 변경 사항은 변경 사항을 게시한 날부터 효력이 발생합니다. 변경 사항은 소급적으로 적용되지 않습니다.
 
 8. 보증 예외
 
@@ -305,9 +308,10 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
 
    관련 법률에 의해 허용된 최대 범위에서 어떠한 경우에도 Microsoft 또는 계열사는 프로그램(프로그램 혜택, 종료 또는 기타의 경우), Microsoft 인증, Microsoft 인증 획득의 실패, 자격 증명의 사용 또는 불능으로 인해 발생하는 모든 직접, 간접, 특수한, 부수적, 결과적, 처벌적, 특수한 또는 예시적인 손상에 대해서 책임을 지지 않습니다. 본 예외 조항은 당사자가 이러한 손상 가능성에 대한 충고를 받았어도 손상에 기반한 모든 주장에 대한 법률적 이론에 상관 없이 적용됩니다.
 
+
 10. 손해보전
 
-    사용자는 (a) 프로그램 참여, (b) 본 규약의 약관을 위반하는, 방식과 무관한 자격 증명의 사용, (c) 서비스의 수행, 프로모션, 판매 또는 유통, 또는 (d) 본 규약의 약관에 따른 Microsoft에 의한 본 계약의 중단으로 인해 발생하거나, 이와 연계되거나 또는 관련된 모든 타사 청구, 요구, 비용, 책임, 판단, 손해, 경비 및 손상(이하 ***"청구"***)(변호사 비용 포함)에 대해 Microsoft 및 계열사의 손해보전에 관련된 비용을 배상, 보전하고 손해가 발생하지 않도록 보호하는 데 동의합니다. Microsoft가 본 조항 하에서 손해보전을 모색하는 경우 Microsoft는 즉각적으로 사용자에게 Microsoft에 발생한 손해보전 청구를 서면으로 통지하고 Microsoft의 재량에 따라 사용자에게 Microsoft가 용인하는 자문 위원을 통해 해당 청구에 대한 답변을 제공하여 방어하도록 할 수 있습니다. Microsoft의 최초 서면 허가를 부당하게 보류하거나 수령하지 않고 Microsoft를 대신하여 청구에 합의할 수 없으며, Microsoft의 사전 서면 허가 없이 합의를 공표할 수 없습니다. Microsoft는 Microsoft에서 선정한 법률 자문 위원과 함께 이러한 청구의 방어를 전적으로 통제할 수 있는 권한이 있습니다. 청구 합의와 관련하여 사용자가 지불해야 하는 비용이 발생하는 경우 사전 서면 승인을 따릅니다. 사용자는 변호사 비용뿐만 아니라 앞서 말한 것과 관련된 청구의 심사 또는 합의를 포함하지만 이에 제한되지 않는 청구 방어 상황에서 Microsoft에 의해 타당하게 발생하는 모든 비용을 배상합니다.
+    사용자는 (a) 프로그램 참여, (b) 본 규약의 약관을 위반하는, 방식과 무관한 자격 증명의 사용, (c) 서비스의 수행, 프로모션, 판매 또는 유통, 또는 (d) 본 규약의 약관에 따른 Microsoft에 의한 본 계약의 중단으로 인해 발생하거나, 이와 연계되거나 또는 관련된 모든 타사 청구, 요구, 비용, 책임, 판단, 손해, 경비 및 손상(이하 ***"청구"***)(변호사 비용 포함)에 대해 Microsoft 및 계열사의 손해보전에 관련된 비용을 배상, 보전하고 손해가 발생하지 않도록 보호하는 데 동의합니다. Microsoft가 본 조항 하에서 손해보전을 모색하는 경우 Microsoft는 즉각적으로 사용자에게 Microsoft에 발생한 손해보전 청구를 서면으로 통지하고 Microsoft의 재량에 따라 사용자에게 Microsoft가 용인하는 자문 위원을 통해 해당 청구에 대한 답변을 제공하여 방어하도록 할 수 있습니다. Microsoft의 최초 서면 허가를 부당하게 보류하거나 수령하지 않고 Microsoft를 대신하여 청구에 합의할 수 없으며, Microsoft의 사전 서면 허가 없이 합의를 공표할 수 없습니다. Microsoft는 자기가 선정한 법률 자문 위원과 함께 이러한 청구의 방어를 전적으로 통제할 수 있는 권한이 있습니다.  청구 합의와 관련하여 사용자가 지불해야 하는 비용이 발생하는 경우 사전 서면 승인을 따릅니다. 사용자는 변호사 비용뿐만 아니라 앞서 말한 것과 관련된 청구의 심사 또는 합의를 포함하지만 이에 제한되지 않는 청구 방어 상황에서 Microsoft에 의해 타당하게 발생하는 모든 비용의 요청에 따라 Microsoft를 배상합니다. 
 
 11. 종료
 
@@ -319,9 +323,10 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
         2. 규약 또는 지침의 약관을 준수하지 않는 경우,
         3. 자격 인증을 왜곡하는 경우,
         4. Microsoft의 영업 비밀 또는 기밀 정보의 남용 또는 승인되지 않은 공개에 연루되는 경우,
-        5. 법률에 의해 금지된 활동에 연루되는 경우, 
+        5. 법률에 의해 금지된 활동에 연루되는 경우,
         6. 정부 기관 또는 법정에서 Microsoft 기술과 관련하여 사용자가 제공한 서비스가 어떤 방식으로든 Microsoft 인증의 결함과 결부된다고 판단하는 경우.
         7. 인증 상태, Microsoft 파트너와의 연결 또는 기타 Microsoft와의 관계를 잘못 표시한 경우. 비준수의 심각도에 따라 Microsoft 인증 프로그램에서 영구적으로 인증이 해제되고 종료될 수도 있습니다. 이 경우 Microsoft 인증 자격 증명이 영구적으로 손실됩니다.
+        
 
     3. *자동 종료*. 본 규약은 사용자가 Microsoft 인증 프로그램의 상태를 상실하거나 Microsoft가 프로그램을 취소하는 경우 자동으로 종료됩니다.
 
@@ -384,7 +389,7 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
            No. 49 Zhichun Road Haidian District   
            Beijing 100080, P.R.C   
 
-       7. 대한민국의 Microsoft 법인은 다음과 같습니다.  
+       7. 대한민국의 Microsoft 법인은 다음과 같습니다.   
 
            Microsoft Korea, Inc.   
            5th Floor, West Wing   
@@ -397,7 +402,7 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
         2. **기타 약관**. 주요 업무 장소가 아래 나열된 국가 또는 지역 중 하나인 경우 관련 조항이 불일치한 범위 내에서 12.5(a)항을 적용 및 대체합니다.
             1. 주요 업무 장소가 호주 및 해당 외부 영토, 방글라데시, 부탄, 브루나이, 캄보디아, 쿡 제도, 피지, 프랑스령 폴리네시아, 프랑스 남부 영토, 홍콩 SAR, 인도, 인도네시아, 키리바시, 라오인민민주공화국, 마카오 SAR, 말레이시아, 몰디브, 마샬 군도, 마요트 섬, 미크로네시아, 나우루, 네팔, 뉴질랜드, 니우에 섬, 북마리아나제도, 팔라우, 파푸아뉴기니, 필리핀, 피트케언, 사모아, 싱가포르, 솔로몬 제도, 스리랑카, 태국, 티모르 섬, 토켈라우, 통가, 투발루, 월리스 푸투나 제도, 바누아투 및 베트남인 경우 본 규약은 싱가포르 법률에 의해 해석 및 통제됩니다.
                 1. 주요 업무 장소가 호주 또는 해당 외부 영토, 브루나이, 말레이시아, 뉴질랜드 또는 싱가포르인 경우 싱가포르 법원의 비독점적 관할권에 동의합니다.
-                2. 주요 업무 장소가 방글라데시, 부탄, 캄보디아, 쿡 제도, 피지, 프랑스령 폴리네시아, 프랑스 남부 영토, 홍콩 SAR, 인도, 인도네시아, 키리바시, 라오족 민주공화국, 마카오 SAR, 몰디브, 마샬 군도, 마요트 섬, 미크로네시아, 나우루, 네팔, 니우에 섬, 북마리아나제도, 팔라우, 파푸아뉴기니, 필리핀, 피트케언, 사모아, 솔로몬 제도, 스리랑카, 태국, 티모르 섬, 토켈라우, 통가, 투발루, 월리스 푸투나 제도, 바누아투 및 베트남인 경우 존립, 유효성 또는 종료와 관련된 질문을 포함하여 본 규약과 관련된 모든 분쟁은 싱가포르 국제 중재 센터(이하 “SIAC”)의 중재규정에 따라 싱가포르의 중재에 따라 회부되고 최종 결의됩니다. SIAC 중재규정은 본 참조문에 의해 본 규약에 포함됩니다. 재판소는 SIAC 의장에 의해 지명된 한 명의 중재인으로 구성됩니다. 중재 언어는 영어입니다. 중재인의 결정은 최종으로 법적 구속력이 있고 논쟁의 여지가 없으며 방글라데시, 인도, 인도네시아, 필리핀, 스리랑카, 태국 또는 베트남 (해당 국가) 또는 기타 지역의 판결에 대한 근거로 사용될 수 있습니다.
+                2. 주요 업무 장소가 방글라데시, 부탄, 캄보디아, 쿡 제도, 피지, 프랑스령 폴리네시아, 프랑스 남부 영토, 홍콩 SAR, 인도, 인도네시아, 키리바시, 라오족 민주공화국, 마카오 SAR, 몰디브, 마샬 군도, 마요트 섬, 미크로네시아, 나우루, 네팔, 니우에 섬, 북마리아나제도, 팔라우, 파푸아뉴기니, 필리핀, 피트케언, 사모아, 솔로몬 제도, 스리랑카, 태국, 티모르 섬, 토켈라우, 통가, 투발루, 월리스 푸투나 제도, 바누아투 및 베트남인 경우 존립, 유효성 또는 종료와 관련된 질문을 포함하여 본 규약과 관련된 모든 분쟁은 싱가포르 국제 중재 센터(이하 "SIAC")의 중재규정에 따라 싱가포르의 중재에 따라 회부되고 최종 결의됩니다. SIAC 중재규정은 본 참조문에 의해 본 규약에 포함됩니다. 재판소는 SIAC 의장에 의해 지명된 한 명의 중재인으로 구성됩니다. 중재 언어는 영어입니다. 중재인의 결정은 최종으로 법적 구속력이 있고 논쟁의 여지가 없으며 방글라데시, 인도, 인도네시아, 필리핀, 스리랑카, 태국 또는 베트남 (해당 국가) 또는 기타 지역의 판결에 대한 근거로 사용될 수 있습니다.
 
             2. 주요 업무 장소가 일본인 경우 다음 사항이 적용됩니다. 규약은 일본의 법률에 의해 해석 및 적용됩니다. 사용자는 도쿄 지방 법원의 독점적 제1심 관할권 또는 재판지 관할에 동의합니다. 본 규약과 관련한 모든 행위의 승소 대방은 합당한 변호사 비용, 경비 및 기타 지출을 회복할 수 있습니다.
 
@@ -405,10 +410,10 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
             본 규약은 아일랜드 법률에 따라 적용되고 해석됩니다. 본 규약과 관련된 보든 분쟁에 관하여 사용자는 아일랜드 법원의 관할권 및 재판지 관할에 동의합니다.
 
             4. 주요 업무 장소가 중화인민공화국인 경우 다음 사항이 적용됩니다. 본 규약의 목적상 중화인민공화국은 홍콩 SAR, 마카오 SAR 또는 대만을 포함하지 않습니다.  
-            규약은 중화인민공화국의 법률에 의해 해석 및 적용됩니다. 사용자는 구속력이 있는 중재에 규약과 관련된 모든 분쟁 및 증보를 제출하는 데 동의합니다. 중재는 베이징에 있는 중국국제경제무역중재위원회(“CIETAC”)에서 진행되며 당시의 규정에 따릅니다.
+            규약은 중화인민공화국의 법률에 의해 해석 및 적용됩니다. 사용자는 구속력이 있는 중재에 규약과 관련된 모든 분쟁 및 증보를 제출하는 데 동의합니다. 중재는 베이징에 있는 중국국제경제무역중재위원회("CIETAC")에서 진행되며 당시의 규정에 따릅니다.
 
             5. 주요 업무 장소가 콜롬비아 또는 우루과이인 경우 다음 사항이 적용됩니다.  
-            본 규약의 유효성, 해석 또는 수행과 관련하여 당사자 간에 발생하는 모든 분쟁, 청구 또는 법적 절차는 중재에 의해 심사됩니다. 중재는 현재 시행 중인 UNCITRAL 중재 규정에 따릅니다. 중재인 임명권은 본 목적을 위해 ICC에 의해 채택된 규정에 따라 국제상업회의소(“ICC”) 대행입니다. 중재 장소는 미국 워싱턴 주의 시애틀입니다. 한 명의 중재인으로만 구성됩니다. 보상은 형평법상의 보상이 아니라 법률에 규정된 대로이며 최종적으로 당사자에게 구속력이 있습니다. 당사자는 미국 워싱턴 주의 시애틀에서 중재를 진행하는 본 규약과 관련하여 발생하는 모든 사안 및 분쟁을 제출하는 데 최종적으로 동의합니다.
+            본 규약의 유효성, 해석 또는 수행과 관련하여 당사자 간에 발생하는 모든 분쟁, 청구 또는 법적 절차는 중재에 의해 심사됩니다. 중재는 현재 시행 중인 UNCITRAL 중재 규정에 따릅니다. 중재인 임명권은 본 목적을 위해 ICC에 의해 채택된 규정에 따라 국제상업회의소("ICC") 대행입니다. 중재 장소는 미국 워싱턴 주의 시애틀입니다. 한 명의 중재인으로만 구성됩니다. 보상은 형평법상의 보상이 아니라 법률에 규정된 대로이며 최종적으로 당사자에게 구속력이 있습니다. 당사자는 미국 워싱턴 주의 시애틀에서 중재를 진행하는 본 규약과 관련하여 발생하는 모든 사안 및 분쟁을 제출하는 데 최종적으로 동의합니다.
 
             6. 주요 업무 장소가 대한민국인 경우 다음 사항이 적용됩니다. 규약은 대한민국의 법률에 의해 해석 및 적용됩니다. 응시자는 서울중앙지방법원의 독점적 제1심 관할권 및 재판지 관할에 동의합니다. 승소 당사자는 본 규약 하에서 권한 또는 처리 방안을 집행하거나 본 규약의 조항을 해석하기 위해 취한 모든 조치에 해당하는 합당한 변호사 비용, 경비 및 기타 지출을 회복할 수 있습니다.
 
@@ -422,77 +427,57 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
 
     9. *양도*. 본 규약 또는 본 규약 하에 부여된 어떠한 권한도 어떤 방식으로든 양도, 이전 또는 재실시권을 부여할 수 없으며 모든 양도, 전송 또는 재실시권 부여 시도는 법률 등에 의하지 않는 한 무효이며 법적 효력이 없습니다.
 
-수정일: 2013년 12월
+Updated: 2013년 12월
 
 ## 특정 인증 및 전문 프로그램으로 학점 인증 방법
 
-지역 공인 기관 Excelsior College를 통하여 학점 인정을 받을 수 있습니다. NCCRS(미국 국립 학점 인증 서비스)는 다음 Microsoft 인증 시험 및 전문 프로그램 이수에 학점을 인정합니다.
+지역 공인 기관 Excelsior College를 통하여 학점 인정을 받을 수 있습니다. NCCRS (미국 국립 학점 인증 서비스)는 다음 Microsoft 인증 시험에 대한 신용 추천을 설정합니다.
 
 **Microsoft 인증 시험**
 
-[AZ-100: Microsoft Azure 인프라 및 배포](https://www.microsoft.com/learning/exam-AZ-100.aspx)
+[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/learning/exam-AZ-100.aspx)
 
-[AZ-101: Microsoft Azure 통합 및 보안](https://www.microsoft.com/learning/exam-AZ-101.aspx)
+[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/learning/exam-AZ-101.aspx)
 
-[AZ-103: Microsoft Azure 관리자](https://www.microsoft.com/learning/exam-az-103.aspx)
+[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/learning/exam-az-103.aspx)
 
-AZ-200: Microsoft Azure 개발자 핵심 솔루션
+AZ-200: Microsoft Azure Developer Core Solutions
 
-AZ-201: Microsoft Azure 개발자 고급 솔루션
+AZ-201: Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: Microsoft Azure용 솔루션 개발](https://www.microsoft.com/learning/exam-AZ-203.aspx)
+[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/learning/exam-AZ-203.aspx)
 
 [AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/learning/exam-AZ-300.aspx)
 
 [AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/learning/exam-AZ-301.aspx)
 
-[AZ-400: Microsoft Azure DevOps 솔루션](https://www.microsoft.com/learning/exam-AZ-400.aspx)
-
-**Microsoft 전문 프로그램**
-
-Microsoft 전문 프로그램: [인공 지능 인증서](https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/)
-
-Microsoft 전문 프로그램: [빅 데이터 인증서](https://academy.microsoft.com/en-us/professional-program/tracks/big-data/)
-
-Microsoft 전문 프로그램: [데이터 과학 인증서](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
-
-Microsoft 전문 프로그램: [DevOps 인증서](https://academy.microsoft.com/en-us/professional-program/tracks/devops/)
-
-Microsoft 전문 프로그램: [초보자 소프트웨어 개발 인증서](https://academy.microsoft.com/en-us/professional-program/tracks/entry-level-software-development/)
-
-Microsoft 전문 프로그램: [IT 지원 인증서](https://academy.microsoft.com/en-us/professional-program/tracks/it-support/)
-
-Microsoft 전문 프로그램: [데이터 분석 인증서](https://academy.microsoft.com/en-us/professional-program/tracks/data-analysis/)
-
-Microsoft 전문 프로그램: [IoT 인증서](https://academy.microsoft.com/en-us/professional-program/tracks/internet-of-things/)
-
-Microsoft 전문 프로그램: [사이버 보안](https://academy.microsoft.com/en-us/professional-program/tracks/cyber-security/) 인증서
+[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/learning/exam-AZ-400.aspx)
 
 ### 학점 인증 요청 절차
 
 학점 인증을 요청하려면, 다음 단계를 따르십시오.
 
-1 단계: [신청서](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)를 작성하고 이메일로 [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)에 자격 증명 증빙과 함께 발송하십시오(이하 옵션 선택 가능). **신청서나 이메일을 Microsoft에 보내지 마십시오**.
+1 단계: [신청서](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)를 작성하고 **이메일로** [Excelsior](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PlKU)에 자격 증명 증빙과 함께 발송하십시오(이하 옵션 선택 가능). **신청서나 이메일을 Microsoft에 보내지 마십시오**.
 
 **인증 증빙 옵션 1 - 배지 공유.**
 
-- 2 단계: [Microsoft 인증 대시보드](https://www.microsoft.com/learning/dashboard.aspx)에 로그인하십시오
+- 2 단계: [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)에 로그인하십시오
 
 - 3 단계: (배지를 발급받은 적이 없으면) 대시보드의 배지 메뉴로 이동하여 배지 발급 절차를 밟습니다
 
-- 4 단계: 단계에 따라 발급받은 배지를 이메일 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)을 통해 공유합니다 
+- 4 단계: 단계에 따라 발급받은 배지를 이메일 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)을 통해 공유합니다
 
-- 상세 정보는 다음을 참고하시기 바랍니다: [Microsoft 시험 및 인증 배지](https://www.microsoft.com/learning/badges.aspx)
+- 상세 정보는 다음을 참고하시기 바랍니다: [Microsoft Exam and Certification Badges](https://www.microsoft.com/learning/badges.aspx)
 
 **인증 증빙 옵션 2 - 성적표 공유.**
 
-- 2 단계: [Microsoft 인증 대시보드](https://www.microsoft.com/learning/dashboard.aspx)에 로그인하십시오
+- 2 단계: [Microsoft Certification Dashboard](https://www.microsoft.com/learning/dashboard.aspx)에 로그인하십시오
 
-- 3 단계: 성적표 메뉴로 이동해 ‘공유 또는 다운로드’를 선택합니다
+- 3 단계: 성적표 메뉴로 이동해 '공유 또는 다운로드'를 선택합니다
 
-- 4 단계: ‘공유’ 옵션을 선택합니다. 개인 액세스 코드를 입력하고 '상세 주소 정보 포함’ 옵션을 켜고, ‘공유’를 선택합니다
+- 4 단계: '공유' 옵션을 선택합니다. 개인 액세스 코드를 입력하고 '상세 주소 정보 포함' 옵션을 켜고, '공유'를 선택합니다
 
-- 5 단계: 사이트에서 다음 정보를 복사하여 붙여넣습니다
+- 5 단계: 사이트에서 다음 정보를 복사하여 붙여넣습니다:
 
   - 성적표 ID <nnnnnnn>  
   - 액세스 코드 <nnnnnnnn>
@@ -500,25 +485,15 @@ Microsoft 전문 프로그램: [사이버 보안](https://academy.microsoft.com/
 
 - 6 단계: 해당 정보를 이메일 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)에 붙여 넣어 발송합니다
 
-Microsoft 인증에 관련하여 본 절차에 의문 사항이 있으시면 “학점” FAQ 메뉴를 참조하십시오.
-
-**MPP 과정 수료 인증 증빙.**
-
-- 2 단계: [academy.microsoft.com 대시보드](https://academy.microsoft.com/en-us/dashboard)에 로그인합니다.
-
-- 3 단계: MPP 과정 인증 URL을 복사 및 붙여넣기 하여 공식 인증 링크를 공유합니다
-
-- 4 단계: 해당 URL을 이메일에 붙여 넣어 두 가지 형태의 신원 인증 정보(이름 & 주소 또는 이름 & 생년월일)와 함께 [itcertifications@excelsior.edu](mailto:itcertifications@excelsior.edu)으로 송부합니다.
-
-MPP 참조 MPP 절차에 추가 의문 사항이 있으시면 MPP [자주 묻는 질문](https://academy.microsoft.com/en-us/professional-program/)를 참조하시기 바랍니다.
+Microsoft 인증에 관련하여 본 절차에 의문 사항이 있으시면 "학점" FAQ 메뉴를 참조하십시오.
 
 자세한 내용을 보려면 을 방문하시기 바랍니다: [Microsoft 인증을 위한 NCCRS 크레딧](http://www.nationalccrs.org/organizations/microsoft).
 
 다운로드: [성적표 서비스 애플리케이션](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## <a name="policies-5"></a> Microsoft 인증 시험 문항 이의 제기
+## Microsoft 인증 시험 문항 이의 제기
 
-[각 시험이 신중히 검토됨](https://www.microsoft.com/learning/certification-exams.aspx) 기술 및 직무 전문가 패널이 기술 정확성, 명확성 및 관련성에 대해 검증합니다. Microsoft 인증 시험의 특정 문항이 잘못되었다고 생각하는 경우에는 아래 기술된 단계에 따라 문항의 평가를 요청할 수 있습니다. 시험 응시 후 30일 이내에 시험 문항 이의 제기 양식을 제출해야 합니다.
+[Each exam question is carefully reviewed](https://www.microsoft.com/learning/certification-exams.aspx) 기술 및 직무 전문가 패널이 기술 정확성, 명확성 및 관련성에 대해 검증합니다. Microsoft Certification Exam특정 문항이 잘못되었다고 생각하는 경우에는 아래 기술된 단계에 따라 문항의 평가를 요청할 수 있습니다. 시험 응시 후 30일 이내에 시험 문항 이의 제기 양식을 제출해야 합니다.
 
 **참고.** 시험 문항 이의 제기 절차를 통해 베타 시험 문제에 관한 피드백을 하지 마시기 바랍니다. 베타 시험 문제는 해당 절차 중에 받은 피드백을 기반으로 수정되는 경우가 잦으며, 문제 은행에서 삭제될 수도 있습니다. 베타 시험에 대해 의견 제공 기간 중에 제공하지 못한 추가 피드백이 있는 경우에는 피드백을 [mslcd@microsoft.com](mailto:mslcd@microsoft.com)으로 보내십시오.
 
@@ -540,19 +515,19 @@ Microsoft 인증 시험을 최대한 유효하고 타당성 있게 유지하기 
 
 시험이 모국어로 제공되지 않아 시간이 더 필요하신 경우 [제 2언어로 영어 양식](https://home.pearsonvue.com/Clients/Microsoft/esl_form_pearson.aspx)을 제출하여 요청할 수 있습니다. 양식의 지침을 따르십시오. 
 
-시험을 치를 때 특수 장비 또는 기타 시설이 필요한 장애인인 경우 [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 에서 “합리적 조정 요청 시스템”[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 합리적 조정 요청 시스템은 편의시설 요청 및 증빙 서류를 제출시 사용할 수 있는 안전한 온라인 시스템입니다.
+시험을 치를 때 특수 장비 또는 기타 시설이 필요한 장애인인 경우 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 에서 "합리적 조정 요청 시스템"[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 합리적 조정 요청 시스템은 편의시설 요청 및 증빙 서류를 제출시 사용할 수 있는 안전한 온라인 시스템입니다.
 
-- 요청 시스템을 처음 사용하시는 경우, 사용자 ID 및 암호를 생성해야 합니다. - 사용자 ID를 생성하시려면 면 로그인 화면에서 “가입” 링크를 클릭하십시오. 실제 사용하는 이메일 계정이 있어야 시스템에서 ID를 생성할 수 있습니다.
-- Pearson VUE는 증빙 서류 업로드를 위한 보안 시스템을 사용하고 있습니다. 증빙 서류를 업로드하지 않은 경우, 감정인(의사, 정신과 의사)에게 장애 판정을 위한[감정인용 지침](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 사본을 제공하십시오. 감정인은 제공하는 문서가 당사의 지침을 준수하는지 확인해야 합니다. 대부분의 경우, 의사 또는 정신과 의사가 감정인이 되어 일련의 정신과적, 교육 또는 의료 검진을 수행하며, 진단서 사본 또는 소견서 사본을 발급합니다.
+- 요청 시스템을 처음 사용하시는 경우, 사용자 ID 및 암호를 생성해야 합니다. - 사용자 ID를 생성하시려면 면 로그인 화면에서 "가입" 링크를 클릭하십시오. 실제 사용하는 이메일 계정이 있어야 시스템에서 ID를 생성할 수 있습니다.
+- Pearson VUE는 증빙 서류 업로드를 위한 보안 시스템을 사용하고 있습니다. 증빙 서류를 업로드하지 않은 경우, 감정인(의사, 정신과 의사)에게 장애 판정을 위한[감정인용 지침](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft#guidelines-for-evaluators) 사본을 제공하십시오. 감정인은 제공하는 문서가 당사의 지침을 준수하는지 확인해야 합니다. 대부분의 경우, 의사 또는 정신과 의사가 감정인이 되어 일련의 정신과적, 교육 또는 의료 검진을 수행하며, 진단서 사본 또는 소견서 사본을 발급합니다.
 - **Pearson VUE에서 제출 자료를 검토하는 데는 약 10 영업일이 소요됩니다. 요청 제출시 이를 염두에 두십시오.**
 - 요청 검토가 완료되면, 결정에 관한 이메일이 발송됩니다. 결정 편지는 "합리적 조정 요청 시스템"의 "내 문서" 섹션에 나타납니다. 승인될 경우, 결정 편지에는 편의 시험을 예약하는 데 필요한 지침이 제공됩니다.
-- 편의 시설 제공 여부 결정에 불만이 있는 경우, “합리적 조정 요청” 시스템의 결정 편지에서 “이의 신청” 버튼을 눌러 결정을 불복할 수 있습니다.  버튼을 눌러 이의 신청 양식을 작성한 후 업로드해주시기 바랍니다. 장애 담당 전문가는 모든 이의 신청을 검토합니다.
+- 편의 시설 제공 여부 결정에 불만이 있는 경우, "합리적 조정 요청" 시스템의 결정 편지에서 "이의 신청" 버튼을 눌러 결정을 불복할 수 있습니다. 버튼을 눌러 이의 신청 양식을 작성한 후 업로드해주시기 바랍니다. 장애 담당 전문가는 모든 이의 신청을 검토합니다.
 
 ### Certiport에 의해 제공되는 기본 시험.
 
 모국어로 시험을 볼 수 없거나, 특수 장비가 필요하여 추가 시간이 필요하거나 시험을 볼 때 다른 편의 시설을 요청하고자 하는 경우, [여기](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations)에 설명된 절차에 따라 Certiport를 통해 편의 시설을 요청할 수 있습니다.
 
-### <a name="cancellation-and-reschedule-policy"></a> 취소 및 일정 조정 정책.
+### 취소 및 일정 조정 정책 :
 
 - 사용자가 영업일 기준으로 시험 6일 전에 시험을 취소하거나 일정 변경할 경우 수수료는 부과되지 않습니다.
 - 사용자가 영업일 기준으로 등록된 시험 5일 전부터는 시험을 취소하거나 일정 변경할 경우 수수료가 부과됩니다.
@@ -579,15 +554,15 @@ Microsoft 인증 시험에 대해 자주 묻는 질문에 대한 답변을 찾�
 
 **시험에 사용될 시험 형식 및 문항 유형은 무엇입니까?**
 
-Microsoft는 지속적으로 혁신적인 시험 기술 및 문항 유형을 도입하기 때문에 주어진 시험에서 나오는 특정한 문항 유형을 제공하지 않습니다. 시험이 어떠한 분위기로 진행되는지 알고 싶은 경우 일부 가능한 [시험 형식 및 문제 유형](https://www.microsoft.com/learning/certification-exams.aspx)을 살펴 보십시오.
+Microsoft는 지속적으로 혁신적인 시험 기술 및 문항 유형을 도입하기 때문에 주어진 시험에서 나오는 특정한 문항 유형을 제공하지 않습니다. 시험이 어떠한 분위기로 진행되는지 알고 싶은 경우 일부 가능한 [exam formats and question types](https://www.microsoft.com/learning/certification-exams.aspx)을 살펴 보십시오.
 
 **총 시험 시간은 얼마나 걸립니까?**
 
 시험 시간은 시험 유형에 따라 다릅니다.
 
-|     | 시험 시간*      | 착석 시간* |
+|         | 시험 시간*           | 착석 시간* |
 | ------------- |:-------------:| -----:|
-| 협력 및 전문가 직무 시험   | 150 분 | 180 분 |
+| 협력 및 전문가 직무 시험      | 150 분 | 180 분 |
 | 직무 기초 시험 | 60 분 | 90 분
 | 실험실을 포함하는 협력 및 전문가 직무 시험 | 180 분 | 210 분
 | Certiport가 제공한 MTA 시험 | 45 분 | 50 분
@@ -597,7 +572,7 @@ Microsoft는 지속적으로 혁신적인 시험 기술 및 문항 유형을 도
 | MCSA 시험 | 120 분 | 150 분
 | MCSE 시험 | 150 분 | 180 분
 
-***참고*** *시험 시간*은 시험을 완료해야 하는 시간을 의미합니다. 착석 시간은 응시자가 시험에 소요하는 총 시간을 의미합니다. 여기에는 지침을 검토하고, NDA를 읽고 동의하며, 시험 문항을 완료하고, 완료 후 의견을 제공(동의하는 경우)하는 데 필요한 시간이 포함됩니다.
+**참고** *시험 시간* 은 시험을 완료해야 하는 시간을 의미합니다. 착석 시간은 응시자가 시험에 소요하는 총 시간을 의미합니다. 여기에는 지침을 검토하고, NDA를 읽고 동의하며, 시험 문항을 완료하고, 완료 후 의견을 제공(동의하는 경우)하는 데 필요한 시간이 포함됩니다.*
 
 **Microsoft는 시험에 포함된 주제마다 몇 가지 문항을 포함할 것인지 어떻게 결정합니까?**
 
@@ -611,7 +586,7 @@ Microsoft는 지속적으로 혁신적인 시험 기술 및 문항 유형을 도
 
 시험을 준비하는 최선의 방법은 시험 세부 정보 페이지에 나열된 기술 능력을 연습하는 것입니다. [모든 시험을 탐색](https://www.microsoft.com/learning/exam-list.aspx)하여 관심 있는 시험을 찾습니다. Microsoft 인증 시험을 성공적으로 통과하려면 해당 기술의 실무 경험이 필요합니다. 연계된 마이크로러닝, 온라인 과정 및 강사 지도식 교육은 직무에서 성공하기 위해 필요한 기술을 훈련하기 위한 것이며, 그 중 일부를 시험에서 평가합니다. 하지만, 시험은 과정에서 배운 내용을 넘어선 기술을 적용할 수 있는지에 중점을 두기 때문에 시험을 응시하기 전에 교육과 더불어 경험을 쌓거나 연습을 하실 것을 매우 권장합니다. 준비를 시작하기 위해, 시험 세부 정보 페이지의 "측정 능력" 섹션을 검토하고 시험에서 평가되는 기술과 사용자의 기술 수준을 비교 평가해 보십시오. 최선의 방법은 나열된 작업을 실제로 수행해 보고 접하게 되는 문제점을 기록하는 것입니다. 이러한 문제점을 더 이상 겪지 않을 때까지 연습하십시오.
 
-MCT들이 인증을 준비하는 많은 응시자와 함께 할 것입니다. 응시자가 공부에 집중할 수 있도록 다음 단계를 권장합니다.
+Microsoft Certified Trainers 들이 인증을 준비하는 많은 응시자와 함께 할 것입니다. 응시자가 공부에 집중할 수 있도록 다음 단계를 권장합니다.
 
 - [모든 시험을 탐색](https://www.microsoft.com/learning/exam-list.aspx)하여 관심 있는 시험을 찾습니다.
 - 페이지의 스킬 측정 섹션을 인쇄하십시오. 
@@ -619,9 +594,9 @@ MCT들이 인증을 준비하는 많은 응시자와 함께 할 것입니다. �
 - 남은 주제를 공부하십시오. 몇 가지 주제에 대해 집중적으로 공부하십시오. 강조 표시하지 않은 각 주제에 대해 웹에서 주제별 글을 검색하십시오.
     - docs.microsoft.com, msdn.microsoft.com, technet.microsoft.com 및 Office 365 지원 센터와 같은 신뢰할 수 있는 출처에서 검색하십시오.
 
-또한 이러한 작업을 수행하는 방법을 다른 사용자에게 묻거나, 백서, MSDN 또는 TechNet을 읽고 시험 범위 작업에 대한 추가 정보를 얻을 수 있으며 시험 세부 정보 페이지에 있는 “준비 자료” 섹션에서 제공되는 리소스를 탐색할 수 있습니다. 페이지는 이용 가능한 온라인 과정, 마이크로러닝, 옵션 및 강사 지도식 교육 옵션을 확인할 수 있는 포털과 연결됩니다.
+또한 이러한 작업을 수행하는 방법을 다른 사용자에게 묻거나, 백서, MSDN 또는 TechNet을 읽고 시험 범위 작업에 대한 추가 정보를 얻을 수 있으며 시험 세부 정보 페이지에 있는 "준비 자료" 섹션에서 제공되는 리소스를 탐색할 수 있습니다. 페이지는 이용 가능한 온라인 과정, 마이크로러닝, 옵션 및 강사 지도식 교육 옵션을 확인할 수 있는 포털과 연결됩니다.
 
-또한, 인증 시험의 일부로 [Microsoft 공식 연습 시험](https://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1)에 응시하실 수 있습니다. 여기에서 특정 강점 및 약점에 대한 추가 정보를 찾아볼 수 있을 것입니다. 그러나 연습 시험을 통과한다고 인증 시험 통과를 보장하는 것은 아닙니다.
+또한, 인증 시험의 일부로 [Microsoft 공식 연습 시험](http://www.mindhub.com/microsoft-certification-practice-tests-and-study-guides-s/64.htm?utm_source=microsoft&utm_medium=banner&utm_campaign=partner#/?_=1&filter.manufacturer=MeasureUp&page=1)에 응시하실 수 있습니다. 여기에서 특정 강점 및 약점에 대한 추가 정보를 찾아볼 수 있을 것입니다. 그러나 연습 시험을 통과한다고 인증 시험 통과를 보장하는 것은 아닙니다.
 
 시험에 통과하지 못했다면, 시험 성적에서 가장 취약한 부분이라고 표시된 콘텐츠 영역과 가장 높은 문항 비율을 가진 콘텐츠 영역을 중점으로 연습해야 할 기술 능력의 우선 순위를 정하십시오.
 
@@ -631,17 +606,17 @@ MCT들이 인증을 준비하는 많은 응시자와 함께 할 것입니다. �
 
 **영어로 시험을 치러야 합니까?**
 
-Microsoft 인증 시험은 여러 언어로 제공됩니다. 그러나 사용자의 모국어가 아니라 영어로 시험을 치러야 하는 응시자는 추가 시간을 요청할 수 있습니다. 추가 시간 승인은 조건에 따라 다릅니다. [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 또는 [Certiport](https://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm)에서 시험 편의 시설을 요청하십시오.
+Microsoft 인증 시험은 여러 언어로 제공됩니다. 그러나 사용자의 모국어가 아니라 영어로 시험을 치러야 하는 응시자는 추가 시간을 요청할 수 있습니다. 추가 시간 승인은 조건에 따라 다릅니다. [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft) 또는 [Certiport](http://www.certiport.com/portal/desktopdefault.aspx?page=common/pagelibrary/Disabilities.htm) 에서 시험 편의 시설을 요청하십시오.
 
 **어떤 장애인 편의시설을 사용할 수 있습니까?**
 
-Microsoft는 장애를 가진 사용자를 포함하여 모든 사용자가 시험을 치를 수 있도록 최선을 다합니다. 사용 가능한 편의 시설 목록을 알아보기 위해 [편의시설 페이지](https://www.pearsonvue.com/accommodations/)를 방문해 보십시오.
+Microsoft는 장애를 가진 사용자를 포함하여 모든 사용자가 시험을 치를 수 있도록 최선을 다합니다. 사용 가능한 편의 시설 목록을 알아보기 위해 [편의시설 페이지](http://www.pearsonvue.com/accommodations/)를 방문해 보십시오.
 
 **시험 응시료는 얼마입니까?**
 
 전문가 및 준 전문가 시험은 일반적으로 미화 165달러이지만 특정 국가 및 지역의 통화 가치에 따라 가격이 책정됩니다. 시험 응시료는 변경될 수 있습니다. 일부 국가 및 지역에서는 세금이 추가될 수 있습니다.
 
-- Microsoft Office Specialist (MOS)의 정확한 가격을 확인하시려면, [Certiport](https://www.certiport.com/)에 문의하십시오.
+- Microsoft Office Specialist (MOS)의 정확한 가격을 확인하시려면, [Certiport](http://www.certiport.com/)에 문의하십시오.
 
 기타 다른 모든 시험에 대해서는 [모든 시험 찾아보기](https://www.microsoft.com/learning/exam-list.aspx)를 보시면 페이지에 시험 응시료가 나와있습니다.
 
@@ -653,7 +628,7 @@ Microsoft는 장애를 가진 사용자를 포함하여 모든 사용자가 시�
 
 특정 항목의 기술 정확성에 대해 우려 사항이 있을 경우 [시헝 항목 질문](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) 절차를 따르십시오.
 
-시험을 보는 동안 겪은 시험 센터 또는 기술적인 어려움에 대한 우려사항을 보고하려면 [Pearson VUE](https://www.pearsonvue.com/microsoft/) 또는 [Certiport](https://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)를 통해 고객 서비스에 문의하십시오.
+시험을 보는 동안 겪은 시험 센터 또는 기술적인 어려움에 대한 우려사항을 보고하려면 [Pearson VUE](http://www.pearsonvue.com/microsoft/) 또는 [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)를 통해 고객 서비스에 문의하십시오.
 
 다른 유형의 피드백을 제공하려면 [Microsoft 지역 서비스 센터](https://www.microsoft.com/learning/help.aspx)에 문의하십시오.
 
@@ -663,7 +638,7 @@ Microsoft는 장애를 가진 사용자를 포함하여 모든 사용자가 시�
 
 **Microsoft 인증 시험에는 어떤 유형의 문항이 나옵니까?**
 
-Microsoft는 지속적으로 혁신적인 시험 기술 및 문항 유형을 도입하기 때문에 주어진 시험에서 나오는 특정한 문항 유형을 제공하지 않습니다. 시험이 어떠한 분위기로 진행되는지 알고 싶은 경우 일부 가능한 [시험 형식 및 문제 유형](https://www.microsoft.com/learning/certification-exams.aspx)을 살펴 보십시오.
+Microsoft는 지속적으로 혁신적인 시험 기술 및 문항 유형을 도입하기 때문에 주어진 시험에서 나오는 특정한 문항 유형을 제공하지 않습니다. 시험이 어떠한 분위기로 진행되는지 알고 싶은 경우 일부 가능한 [exam formats and question types](https://www.microsoft.com/learning/certification-exams.aspx)을 살펴 보십시오.
 
 **왜 사례 연구 시험 형식이 사용됩니까?**
 
@@ -681,6 +656,8 @@ Microsoft는 지속적으로 혁신적인 시험 기술 및 문항 유형을 도
 
 Microsoft는 인증의 유효성 및 타당성을 유지하기 위해 언제든지 어떠한 이유로든 콘텐츠를 업데이트할 수 있는 권한이 있습니다. 직무 등에서 성공하기 위해 필요한 능력 및 기술 변화와 관련된 기능 및 특징을 통합하는 것을 포함하지만 이에 국한되지는 않습니다.
 
+참고: 측정된 기술 또는 시험 설명에 달리 명시되지 않은 한 시험의 미리보기 기능을 제공하지 않습니다. 대부분, 기능은 General Availability (GA)인 경우에만 시험에 추가됩니다.
+
 **새로운 특징 또는 기능이 추가되거나 관련된 기술이 변경되었을 때 시험의 업데이트 여부를 확인할 수 있는 방법은 무엇입니까?**
 
 변경이 발생한 경우 응시자가 알 수 있도록 시험 세부 정보 페이지에 업데이트됩니다. 또한 뉴스레터, 블로그 및 기타 적절한 소통 채널을 통해 이러한 업데이트에 대한 정보를 제공하며, 시험 콘텐츠에 대한 변경 사항에 대해 알고자 하는 경우 해당 소통 방식에 등록하는 것이 좋습니다.
@@ -690,6 +667,8 @@ Microsoft는 인증의 유효성 및 타당성을 유지하기 위해 언제든�
 클라우드 기반 시험을 준비하고 있다면, 시험 세부 정보 페이지를 자주 확인하는 것이 좋습니다. 2개월마다 시험을 검토하므로 그만큼 자주 업데이트가 발생할 수 있기 때문입니다.
 
 Microsoft는 인증의 유효성 및 타당성을 유지하기 위해 언제든지 어떠한 이유로든 콘텐츠를 업데이트할 수 있는 권한이 있습니다. 직무 등에서 성공하기 위해 필요한 능력 및 기술 변화와 관련된 기능 및 특징을 통합하는 것을 포함하지만 이에 국한되지는 않습니다.
+
+참고: 측정된 기술 또는 시험 설명에 달리 명시되지 않은 한 시험의 미리보기 기능을 제공하지 않습니다. 대부분, 기능은 General Availability (GA)인 경우에만 시험에 추가됩니다.
 
 **시험이 변경되면 교육 키트, 서적, 코스웨어 및 기타 시험 준비 자료가 업데이트됩니까?**
 
@@ -728,7 +707,7 @@ Microsoft는 시험에 출제되는 모든 기술을 다루는 교육 자료 형
 
 **섹션을 나가거나 시험을 완료하기 전에 답변을 모두 검토할 수 있습니까?**
 
-섹션을 나가거나 시험을 완료하기 전에 대부분의 문제에서 답안을 검토할 수 있습니다. 하지만, 문제와 가능한 솔루션을 설명한 후 해당 솔루션으로 문제가 해결되는지 물어보는 예/아니오 문제가 있는데, 이 문제는 특성상 답안을 검토할 수 없습니다. 또한, 이 세트에서 다음 문제로 넘어간 후에는 답안을 변경할 수 없습니다. 이러한 문제는 이 정보를 제공하는 개요 화면보다 앞에 나오며, 섹션을 나가는 경우 해당 문항으로 돌아가거나 답안을 변경할 수 없다는 알림이 포함되어 있습니다.
+섹션을 나가거나 시험을 완료하기 전에 대부분의 문제에서 답안을 검토할 수 있습니다. 하지만, 문제와 가능한 솔루션을 설명한 후 해당 솔루션으로 문제가 해결되는지 물어보는 예/아니오 문제가 있는데. 이 문제는 특성상 답안을 검토할 수 없습니다. 또한, 이 세트에서 다음 문제로 넘어간 후에는 답안을 변경할 수 없습니다. 이러한 문제는 이 정보를 제공하는 개요 화면보다 앞에 나오며, 섹션을 나가는 경우 해당 문항으로 돌아가거나 답안을 변경할 수 없다는 알림이 포함되어 있습니다.
 
 잘못 답변한 문항을 감점하지 않으며 정답을 검토하거나 변경할 수 없는 항목이 포함되어 있으므로 다음 섹션으로 이동하기 전에 모든 문항에 답하는 것이 좋습니다. 검토가 필요한 항목을 가능한 한 표시해 두십시오.
 
@@ -748,7 +727,7 @@ Microsoft는 시험에 출제되는 모든 기술을 다루는 교육 자료 형
 
 **베타 시험 결과에 대해 문의 사항이 있을 경우 어떻게 연락해야 합니까?**
 
-온라인에서 성적표를 보지 못하거나 최종 시험이 게시된 날부터 2주 이내에 성적표를 받지 못하는 경우, 시험 제공업체에 결과가 처리되는 시기에 대한 자세한 정보를 문의하십시오. 성적 증명서에 대한 질문이 있으면, [Microsoft 지역 서비스 센터](https://www.microsoft.com/learning/help.aspx)에 문의하십시오.
+온라인에서 성적표를 보지 못하거나 최종 시험이 게시된 날부터 2주 이내에 성적표를 받지 못하는 경우, 시험 제공업체에 결과가 처리되는 시기에 대한 자세한 정보를 문의하십시오. 성적 증명서에 대한 질문이 있으면, [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx)에 문의하십시오.
 
 **베타 시험을 치르고 25% 할인 쿠폰을 받지 못하면 어디에 연락해야 합니까?**
 
@@ -846,7 +825,7 @@ Microsoft 시험은 합격/불합격을 결정하는 데 전체 시험 점수를
 
 Microsoft 인증 시험이 응시자가 기술을 더 개발해야 하는 영역에 대한 피드백을 제공하지만 시험은 세부적인 진단 피드백을 제공하도록 설계되지 않았습니다. 시험 세부 정보 페이지의 "측정 능력" 섹션을 검토하고 시험에서 평가되는 기술과 사용자의 기술을 냉정하게 평가해 보십시오. 최선의 방법은 나열된 과제를 실제로 수행해 보고 접하게 되는 문제점을 기록하는 것입니다. 이러한 문제점을 더 이상 겪지 않을 때까지 연습하십시오. 해당 작업을 어떻게 수행하는지 다른 사람에게 조언을 구할 수도 있습니다. 다른 사람들은 다른 방식으로 작업을 수행합니까? 왜 다른 방식으로 작업을 수행하는지 파악하십시오. 백서, 문서 등에서 시험에 포함된 작업에 대한 추가 정보를 확인할 수 있습니다. 시험 세부 정보 페이지 의 "준비 옵션" 에서 제공되는 리소스를 찾아보거나, 시험 세부 정보 페이지 하단에서 찾을 수 있는 스터디 그룹에 참가할 수 있습니다.
 
-마지막으로 인증 시험의 일부로 [Microsoft 공식 연습 시험](https://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)에 응시하실 수 있습니다. 여기에서 특정 강점 및 약점에 대한 추가 정보를 찾아볼 수 있을 것입니다. 그러나 연습 시험을 통과한다고 인증 시험 통과를 보장하는 것은 아닙니다.
+마지막으로 인증 시험의 일부로 [Microsoft 공식 연습 시험](http://www.measureup.com/Microsoft-Practice-Tests-C318.aspx)에 응시하실 수 있습니다. 여기에서 특정 강점 및 약점에 대한 추가 정보를 찾아볼 수 있을 것입니다. 그러나 연습 시험을 통과한다고 인증 시험 통과를 보장하는 것은 아닙니다.
 
 **Exam Replay 정책은 무엇입니까?**
 
@@ -854,11 +833,11 @@ Microsoft 인증 시험이 응시자가 기술을 더 개발해야 하는 영역
 
 **내 점수의 재평가를 요청할 수 있습니까?**
 
-점수를 재평가하더라도 합격/불합격 상태가 변경될 확률은 적습니다. Microsoft는 시험을 통과하고 인증을 획득하는 응시자가 기술 도메인 전반에 걸쳐 필요한 능숙도를 입증했다고 확신하기 때문에 시험 결과의 재평가에 따라 최종 시험 결과가 변경되는 경우는 드뭅니다. 어떤 방식으로든 문항에 결함이 있더라도 해당 문항에 결함이 없었을 경우에 사용자가 올바르게 답했을 것이라고 가정할 수 없습니다. 이러한 경우 응시자에게 무료로 시험을 재응시할 수 있는 기회를 제공합니다. 특정 문항의 기술 정확성에 대해 우려 사항이 있을 경우 [온라인으로 요청을 제출](https://support.microsoft.com/ko-kr/getsupport?oaspworkflow=start_1.0.0.0&wf=0&wfName=capsub&productkey=visualstudio&locale=ko-kr&ccsid=636062745883333361)하십시오. 문항 이의 제기 양식을 송부받을 것입니다.
+점수를 재평가하더라도 합격/불합격 상태가 변경될 확률은 적습니다. Microsoft는 시험을 통과하고 인증을 획득하는 응시자가 기술 도메인 전반에 걸쳐 필요한 능숙도를 입증했다고 확신하기 때문에 시험 결과의 재평가에 따라 최종 시험 결과가 변경되는 경우는 드뭅니다. 어떤 방식으로든 문항에 결함이 있더라도 해당 문항에 결함이 없었을 경우에 사용자가 올바르게 답했을 것이라고 가정할 수 없습니다. 이러한 경우 응시자에게 무료로 시험을 재응시할 수 있는 기회를 제공합니다. 특정 문항의 기술 정확성에 대해 우려 사항이 있을 경우 [온라인으로 요청을 제출](https://support.microsoft.com/en-us/getsupport?oaspworkflow=start_1.0.0.0&wf=0&wfName=capsub&productkey=visualstudio&locale=en-us&ccsid=636062745883333361)하십시오. 문항 이의 제기 양식을 송부받을 것입니다.
 
 **어떻게 시험 문항에 대한 이의를 제기합니까?**
 
-Microsoft 인증 시험의 문항이 올바르지 않다고 생각되는 경우 시험을 치른 날로부터 [시험 항목 챌린지 과정](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)을 통해 30일 이내에 문항 평가를 요청할 수 있습니다. 평가 절차는 문제가 되는 문항을 파악하고 수정한 후 시험을 업데이트하는 데 도움이 됩니다.
+Microsoft Certification Exam문항이 올바르지 않다고 생각되는 경우 시험을 치른 날로부터 [시험 항목 챌린지 과정](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)을 통해 30일 이내에 문항 평가를 요청할 수 있습니다. 평가 절차는 문제가 되는 문항을 파악하고 수정한 후 시험을 업데이트하는 데 도움이 됩니다.
 
 **Microsoft 직원이 이의를 제기하는 시험 문항을 검토하고 평가합니까?**
 
@@ -910,15 +889,16 @@ Microsoft에서 응시자가 성적표를 위조했다고 판단하면 응시자
 
 **"브레인 덤프"란 무엇이며 합법입니까?**
 
-인증 시험과 관련하여 "브레인 덤프"란 시험 응시자와 공유하거나 판매할 의도로 부정하게 획득한 인증 시험 콘텐츠를 포함하는 출처(예: 웹사이트)를 말합니다. 브레인 덤프에 포함된 콘텐츠는 시험에 나오는 문항과 정확하게 동일하거나 매우 유사합니다. 시험 콘텐츠를 부정하게 획득했기 때문에 시험을 준비하거나 치르는 동안 이러한 유형의 자료를 사용하는 것은 부정 행위로 간주됩니다. “브레인 덤프” 제공업체는 Microsoft의 지식재산권 및 비밀 유지 계약을 위반하고 있습니다. 
+인증 시험과 관련하여 "브레인 덤프"란 시험 응시자와 공유하거나 판매할 의도로 부정하게 획득한 인증 시험 콘텐츠를 포함하는 출처(예: 웹사이트)를 말합니다. 브레인 덤프에 포함된 콘텐츠는 시험에 나오는 문항과 정확하게 동일하거나 매우 유사합니다. 시험 콘텐츠를 부정하게 획득했기 때문에 시험을 준비하거나 치르는 동안 이러한 유형의 자료를 사용하는 것은 부정 행위로 간주됩니다. "브레인 덤프" 제공업체는 Microsoft의 지식재산권 및 비밀 유지 계약을 위반하고 있습니다.
 
 **왜 "브레인 덤프" 사이트 및 자료를 피해야 합니까?**
 
-응시자가 시험을 통과하기 위해 "브레인 덤프"에 있는 승인되지 않은 콘텐츠를 의도적으로 또는 자신도 모르게 암기하는 경우 Microsoft 소프트웨어 또는 시스템을 효과적으로 사용 및 관리하는 필수 기술을 갖추지 못하게 됩니다. 결과적으로 응시자의 관리자가 이러한 기술 지식 및 기술의 부재를 알아채고 적절한 조치를 취할 것입니다. Microsoft에서 응시자가 시험을 준비하기 위해 “브레인 덤프” 사이트를 사용했다는 사실을 알게 되면 응시자는 향후의 모든 Microsoft 인증 시험 응시 자격이 영구적으로 박탈되거나 금지되고 취득한 Microsoft Certification Program의 인증이 취소될 수 있습니다. 또한, 해당하는 경우 시험 점수 및 인증이 취소될 수 있습니다. 응시자가 의도적으로 Microsoft Certification Program에 부정한 명령을 입력하지 않았다 하더라도 이러한 조치가 취해질 수 있습니다.
+응시자가 시험을 통과하기 위해 "브레인 덤프"에 있는 승인되지 않은 콘텐츠를 의도적으로 또는 자신도 모르게 암기하는 경우 Microsoft 소프트웨어 또는 시스템을 효과적으로 사용 및 관리하는 필수 기술을 갖추지 못하게 됩니다. 결과적으로 응시자의 관리자가 이러한 기술 지식 및 기술의 부재를 알아채고 적절한 조치를 취할 것입니다. Microsoft에서 응시자가 시험을 준비하기 위해 "브레인 덤프" 사이트를 사용했다는 사실을 알게 되면 응시자는 향후의 모든 Microsoft 인증 시험 응시 자격이 영구적으로 박탈되거나 금지되고 취득한 Microsoft Certification Program의 인증이 취소될 수 있습니다. 또한, 해당하는 경우 시험 점수 및 인증이 취소될 수 있습니다. 응시자가 의도적으로 Microsoft Certification Program에 부정한 명령을 입력하지 않았다 하더라도 이러한 조치가 취해질 수 있습니다.
 
 다른 경우에는 메시지 및 관례를 매우 감지하기 힘든 반면 수많은 "브레인 덤프" 제공업체는 메시지, 제품의 설명 및 사용 의도를 상당히 노골적으로 드러냅니다. 즉, 응시자는 지나치게 좋은 시험 준비 자료를 사용할 때 주의를 기울여야 합니다.
 
 Microsoft 콘텐츠가 포함된 "브레인 덤프" 사이트를 발견했다고 생각되는 경우 [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)으로 이메일을 보내 Microsoft로 알려 주십시오.
+
 
 **시험 센터에 어떠한 보안 유형이 있어야 합니까?**
 
@@ -955,23 +935,27 @@ Microsoft에서 시험 센터가 부적절하게 또는 부정하게 행동했�
 
 **과제** 창은 랩에서 수행해야 하는 과제가 나열됩니다. **+** 또는 **-** 기호를 사용하여 각 과제를 확장하거나 축소할 수 있습니다. 편의를 위해, 각 과제에는 체크 박스가 있어 과제를 완료한 다음 표시할 수 있습니다. 이렇게 해도 랩과 점수에는 어떠한 영향도 없습니다. 랩에는 필요한 과제 완료 여부를 나타내는 부분은 없으므로 체크 박스를 사용해 완료한 과제를 기록할 수 있습니다.
 
-랩을 나가는 경우 다시 돌아올 수 없습니다. 랩이나 시험의 섹션을 종료하자마자 점수 산정이 (백그라운드에서) 시작되기 때문입니다. **다음**을 클릭하면 랩에서 정말 나갈 것인 지 확인하는 메시지가 표시됩니다. **예**를 클릭하여 랩 섹션을 나가면 점수가 산정됩니다.
+실습실을 떠난 후에는 실습실을 떠나 자마자 점수가 백그라운드에서 시작되므로 실습실로 돌아올 수 없습니다. **다음**을 클릭하면 랩에서 정말 나갈 것인 지 확인하는 메시지가 표시됩니다. **예**를 클릭하여 랩 섹션을 나가면 점수가 산정됩니다.
+
 
 **랩이 포함된 시험은 어떻게 구성됩니까?**
 
-시험이 시작되면, 랩이 로드는 동안 기존 방식의 문제(예: 선택형, 드래그 앤 드롭, 빌드 목록 등)를 풀게 됩니다. 랩을 완료하면, 해당 랩의 점수를 산정하는 동안 다른 기존 방식의 문제 세트를 풀게 됩니다. 만약 문제 세트를 너무 빨리 완료하는 경우에는, 랩이 준비되는 동안 기다려야 할 수 있습니다. 다음 사항을 참고하시기 바랍니다.
+시험을 시작하면 시험에 나오는 작업, 항목, 사례 연구 및 랩의 수를 알려주는 화면이 표시됩니다. 이 정보를 기록해 두어 시험 시간을 적절히 계획하십시오.
 
-- 완료한 시험 섹션을 떠나고 나면, 다시 돌아갈 수 없습니다. 그러나, 각 섹션의 마지막에는 답변을 검토할 기회가 주어집니다. **답변을 검토하는 동안에도 시험 시간은 중단되지 않습니다. 시간 관리에 유념하시기 바랍니다**. 시간과 남은 문제의 수에 주의를 기울이십시오.
+시험이 시작되면 랩이 로드되고 시험에서 기존 형태의 문제(예: 선택형, 드래그 앤 드롭, 빌드 목록 등)를 풀게 됩니다. 랩은 시험의 마지막 섹션입니다. 다음 사항을 참고하시기 바랍니다:
 
-- 각 시험에는 필수로 완료해야 하는 한 두개의 수행 섹션/다수 과제 랩이 있습니다. 해당 섹션 또는 랩이 끝나면 랩을 채점하는 동안 기존 방식의 문항 풀이를 계속하게 되며, 시험이 끝나는 즉시 합격/불합격 결과를 알 수 있습니다. 다시 강조하지만, 시간 관리에 유념하십시오. 랩이 끝나면 몇 가지 문제를 풀어야 합니다.
+- 시험(예: 사례 연구 또는 랩) 섹션을 나가고 나면 다시 돌아갈 수 없습니다. 하지만, 마지막 섹션에서 대부분 답변을 검토 할 기회가 있습니다(검토 할 수없는 섹션이 시험에 포함될 수 있으며, 섹션 시작 부분에 표시됨). **답변을 검토하는 동안에도 시험 시간은 중단되지 않습니다. 시간 관리에 유념하시기 바랍니다**. 시간과 남은 문제의 수에 주의를 기울이십시오.
 
-- 시험에 포함된 랩의 수는 첫 번째 랩이 시작되기 전에 개요 페이지에서 알 수 있습니다. 반드시 정독하시기 바랍니다! 그리고, 그에 따라 시간을 적절히 관리하시기 바랍니다.
+- 각 시험에는 필수로 완료해야 하는 한 두개의 수행 섹션/다수 과제 랩이 있습니다. 연구에 따르면 작업이 기존 항목보다 완료하는데 약 4 배 더 걸립니다. 시간을 잘 관리하여 랩 완료에 필요한 시간이 충분히 남도록 하십시오. 응시자가 시간을 잘 관리하는 경우 랩을 완료하고도 충분한 시간을 보장했습니다.
 
-- 다른 과제로 이동하기 전에 수행할 과제를 기다리지 마십시오. (드물지만) 어떤 경우에는, 다른 과제를 완료하기 전에 다른 할 일이 있을 수도 있지만, 해당 과제를 붙잡고 있기 보다는 수행해야 할 다른 과제가 더 있을 것입니다. **과제 실행을 기다리며 시간을 낭비하지 마십시오**. 시험 시간을 최대한 활용할 수 있도록 해당 과제와 무관한 것으로 옮겨가십시오. 경우에 따라, 과제를 시작하는 것만으로 점수를 얻기에 충분한 경우(예: Azure에서 리소스 생성하기)가 있습니다. 해당 과제는 다른 과제를 수행하는 동안 백그라운드에서 실행되도록 둘 수 있습니다. 과제 목록에는 과제 시작에 필요한 것만을 기재한 메모가 포함되어 있습니다. 불이익 없이 다른 과제로 이동하거나, 섹션을 벗어나는 것(시험의 다음 부분으로 이동)도 가능합니다. **과제를 주의 깊게 정독하시기 바랍니다**.
+- 시험에 포함된 랩과 과제의 수는 첫 번째 랩이 시작되기 전에 개요 페이지에서 알 수 있습니다. 반드시 정독하시기 바랍니다! 그리고, 그에 따라 시간을 적절히 관리하시기 바랍니다.
+
+- 다른 과제로 이동하기 전에 수행할 과제를 기다리지 마십시오. 어떤 경우에는, 다른 과제를 완료하기 전에 다른 할 일이 있을 수도 있지만, 해당 과제를 붙잡고 있기 보다는 수행해야 할 다른 과제가 더 있을 것입니다. **과제 실행을 기다리며 시간을 낭비하지 마십시오**. 시험 시간을 최대한 활용할 수 있도록 해당 과제와 무관한 것으로 옮겨가십시오. 경우에 따라, 과제를 시작하는 것만으로 점수를 얻기에 충분한 경우(예: Azure에서 리소스 생성하기)가 있습니다. 해당 과제는 다른 과제를 수행하는 동안 백그라운드에서 실행되도록 둘 수 있습니다. 과제 목록에는 과제 시작에 필요한 것만을 기재한 메모가 포함되어 있습니다. 불이익 없이 다른 과제로 이동하거나, 섹션을 벗어나는 것(가능한 경우 다음 랩으로 이동 또는 시험 종료)도 가능합니다. **과제를 주의 깊게 정독하시기 바랍니다. 과제에서 질문한 문제를 해결하기 위해 필요한 것을 하십시오.**
+
 
 **랩에 일반적인 형태의 문제가 포함되는 이유는 무엇입니까?**
 
-여러가지 이유로 랩으로는 모든 중요한 기술을 평가할 수 없습니다. 실행 시 수 분 이상이 소요되거나 많은 리소스가 필요한 과제를 요구하지 않습니다. 그러므로, 시험에 더 적절한 종류의 문항을 통해 그러한 능력을 측정할 것입니다.
+여러가지 이유로 랩으로는 모든 중요한 기술을 평가할 수 없습니다. 예를 들어, 실행 시 수 분 이상이 소요되거나 많은 리소스가 필요한 과제를 요구하지 않습니다. 그러므로, 시험에 더 적절한 종류의 문항을 통해 그러한 능력을 측정할 것입니다.
 
 **시험에 몇 개의 랩이 있습니까? 각 랩에 몇 개의 과제가 있습니까?**
 
@@ -1001,7 +985,7 @@ Microsoft에서 시험 센터가 부적절하게 또는 부정하게 행동했�
 
 **랩을 시작하기 전에 대기해야 했던 이유는 무엇입니까?**
 
-클라우드에서 시험 환경을 준비하는 데는 다소의 시간이 소요되며, 응시자가 과제 완료를 위해 접속하는 환경은 모든 리소스가 전부 준비되는 경우에만 로딩 가능합니다. 그 결과, 시험은 일련의 기존 항목(선택형, 드래그 앤 드롭, 빌드 목록 등) 풀이로 시작되며, 문제를 푸는 시간에 시험 환경에 랩을 준비하고 로딩합니다. 만약 문제 세트를 너무 빨리 완료하는 경우에는, 랩이 로딩되는 동안 기다려야 할 수 있습니다.
+클라우드에서 시험 환경을 준비하는 데는 다소의 시간이 소요되며, 응시자가 과제 완료를 위해 접속하는 환경은 모든 리소스가 전부 준비되는 경우에만 로딩 가능합니다. 그 결과, 시험은 일련의 전통 아이템(선택형, 드래그 앤 드롭, 빌드 목록 등) 풀이로 시작되며, 문제를 푸는 시간에 시험 환경에 랩을 준비하고 로딩합니다. 만약 문제 세트를 너무 빨리 완료하는 경우에는, 랩이 로딩되는 동안 기다려야 할 수 있습니다.
 
 **랩이 빈 화면으로 시작하는 경우가 있다고 들었습니다. 이를 해결할 수 있는 방법이 있습니까?**
 
@@ -1009,7 +993,15 @@ Microsoft에서 시험 센터가 부적절하게 또는 부정하게 행동했�
 
 **랩에 문제가 발생했습니다. Microsoft에 어떻게 알릴 수 있습니까?**
 
-랩과 관련한 문제가 발생하는 경우, 시험 문항 이의 제기 절차를 통해 전달해주시기 바랍니다. 해당 경험에 관해 구체적인 설명을 제공해드릴 수는 없지만, 그에 대한 조사를 통해 근본적인 원인을 파악하고 모두의 경험을 개선하는 솔루션을 찾는 데 도움이 될 것입니다.
+랩과 관련한 문제가 발생하는 경우, [시험 문항 이의 제기 절차를 통해 전달해주시기 바랍니다](https://www.microsoft.com/learning/certification-exam-policies.aspx#dt-policies-5). 해당 경험에 관해 구체적인 설명을 제공해드릴 수는 없지만, 그에 대한 조사를 통해 근본적인 원인을 파악하고 모두의 경험을 개선하는 솔루션을 찾는 데 도움이 될 것입니다.
+
+**랩에 문제가 발생했습니다. 재채점은 어떻게 요청합니까?**
+
+점수를 받은 경우, 랩 문제전 성과를 정확히 반영합니다. 불합격하셨다면 재채점을 하더라도 결과는 변경되지 않습니다.
+
+**점수는 언제 받게 됩니까?**
+
+연구소는 기존의 항목 유형보다 점수를 더 오래 걸립니다. 랩은 시험 마지막에 나오므로 결과를 바로 받지 못할 수 있습니다. 시험 결과를 받는데 30분 이상 걸릴 수 있습니다. 성적표를 기다리지 않으셔도 됩니다. 인증 데이터베이스로 자동 전달되어 MC 대시 보드에 표시됩니다. 시험 제공 24시간 이내에 발생합니다. 표시되지 않는 경우, [MCP 지원 포럼](https://aka.ms/mcpforum)에 문의하십시오.
 
 **수행성 기반 질문이 포함된 시험은 완료하는 데 더 오래 걸립니까?**
 
@@ -1017,7 +1009,7 @@ Microsoft에서 시험 센터가 부적절하게 또는 부정하게 행동했�
 
 **수행성 기반 시험은 다른 시험을 준비할 때와 다르게 준비해야 합니까?**
 
-아니오. 문의 형식과 관계 없이 측정 능력은 동일하게 유지됩니다. 시험에서 평가되는 지식 및 기술은 시험 세부 정보 페이지의 "측정 능력" 섹션에 나열되어 있습니다.
+아니오. 문의 형식과 관계 없이 측정 능력은 동일하게 유지됩니다. 시험에서 평가되는 지식 및 기술은 시험 세부 정보 페이지의 "측정 능력" 섹션에 나열되어 있습니다. 기술을 연습하면 랩을 포함한 어떤 항목 유형에도 대비하실 수 있습니다.
 
 **랩이 포함된 시험을 치르려면 특정 시험 센터를 이용해야 합니까? 랩이 포함된 시험을 예약하려하자 다수의 시험센터가 이용 불가능한 것으로 보이나, 랩이 불포함된 시험 예약시에는 이용 가능한 것으로 보입니다.**
 
@@ -1027,15 +1019,17 @@ Microsoft에서 시험 센터가 부적절하게 또는 부정하게 행동했�
 
 **역할 기반 인증의 명칭은 어떻게 정해집니까? 여전히 MCSA, MCSD, MCSE를 유지합니까?**
 
-인증 프로그램에 상당한 변화가 있었기 때문에 해당 인증이 MCSA, MCSD, MCSE라는 약어와는 멀어지고 있습니다. 인증은 분명히 취득자가 해당 직역에서 “Microsoft 인증”을 받았음을 명시하며, 해당하는 수준(기초, 준 전문가 또는 전문가)에 적합함을 보여줍니다.
+인증 프로그램에 상당한 변화가 있었기 때문에 해당 인증이 MCSA, MCSD, MCSE라는 약어와는 멀어지고 있습니다. 인증은 분명히 취득자가 해당 직역에서 "Microsoft 인증"을 받았음을 명시하며, 해당하는 수준(기초, 준 전문가 또는 전문가)에 적합함을 보여줍니다.
 
 **이미 취득한 MCSA, MCSD, MCSE 인증은 어떻게 됩니까?**
 
 이미 취득한 MCSA, MCSD, MCSE 인증에는 아무런 변화도 발생하지 않습니다. 해당 인증은 여전히 성적표에 남아있게 됩니다. 이러한 인증의 적합성은 취득자의 현재와 미래의 직역, 인증이 취득자의 상급자 및 조직과 수행하는 작업에 얼마나 중요한지 등에 따라 달라집니다.
 
+
 **일부 MCSA, MCSD, MCSE 인증을 여전히 취득할 수 있습니다. 해당 인증은 어떻게 됩니까?**
 
 MCSA, MCSD, MCSE 인증은 관련 시험이 계속 시행되는 한 취득할 수 있습니다. 인증 경로에 포함된 시험이 중단되는 경우에는, 해당 인증을 더 이상 취득할 수 없습니다.
+
 
 **MCSA, MCSD, MCSE 인증 취득과 연관된 일부 시험이 중단되었습니다. 해당 시험이 중단되면 취득한 인증은 어떻게 됩니까?**
 
@@ -1044,6 +1038,7 @@ MCSA, MCSD, MCSE 인증은 관련 시험이 계속 시행되는 한 취득할 �
 **교육 및 시험을 더 밀접하게 조정하기 위해서 시험 합격 또는 인증 획득에 필요한 경험량을 줄이는 중입니까?**
 
 아닙니다. 시험 합격 또는 인증 획득에 필요한 경험량을 줄이고 있지는 않습니다. 교육 과정은 시험 대비가 가능하도록 설계되었지만, 교육 과정 이수만으로는 부족할 수 있습니다. 역할 기반 시험의 문제를 해결하기 위해서는 실제 문제를 해결하며 얻은 기술과 지식을 동원해야 합니다.
+
 
 ### 교육 기관용 응시료
 
@@ -1055,19 +1050,21 @@ MCSA, MCSD, MCSE 인증은 관련 시험이 계속 시행되는 한 취득할 �
 
 네. 교육 기관 증명은 12개월만 유효합니다. 12개월 후에는 증명 절차를 반복해야 합니다.
 
+
 **저는 강사입니다. Pearson VUE에서 제공하는 Microsoft 인증 시험에서도 교육 기관용 할인(해당되는 국가의 경우)을 받을 수 있습니까?**
 
 네. 학생과 동일한 절차를 따라야 합니다. 즉, Microsoft 계정 프로필의 직업으로 "학생"을 선택하고 학생과 동일한 절차를 통해 신분을 증명해야 합니다.
 
+
 **Microsoft 인증 시험의 교육 기관 검증 절차와 관련된 문의 사항은 어디로 연락해야 합니까?**
 
-시험 등록과 관련된 일반 질문이 있으면, [Microsoft 지역 서비스 센터](https://www.microsoft.com/learning/help.aspx)에 문의하십시오. 새로운 또는 보류 중인 증명 요청에 관한 문의 사항이 있을 경우 [지원팀에 문의](https://academic.getmicrosoftkey.com/default/support)하십시오.
+시험 등록과 관련된 일반 질문이 있으면, [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx)에 문의하십시오. 새로운 또는 보류 중인 증명 요청에 관한 문의 사항이 있을 경우 [지원팀에 문의](https://academic.getmicrosoftkey.com/default/support)하십시오.
 
 ### 편의 시설 요청
 
 **편의 시설을 요청하려면 어떻게 해야 합니까?**
 
-시험을 치를 때 특수 장비 또는 기타 편의 시설이 필요한 장애인인 경우 [Pearson VUE](https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)에서 “합리적 조정 요청 시스템”[https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 자세한 내용은 위의 시험 응시를 위한 특수 편의 시설 섹션을 참고하시기 바랍니다.
+시험을 치를 때 특수 장비 또는 기타 편의 시설이 필요한 장애인인 경우 [Pearson VUE](http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft)에서 "합리적 조정 요청 시스템" [https://rs.hgportal.net/amer/candidate](https://rs.hgportal.net/amer/candidate)을 이용해 편의시설을 요청하시기 바랍니다. 자세한 내용은 위의 [시험 응시를 위한 특수 편의 시설](#special-accommodations-when-taking-exams) 섹션을 참고하시기 바랍니다.
 
 **서류를 제출해야 하는 이유는 무엇입니까?**
 
@@ -1084,3 +1081,4 @@ MCSA, MCSD, MCSE 인증은 관련 시험이 계속 시행되는 한 취득할 �
 **이전에 했던 질문의 답변을 받지 못했습니다. 어디서 답변을 찾을 수 있습니까?**
 
 여기서 질문에 대한 답변을 찾을 수 없다면, 다음 이메일 주소로 연락주시기 바랍니다. [accommodationspearsonvue@pearson.com](mailto:accommodationspearsonvue@pearson.com).
+

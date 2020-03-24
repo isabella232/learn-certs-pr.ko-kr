@@ -1,0 +1,125 @@
+### YamlMime:Course
+title: Managing Microsoft Teams
+metadata:
+  title: 'Course MS-700T00-A: Managing Microsoft Teams'
+  description: 'Course MS-700T00-A: Managing Microsoft Teams'
+uid: course.ms-700t00
+courseNumber: 'MS-700T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft Teams란 무엇이며 구성 요소가 함께 작동하는 방식
+- skill: Microsoft Teams을 위한 거버넌스, 보안 및 컴플라이언스 구현 방법
+- skill: Microsoft Teams 배포를 위한 조직 환경 준비 방법
+- skill: 팀 배포 및 관리 방법
+- skill: Microsoft Teams의 협업 관리 방법
+- skill: Microsoft Teams의 커뮤니케이션 관리 및 문제 해결 기술
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- m365
+- azure-active-directory
+- office-365
+exams:
+- uid: exam.ms-700
+summary: |-
+  Managing Microsoft Teams 과정은 Microsoft 365 Teams 관리자 역할을 원하는 사용자를 위해 고안되었습니다.
+  Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리할 수 있어야 합니다.
+  본 과정에서는 Microsoft Teams 개요, Microsoft Teams의 거버넌스, 보안 및 규정 준수 구현, Microsoft Teams 배포 환경 준비, Teams 배포 및 관리, Microsoft Teams의 협업 관리 및 커뮤니케이션 관리 등 6가지 핵심 요소에 대해 다룹니다.
+  Microsoft Teams 개요에서는 팀 아키텍처 및 관련 Office 365 워크로드를 포함한 Microsoft Teams의 개요를 보실 수 있습니다. Microsoft Teams에서 보안 및 규정 준수에 대한 개요를 제공하고 마지막으로 Microsoft Teams 관리 방법에 대한 개요를 제공합니다.
+  Microsoft Teams의 거버넌스, 보안 및 컴플라이언스를 구현할 때 만료 및 명명 정책을 포함한 Office 365 그룹의 거버넌스를 계획하고 구성합니다. 그런 다음 Microsoft Teams에 대한 조건부 액세스, MFA 또는 위협 관리를 구성하여 보안을 구현합니다. 마지막으로 DLP 정책, eDiscovery 사례 또는 감독 정책을 사용하여 팀 준수를 구현합니다.
+  Microsoft Teams 배포 환경을 준비할 때 공존 및 업그레이드 모드를 포함한 업그레이드 경로를 평가하고, 마이그레이션을 관리하고, 공존 및 업그레이드 설정을 구성하여 Skype for Business에서 Microsoft Teams으로 업그레이드할 계획입니다. 그런 다음 Microsoft Teams의 네트워크 설정을 계획하고 구성하고 마지막으로 Microsoft Teams 엔드포인트를 배포하고 관리합니다.
+  팀을 배치 및 관리할 때 팀 생성 및 관리, 내부 및 외부 사용자 모두의 구성원 자격 및 액세스 관리 방법에 대해 배우게 됩니다.
+  Microsoft Teams에서 협업을 관리할 때 팀 설정이나 개인 채널 생성 정책과 같은 채팅 및 협업 경험을 관리할 수 있습니다. 마지막으로 Microsoft Teams에서 앱 설정 정책, 앱,봇 및 커넥터와 같은 팀 앱에 대한 설정을 관리하거나 Microsoft Teams에서 사용자 지정 앱을 게시합니다.
+  본 과정은 Microsoft Teams에서 통신 관리로 마무리됩니다. 라이브 이벤트 및 미팅 경험 관리, Microsoft Teams 용 전화 번호 또는 전화 시스템 관리, 마지막으로 오디오, 비디오 및 클라이언트 문제 해결 방법에 대해 알아봅니다.
+
+  #### 대상 그룹 프로필
+  본 과정에 참가하는 학생들은 Microsoft Teams 또는 Microsoft Teams Administrator Associate 인증 시험에 합격하는 데 관심을 가지는 학생들입니다.
+prerequisitesSection: |-
+  - Microsoft 365 서비스의 기본 기능 경험의 능숙한 이해.
+  - PowerShell 사용을 비롯한 일반적인 IT 실무에 대한 숙지.
+outlineSection: |-
+  ### 모듈 1&#58; Microsoft Teams 개요
+  Microsoft Teams 개요에서는 팀 아키텍처 및 관련 Office 365 워크로드를 포함한 Microsoft Teams의 개요를 보실 수 있습니다. Microsoft Teams에서 보안 및 규정 준수에 대한 개요를 제공하고 마지막으로 Microsoft Teams 관리 방법에 대한 개요를 제공합니다.
+  #### 단원
+  - Microsoft Teams 개요
+  - Microsoft Teams의 보안 및 규정 준수 개요
+  - Microsoft Teams 관리 개요
+
+
+  #### 랩&#58; 역할 관리 및 팀 생성
+  - 팀 역할 및 라이선스 준비
+  - 새 팀 생성
+
+
+  ### 모듈 2&#58; Microsoft Teams 거버넌스, 보안 및 규정 준수 구현
+  Microsoft Teams의 거버넌스, 보안 및 컴플라이언스를 구현할 때 만료 및 명명 정책을 포함한 Office 365 그룹의 거버넌스를 계획하고 구성합니다. 그런 다음 Microsoft Teams에 대한 조건부 액세스, MFA 또는 위협 관리를 구성하여 보안을 구현합니다. 마지막으로 DLP 정책, eDiscovery 사례 또는 감독 정책을 사용하여 팀 준수를 구현합니다.
+  #### 단원
+  - Microsoft Teams의 거버넌스 및 라이프사이클 관리 구현
+  - Microsoft Teams의 보안 구현
+  - Microsoft Teams의 규정 준수 구현
+
+
+  #### 랩 &#58; 팀 및 컨텐츠에 대한 보안 및 규정 준수 구성
+  - Microsoft Teams의 거버넌스 및 라이프사이클 관리 구현
+  - Microsoft Teams의 보안 구현
+  - Microsoft Teams의 규정 준수 구현
+
+
+  ### 모듈 3&#58; Microsoft Teams 배포를 위한 환경 준비
+  Microsoft Teams 배포 환경을 준비할 때 공존 및 업그레이드 모드를 포함한 업그레이드 경로를 평가하고, 마이그레이션을 관리하고, 공존 및 업그레이드 설정을 구성하여 Skype for Business에서 Microsoft Teams으로 업그레이드할 계획입니다. 그런 다음 Microsoft Teams의 네트워크 설정을 계획하고 구성하고 마지막으로 Microsoft Teams 엔드포인트를 배포하고 관리합니다.
+  #### 단원
+  - Skype for Business에서 Microsoft Teams로 업그레이드
+  - Microsoft Teams의 네트워크 설정 계획 및 구성
+  - Microsoft Teams 엔드포인트 배포 및 관리
+
+
+  #### 랩 &#58; Teams를 위한 환경 준비
+  - 네트워크 능력 평가
+  - 구성 프로파일 평가
+  - 팀 리소스 제공
+
+
+  ### 모듈 4&#58; 팀 배포 및 관리
+  팀을 배치 및 관리할 때 팀 생성 및 관리, 내부 및 외부 사용자 모두의 구성원 자격 및 액세스 관리 방법에 대해 배우게 됩니다.
+  #### 단원
+  - 팀 생성 및 관리
+  - 멤버십 관리
+  - 외부 사용자에 대한 액세스 관리
+
+
+  #### 랩 &#58; 팀 관리
+  - 팀 리소스 관리
+  - 공유 및 액세스 관리
+
+
+  ### 모듈 5&#58; Microsoft Teams의 협업 관리
+  Microsoft Teams에서 협업을 관리할 때 팀 설정이나 개인 채널 생성 정책과 같은 채팅 및 협업 경험을 관리할 수 있습니다. 마지막으로 Microsoft Teams에서 앱 설정 정책, 앱,봇 및 커넥터와 같은 팀 앱에 대한 설정을 관리하거나 Microsoft Teams에서 사용자 지정 앱을 게시합니다.
+  #### 단원
+  - 채팅 및 협업 경험 관리
+  - Teams 앱의 설정 관리
+
+
+  #### 랩 &#58; Teams 의 협업 설정 수정
+  - 채널 및 메시지 정책 구성
+  - 팀 용 앱 설정 관리
+
+
+  ### 모듈 6&#58; Microsoft Teams의 통신 관리
+  본 과정은 Microsoft Teams에서 통신 관리로 마무리됩니다. 라이브 이벤트 및 미팅 경험 관리, Microsoft Teams 용 전화 번호 또는 전화 시스템 관리, 마지막으로 오디오, 비디오 및 클라이언트 문제 해결 방법에 대해 알아봅니다.
+  #### 단원
+  - 라이브 이벤트 및 미팅 경험 관리
+  - 전화 번호 관리
+  - Microsoft Teams을 위한 전화 시스템 관리
+  - 오디오, 비디오 및 클라이언트 문제 해결
+
+
+  #### 랩 &#58; Teams 의 통신 설정 수정
+  - 미팅 정책 구성
+  - Microsoft Teams을 위한 전화 시스템 관리
+  - 오디오, 비디오 및 클라이언트 문제 해결

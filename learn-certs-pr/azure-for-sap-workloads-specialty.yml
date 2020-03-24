@@ -5,39 +5,44 @@ metadata:
   description: Architects of Azure for SAP Workloads는 SAP Landscape 인증 프로세스 및 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식을 가지고 있습니다.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
-summary: Architects of Azure for SAP Workloads는 SAP Landscape 인증 프로세스 및 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식을 가지고 있습니다.
+summary: |-
+  Architects of Azure for SAP Workloads는 SAP Landscape 인증 프로세스 및 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식을 가지고 있습니다.
 subTitle: Architects of Azure for SAP Workloads는 SAP Landscape 인증 프로세스 및 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식을 가지고 있습니다.
 levels:
 - advanced
 skills:
+- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - SAP 워크로드를 Azure로 마이그레이션
 - SAP 워크로드를 지원하는 Azure 솔루션 설계
-- Azure SAP 워크로드 빌드 및 배포
+- Azure SAP workload빌드 및 배포
 - SAP 워크로드용 Azure 인프라 유효성 검사
 - Azure SAP 아키텍처 운영
 roles:
 - administrator
 - solution-architect
-type: role-based
+type: specialty
 products:
 - azure
 courses:
 - uid: course.az-120t00
+paths:
+- uid: learn-pr.wwl.planning-azure-sap-workloads
+- uid: learn.wwl.sap-certified-offerings-azure
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2b
 exams:
 - uid: exam.az-120
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
-- title: 재응시하기
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [재응시하기]
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.

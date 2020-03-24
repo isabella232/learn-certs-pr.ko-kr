@@ -1,19 +1,21 @@
 ### YamlMime:Examination
 title: Designing and Deploying Microsoft Exchange Server 2016
 metadata:
-  title: '시험 70-345: Designing and Deploying Microsoft Exchange Server 2016'
-  description: '시험 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  title: 'Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016'
+  description: 'Exam 70-345: Designing and Deploying Microsoft Exchange Server 2016'
 uid: exam.70-345
 displayName: 70-345
-summary: >-
-  이 시험의 응시자는 관리자 팀의 기술 리더 역할을 하는 IT 컨설턴트 또는 선임 관리자입니다. 응시자는 Microsoft Exchange Server를 비즈니스용 Skype 및 Office 365와 통합하는 데 필요한 요구 사항을 잘 알고 있어야 합니다.
-
+summary: |-
+  <div style='color&#58; red;'>이 인증은 2020년 6월 30일에 중단됩니다. 대체 시험이있을 수 있습니다. 자세한 내용을 보려면 저희 블로그를 방문하세요&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 또한, 시험 중단에 관한 게시물을 검토하세요. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/><br/></div>
+  
+  이 시험의 응시자는 관리자 팀의 기술 리더 역할을 하는 IT 컨설턴트 또는 선임 관리자입니다. 응시자는 Microsoft Exchange Server를 Skype for Business 및 Office 365와 통합하는 데 필요한 요구 사항을 잘 알고 있어야 합니다.
 
   응시자는 Exchange 서버를 설계하고 관리하는 경험과 엔터프라이즈 환경에서 Exchange 2016 메시징 환경을 담당한 경험이 최소 3년 이상 있어야 합니다.
-subTitle: 이 시험의 응시자는 관리자 팀의 기술 리더 역할을 하는 IT 컨설턴트 또는 선임 관리자입니다. 응시자는 Microsoft Exchange Server를 비즈니스용 Skype 및 Office 365와 통합하는 데 필요한 요구 사항을 잘 알고 있어야 합니다.
+subTitle: 이 시험의 응시자는 관리자 팀의 기술 리더 역할을 하는 IT 컨설턴트 또는 선임 관리자입니다. 응시자는 Microsoft Exchange Server를 Skype for Business 및 Office 365와 통합하는 데 필요한 요구 사항을 잘 알고 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
 practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-345
 locales:
 - en
 - es
@@ -23,10 +25,10 @@ locales:
 - de
 - ja
 - pt-br
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=345&examname=Designing%20and%20Deploying%20Microsoft%20Exchange%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fko-kr%2Flearn%2Fcertifications%2Fexams%2F70-345
-levels:
+levels: 
 - advanced
 skills:
+- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - 사서함 데이터베이스 계획, 배포, 관리 및 문제 해결(15-20%)
 - 클라이언트 액세스 서비스 계획, 배포, 관리 및 문제 해결(15-20%)
 - 전송 서비스 계획, 배포, 관리 및 문제 해결(15-20%)
@@ -44,7 +46,7 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: 재응시하기
+- title: Exam Replay [재응시하기]
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
@@ -52,7 +54,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
