@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 전 세계의 파트너와 고객들은 Microsoft가 최고 품질의 시험 및 인증을 제공하기를 기대합니다. Microsoft 인증 시험 정책은 다음과 같은 인증 프로그램 목적을 지원하기 위해 개발되어 왔습니다:
 
-## 보안 및 재응시 정책
+## <a name="security-policies"></a> 보안 및 재응시 정책
 
 Microsoft는 Microsoft Certified Professional(MCP) 시험과 적합한 관련이 있는 보안 분야를 다루는 특정한 정책을 시행하고 있습니다.
 
@@ -491,7 +491,7 @@ Microsoft 인증에 관련하여 본 절차에 의문 사항이 있으시면 "�
 
 다운로드: [성적표 서비스 애플리케이션](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2P3u5)
 
-## Microsoft 인증 시험 문항 이의 제기
+## <a name="policies-5"></a> Microsoft 인증 시험 문항 이의 제기
 
 [Each exam question is carefully reviewed](https://www.microsoft.com/learning/certification-exams.aspx) 기술 및 직무 전문가 패널이 기술 정확성, 명확성 및 관련성에 대해 검증합니다. Microsoft Certification Exam특정 문항이 잘못되었다고 생각하는 경우에는 아래 기술된 단계에 따라 문항의 평가를 요청할 수 있습니다. 시험 응시 후 30일 이내에 시험 문항 이의 제기 양식을 제출해야 합니다.
 
@@ -509,7 +509,7 @@ Microsoft 인증에 관련하여 본 절차에 의문 사항이 있으시면 "�
 
 Microsoft 인증 시험을 최대한 유효하고 타당성 있게 유지하기 위해 사용자의 피드백을 소중히 생각하고 신뢰합니다.
 
-## 장애인의 시험 응시를 위한 특수 편의 시설
+## <a name="#special-accommodations-when-taking-exams"></a> 장애인의 시험 응시를 위한 특수 편의 시설
 
 ### Pearson VUE에 의해 제공되는 기본 시험:
 
@@ -527,7 +527,7 @@ Microsoft 인증 시험을 최대한 유효하고 타당성 있게 유지하기 
 
 모국어로 시험을 볼 수 없거나, 특수 장비가 필요하여 추가 시간이 필요하거나 시험을 볼 때 다른 편의 시설을 요청하고자 하는 경우, [여기](https://certiport.pearsonvue.com/Educator-resources/Exam-policies/Accommodations)에 설명된 절차에 따라 Certiport를 통해 편의 시설을 요청할 수 있습니다.
 
-### 취소 및 일정 조정 정책 :
+### <a name="cancellation-and-reschedule-policy"></a> 취소 및 일정 조정 정책:
 
 - 사용자가 영업일 기준으로 시험 6일 전에 시험을 취소하거나 일정 변경할 경우 수수료는 부과되지 않습니다.
 - 사용자가 영업일 기준으로 등록된 시험 5일 전부터는 시험을 취소하거나 일정 변경할 경우 수수료가 부과됩니다.
@@ -626,7 +626,7 @@ Microsoft는 장애를 가진 사용자를 포함하여 모든 사용자가 시�
 
 **시험 문항 또는 시험 경험에 대한 피드백을 어떻게 제출합니까?**
 
-특정 항목의 기술 정확성에 대해 우려 사항이 있을 경우 [시헝 항목 질문](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5) 절차를 따르십시오.
+특정 항목의 기술 정확성에 대해 우려 사항이 있을 경우 [시헝 항목 질문](#policies-5) 절차를 따르십시오.
 
 시험을 보는 동안 겪은 시험 센터 또는 기술적인 어려움에 대한 우려사항을 보고하려면 [Pearson VUE](http://www.pearsonvue.com/microsoft/) 또는 [Certiport](http://www.certiport.com/PORTAL/Common/PageLibrary/Support.htm)를 통해 고객 서비스에 문의하십시오.
 
@@ -829,7 +829,7 @@ Microsoft 인증 시험이 응시자가 기술을 더 개발해야 하는 영역
 
 **Exam Replay 정책은 무엇입니까?**
 
-자세한 내용은 [보안 및 재응시 정책](https://www.microsoft.com/learning/certification-exam-policies.aspx#security-policies)에서 Exam Replay 정책을 살펴보십시오.
+자세한 내용은 [보안 및 재응시 정책](#security-policies)에서 Exam Replay 정책을 살펴보십시오.
 
 **내 점수의 재평가를 요청할 수 있습니까?**
 
@@ -837,7 +837,7 @@ Microsoft 인증 시험이 응시자가 기술을 더 개발해야 하는 영역
 
 **어떻게 시험 문항에 대한 이의를 제기합니까?**
 
-Microsoft Certification Exam문항이 올바르지 않다고 생각되는 경우 시험을 치른 날로부터 [시험 항목 챌린지 과정](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-5)을 통해 30일 이내에 문항 평가를 요청할 수 있습니다. 평가 절차는 문제가 되는 문항을 파악하고 수정한 후 시험을 업데이트하는 데 도움이 됩니다.
+Microsoft Certification Exam문항이 올바르지 않다고 생각되는 경우 시험을 치른 날로부터 [시험 항목 챌린지 과정](#policies-5)을 통해 30일 이내에 문항 평가를 요청할 수 있습니다. 평가 절차는 문제가 되는 문항을 파악하고 수정한 후 시험을 업데이트하는 데 도움이 됩니다.
 
 **Microsoft 직원이 이의를 제기하는 시험 문항을 검토하고 평가합니까?**
 
@@ -993,7 +993,7 @@ Microsoft에서 시험 센터가 부적절하게 또는 부정하게 행동했�
 
 **랩에 문제가 발생했습니다. Microsoft에 어떻게 알릴 수 있습니까?**
 
-랩과 관련한 문제가 발생하는 경우, [시험 문항 이의 제기 절차를 통해 전달해주시기 바랍니다](https://www.microsoft.com/learning/certification-exam-policies.aspx#dt-policies-5). 해당 경험에 관해 구체적인 설명을 제공해드릴 수는 없지만, 그에 대한 조사를 통해 근본적인 원인을 파악하고 모두의 경험을 개선하는 솔루션을 찾는 데 도움이 될 것입니다.
+랩과 관련한 문제가 발생하는 경우, [시험 문항 이의 제기 절차를 통해 전달해주시기 바랍니다](#policies-5). 해당 경험에 관해 구체적인 설명을 제공해드릴 수는 없지만, 그에 대한 조사를 통해 근본적인 원인을 파악하고 모두의 경험을 개선하는 솔루션을 찾는 데 도움이 될 것입니다.
 
 **랩에 문제가 발생했습니다. 재채점은 어떻게 요청합니까?**
 

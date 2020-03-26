@@ -19,7 +19,7 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 
 Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 참가한 경우 1회의 Microsoft 기본, 역할 기반 또는 전문 인증 시험을 무료로 받을 수 있습니다. 무료 시험 제안은 참가한 이벤트가 시작될 때부터 시작부터 상환 가능하며, 이벤트의 마지막 날 이후 180일 동안 유효합니다. 해당 기간 내에 시험을 예약하지 않으면 제안을 이행할 수 없습니다.  
 
-## 무료 시험 청부 방법
+## <a name="how-to-claim-your-free-exam"></a> 무료 시험 청부 방법
 
 이 제안은 디지털 방식이므로 온라인 시험을 예약할 때 이벤트 등록에 사용된 계정과 동일한 소셜 계정을 사용하여 이벤트 참석 여부를 확인해야 합니다(아래 7단계 참조). 그룹으로 등록한 경우 이벤트 등록 프로필을 완성했는지 확인하시기 바랍니다. MS Ignite 2019 참석자는 [https://register.ignite.microsoft.com/](https://register.ignite.microsoft.com/); 로 이동하십시오, The Tour 참석자는 [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/)도시명, 예: [https://register.msignite-the-tour.microsoft.com/london](https://register.msignite-the-tour.microsoft.com/london) 으로 이동하여 이벤트 프로필을 완성하십시오.
 
@@ -41,7 +41,7 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 
 시험 예약에 문제가 있는 경우 [Microsoft 인증 지원 포럼](https://trainingsupport.microsoft.com/en-us/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1) 에서 도움을 받으십시오. 포럼의 조정자는 업무일 하루만에 응답할 것입니다.
 
-## 이 제안에 대한 자격 시험
+## <a name="eligible-exams-for-this-offer"></a> 이 제안에 대한 자격 시험
 
 이 제안에는 모든 Microsoft 기본, 역할 기반 및 전문 인증 시험이 포함됩니다. 아래에 자격 있는 시험을 나열했습니다.
 
@@ -136,4 +136,4 @@ Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 �
 
 **질문: 무료 인증 시험 제안을 사용하여 치른 첫 번째 시험에 실패한 경우 무료로 시험에 재응시할 수 있나요?**
 
-**답변:** 아니요. 이 제안은 한 번만 시도할 수 있으며, 시험 재응시는 별도로 예약해야 합니다. 인증 시험 재응시에 대한 자세한 내용은 [시험 재응시 정책](https://www.microsoft.com/learning/certification-exam-policies.aspx#policies-1) 을 참조하십시오.
+**답변:** 아니요. 이 제안은 한 번만 시도할 수 있으며, 시험 재응시는 별도로 예약해야 합니다. 인증 시험 재응시에 대한 자세한 내용은 [시험 재응시 정책](/learn/certifications/certification-exam-policies#security-policies) 을 참조하십시오.

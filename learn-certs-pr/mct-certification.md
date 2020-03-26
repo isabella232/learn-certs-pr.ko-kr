@@ -29,11 +29,11 @@ Microsoft Certified Trainer가 되면 다양하고 유용한 리소스를 얻을
 
 [MCT에서 얻을 수 있는 모든 혜택을 살펴보기.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE23o0Z)
 
-## 요구 사항
+## <a name="mctinfoheading-3"></a> 요구 사항
 
 MCT 프로그램은 전세계 곳곳에서 Microsoft 기술에 대한 교육을 제공하는 교육자들을 위한 프로그램입니다. 요건을 충족하는 인증 또는 자격을 보유하고 계시며 Microsoft 기술에 대한 교육을 제공하는 일에 깊은 관심을 가지고 있는 경우 프로그램에 신청하실 것을 권장합니다.
 
-MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [신청 절차](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) 섹션의 MCT 프로그램 가이드 및 MCT 프로그램 계약을 참조하시기 바랍니다.
+MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [신청 절차](#mctinfoheading-4) 섹션의 MCT 프로그램 가이드 및 MCT 프로그램 계약을 참조하시기 바랍니다.
 
 
 ### MCT 프로그램 참여 요건
@@ -107,7 +107,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
  
 **참고** MCT 프로그램에 적격한 Microsoft 인증 및 자격은 변동될 수 있습니다. 모든 새로운 역할 기반 인증은 출시된 후 MCT 프로그램에 대한 자격을 얻게 됩니다. 만료된 인증은 만료일로부터 최대 6개월까지 MCT 프로그램에 대한 자격을 가집니다. [인증 중단에 대해 더 알아보기](https://www.microsoft.com/learning/retired-certifications.aspx).
 
-## 신청 절차
+## <a name="mctinfoheading-4"></a> 신청 절차
 
 MCT가 되길 희망하시는 경우, MCT 프로그램 가이드 및 MCT 프로그램 계약을 살펴보시고 멤버십 약관을 숙지하시기 바랍니다.
 
@@ -185,7 +185,7 @@ MCT Alumni 소속인 경우, MCT 프로그램 교육 실무로 복귀하시면 �
 
 MCT 복귀 요건:
 
-- **본 페이지의 [요구 사항](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다.** MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인.
+- **본 페이지의 [요구 사항](#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다.** MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인.
 - **MCT 프로그램 참여 신청.** MCT Alumni 멤버인 경우, 기존의 MCT 프로그램 참가 신청을 증명하는 교육기술 인증 증빙서류를 제출하시거나 최소 1년의 교육 경력을 증명하는 증빙서류를 제출하시기 바랍니다. 관련 증빙서류는 과거 고객, 매니저 또는 동료 직원으로부터 발급 받으셔도 무방합니다.
 
 ## MCT 및 MCT 동문 프로그램 비용
