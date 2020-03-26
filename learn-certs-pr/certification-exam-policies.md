@@ -509,7 +509,7 @@ Microsoft 인증에 관련하여 본 절차에 의문 사항이 있으시면 "�
 
 Microsoft 인증 시험을 최대한 유효하고 타당성 있게 유지하기 위해 사용자의 피드백을 소중히 생각하고 신뢰합니다.
 
-## <a name="#special-accommodations-when-taking-exams"></a> 장애인의 시험 응시를 위한 특수 편의 시설
+## <a name="special-accommodations-when-taking-exams"></a> 장애인의 시험 응시를 위한 특수 편의 시설
 
 ### Pearson VUE에 의해 제공되는 기본 시험:
 
