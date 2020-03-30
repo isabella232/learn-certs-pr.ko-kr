@@ -1,7 +1,7 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Platform Fundamentals'
+title: Microsoft Certified Power Platform Fundamentals
 metadata:
-  title: 'Microsoft Certified: Power Platform Fundamentals'
+  title: Microsoft Certified Power Platform Fundamentals
   description: 비즈니스 가치에서 핵심 제품 기능까지 기본 Power Apps 캔버스 앱 빌드, 데이터 소스 연결, Microsoft Automate를 통한 자동화, Power BI 대시보드 작성을 위한 Power Platform의 핵심 기능을 이해함을 입증합니다.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
@@ -30,16 +30,16 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KL
 exams:
 - uid: exam.pl-900
 resources:
-- title: 인증서 학습 경로
+- title: 인증서 학습 과정
   description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md
 - title: 인증 지원

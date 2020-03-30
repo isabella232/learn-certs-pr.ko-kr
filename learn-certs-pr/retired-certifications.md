@@ -1,6 +1,6 @@
 ---
 title: Microsoft Retired Certifications | Microsoft Docs
-description: Microsoft 중단 인증
+description: Microsoft Retired Certifications
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -77,6 +77,6 @@ Microsoft Certified Professional 프로그램을 최신 상태로 유지하기 �
 
 | Microsoft Technology Associate                           |          |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| MTA: 98-369: Cloud Fundamentals                                                                                             |  2018년 9월 30일 |
-| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 2019년 8월 7일     |
+| MTA: 98-369: Cloud Fundamentals                                                                                             |  2019년 9월 30일 월요일 |
+| MTA: 98-380: Introduction to Programming Using Block-Based Languages (Touch Develop)                                        | 2019년 8월 7일   |
 ___

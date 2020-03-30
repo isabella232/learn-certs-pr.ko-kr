@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Certified Trainer 취득 | Microsoft Docs'
+title: Microsoft Certified Trainer 취득 | Microsoft Docs'
 description: 'Microsoft Certified Trainer 취득' 
 documentationcenter: NA 
 author: bipach
@@ -37,6 +37,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 
 
 ### MCT 프로그램 참여 요건
+
 - 현재 MCT 프로그램에 적격한 Microsoft 인증 또는 자격을 보유해야 합니다. 
 (자격 인증 목록은 아래를 참조하십시오)
 - 다음 중 한 가지 인증을 통해 강의 기술을 입증해야 합니다.
@@ -76,7 +77,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft Certified: Azure Administrator Associate](https://www.microsoft.com/learning/azure-administrator.aspx)
 - [Microsoft Certified: Azure Developer Associate](https://www.microsoft.com/learning/azure-developer.aspx)
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
-- [Microsoft Certified: Azure DevOps Expert](https://www.microsoft.com/learning/azure-devops.aspx)
+- [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
@@ -97,7 +98,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/powerapps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
 - [Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
 - [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2020년 6월 30일 사용 중지), Microsoft Dynamics 365 for Operations (2020년 6월 30일 사용 중지), SQL 2016 BI Development (2020년 6월 30일 사용 중지), SQL 2016 Database Administration (2020년 6월 30일 사용 중지), SQL 2016 Database Development (2020년 6월 30일 사용 중지), SQL Server 2012/2014 (2020년 6월 30일 사용 중지), Universal Windows Platform (2020년 6월 30일 사용 중지), Web Applications (2020년 6월 30일 사용 중지), Windows Server 2012 (2020년 6월 30일 사용 중지), 또는 Windows Server 2016 (2020년 6월 30일 사용 중지)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (2020년 6월 30일 사용 중지), Data Management and Analytics (2020년 6월 30일 사용 중지), Productivity (2020년 6월 30일 사용 중지), 또는 Core Infrastructure (2020년 6월 30일 사용 중지)
@@ -134,9 +135,9 @@ Microsoft Office Specialist이지만 Microsoft Certification ID (ID)가 없는 �
 MCT 등록 도구의 용도:
 
 - **MCT 프로그램 요건 검토 및 MCT 프로그램 가이드와 계약 서명.** 응시자가 제공하는 전자 서명은 MCT 이용 약관에 대한 응시자의 동의를 의미합니다.
--**프로필 정보 업데이트.** 프로필에 기입하신 정보는 MCT 관련 커뮤니케이션을 위해 사용됩니다.
--**고용 상태 명시.** Learning Partner 또는 Microsoft Imagine Academy에 재직 중이신 경우에는 해당 ID 번호를 명시해주시기 바랍니다.
--**결제 방법 선택.** 프로그램 수수료는 귀하의 소속 국가/지역 및 고용 상태에 따라 상이합니다. 귀하의 소속 국가/지역의 MCT 및 MCT Alumni 멤버십 수수료에 대한 정보는 페이지 하단의 검색 툴을 사용하여 확인하실 수 있습니다.
+- **프로필 정보 업데이트.** 프로필에 기입하신 정보는 MCT 관련 커뮤니케이션을 위해 사용됩니다.
+- **고용 상태 명시.** Learning Partner 또는 Microsoft Imagine Academy에 재직 중이신 경우에는 해당 ID 번호를 명시해주시기 바랍니다.
+- **결제 방법 선택.** 프로그램 수수료는 귀하의 소속 국가/지역 및 고용 상태에 따라 상이합니다. 귀하의 소속 국가/지역의 MCT 및 MCT Alumni 멤버십 수수료에 대한 정보는 페이지 하단의 검색 툴을 사용하여 확인하실 수 있습니다.
 
 **참고** Learning Partner에 속한 회사의 직원이며 고용주가 MCT 프로그램 비용을 대신 지불하는 경우에는 다음 절차를 따르십시오.
 

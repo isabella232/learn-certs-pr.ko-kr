@@ -2,14 +2,16 @@
 title: 'Microsoft Certified: Azure Data Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure Data Engineer Associate'
-  description: Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
+  description: 'Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.'
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
+summary: |-
+  Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
 subTitle: Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
 levels:
 - intermediate
 skills:
+- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - 데이터 저장소 솔루션 구현
 - 데이터 처리 관리 및 개발
 - 솔루션 모니터링 및 최적화
@@ -42,27 +44,22 @@ paths:
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.modern-data-warehouse
-- uid: learn.data-science
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
 - uid: exam.dp-200
 - uid: exam.dp-201
 resources:
-- title: 인증서 학습 과정
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Azure Data Engineer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWuAzL
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
-- title: 재응시하기
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
