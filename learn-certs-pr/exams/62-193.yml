@@ -1,22 +1,21 @@
 ### YamlMime:Examination
 title: Technology Literacy for Educators
 metadata:
-  title: '시험 62-193: Technology Literacy for Educators'
-  description: '시험 62-193: Technology Literacy for Educators'
+  title: 'Exam 62-193: Technology Literacy for Educators'
+  description: 'Exam 62-193: Technology Literacy for Educators'
 uid: exam.62-193
 displayName: 62-193
-summary: >-
+summary: |-
   이 시험은 교육자 지망생, 현직 교육자, 교수 교육 및 예비 교수 교육생, 교육 관리 담당자 또는 기타 자격 검증을 원하는 응시자를 대상으로 실시됩니다.
-
 
   MCE&#58; 교육자용 기술 이해도 측정 인증 시험은 21CLD(21세기형 교육 설계) 체계로 측정된 타당하고 신뢰할 수 있는 역량을 증명하기 위해 고안된 중간 수준의 시험입니다.
 subTitle: 이 시험은 교육자 지망생, 현직 교육자, 교수 교육 및 예비 교수 교육생, 교육 관리 담당자 또는 기타 자격 검증을 원하는 응시자를 대상으로 실시됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 providers:
   - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2F62-193
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=62-193&examname=Technology%20Literacy%20for%20Educators&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F62-193
   - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+    examUrl: http://www.certiport.com/locator
 locales:
 - en
 - de
@@ -27,13 +26,14 @@ locales:
 - ru
 - pl
 - ja
-levels:
+- tr
+levels: 
 - beginner
 skills:
 - 학생 협업 능력 촉진
 - 능숙한 커뮤니케이션 촉진
 - 지식 구축 촉진
-- 자기 관리 촉진
+- 자체 규제 촉진
 - 실제 환경의 문제 해결 및 혁신 촉진
 - 학생의 ICT(정보 통신 도구) 사용 촉진
 - 유능한 교육자가 되기 위한 ICT 활용
@@ -49,8 +49,8 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md

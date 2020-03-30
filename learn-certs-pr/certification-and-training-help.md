@@ -6,24 +6,20 @@ author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
-ms.date: 2019 년 07 월 30 일
+ms.date: 07/30/2019
 ms.author: micsullivan
 ---
 # Microsoft 교육 및 인증 도움말
 
 Microsoft 교육 및 인증에 관하여 궁금한 점이 있으십니까? [Microsoft Learn](/learn/certifications/)을 방문하면 Microsoft 교육, 인증, 시험, MOC (Microsoft Official Courses) 등에 대한 대부분의 질문에 대한 답변을 볼 수 있습니다.
 
-아직 궁금한 게 있으세요? 아래 지원 옵션을 참조하세요.
+Microsoft Official Courseware(MOC)에 대해 궁금한 점이 더 있습니까?  아래 지원 옵션을 참조하세요.
 
-## 교육 도움말
-
-아래 연락처 옵션은 Microsoft Official Courseware(MOC) 전용임을 유의하시기 바랍니다.  Microsoft 인증 또는 시험 관련 도움이 필요하면 아래의 인증 도움말 섹션을 참조하십시오.
-
-| 지원 분야 | 연락처 정보 |
-| ------------- | --- |
-| **Microsoft Official Courses (MOC)** | **전화:** (855) 507-6283<br/> 월요일 ~ 금요일: 4:30 A.M.–5:00 P.M. 태평양 시간<br/><br/> [연락처](https://support.microsoft.com/en-us/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en&SC=US) <br/> 영업일 기준 2 일 이내 응답 <br/><br/>|
+인증 및 교육 지원을 원하는 고객인 경우 응답 시간이 예상보다 길다는 점에 유의하십시오. 모든 문의 사항을 최대한 빨리 처리하기 위해 노력하고 있으니 조금만 더 기다려 주시면 감사하겠습니다.
 
 ## MOC 지역 연락처 정보
+
+아래 연락처 옵션은 Microsoft Official Courseware(MOC) 전용임을 유의하시기 바랍니다.  Microsoft 인증 또는 시험 관련 도움이 필요하면, [인증 도움말](/learn/certifications/help)을 방문하십시오.
 
 | 국가 | 전화번호 + 언어 | 이메일 | 추가 정보 | 연락처 세부 정보 |
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -131,4 +127,4 @@ Microsoft 교육 및 인증에 관하여 궁금한 점이 있으십니까? [Micr
 
 ## 인증 도움말
 
-Microsoft 인증에 대한 도움이 필요하면, [여기를 클릭하십시오](https://docs.microsoft.com/learn/certifications/help).
+Microsoft 인증에 대한 도움이 필요하면, [여기를 클릭하십시오](/learn/certifications/help).
