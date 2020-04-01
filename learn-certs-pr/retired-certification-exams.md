@@ -1,7 +1,8 @@
 ---
-title: Microsoft 중단 시험 | Microsoft Docs
-description: Microsoft 중단 시험
+title: Microsoft Retired Exam | Microsoft Docs
+description: Microsoft Retired Exam
 documentationcenter: NA
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
@@ -14,25 +15,54 @@ ms.author: micsullivan
 
 | 2020년 6월 30일 중단 예정 | |
 | --- | --- |
-| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 사용자 지정 및 구성 |  |
-| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Microsoft Dynamics 365 for Finance and Operations 개발, 확장 및 배포 |  |
-
-| 2019년 12월 31일 중단 예정 | |
-| --- | --- |
-| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx): Microsoft PPM 에 의한 프로젝트 및 포트폴리오 관리 |  |
-| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx): Microsoft 시스템 센터 구성 관리자 관리 및 cloud 서비스 통합 |  |
-| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx): 소프트웨어 자산 관리 (SAM) - Core |  |
-| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx): Windows 10용 OEM 제조 및 배포 |  |
-| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx): Microsoft Dynamics CRM 온라인 배포|  |
-| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx): Microsoft Dynamics CRM 사용자 지정 및 구성 |  |
-| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx): Microsoft Dynamics CRM 설치 |  |
-| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx): Microsoft Dynamics CRM 2016 온라인 배포 |  |
-| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx): Microsoft Dynamics CRM 2016 설치 |  |
-| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx): Microsoft Dynamics CRM 2016 사용자 지정 및 구성 |  |
-| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx): Microsoft Dynamics CRM 2016 Sales |  |
-| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx): Microsoft Dynamics CRM 2016 Customer Service |  |
+| [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
+| [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
+| [70-339](https://www.microsoft.com/learning/exam-70-339.aspx): Managing Microsoft SharePoint Server 2016 |  |
+| [70-345](https://www.microsoft.com/learning/exam-70-345.aspx): Designing and Deploying Microsoft Exchange Server 2016 |  |
+| [70-357](https://www.microsoft.com/learning/exam-70-357.aspx): Developing Mobile Apps |  |
+| [70-410](https://www.microsoft.com/learning/exam-70-410.aspx): Installing and Configuring Windows Server 2012 |  |
+| [70-411](https://www.microsoft.com/learning/exam-70-411.aspx): Administering Windows Server 2012 |  |
+| [70-412](https://www.microsoft.com/learning/exam-70-412.aspx): Configuring Advanced Windows Server 2012 Services  |  |
+| [70-413](https://www.microsoft.com/learning/exam-70-413.aspx): Designing and Implementing a Server Infrastructure |  |
+| [70-414](https://www.microsoft.com/learning/exam-70-414.aspx): Implementing an Advanced Server Infrastructure |  |
+| [70-417](https://www.microsoft.com/learning/exam-70-417.aspx): Upgrading Your Skills to MCSA Windows Server 2012 |  |
+| [70-461](https://www.microsoft.com/learning/exam-70-461.aspx): Querying Microsoft SQL Server 2012/2014 |  |
+| [70-462](https://www.microsoft.com/learning/exam-70-462.aspx): Administering Microsoft SQL Server 2012/2014 Databases |  |
+| [70-463](https://www.microsoft.com/learning/exam-70-463.aspx): Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 |  |
+| [70-464](https://www.microsoft.com/learning/exam-70-464.aspx): Developing Microsoft SQL Server Databases |  |
+| [70-465](https://www.microsoft.com/learning/exam-70-465.aspx): Designing Database Solutions for Microsoft SQL Server |  |
+| [70-466](https://www.microsoft.com/learning/exam-70-466.aspx): Implementing Data Models and Reports with Microsoft SQL Server |  |
+| [70-467](https://www.microsoft.com/learning/exam-70-467.aspx): Designing Business Intelligence Solutions with Microsoft SQL Server |  |
+| [70-480](https://www.microsoft.com/learning/exam-70-480.aspx): Programming in HTML5 with JavaScript and CSS3 |  |
+| [70-483](https://www.microsoft.com/learning/exam-70-483.aspx): Programming in C# |  |
+| [70-486](https://www.microsoft.com/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications |  |
+| [70-487](https://www.microsoft.com/learning/exam-70-487.aspx): Developing Microsoft Azure and Web Services |  |
+| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack |  |
+| [70-705](https://www.microsoft.com/learning/exam-70-705.aspx): Designing and Providing Microsoft Licensing Solutions to Large Organizations |  |
+| [70-740](https://www.microsoft.com/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016 |  |
+| [70-741](https://www.microsoft.com/learning/exam-70-741.aspx): Networking with Windows Server 2016 |  |
+| [70-742](https://www.microsoft.com/learning/exam-70-742.aspx): Identity with Windows Server 2016 |  |
+| [70-743](https://www.microsoft.com/learning/exam-70-743.aspx): Upgrading Your Skills to MCSA: Windows Server 2016 |  |
+| [70-744](https://www.microsoft.com/learning/exam-70-744.aspx): Securing Windows Server 2016 |  |
+| [70-745](https://www.microsoft.com/learning/exam-70-745.aspx): Implementing a Software-Defined Datacenter |  |
+| [70-761](https://www.microsoft.com/learning/exam-70-761.aspx): Querying Data with Transact-SQL |  |
+| [70-762](https://www.microsoft.com/learning/exam-70-762.aspx): Developing SQL Databases |  |
+| [70-764](https://www.microsoft.com/learning/exam-70-764.aspx): Administering a SQL Database Infrastructure |  |
+| [70-765](https://www.microsoft.com/learning/exam-70-765.aspx): Provisioning SQL Databases |  |
+| [70-767](https://www.microsoft.com/learning/exam-70-767.aspx): Implementing a Data Warehouse using SQL |  |
+| [70-768](https://www.microsoft.com/learning/exam-70-768.aspx): Developing SQL Data Models |  |
+| [70-777](https://www.microsoft.com/learning/exam-70-777.aspx): Implementing Microsoft Azure Cosmos DB Solutions |  |
+| [70-778](https://www.microsoft.com/learning/exam-70-778.aspx): Analyzing and Visualizing Data with Power BI |  |
+| [70-779](https://www.microsoft.com/learning/exam-70-779.aspx): Analyzing and Visualizing Data with Microsoft Excel |  |
+| [MB2-716](https://www.microsoft.com/learning/exam-mb2-716.aspx): Microsoft Dynamics 365 Customization and Configuration |  |
+| [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |  |
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
+
+| 2020년 5월 31일 일요일 중단 예정 | |
+| --- | --- |
+| [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
 ## 최근 중단된 시험
 
@@ -40,477 +70,489 @@ ms.author: micsullivan
 
 | ITPro/Developer| | |
 | --- | --- | --- |
-| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure 인프라 및 배포 | 2019년 5월 1일
-| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure 통합 및 보안 | 2019년 5월 1일
-| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure 관리 인증 변환 | 2019년 6월 30일
-| [AZ-200](https://www.microsoft.com/learning/exam-AZ-200.aspx) | Microsoft Azure 개발자 핵심 솔루션 (2018년 9월 24일) | 2019년 1월 3일
-| [AZ-201](https://www.microsoft.com/learning/exam-AZ-201.aspx) | Microsoft Azure 개발자 고급 솔루션 (2018년 9월 24일) | 2019년 1월 3일
-| [AZ-202](https://www.microsoft.com/learning/exam-AZ-202.aspx) | Microsoft Azure 개발자 인증 전환 (2018년 9월 24일) | 2019년 3월 31일
-| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect 인증 변환 | 2019년 6월 30일
-| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator 인증 전환 | 2019년 9월 30일
-| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator 인증 전환 | 2019년 9월 30일
-| 70-246 | System Center 2012 에 의한 사설 클라우드 모니터링 및 운영| 2017년 12월 31일
-| 70-247 | 사설 클라우드 구성 및 배포 | 2017년 12월 31일
-| [70-331](https://www.microsoft.com/learning/exam-70-331.aspx) | Microsoft SharePoint Server 2013 핵심 솔루션| 2019년 3월 31일
-| [70-332](https://www.microsoft.com/learning/exam-70-332.aspx) | Microsoft SharePoint Server 2013 고급 솔루션| 2019년 3월 31일
-| [70-341](https://www.microsoft.com/learning/exam-70-341.aspx) | Microsoft Exchange Server 2013 핵심 솔루션| 2019년 3월 31일
-| [70-342](https://www.microsoft.com/learning/exam-70-342.aspx) | Microsoft Exchange Server 2013 고급 솔루션| 2019년 3월 31일
-| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 ID 및 요구사항 관리 | 2019년 4월 30일
-| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Office 365 Services 사용 | 2019년 4월 30일
-| 70-398 | 기업의 장치 계획 및 관리 | 2018년 7월 31일
-| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Cloud Data Platform Solutions 설계 및 구현 | 2019년 6월 30일
-| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | 빅 데이터 분석 솔루션 설계와 이행 | 2019년 6월 30일
-| 70-488 | SharePoint Server 2013 핵심 솔루션 개발 | 2018년 7월 31일
-| 70-489 | SharePoint Server 2013 고급 솔루션 개발 | 2018년 7월 31일
-| [70-496](https://www.microsoft.com/learning/exam-70-496.aspx) | Visual Studio Team Foundation Server 관리| 2018년 12월 31일
-| [70-497](https://www.microsoft.com/learning/exam-70-497.aspx) | Visual Studio에 의한 소프트웨어 테스팅 | 2018년 12월 31일
-| [70-498](https://www.microsoft.com/learning/exam-70-498.aspx) | Visual Studio 로 연속 가치 제공| 2018년 12월 31일
-| [70-532](https://www.microsoft.com/learning/exam-70-532.aspx) | Microsoft Azure 솔루션 개발 | 2018년 12월 31일
-| [70-533](https://www.microsoft.com/learning/exam-70-533.aspx) | Microsoft Azure Infrastructure 솔루션 구현| 2018년 12월 31일
-| [70-534](https://www.microsoft.com/learning/exam-70-534.aspx) | Microsoft Azure 솔루션 설계| 2017년 12월 31일
-| [70-535](https://www.microsoft.com/learning/exam-70-535.aspx) | Microsoft Azure 솔루션 설계 | 2018년 12월 31일
-| 70-680 | Windows 7, 구성 | 2018년 7월 31일
+| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019년 5월 1일
+| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019년 5월 1일
+| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019년 6월 30일
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018년 9월 24일) | 2019년 1월 3일
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018년 9월 24일) | 2019년 1월 3일
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018년 9월 24일) | 2019년 3월 31일
+| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019년 6월 30일
+| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019년 9월 30일
+| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 2019년 9월 30일
+| 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 2017년 12월 31일
+| 70-247 | Configuring and Deploying a Private Cloud | 2017년 12월 31일
+| 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 2019년 3월 31일
+| 70-332 | Advanced Solutions of Microsoft SharePoint Server 2013 | 2019년 3월 31일
+| 70-341 | Core Solutions of Microsoft Exchange Server 2013 | 2019년 3월 31일
+| 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 2019년 3월 31일
+| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 2019년 4월 30일
+| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | 2019년 4월 30일
+| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 2019년 7월 31일
+| 70-398 | Planning for and Managing Devices in the Enterprise | 2018년 7월 31일
+| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Designing and Implementing Cloud Data Platform Solutions | 2019년 6월 30일
+| [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 2019년 6월 30일
+| 70-488 | Developing SharePoint Server 2013 Core Solutions | 2018년 7월 31일
+| 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 2018년 7월 31일
+| 70-496 | Administering Visual Studio Team Foundation Server | 2018년 12월 31일
+| 70-497 | Software Testing with Visual Studio | 2018년 12월 31일
+| 70-498 | Delivering Continuous Value with Visual Studio | 2018년 12월 31일
+| 70-532 | Developing Microsoft Azure Solutions | 2018년 12월 31일
+| 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 2018년 12월 31일
+| 70-534 | Architecting Microsoft Azure Solutions | 2017년 12월 31일
+| 70-535 | Architecting Microsoft Azure Solutions | 2018년 12월 31일
+| 70-680 | Windows 7, Configuring | 2018년 7월 31일
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 2018년 7월 31일
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 2018년 7월 31일
-| [70-695](https://www.microsoft.com/learning/exam-70-695.aspx) | Windows Desktops 및 엔터프라이즈 애플리케이션 배포 | 2019년 3월 31일
-| 70-696 | System Center Configuration Manager 및 Intune 관리 | 2018년 3월 31일
-| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Windows 장치 구성| 2019년 4월 30일
-| [70-698](https://www.microsoft.com/learning/exam-70-698.aspx) | Windows 10 설치 및 구성 | 2019년 3월 31일
-| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Microsoft R로 빅데이터 분석 | 2019년 6월 30일
-| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Azure Machine Learning으로 Cloud Data Science 수행 | 2019년 6월 30일
-| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Microsoft HDInsight상의 데이터 엔지니어링 수행 | 2019년 6월 30일
-| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Microsoft Cloud Services에서 빅 데이터 엔지니어링 수행 | 2019년 6월 30일
-| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Microsoft Project 2013 프로젝트 관리 | 2019년 7월 31일
-| 74-344 | Project Server 2013에서 프로그램 및 프로젝트 관리 | 2017년 12월 31일
-| 74-409 | Windows Server Hyper-V 및 System Center를 사용한 Server Virtualization | 2018년 7월 31일
+| 70-695 | Deploying Windows Desktops and Enterprise Applications | 2019년 3월 31일
+| 70-696 | Administering System Center Configuration Manager and Intune | 2018년 3월 31일
+| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configuring Windows Devices | 2019년 4월 30일
+| 70-698 | Installing and Configuring Windows 10 | 2019년 3월 31일
+| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx) | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 2019년 12월 31일
+| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx) | Software Asset Management (SAM) - Core | 2019년 12월 31일
+| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx) | OEM Manufacturing and Deployment for Windows 10 | 2019년 12월 31일
+| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Analyzing Big Data with Microsoft R | 2019년 6월 30일
+| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Perform Cloud Data Science with Azure Machine Learning | 2019년 6월 30일
+| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Perform Data Engineering on Microsoft Azure HDInsight | 2019년 6월 30일
+| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Perform Big Data Engineering on Microsoft Cloud Services | 2019년 6월 30일
+| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019년 7월 30일
+| 74-344 | Managing Programs and Projects with Project Server 2013 | 2017년 12월 31일
+| 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 2018년 7월 31일
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019년 9월 30일
-| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | 블록 기반 언어(터치 개발)를 사용한 프로그래밍 소개 | 2019년 8월 7일
+| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019년 8월 07일
 
 <br/>
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB2-709](https://www.microsoft.com/learning/exam-MB2-709.aspx) | Microsoft Dynamics Marketing | 2017년 12월 31일
-| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 고객 관련 온라인 효율화 | 2019년 6월 30일
-| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | MB2-717 Microsoft Dynamics 365 for Sales | 2019년 6월 30일
+| [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 2019년 12월 31일
+| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 2019년 12월 31일
+| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 2019년 12월 31일
+| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 2019년 12월 31일
+| MB2-709 | Microsoft Dynamics Marketing | 2017년 12월 31일
+| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | 2019년 12월 31일
+| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | 2019년 12월 31일
+| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | 2019년 12월 31일
+| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx) | Microsoft Dynamics CRM 2016 Sales | 2019년 12월 31일
+| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx) | Microsoft Dynamics CRM 2016 Customer Service | 2019년 12월 31일
+| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 customer engagement Online Deployment | 2019년 06월 30일
+| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 2019년 6월 30일
 | [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 2019년 8월 31일
 | [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 2019년 8월 31일
 | [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 2019년 6월 30일
-| MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 설치 및 구성 | 2017년 12월 31일
+| MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration | 2017년 12월 31일
 | MB6-890 | Microsoft Dynamics AX Development Introduction | 2017년 12월 31일
 | MB6-892 | Microsoft Dynamics AX Distribution and Trade | 2017년 12월 31일
 | MB6-893 | Microsoft Dynamics AX Financials | 2017년 12월 31일
-| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | 재무 및 운영을 위한 Microsoft Dynamics 365에서 재무 관리 분야 | 2019년 8월 31일
-| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Microsoft Dynamics 365 재무 및 운영에서 배포 및 거래 | 2019년 8월 31일
+| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 2019년 8월 31일
+| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 2019년 8월 31일
 
 ## 다른 만료된 시험
 
 | ITPro/Developer | | |
 | --- | --- | --- |
-| 70-086 | Microsoft Systems Management Server 2.0 구현 및 지원 | 2008
-| 70-089 | Microsoft Systems Management Server 2003  설계, 구현 및 관리 | 2010년 10월 31일
-| 70-123 | Software Asset Management (SAM) 프로그램 계획, 구현 및 유지보수 | 2010년 10월 31일
-| 70-158 | Microsoft Forefront ID와 접근 관리, 구성| 2015년 7월 31일
-| 70-162 | TS: EndPoint 및 Server용 Forefront Protection, 구성 | 2012년 7월 31일
-| 70-169 | TS: Windows Small Business Server 7, 구성 | 2013년 7월 31일
-| 70-177 | TS: Microsoft Project Server 2010, 구성 | 2015년 7월 31일
-| 70-178 | TS: Microsoft Project 2010를 사용한 프로젝트 관리 | 2015년 7월 31일
+| 70-086 | Implementing and Supporting Microsoft Systems Management Server 2.0 | 2008
+| 70-089 | Microsoft Systems Management Server 2003 설계, 구현 및 관리 | 2010년 10월 31일
+| 70-123 | Planning, Implementing, and Maintaining a Software Asset Management (SAM) Program | 2010년 10월 31일
+| 70-158 | Microsoft Forefront Identity & Access Management, Configuring | 2015년 7월 31일
+| 70-162 | TS: Forefront Protection for EndPoint and Server, Configuring | 2012년 7월 31일
+| 70-169 | TS: Windows Small Business Server 7, Configuring | 2013년 7월 31일
+| 70-177 | TS: Microsoft Project Server 2010, Configuring | 2015년 7월 31일
+| 70-178 | TS: Managing Projects with Microsoft Project 2010 | 2015년 7월 31일
 | 70-181 | TS: Windows Embedded Compact 7 | 2013년 7월 31일
-| 70-210 | Microsoft Windows 2000 Professional 설치, 구성 및 관리 | 2008
-| 70-214 | Microsoft Windows 2000 Network에서 보안 구현 및 관리 | 2008
-| 70-215 | Microsoft Windows 2000 Server 설치, 구성 및 관리 | 2008
-| 70-216 | Microsoft Windows 2000 Network Infrastructure 구현 및 관리 | 2008
-| 70-217 | Microsoft Windows 2000 Directory Services Infrastructure 구현 및 관리 | 2008
-| 70-218 | Microsoft Windows 2000 네트워크 환경 관리 | 2008
-| 70-219 | Microsoft Windows 2000 Directory Services Infrastructure 설계 | 2008
-| 70-220 | Microsoft Windows 2000 Network 보안 설계| 2008
-| 70-221 | Microsoft Windows 2000 Network Infrastructure 설계 | 2008
-| 70-222 | Microsoft Windows NT 4.0에서 Microsoft Windows 2000으로 마이그레이션 | 2008
-| 70-223 | Microsoft Windows 2000 Advanced Server를 사용하여 Microsoft 클러스터링 서비스 설치, 구성, 관리 | 2008
-| 70-224 | Microsoft Exchange 2000 Server 설치, 구성 및 관리 | 2008
-| 70-225 | Microsoft Exchange 2000 서버를 사용한 메시징 인프라 설계와 배포 | 2008
-| 70-226 | Microsoft Windows 2000 Server 기술을 사용한 고가용성 웹 솔루션 설계 | 2008
-| 70-227 | Microsoft ISA (Internet Security and Acceleration) Server 2000, Enterprise Edition 설치, 구성 및 관리 | 2008
-| 70-228 | Microsoft SQL Server 2000 Enterprise Edition 설치, 구성 및 관리 | 2019년 3월 31일
-| 70-229 | Microsoft SQL Server 2000 Enterprise Edition을 사용한 데이터베이스 설계 및 구현 | 2009년 3월 31일
-| 70-230 | Microsoft BizTalk Server 2000 Enterprise Edition을 사용한 솔루션 설계 및 구현 | 2008
-| 70-232 | Microsoft Windows 2000 Server 기술 및 Microsoft Application Center 2000을 사용한 고가용성 웹 솔루션 구현 및 유지 보수 | 2008
-| 70-234 | Microsoft Commerce Server 2000을 사용한 솔루션 설계 및 구현 | 2008
-| 70-235 | TS: Microsoft BizTalk Server 2006 를 사용한 비즈니스 프로세스 및 통합 솔루션 개발 | 2011년 6월 30일
-| 70-236 | TS: Exchange Server 2007, 구성 | 2012년 9월 30일
-| 70-237 | Pro: Microsoft Exchange Server 2007를 사용한 메시징 솔루션 설계 | 2012년 9월 30일
-| 70-238 | Pro: Microsoft Exchange Server 2007를 사용한 메시징 솔루션 배포 | 2012년 9월 30일
-| 70-241 | TS: Microsoft BizTalk Server 2006 R2를 사용한 비즈니스 프로세스 및 통합 솔루션 개발 | 2011년 6월 30일
-| 70-243 | System Center 2012 Configuration Manager 관리 및 배포 | 2017년 7월 31일
-| 70-244 | Microsoft Windows NT Server 4.0 Network 지원 및 유지 보수 | 2008
-| 70-262 | Microsoft Office Live Communications Server 2005 구현, 관리 및 문제 해결 | 2010년 10월 31일
-| 70-270 | Microsoft Windows XP Professional 설치, 구성 및 관리 |2013년 7월 31일
-| 70-271 | Microsoft Windows XP 운영 체제에서 문제 해결이 필요한 사용자 지원 | 2011년 6월 30일
-| 70-272 | Microsoft Windows XP 운영 체제에서 사용자 지원 및 데스크톱 애플리케이션 문제 해결 | 2011년 6월 30일
-| 70-281 | Enterprise 프로젝트 관리 솔루션 계획, 배포 및 관리 | 2010년 10월 31일
-| 70-282 | 중소 규모 비즈니스를 위한 네트워크 솔루션 계획, 배포 및 관리 | 2011년 9월 30일
-| 70-284 | Microsoft Exchange Server 2003  구현 및 관리 | 2011년 3월 31일
-| 70-285 | Microsoft Exchange Server 2003 구성 설계 | 2011년 3월 31일
-| 70-290 | Microsoft Windows NT Server 2003 Environment 관리 및 유지 보수 | 2013년 7월 31일
-| 70-291 | Microsoft Windows Server 2003 Network Infrastructure 구현, 관리, 유지 보수 | 2013년 7월 31일
-| 70-292 | Windows 2000에서 MCSA 인증을 위한 Windows Server 2003 환경 관리 및 유지 보수 | 2008
-| 70-293 | Microsoft Windows Server 2003 Network Infrastructure 계획 및 유지 보수 | 2013년 7월 31일
-| 70-294 | Microsoft Windows Server 2003 Active Directory Infrastructure 계획, 구현 및 유지보수 | 2013년 7월 31일
-| 70-296 | Windows 2000에서 MCSE 인증을 위한 Windows Server 2003 환경 계획, 구현 및 유지 보수 | 2008
-| 70-297 | Microsoft Windows Server 2003 Active Directory 및 Network Infrastructure 설계 | 2013년 7월 31일
-| 70-298 | Microsoft Windows 2003 Server Network 보안 설계| 2013년 7월 31일
-| 70-299 | Microsoft Windows Server 2003 Network에서 보안 구현 및 관리 | 2013년 7월 31일
-| 70-300 | 요구 사항 분석 및 Microsoft .NET Solution Architectures 정의 | 2009년 3월 31일
-| 70-301 | Microsoft Solutions Framework 3.0을 사용하여 IT 프로젝트 관리, 구성 및 제공 | 2009년 3월 31일
-| 70-305 | Microsoft Visual Basic .NET 및 Microsoft Visual Studio .NET을 사용한 웹 애플리케이션 개발 및 구현 | 2009년 3월 31일
-| 70-306 | Microsoft Visual Basic .NET 및 Microsoft Visual Studio .NET을 사용한 Windows 기반 애플리케이션 개발 및 구현 | 2009년 3월 31일
-| 70-310 | Microsoft Visual Basic .NET 및 Microsoft .NET Framework를 사용한 XML 웹 서비스 및 서버 구성 요소 개발 | 2009년 3월 31일
-| 70-315 | Microsoft Visual C# .NET 및 Microsoft Visual Studio .NET을 사용한 웹 애플리케이션 개발 및 구현 | 2009년 3월 31일
-| 70-316 | Microsoft Visual C#.NET 및 Microsoft Visual Studio .NET을 사용한 Windows 기반 애플리케이션 개발 및 구현 | 2009년 3월 31일
-| 70-320 | Microsoft Visual C# 및 Microsoft .NET Framework를 사용한 XML 웹 서비스 및 서버 구성 요소 개발 | 2009년 3월 31일
-| 70-321 | Office 365 배포 | 2014년 4월 1일
-| 70-330 | Microsoft Visual Basic .NET을 사용한 애플리케이션 보안 구현 | 2009년 3월 31일
-| 70-336 | Microsoft Lync Server 2013 핵심 솔루션 | 2016년 3월 30일
-| 70-337 | Microsoft Lync Server 2013을 통한 엔터프라이즈 음성 및 온라인 서비스 | 2016년 3월 30일
-| 70-340 | Microsoft Visual C# NET을 사용한 애플리케이션 보안 구현 | 2009년 3월 31일
-| 70-350 | Microsoft ISA (Internet Security and Acceleration) Server 2004 구현 | 2010년 10월 31일
-| 70-351 | TS: Microsoft 인터넷 보안 및 가속 Server 2006 및 구성 | 2011년 3월 31일
-| 70-354 | Universal Windows Platform – 앱 아키텍쳐와 UX/UI | 2017년 9월 30일
-| 70-355 | Universal Windows Platform – 앱 데이터, 서비스, 코딩 패턴 | 2017년 9월 30일
-| 70-383 |  MCSE 용 재인증: SharePoint | 2017년 3월 31일
-| 70-384 |  MCSE 용 재인증: Communication | 2017년 3월 31일
-| 70-385 |  MCSE 용 재인증: Messaging | 2017년 3월 31일
-| 70-400 | TS: Microsoft System Center 운영 관리자 2007 및 구성 | 2013년 3월 31일
-| 70-401 | TS: Microsoft System Center 구성 관리자 2007, 구성 | 2013년 3월 31일
-| 70-403 | TS: System Center 가상 기계 관리자 2008 및 구성 | 2011년 9월 30일
-| 70-415 | Desktop Infrastructure 구현 | 2016년 1월 31일
-| 70-416 | Desktop Application Environments 구현 | 2016년 1월 31일
-| 70-431 | TS: Microsoft SQL Server 2005 구현 및 유지 관리 | 2011년 6월 30일
-| 70-432 | Microsoft SQL Server 2008 구현 및 유지 관리 | 2016년 7월 31일
-| 70-433 | TS: Microsoft SQL Server 2008 데이터베이스 개발 | 2015년 7월 31일
-| 70-441 | PRO: Microsoft SQL Server 2005를 사용한 데이터베이스 솔루션 설계 | 2011년 6월 30일
-| 70-442 | PRO: Microsoft SQL Server 2005를 사용한 데이터 액세스 최적화 설계 | 2011년 6월 30일
-| 70-443 | PRO: Microsoft SQL Server 2005를 사용한 데이터베이스 Server Infrastructure 설계 |  2011년 6월 30일
-| 70-444 | PRO: Microsoft SQL Server 2005를 사용한 데이터베이스 관리 솔루션 최적화 및 유지 보수 |  2011년 6월 30일
-| 70-444 | TS: Bing Maps Platform, 애플리케이션 개발 |  2011년 12월 31일
-| 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ 개발 및 유지 관리 | 2011년 6월 30일
-| 70-446 | PRO: Microsoft SQL Server 2005를 사용한 Business Intelligence 솔루션 설계 |  2011년 6월 30일
-| 70-447 | UPGRADE: MCDBA 기술을 MCITP Microsoft SQL Server 2005를 사용한 데이터베이스 관리 인증으로 업데이트 |  2011년 6월 30일
-| 70-448 | Microsoft SQL Server 2008, Business Intelligence ‒ 개발 및 유지 관리 | 2016년 7월 31일
-| 70-450 | PRO: Microsoft SQL Server 2008를 사용한 데이터베이스 관리 솔루션 설계, 최적화 및 유지보수 | 2016년 7월 31일
-| 70-451 | PRO: Microsoft SQL Server 2008를 사용한 데이터베이스 솔루션 및 데이터 액세스 설계 | 2015년 7월 31일
-| 70-452 | PRO: Microsoft SQL Server 2008 Business Intelligence 솔루션 설계 | 2013년 7월 31일
-| 70-453 | Upgrade: MCITP SQL Server 2005 DBA 인증을 MCITP SQL Server 2008 인증으로 업데이트 | 2012년 7월 31일
-| 70-454 | Upgrade: MCITP SQL Server 2005 DBD 인증을 SQL Server 2008 DBD 인증으로 업데이트 | 2012년 7월 31일
-| 70-455 | Upgrade: MCITP SQL Server 2005 BI Developer 인증을 MCITP SQL Server 2008 BI Developer 인증으로 업데이트 | 2012년 7월 31일
-| 70-457 | SQL Server 2008에서 MCTS를 MCSA로 전환: SQL Server 2012, 파트 1| 2016년 7월 31일
-| 70-458 | SQL Server 2008에서 MCTS를 MCSA로 전환: SQL Server 2012, 파트 2| 2016년 7월 31일
-| 70-459 | MCITP 전환: 데이터베이스 관리 2008 인증 또는 MCITP: 데이터베이스 개발자 2008 인증을 MCSE으로: Data Platform | January 31, 20162016년 1월 31일
-| 70-460 | MCITP 전환: Business Intelligence 개발자 2008 인증을 MCSE: Business Intelligence | 2016년 1월 31일
-| 70-469 | MCSE 용 재인증: Data Platform | 2017년 3월 31일
-| 70-470 | MCSE 용 재인증: Business Intelligence | 2017년 3월 31일
-| 70-481 | HTML5 및 JavaScript를 사용한 Windows Store 앱 개발 기초 | 2016년 9월 30일
-| 70-482 | HTML5와 JavaScript를 사용한 고급 Windows Store 앱 개발 | 2016년 9월 30일
-| 70-484 | C#을 사용한 Windows Store 앱 개발 기초 | 2016년 9월 30일
-| 70-485 | C#을 사용한 고급 Windows Store Apps 개발 | 2016년 9월 30일
-| 70-490 | Recertification for MCSD: HTML5 사용 Windows Store 응용 프로그램 | 2017년 3월 31일
-| 70-491 | Recertification for MCSD: C# 사용 Windows Store 앱 | 2017년 3월 31일
-| 70-492 | MCPD 업그레이드: 데이터베이스 개발자 4 인증에서 업그레이드된 MCSD: Web 애플리케이션 | 2016년 9월 30일
-| 70-494 | Recertification for MCSD: Web 애플리케이션 | 2017년 3월 31일
+| 70-210 | Installing, Configuring, and Administering Microsoft Windows 2000 Professional | 2008
+| 70-214 | Implementing and Administering Security in a Microsoft Windows 2000 Network | 2008
+| 70-215 | Installing, Configuring, and Administering Microsoft Windows 2000 Server | 2008
+| 70-216 | Implementing and Administering a Microsoft Windows 2000 Network Infrastructure | 2008
+| 70-217 | Implementing and Administering a Microsoft Windows 2000 Directory Services Infrastructure | 2008
+| 70-218 | Managing a Microsoft Windows 2000 Network Environment | 2008
+| 70-219 | Designing a Microsoft Windows 2000 Directory Services Infrastructure | 2008
+| 70-220 | Designing Security for a Microsoft Windows 2000 Network | 2008
+| 70-221 | Designing a Microsoft Windows 2000 Network Infrastructure | 2008
+| 70-222 | Migrating from Microsoft Windows NT 4.0 to Microsoft Windows 2000 | 2008
+| 70-223 | Installing, Configuring, and Administering Microsoft Clustering Services by Using Microsoft Windows 2000 Advanced Server | 2008
+| 70-224 | Installing, Configuring, and Administering Microsoft Exchange 2000 Server | 2008
+| 70-225 | Designing and Deploying a Messaging Infrastructure with Microsoft Exchange 2000 Server | 2008
+| 70-226 | Designing Highly Available Web Solutions with Microsoft Windows 2000 Server Technologies | 2008
+| 70-227 | Installing, Configuring, and Administering Microsoft Internet Security and Acceleration (ISA) Server 2000, Enterprise Edition | 2008
+| 70-228 | Installing, Configuring, and Administering Microsoft SQL Server 2000 Enterprise Edition | 2009년 3월 31일
+| 70-229 | Designing and Implementing Databases with Microsoft SQL Server 2000 Enterprise Edition | 2009년 3월 31일
+| 70-230 | Designing and Implementing Solutions with Microsoft BizTalk Server 2000, Enterprise Edition | 2008
+| 70-232 | Implementing and Maintaining Highly Available Web Solutions with Microsoft Windows 2000 Server Technologies and Microsoft Application Center 2000 | 2008
+| 70-234 | Designing and Implementing Solutions with Microsoft Commerce Server 2000 | 2008
+| 70-235 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 | 2011년 6월 30일
+| 70-236 | TS: Exchange Server 2007, Configuring | 2012년 9월 30일
+| 70-237 | Pro: Designing Messaging Solutions with Microsoft Exchange Server 2007 | 2012년 9월 30일
+| 70-238 | Pro: Deploying Messaging Solutions with Microsoft Exchange Server 2007 | 2012년 9월 30일
+| 70-241 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2006 R2 | 2011년 6월 30일
+| 70-243 | Administering and Deploying System Center 2012 Configuration Manager | 2017년 7월 31일
+| 70-244 | Supporting and Maintaining a Microsoft Windows NT Server 4.0 Network | 2008
+| 70-262 | Microsoft Office Live Communications Server 2005 – Implementing, Managing, and Troubleshooting | 2010년 10월 31일
+| 70-270 | Installing, Configuring, and Administering Microsoft Windows XP Professional | 2013년 7월 31일
+| 70-271 | Supporting Users and Troubleshooting a Microsoft Windows XP Operating System | 2011년 6월 30일
+| 70-272 | Supporting Users and Troubleshooting Desktop Applications on a Microsoft Windows XP Operating System | 2011년 6월 30일
+| 70-281 | Planning, Deploying, and Managing an Enterprise Project Management Solution | 2010년 10월 31일
+| 70-282 | Planning, Deploying, and Managing a Network Solution for the Small and Medium-Sized Business | 2011년 9월 30일
+| 70-284 | Implementing and Managing Microsoft Exchange Server 2003 | 2011년 3월 31일
+| 70-285 | Designing a Microsoft Exchange Server 2003 Organization | 2011년 3월 31일
+| 70-290 | Managing and Maintaining a Microsoft Windows Server 2003 Environment | 2013년 7월 31일
+| 70-291 | Implementing, Managing, and Maintaining a Microsoft Windows Server 2003 Network Infrastructure | 2013년 7월 31일
+| 70-292 | Managing and Maintaining a Windows Server 2003 Environment for an MCSA Certified on Windows 2000 | 2008
+| 70-293 | Planning and Maintaining a Microsoft Windows Server 2003 Network Infrastructure | 2013년 7월 31일
+| 70-294 | Planning, Implementing, and Maintaining a Microsoft Windows Server 2003 Active Directory Infrastructure | 2013년 7월 31일
+| 70-296 | Planning, Implementing, and Maintaining a Windows Server 2003 Environment for an MCSE Certified on Windows 2003 | 2008
+| 70-297 | Designing a Microsoft Windows Server 2003 Active Directory and Network Infrastructure | 2013년 7월 31일
+| 70-298 | Designing Security for a Microsoft Windows Server 2003 Network | 2013년 7월 31일
+| 70-299 | Implementing and Administering Security in a Microsoft Windows Server 2003 Network | 2013년 7월 31일
+| 70-300 | Analyzing Requirements and Defining Microsoft .NET Solution Architectures | 2009년 3월 31일
+| 70-301 | Managing, Organizing, and Delivering IT Projects by Using Microsoft Solutions Framework 3.0 | 2009년 3월 31일
+| 70-305 | Developing and Implementing Web Applications with Microsoft Visual Basic .NET and Microsoft Visual Studio .NET | 2009년 3월 31일
+| 70-306 | Developing and Implementing Windows-Based Applications with Microsoft Visual Basic .NET and Microsoft Visual Studio .NET | 2009년 3월 31일
+| 70-310 | Developing XML Web Services and Server Components with Microsoft Visual Basic .NET and the Microsoft .NET Framework | 2009년 3월 31일
+| 70-315 | Developing and Implementing Web Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET | 2009년 3월 31일
+| 70-316 | Developing and Implementing Windows-Based Applications with Microsoft Visual C# .NET and Microsoft Visual Studio .NET | 2009년 3월 31일
+| 70-320 | Developing XML Web Services and Server Components with Microsoft Visual C# and the Microsoft .NET Framework | 2009년 3월 31일
+| 70-321 | Deploying Office 365 | 2014년 4월 1일
+| 70-330 | Implementing Security for Applications with Microsoft Visual Basic .NET | 2009년 3월 31일
+| 70-336 | Core Solutions of Microsoft Lync Server 2013 | 2016년 3월 30일
+| 70-337 | Enterprise Voice & Online Services with Microsoft Lync Server 2013 | 2016년 3월 30일
+| 70-340 | Implementing Security for Applications with Microsoft Visual C# .NET | 2009년 3월 31일
+| 70-350 | Implementing Microsoft Internet Security and Acceleration (ISA) Server 2004 | 2010년 10월 31일
+| 70-351 | TS: Microsoft Internet Security and Acceleration Server 2006, Configuring | 2011년 3월 31일
+| 70-354 | Universal Windows Platform – App Architecture and UX/UI | 2017년 9월 30일
+| 70-355 | Universal Windows Platform – App Data, Services, and Coding Patterns | 2017년 9월 30일
+| 70-383 | Recertification for MCSE: SharePoint | 2017년 3월 31일
+| 70-384 | Recertification for MCSE: Communication | 2017년 3월 31일
+| 70-385 | Recertification for MCSE: Messaging | 2017년 3월 31일
+| 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 2013년 3월 31일
+| 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 2013년 3월 31일
+| 70-403 | TS: System Center Virtual Machine Manager 2008, Configuring | 2011년 9월 30일
+| 70-415 | Implementing a Desktop Infrastructure | 2016년 1월 31일
+| 70-416 | Implementing Desktop Application Environments | 2016년 1월 31일
+| 70-431 | TS: Microsoft SQL Server 2005 ‒ Implementation and Maintenance | 2011년 6월 30일
+| 70-432 | Microsoft SQL Server 2008, Implementation and Maintenance | 2016년 7월 31일
+| 70-433 | TS: Microsoft SQL Server 2008, Database Development | 2015년 7월 31일
+| 70-441 | PRO: Designing Database Solutions by Using Microsoft SQL Server 2005 | 2011년 6월 30일
+| 70-442 | PRO: Designing and Optimizing Data Access by Using Microsoft SQL Server 2005 | 2011년 6월 30일
+| 70-443 | PRO: Designing a Database Server Infrastructure by Using Microsoft SQL Server 2005 | 2011년 6월 30일
+| 70-444 | PRO: Optimizing and Maintaining a Database Administration Solution by Using Microsoft SQL Server 2005 | 2011년 6월 30일
+| 70-444 | TS: Bing Maps Platform, Application Development | 2011년 12월 31일
+| 70-445 | TS: Microsoft SQL Server 2005, Business Intelligence ‒ Development and Maintenance | 2011년 6월 30일
+| 70-446 | PRO: Designing a Business Intelligence Solution by Using Microsoft SQL Server 2005 | 2011년 6월 30일
+| 70-447 | UPGRADE: MCDBA Skills to MCITP Database Administrator by Using Microsoft SQL Server 2005 | 2011년 6월 30일
+| 70-448 | Microsoft SQL Server 2008, Business Intelligence Development and Maintenance | 2016년 7월 31일
+| 70-450 | PRO: Designing, Optimizing, and Maintaining a Database Administrative Solution Using Microsoft SQL Server 2008 | 2015년 7월 31일
+| 70-451 | PRO: Designing Database Solutions and Data Access Using Microsoft SQL Server 2008 | 2015년 7월 31일
+| 70-452 | PRO: Microsoft SQL Server 2008, Designing a Business Intelligence Solution | 2013년 7월 31일
+| 70-453 | Upgrade: Transition Your MCITP SQL Server 2005 DBA to MCITP SQL Server 2008 | 2012년 7월 31일
+| 70-454 | Upgrade: Transition Your MCITP SQL Server 2005 DBD to MCITP SQL Server 2008 DBD | 2012년 7월 31일
+| 70-455 | Upgrade: Transition Your MCITP SQL Server 2005 BI Developer to MCITP SQL Server 2008 BI Developer | 2012년 7월 31일
+| 70-457 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 1 | 2016년 7월 31일
+| 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 2 | 2016년 7월 31일
+| 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016년 1월 31일
+| 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 2016년 1월 31일
+| 70-469 | Recertification for MCSE: Data Platform | 2017년 3월 31일
+| 70-470 | Recertification for MCSE: Business Intelligence | 2017년 3월 31일 금요일
+| 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 2016년 9월 30일
+| 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 2016년 9월 30일
+| 70-484 | Essentials of Developing Windows Store Apps Using C# | 2016년 9월 30일
+| 70-485 | Advanced Windows Store App Development Using C# | 2016년 9월 30일
+| 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 2017년 3월 31일
+| 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 2017년 3월 31일
+| 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 2016년 9월 30일
+| 70-494 | Recertification for MCSD: Web Applications | 2017년 3월 31일
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 2017년 3월 31일
-| 70-500 | TS: Microsoft Windows Mobile 5.0, 구현 및 관리 | 2011년 3월 31일
-| 70-501 | TS: Windows Server 2003 호스트 환경, 구성 및 관리 | 2010년 10월 31일
+| 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 2011년 3월 31일
+| 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 2010년 10월 31일
 | 70-502 | TS: Microsoft .NET Framework 3.5 - Windows Presentation Foundation | 2013년 7월 31일
 | 70-503 | TS: Microsoft .NET Framework 3.5 - Windows Communication Foundation | 2013년 7월 31일
 | 70-504 | TS: Microsoft .NET Framework 3.5 – Workflow | 2013년 7월 31일
-| 70-505 | TS: Microsoft .NET Framework 3.5, Windows Forms 애플리케이션 개발 |  2013년 7월 31일
-| 70-506 | TS: Silverlight 4 개발 | 2014년 7월 31일
+| 70-505 | TS: Microsoft .NET Framework 3.5, Windows Forms Application Development | 2013년 7월 31일
+| 70-506 | TS: Silverlight 4, Development | 2014년 7월 31일
 | 70-510 | TS: Visual Studio 2005 Team Foundation Server | 2011년 3월 31일
-| 70-511 | TS: Microsoft .NET Framework 4를 사용한 Windows 애플리케이션 개발 | 2016년 7월 31일
-| 70-512 | TS: Visual Studio Team Foundation Server 2010 관리 | 2014년 7월 31일
-| 70-513 | TS: Microsoft .NET Framework 4를 사용한 Windows Communication Foundation 개발 | 2016년 7월 31일
-| 70-515 | TS: Microsoft .NET Framework 4를 사용한 Web 애플리케이션 개발 | 2016년 7월 31일
-| 70-516 | TS: Microsoft .NET Framework 4를 사용한 데이터 액세스 | 2016년 7월 31일
-| 70-517 | Recertification for MCSD: SharePoint 애플리케이션 | 2017년 3월 31일
-| 70-521 | Upgrade: MCPD .NET Framework 3.5 Windows 개발자 인증을 MCPD .NET Framework 4 Windows 애플리케이션 개발자 인증으로 업데이트 | 2014년 7월 31일
-| 70-523 | Upgrade: MCPD .NET Framework 3.5 웹 개발자 인증을 MCPD .NET Framework 4 웹 개발자 인증으로 업데이트 | 2014년 7월 31일
-| 70-526 | TS: Microsoft .NET Framework 2.0 - Windows 기반 클라이언트 개발 | 2011년 6월 30일
-| 70-528 | TS: Microsoft .NET Framework 2.0 - Web 기반 클라이언트 개발 | 2011년 6월 30일
-| 70-529 | TS: Microsoft .NET Framework 2.0 - 분산 애플리케이션 개발 | 2011년 6월 30일
-| 70-536 | TS: Microsoft .NET Framework - 애플리케이션 개발 기초 | 2013년 7월 31일
-| 70-540 | TS: Microsoft Windows Mobile 5.0 - 애플리케이션 개발 | 2011년 3월 31일
-| 70-541 | TS: Microsoft Windows SharePoint Services 3.0 - 애플리케이션 개발 | 2011년 6월 30일
-| 70-542 | TS: Microsoft Office SharePoint 2007 - 애플리케이션 개발 | 2013년 1월 31일
-| 70-543 | TS: Office용 Visual Studio 2005 도구 | 2011년 3월 31일
-| 70-545 | TS: Microsoft Visio 2007, 애플리케이션 개발 | 2013년 1월 31일
-| 70-547 | PRO: Microsoft .NET Framework를 사용한 웹 기반 애플리케이션 설계 및 개발 | 2011년 6월 30일
-| 70-548 | PRO: Microsoft .NET Framework를 사용한 Windows 기반 애플리케이션 설계 및 개발 | 2011년 6월 30일
-| 70-549 | PRO: Microsoft .NET Framework를 사용한 엔터프라이즈 애플리케이션 설계 및 개발 | 2011년 6월 30일
-| 70-551 | UPGRADE: MCAD 기술 인증에서 Microsoft .NET Framework를 사용한 MCPD 웹 개발자 인증으로 업데이트 | 2011년 6월 30일
-| 70-552 | UPGRADE: MCAD 기술 인증에서 Microsoft .NET Framework를 사용한 MCPD Windows  개발자 인증으로 업데이트 | 2011년 6월 30일
-| 70-553 | UPGRADE: MCSD Microsoft .NET 기술 인증에서 Microsoft .NET Framework를 사용한 MCPD 웹 개발자 인증으로 업데이트: 파트 1 | 2011년 6월 30일
-| 70-554 | UPGRADE: MCSD Microsoft .NET 기술 인증에서 Microsoft .NET Framework를 사용한 MCPD 웹 개발자 인증으로 업데이트: 파트 1 | 2011년 6월 30일
-| 70-555 | TS: Microsoft Office Groove 2007 및 구성 | 2011년 6월 30일
-| 70-556 | TS: Microsoft Office PerformancePoint Server 2007, 애플리케이션 | 2011년 6월 30일
-| 70-557 | TS: Microsoft Forefront Client 및 Server 및 구성 | 2011년 6월 30일
-| 70-558 | UPGRADE: MCAD 기술 인증에서 Microsoft .NET Framework를 사용한 MCTS Windows 애플리케이션 개발 인증으로 업데이트 | 2011년 6월 30일
-| 70-559 | UPGRADE: MCAD 기술 인증에서 Microsoft .NET Framework를 사용한 MCTS Web 애플리케이션 개발 인증으로 업데이트 | 2011년 6월 30일
-| 70-561 | TS: Microsoft .NET Framework 3.5 - ADO.NET 애플리케이션 개발 | 2013년 7월 31일
-| 70-562 | TS: Microsoft .NET Framework 3.5 - ASP.NET 애플리케이션 개발 | 2013년 7월 31일
-| 70-563 | Pro: Microsoft .NET Framework 3.5를 사용하여 Windows 애플리케이션 설계 및 개발 | 2013년 7월 31일
-| 70-564 | PRO: Microsoft .NET Framework 3.5를 사용하여 ASP.NET 애플리케이션 설계 및 개발 | 2013년 7월 31일
-| 70-565 | PRO: Microsoft .NET Framework 3.5를 사용하여 엔터프라이즈 애플리케이션 설계 및 개발 | 2013년 7월 31일
-| 70-566 | UPGRADE: MCPD Windows 개발자 기술 인증을 MCPD Windows 개발자 3.5 인증으로 업데이트 | 2012년 7월 31일
-| 70-567 | UPGRADE: MCPD 웹 개발자 기술 인증을 MCPD ASP.NET 개발자 3.5 인증으로 업데이트 | 2012년 7월 31일
-| 70-568 | UPGRADE: MCPD Enterprise 애플리케이션 개발자 기술 인증을 MCPD Enterprise 애플리케이션 개발자 3.5 인증으로 업데이트, 파트 1 | 2012년 7월 31일
-| 70-569 | UPGRADE: MCPD Enterprise 애플리케이션 개발자 기술 인증을 MCPD Enterprise 애플리케이션 개발자 3.5 인증으로 업데이트, 파트 2 | 2012년 7월 31일
-| 70-571 | TS: Microsoft Windows Embedded CE 6.0 애플리케이션 개발 | 2013년 7월 31일
-| 70-573 | TS: Microsoft SharePoint 2010, 애플리케이션 개발 | 2016년 7월 31일
-| 70-576 | PRO: Microsoft SharePoint 2010 애플리케이션 설계와 개발 | 2016년 7월 31일
-| 70-577 | TS: Microsoft Windows Embedded Standard 2009, 개발 | 2013년 7월 31일
-| 70-579 | TS: Windows Mobile 6.5 및 구성 | 2011년 12월 31일
-| 70-580 | TS: Windows Mobile 6.5 - 애플리케이션 개발 | 2011년 12월 31일
-| 70-582 | TS: 개발자를 위한 Windows Embedded Standard 7 | 2014년 7월 31일
-| 70-583 | PRO: Microsoft Azure 애플리케이션 설계 및 개발 | 2014년 7월 31일
-| 70-595 | TS: Microsoft BizTalk Server 2010 R2를 사용한 비즈니스 프로세스 및 통합 솔루션 개발 | 2015년 7월 31일
-| 70-599 | Pro: Windows Phone 애플리케이션 설계 및 개발 | 2014년 9월 30일
-| 70-620 | TS: Microsoft Windows Vista Client 구성 | 2013년 7월 31일
-| 70-621 | PRO: MCDST 인증을 MCITP 엔터프라이즈 지원 인증으로 업그레이드 | 2011년 3월 31일
-| 70-622 | Pro: Microsoft 데스트톱 지원 – 기업 | 2013년 7월 31일
-| 70-623 | Pro: Microsoft 데스트톱 지원 – 소비자 | 2013년 7월 31일
-| 70-624 | TS: Windows Vista 클라이언트 및 2007 Microsoft Office System 데스크톱 배포 및 유지 보수 | 2010년 10월 31일
+| 70-511 | TS: Windows Applications Development with Microsoft .NET Framework 4 | 2016년 7월 31일
+| 70-512 | TS: Visual Studio Team Foundation Server 2010, Administration | 2014년 7월 31일
+| 70-513 | TS: Windows Communication Foundation Development with Microsoft .NET Framework 4 | 2016년 7월 31일
+| 70-515 | TS: Web Applications Development with Microsoft .NET Framework 4 | 2016년 7월 31일
+| 70-516 | TS: Accessing Data with Microsoft .NET Framework 4 | 2016년 7월 31일
+| 70-517 | Recertification for MCSD: SharePoint Applications | 2017년 3월 31일
+| 70-521 | Upgrade: Transition your MCPD .NET Framework 3.5 Windows Developer Skills to MCPD .NET Framework 4 Windows Applications Developer | 2014년 7월 31일
+| 70-523 | Upgrade: Transition your MCPD .NET Framework 3.5 Web Developer Skills to MCPD .NET Framework 4 Web Developer | 2014년 7월 31일
+| 70-526 | TS: Microsoft .NET Framework 2.0 – Windows-Based Client Development | 2011년 6월 30일
+| 70-528 | TS: Microsoft .NET Framework 2.0 – Web-Based Client Development | 2011년 6월 30일
+| 70-529 | TS: Microsoft .NET Framework 2.0 – Distributed Application Development | 2011년 6월 30일
+| 70-536 | TS: Microsoft .NET Framework – Application Development Foundation | 2013년 7월 31일
+| 70-540 | TS: Microsoft Windows Mobile 5.0 – Application Development | 2011년 3월 31일
+| 70-541 | TS: Microsoft Windows SharePoint Services 3.0 – Application Development | 2011년 6월 30일
+| 70-542 | TS: Microsoft Office SharePoint Server 2007 - Application Development | 2013년 1월 31일
+| 70-543 | TS: Visual Studio 2005 Tools for Office | 2011년 3월 31일
+| 70-545 | TS: Microsoft Visio 2007, Application Development | 2013년 1월 31일
+| 70-547 | PRO: Designing and Developing Web-Based Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
+| 70-548 | PRO: Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
+| 70-549 | PRO: Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
+| 70-551 | UPGRADE: MCAD Skills to MCPD Web Developer by Using the Microsoft .NET Framework | 2011년 6월 30일
+| 70-552 | UPGRADE: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 2011년 6월 30일
+| 70-553 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 파트 1 | 2011년 6월 30일
+| 70-554 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 파트 1 | 2011년 6월 30일
+| 70-555 | TS: Microsoft Office Groove 2007, Configuring | 2011년 6월 30일
+| 70-556 | TS: Microsoft Office PerformancePoint Server 2007, Applications | 2011년 6월 30일
+| 70-557 | TS: Microsoft Forefront Client and Server, Configuring | 2011년 6월 30일
+| 70-558 | UPGRADE: MCAD Skills to MCTS Windows Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
+| 70-559 | UPGRADE: MCAD Skills to MCTS Web Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
+| 70-561 | TS: Microsoft .NET Framework 3.5, ADO.NET Application Development | 2013년 7월 31일
+| 70-562 | TS: Microsoft .NET Framework 3.5, ASP.NET Application Development | 2013년 7월 31일
+| 70-563 | Pro: Designing and Developing Windows Applications Using the Microsoft .NET Framework 3.5 | 2013년 7월 31일
+| 70-564 | PRO: Designing and Developing ASP.NET Applications Using the Microsoft .NET Framework 3.5 | 2013년 7월 31일
+| 70-565 | PRO: Designing and Developing Enterprise Applications Using the Microsoft .NET Framework 3.5 | 2013년 7월 31일
+| 70-566 | UPGRADE: Transition your MCPD Windows Developer Skills to MCPD Windows Developer 3.5 | 2012년 7월 31일
+| 70-567 | UPGRADE: Transition your MCPD Web Developer Skills to MCPD ASP.NET Developer 3.5 | 2012년 7월 31일
+| 70-568 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, 파트 1 | 2012년 7월 31일
+| 70-569 | UPGRADE: Transition your MCPD Enterprise Application Developer Skills to MCPD Enterprise Application Developer 3.5, 파트 2 | 2012년 7월 31일
+| 70-571 | TS: Microsoft Windows Embedded CE 6.0 Application Development | 2013년 7월 31일
+| 70-573 | TS: Microsoft SharePoint 2010, Application Development | 2016년 7월 31일
+| 70-576 | PRO: Designing and Developing Microsoft SharePoint 2010 Applications | 2016년 7월 31일
+| 70-577 | TS: Microsoft Windows Embedded Standard 2009, Development | 2013년 7월 31일
+| 70-579 | TS: Windows Mobile 6.5, Configuring | 2011년 12월 31일
+| 70-580 | TS: Windows Mobile 6.5, Application Development | 2011년 12월 31일
+| 70-582 | TS: Windows Embedded Standard 7 for Developers | 2014년 7월 31일
+| 70-583 | PRO: Designing and Developing Microsoft Azure Applications | 2014년 7월 31일
+| 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015년 7월 31일 금요일
+| 70-599 | Pro: Designing and Developing Windows Phone Applications | 2014년 9월 30일
+| 70-620 | TS: Configuring Microsoft Windows Vista Client | 2013년 7월 31일
+| 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011년 3월 31일
+| 70-622 | Pro: Microsoft Desktop Support – ENTERPRISE | 2013년 7월 31일
+| 70-623 | Pro: Microsoft Desktop Support – CONSUMER | 2013년 7월 31일
+| 70-624 | TS: Deploying and Maintaining Windows Vista Client and 2007 Microsoft Office System Desktops | 2010년 10월 31일
 | 70-625 | Connected Home Integrator | 2012년 7월 31일
 | 70-626 | Consumer Sales Specialist | 2011년 6월 30일
-| 70-631 | TS: Microsoft Windows SharePoint Services 3.0 및 구성 | 2011년 3월 31일
-| 70-632 | TS: Microsoft Project Office 2007를 사용한 프로젝트 관리 및 기타 프로젝트 관리 | 2013년 1월 31일
-| 70-633 | TS: Microsoft Office Project Server 2007, 프로젝트 관리 | 2013년 1월 31일
-| 70-634 | Pro: Microsoft Office Project Server 2007, 프로젝트 및 프로그램 관리 | 2013년 1월 31일
-| 70-635 | TS: Microsoft Deployment Toolkit 2008, 데스크톱 배포 | 2013년 7월 31일
-| 70-639 | TS: Microsoft Office Project Server 2007, 구성 | 2013년 1월 31일
-| 70-640 | TS: Windows Server 2008 Active Directory 및 구성 | 2017년 7월 31일
-| 70-642 | TS: Windows Server 2008 네트워크 인프라 및 구성 | 2017년 7월 31일
-| 70-643 | TS: Windows Server 2008 Applications 인프라 및 구성 | 2015년 7월 31일
-| 70-646 | Pro: Windows Server 2008 서버 관리자 | 2017년 7월 31일
-| 70-647 | Pro: Windows Server 2008 Enterprise 관리자 | 2015년 7월 31일
-| 70-648 | Windows Server 2003에 관한 MCSA 인증을 Windows Server 2008, 기술 전문가 인증으로 업그레이드 | 2013년 7월 31일
-| 70-649 | TS: Windows Server 2003에 관한 MCSE 인증을 Windows Server 2008, 기술 전문가 인증으로 업그레이드 | 2015년 7월 31일
-| 70-652 | TS: Windows Server Virtualization 및 구성 | 2011년 9월 30일
-| 70-653 | Windows Small Business Server 2008, 구성 | 2012년 7월 31일
-| 70-654 | TS: Windows Essential Business Server 2008, 구성 | 2011년 6월 30일
-| 70-655 | TS: Windows Vista 및 Server Operating Systems, OEM용 사전 설치 | 2011년 6월 30일
-| 70-656 | TS: Microsoft 데스크톱 최적화 팩 및 구성 | 2013년 7월 31일
-| 70-658 | TS: System Center Data Protection Manager 2007 및 구성 | 2013년 7월 31일
-| 70-659 | TS: Windows Server 2008 R2 및 Server Virtualization | 2015년 7월 31일
+| 70-631 | TS: Microsoft Windows SharePoint Services 3.0, Configuring | 2011년 3월 31일
+| 70-632 | TS: Managing Projects with Microsoft Office Project 2007, Managing Projects | 2013년 1월 31일
+| 70-633 | TS: Microsoft Office Project Server 2007, Managing Projects | 2013년 1월 31일
+| 70-634 | Pro: Microsoft Office Project Server 2007, Managing Projects and Programs | 2013년 1월 31일
+| 70-635 | TS: Microsoft Deployment Toolkit 2008, Desktop Deployment | 2013년 7월 31일
+| 70-639 | TS: Microsoft Office Project Server 2007, Configuring | 2013년 1월 31일
+| 70-640 | TS: Windows Server 2008 Active Directory, Configuring | 2017년 7월 31일
+| 70-642 | TS: Windows Server 2008 Network Infrastructure, Configuring | 2017년 7월 31일
+| 70-643 | TS: Windows Server 2008 Applications Infrastructure, Configuring | 2015년 7월 31일
+| 70-646 | Pro: Windows Server 2008, Server Administrator | 2017년 7월 31일
+| 70-647 | Pro: Windows Server 2008, Enterprise Administrator | 2015년 7월 31일
+| 70-648 | Upgrading your MCSA on Windows Server 2003 to Windows Server 2008, Technology Specialist | 2013년 7월 31일
+| 70-649 | TS: Upgrading Your MCSE on Windows Server 2003 to Windows Server 2008, Technology Specialist | 2015년 7월 31일
+| 70-652 | TS: Windows Server Virtualization, Configuring | 2011년 9월 30일
+| 70-653 | Windows Small Business Server 2008, Configuring | 2012년 7월 31일
+| 70-654 | TS: Windows Essential Business Server 2008, Configuring | 2011년 6월 30일
+| 70-655 | TS: Windows Vista and Server Operating Systems, Pre-Installing for OEMs | 2011년 6월 30일
+| 70-656 | TS: Microsoft Desktop Optimization Pack, Configuring | 2013년 7월 31일
+| 70-658 | TS: System Center Data Protection Manager 2007, Configuring | 2013년 7월 31일
+| 70-659 | TS: Windows Server 2008 R2, Server Virtualization | 2015년 7월 31일
 | 70-660 | TS: Windows Internals | 2013년 7월 31일
-| 70-662 | TS: Microsoft Exchange Server 2010, 구성 | 2016년 1월 31일
-| 70-663 | PRO: Microsoft Exchange를 사용한 메시징 솔루션 설계와 배포 | 2016년 1월 31일
-| 70-664 | TS: Microsoft Lync Server 2010, 구성 | 2013년 7월 31일
-| 70-665 | PRO: Microsoft Lync Server 2010, 관리자| 2013년 7월 31일
-| 70-667 | TS: Microsoft SharePoint 2010, 구성 | 2016년 7월 31일
-| 70-668 | PRO: Microsoft SharePoint 2010, 관리자| 2016년 7월 31일
-| 70-669 | TS: Windows Server 2008 R2 및 Desktop Virtualization | 2015년 7월 31일
-| 70-671 | 중소 규모 조직에 대한 Microsoft 볼륨 라이선스 솔루션 설계 및 제공 | 2015년 1월 31일
-| 70-672 | 대규모 조직에 대한 Microsoft 볼륨 라이선스 솔루션 설계 및 제공 | 2015년 1월 31일
-| 70-673 | TS: Software Asset Management (SAM) 설계, 평가, 최적화 | 2017년 3월 31일
-| 70-676 | FAST Enterprise Search Platform, 개발| 2013년 1월 31일
-| 70-681 | TS: Windows 7 및 Office 2010 및 배포 | 2015년 7월 31일
+| 70-662 | TS: Microsoft Exchange Server 2010, Configuring | 2016년 1월 31일
+| 70-663 | PRO: Designing and Deploying Messaging Solutions with Microsoft Exchange | 2016년 1월 31일
+| 70-664 | TS: Microsoft Lync Server 2010, Configuring | 2013년 7월 31일
+| 70-665 | PRO: Microsoft Lync Server 2010, Administrator | 2013년 7월 31일
+| 70-667 | TS: Microsoft SharePoint 2010, Configuring | 2016년 7월 31일
+| 70-668 | PRO: Microsoft SharePoint 2010 Administrator | 2016년 7월 31일
+| 70-669 | TS: Windows Server 2008, R2, Desktop Virtualization | 2015년 7월 31일
+| 70-671 | Designing and Providing Microsoft Volume Licensing Solutions to Small and Medium Organizations | 2015년 1월 31일
+| 70-672 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2015년 1월 31일
+| 70-673 | TS: Designing, Assessing, and Optimizing Software Asset Management (SAM) | 2017년 3월 31일
+| 70-676 | FAST Enterprise Search Platform, Developing | 2013년 1월 31일
+| 70-681 | TS: Windows 7 and Office 2010, Deploying | 2015년 7월 31일
 | 70-682 | Pro: Upgrading to Windows 7 MCITP Enterprise Desktop Support Technician | 2014년 7월 31일
-| 70-683 | TS: Windows 7, OEM용 사전 설치 | 2013년 7월 31일
+| 70-683 | TS: Windows 7, Preinstalling for OEMs | 2013년 7월 31일
 | 70-684 | OEM Reseller | 2014년 7월 31일
-| 70-687 | Windows 8.1 구성 | 2016년 12월 31일
-| 70-688 | Windows 8.1 지원| 2016년 12월 31일
-| 70-689 | MCSA Windows 8으로 기술 업그레이드 | 2016년 12월 31일
-| 70-690 | Windows Server 2008 HPC 환경, 구성 및 관리 | 2013년 7월 31일
-| 70-691 | Windows Server 2008 HPC 환경, 개발 | 2013년 7월 31일
-| 70-692 | MCSA Windows 8으로 Windows XP 기술 업그레이드 | 2016년 12월 31일
-| 70-693 | Pro: Windows Server 2008 R2 및 가상화 관리자 | 2015년 7월 31일
-| 70-694 | Enterprise Desktops 및 앱 가상화 | 2017년 7월 31일
-| 70-699 | Windows Server 2003, MCSA 보안 전문화 기술 업데이트 인증 | 2013녀녀 7월 31일
-| 70-734 | Windows 10 용 OEM 사전설치| 2017년 8월 31일
-| 70-980 | MCSE 용 재인증: Server Infrastructure | 2017년 3월 31일
-| 70-981 | MCSE 용 재인증: Private Cloud | 2017년 3월 31일
-| 70-982 | MCSE 용 재인증: Desktop Infrastructure | 2015년 10월 5일
-| 74-131 | Microsoft Office EPM (Enterprise Project Management) 솔루션 설계 | 2010년 10월 31일
-| 74-132 | Microsoft SharePoint 제품 및 기술을 사용한 포털 솔루션 배포 | 2010년 10월 31일
-| 74-133 | Microsoft SharePoint 제품 및 기술을 사용한 포털 솔루션 사용자 지정| 2010년 10월 31일
-| 74-134 | Microsoft 제품 및 기술 사전 설치 | 2010년 10월 31일
-| 74-135 | Microsoft BizTalk Server 2004을 사용한 E-비즈니스 솔루션 개발 | 2010년 10월 31일
-| 74-137 | XML과 Office Professional Edition 2003을 사용한 Microsoft Office 솔루션 개발 | 2010년 10월 31일
-| 74-138 | Microsoft Office System과 Microsoft Windows Server 2003를 사용하여 메시지와 공동 작업 환경 계획 및 빌드 | 2010년 10월 31일
-| 74-139 | Microsoft Windows Server 2003및 Microsoft Office 2003를 사용한 비즈니스 데스크탑 배포 | 2010년 10월 31일
-| 74-322 | Microsoft Lync Server 2010 - 고급 설계 및 배포 | 2015년 7월 31일
-| 74-324 | 중소기업을 위한 Office 365 관리 | 2013년 8월 24일
-| 74-325 | 중소기업을 위한 Office 365 관리 | 2015년 1월 31일
-| 74-335 | Lync Network 준비상태 평가 | 2016년 3월 30일
+| 70-687 | Configuring Windows 8.1| 2016년 12월 31일
+| 70-688 | Supporting Windows 8.1 | 2016년 12월 31일
+| 70-689 | Upgrading Your Skills to MCSA Windows 8 | 2016년 12월 31일
+| 70-690 | Windows Server 2008 HPC Environments, Configuring and Managing | 2013년 7월 31일
+| 70-691 | Windows Server 2008 HPC Environments, Developing | 2013년 7월 31일
+| 70-692 | Upgrading Your Windows XP Skills to MCSA Windows 8 | 2016년 12월 31일
+| 70-693 | Pro: Windows Server 2008 R2, Virtualization Administrator | 2015년 7월 31일
+| 70-694 | Virtualizing Enterprise Desktops and Apps | 2017년 7월 31일
+| 70-699 | Windows Server 2003, MCSA Security Specialization Skills Update | 2013녀녀 7월 31일
+| 70-734 | OEM Preinstallation for Windows 10 | 2017년 8월 31일
+| 70-980 | Recertification for MCSE: Server Infrastructure | 2017년 3월 31일
+| 70-981 | Recertification for MCSE: Private Cloud | 2017년 3월 31일
+| 70-982 | Recertification for MCSE: Desktop Infrastructure | 2015년 10월 5일
+| 74-131 | Designing a Microsoft Office Enterprise Project Management (EPM) Solution | 2010년 10월 31일
+| 74-132 | Deploying a Portal Solution with Microsoft SharePoint Products and Technologies | 2010년 10월 31일
+| 74-133 | Customizing Portal Solutions with Microsoft SharePoint Products and Technologies | 2010년 10월 31일
+| 74-134 | Pre-Installing Microsoft Products and Technologies | 2010년 10월 31일
+| 74-135 | Developing E-Business Solutions Using Microsoft BizTalk Server 2004 | 2010년 10월 31일
+| 74-137 | Developing Microsoft Office Solutions Using XML with Office Professional Edition 2003 | 2010년 10월 31일
+| 74-138 | Planning and Building a Messaging and Collaboration Environment using Microsoft Office System and Microsoft Windows Server 2003 | 2010년 10월 31일
+| 74-139 | Deploying Business Desktops with Microsoft Windows Server 2003 and Microsoft Office 2003 | 2010년 10월 31일
+| 74-322 | Microsoft Lync Server 2010—Advanced Design and Deployment | 2015년 7월 31일
+| 74-324 | Administering Office 365 for Small Businesses | 2013년 8월 24일
+| 74-325 | Administering Office 365 for Small Businesses | 2015년 1월 31일 토요일
+| 74-335 | Lync Network Readiness Assessment | 2016년 3월 30일
 | 74-338 | Lync 2013 Depth Support Engineer | 2016년 3월 30일
-| 74-353 | Windows UX 설계 | 2015년 1월 31일
+| 74-353 | Windows UX Design | 2015년 1월 31일
 | 74-404 | Microsoft Office Communications Server 2007 R2 – U.C. Voice Specialization | 2012년 5월 31일
-| 74-544 | TS: Bing Maps Platform, 애플리케이션 개발 |  2011년 12월 31일
-| 74-674 | Business Value Planning 서비스 제공 | 2015년 7월 31일
-| 74-675 | Microsoft Response Point, 구성 | 2011년 6월 30일
-| 74-676 | TS: Fast Enterprise Search Platform, 개발 | 2012년 7월 31일
-| 74-678 | 대규모 조직에 대한 Microsoft 볼륨 라이선스 솔루션 설계 및 제공 | 2017년 12월 31일
-| 74-679 | Windows Server 2008 Hosted 환경, 구성 및 관리 | 2013년 7월 31일
-| 74-697 | OEM 사전 설치 | 2016년 1월 31일
+| 74-544 | TS: Bing Maps Platform, Application Development | 2011년 12월 31일
+| 74-674 | Delivering Business Value Planning Services | 2015년 7월 31일
+| 74-675 | Microsoft Response Point, Configuring | 2011년 6월 30일
+| 74-676 | TS: Fast Enterprise Search Platform, Developing | 2012년 7월 31일
+| 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2017년 12월 31일 일요일
+| 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 2013년 7월 31일
+| 74-697 | OEM Preinstallation | 2016년 1월 31일
 | 74-924 | Microsoft Office Communications Server 2007 R2 – U.C. Voice Specialization | 2010년 10월 31일
 | 77-891 | Office 365 | 2014년 12월 31일
-| 78-702 | Microsoft Business Intelligence 솔루션 설계 및 관리 | 2011년 9월 30일
+| 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 2011년 9월 30일
 | 88-961 | MCM: SharePoint Server 2010: 1 주 | 2013년 8월 25일
 | 88-962 | MCM: SharePoint Server 2010: 2 주 | 2013년 8월 25일
 | 88-963 | MCM: SharePoint Server 2010: 3 주 | 2013년 8월 25일
 | 88-972 | MCM: SharePoint Server 2010: 실험실 시험 | 2013년 8월 25일
-| 88-973 | MCM: SharePoint Server 2010, 지식 업그레이드 시험 | 2013년 8월 25일
-| 88-965 | Windows Server 2008 R2: 디렉토리 지식 시험 | 2014년 1월 1일
-| 88-966 | Windows Server 2008 R2: 디렉토리 지식 시험 | 2014년 1월 1일
-| 88-968 | Lync Server 2010 지식 시험 | 2014년 1월 1일
-| 88-969 | Lync Server 2010 Lab 시험 | 2014년 1월 1일
-| 88-971 | SQL Server 2008 Microsoft Certified Master: 실험실 시험 | 2013년 12월 31일
-| 88-981 | Windows Server 2008 R2: 디렉토리 실험실 시험 | 2014년 1월 1일
-| 98-362 | Windows 개발 기초 | 2014년 7월 31일
-| 98-363 | Web 개발 기초 | 2015년 7월 31일
-| 98-372 | Microsoft .NET 기초 | 2015년 7월 31일
-| 98-373 | 모바일 개발 기초 | 2014년 7월 31일
-| 98-374 | 게임 개발 기초 | 2015년 7월 31일
-| 98-379 | 소프트웨어 테스팅 기초 | 2016년 7월 31일
+| 88-973 | MCM: SharePoint Server 2010, Knowledge Upgrade Exam | 2013년 8월 25일
+| 88-965 | Windows Server 2008 R2: Directory Knowledge Exam | 2014년 1월 1일
+| 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014년 1월 1일
+| 88-968 | Lync Server 2010 Knowledge Exam | 2014년 1월 1일
+| 88-969 | Lync Server 2010 Lab Exam | 2014년 1월 1일
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013년 12월 31일 화요일
+| 88-981 | Windows Server 2008 R2: Directory Lab Exam | 2014년 1월 1일
+| 98-362 | Windows Development Fundamentals | 2014년 7월 31일
+| 98-363 | Web Development Fundamentals | 2015년 7월 31일
+| 98-372 | Microsoft .NET Fundamentals | 2015년 7월 31일
+| 98-373 | Mobile Development Fundamentals | 2014년 7월 31일
+| 98-374 | Gaming Development Fundamentals | 2015년 7월 31일
+| 98-379 | Software Testing Fundamentals | 2016년 7월 31일
 
 <br/>
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| MB2-421 | CRM 3.0 설치 및 구성 | 2011년 4월 12일
-| MB2-422 | CRM 3.0 사용자 지정 | 2011년 4월 12일
-| MB2-423 | CRM 3.0 애플리케이션 | 2011년 4월 12일
+| MB2-421 | CRM 3.0 Installation & Configuration | 2011년 4월 12일
+| MB2-422 | CRM 3.0 Customization | 2011년 4월 12일
+| MB2-423 | CRM 3.0 Applications | 2011년 4월 12일
 | MB2-498 | CRM 3.0 Extending Microsoft Dynamics | 2011년 4월 12일
-| MB2-631 | Microsoft Dynamics CRM 4.0 사용자 지정 및 구성 | 2012년 11월
-| MB2-632 | Microsoft Dynamics CRM 4.0 애플리케이션 | 2012년 11월
-| MB2-633 | Microsoft Dynamics CRM 4.0 설치 및 구성 | 2012년 11월
+| MB2-631 | Microsoft Dynamics CRM 4.0 Customization and Configuration | 2012년 11월
+| MB2-632 | Microsoft Dynamics CRM 4.0 Applications | 2012년 11월
+| MB2-633 | Microsoft Dynamics CRM 4.0 Installation and Configuration | 2012년 11월
 | MB2-634 | CRM 4.0 Extending Microsoft Dynamics | 2012년 11월
-| MB2-700 | Microsoft Dynamics CRM 2013 애플리케이션 | 2016년 12월 31일
+| MB2-700 | Microsoft Dynamics CRM 2013 Applications | 2016년 12월 31일
 | MB2-701 | Extending Microsoft Dynamics CRM 2013 | 2016년 12월 31일
-| MB2-702 | Microsoft Dynamics CRM 2013 배치 | 2016년 12월 31일
-| MB2-703 | Microsoft Dynamics CRM 2013 사용자 지정 및 구성 | 2016년 12월 31일
-| MB2-704 | Microsoft Dynamics CRM 애플리케이션 | 2017년 7월 31일
-| MB2-720 | Microsoft Dynamics Marketing 기능 애플리케이션 | 2015년 7월 1일
-| MB2-866 | Microsoft Dynamics CRM 2011 사용자 지정 및 구성 | 2016년 1월 31일
-| MB2-867 | Microsoft Dynamics CRM 2011 설치 및 배포| 2016년 1월 31일 
-| MB2-868 | Microsoft Dynamics CRM 2011 애플리케이션 | 2016년 1월 31일
-| MB2-876 | Extending Microsoft Dynamics CRM 2011 | 2016년 1월 31일
-| MB3-408 | Microsoft Dynamics GP 9.0 재고 관리 및 주문 처리 | 2011년 1월 11일
-| MB3-409 | Microsoft Dynamics GP 9.0 금융 | 2011년 1월 11일
-| MB3-412 | Microsoft Dynamics GP 9.0 설치 및 구성 | 2011년 1월 11일
+| MB2-702 | Microsoft Dynamics CRM 2013 Deployment | 2016년 12월 31일
+| MB2-703 | Microsoft Dynamics CRM 2013 Customization and Configuration | 2016년 12월 31일
+| MB2-704 | Microsoft Dynamics CRM Application | 2017년 7월 31일
+| MB2-720 | Functional Application in Microsoft Dynamics Marketing | 2015년 7월 1일
+| MB2-866 | Microsoft Dynamics CRM 2011 Customization and Configuration | 2016년 1월 31일 일요일
+| MB2-867 | Microsoft Dynamics CRM 2011 Installation and Deployment | 2016년 1월 31일
+| MB2-868 | Microsoft Dynamics CRM 2011 Applications | 2016년 1월 31일 일요일
+| MB2-876 | Extending Microsoft Dynamics CRM 2011 | 2016년 1월 31일 일요일
+| MB3-408 | Microsoft Dynamics GP 9.0 Inventory and Order Processing | 2011년 1월 11일
+| MB3-409 | Microsoft Dynamics GP 9.0 Financials | 2011년 1월 11일
+| MB3-412 | Microsoft Dynamics GP 9.0 Installation and Configuration | 2011년 1월 11일
 | MB3-413 | Microsoft Dynamics GP 9.0 Project Series | 2011년 1월 11일
-| MB3-430 | Microsoft Dynamics GP 9.0 개발 애플리케이션 | 2011년 1월 11일
-| MB3-451 | Microsoft Dynamics GP 9.0 보고서 작성기 | 2011년 1월 11일
-| MB3-461 | VBA에 의한 Microsoft Dynamics GP 9.0 Modifier | 2011년 1월 11일
-| MB3-462 | Microsoft Dynamics GP 9.0 통합 관리자 | 2011년 1월 11일
-| MB3-465 | Microsoft Dynamics GP 9.0 현장 서비스 구현 | 2011년 1월 11일
-| MB3-527 | GP 10.0 설치 및 구성 | 2013년 2월 28일
-| MB3-528 | GP 10.0 금융 | 2013년 8월 15일
-| MB3-529 | GP 10.0 재고 관리 및 주문 처리 | 2013년 12월 31일
-| MB3-530 | GP 10.0 통합 관리자 | 2013년 12월 31일
+| MB3-430 | Microsoft Dynamics GP 9.0 Manufacturing Applications | 2011년 1월 11일
+| MB3-451 | Microsoft Dynamics GP 9.0 Report Writer | 2011년 1월 11일
+| MB3-461 | Microsoft Dynamics GP 9.0 Modifier with VBA | 2011년 1월 11일
+| MB3-462 | Microsoft Dynamics GP 9.0 Integration Manager | 2011년 1월 11일
+| MB3-465 | Microsoft Dynamics GP 9.0 Field Service Implementation | 2011년 1월 11일
+| MB3-527 | GP 10.0 Installation & Configuration | 2013년 2월 28일
+| MB3-528 | GP 10.0 Financials | 2013년 8월 15일
+| MB3-529 | GP 10.0 Inventory & Order Processing | 2013년 12월 31일
+| MB3-530 | GP 10.0 Integration Manager | 2013년 12월 31일
 | MB3-532 | GP 10.0 Project Series | 2013년 12월 31일
-| MB3-533 | GP 10.0 인사 및 급여 | 2013년 12월 31일
-| MB3-637 | GP 10.0 제작 애플리케이션 | 2013년 12월 31일
-| MB3-700 | Microsoft Dynamics GP 2013 설치 및 구성 | 2015년 7월 31일
-| MB3-701 | Microsoft Dynamics GP 2013 금융 | 2015년 7월 31일
-| MB3-859 | Microsoft Dynamics GP 2010 금융 | 2014년 12월 31일
+| MB3-533 | GP 10.0 Human Resources with Payroll | 2013년 12월 31일
+| MB3-637 | GP 10.0 Manufacturing Applications | 2013년 12월 31일
+| MB3-637 | GP 10.0 Manufacturing Applications | 2015년 7월 31일
+| MB3-701 | Microsoft Dynamics GP 2013 Financials | 2015년 7월 31일
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일
 | MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일
-| MB3-861 | Microsoft Dynamics GP 2010 설치 및 구성 | 2014년 12월 31일
-| MB3-862 | Microsoft Dynamics GP 2010 재고 관리 및 주문 처리 | 2014년 12월 31일
-| MB4-348 | SL 6.5 금융 | 2011년 3월 31일
-| MB4-349 | SL 6.5 설치 및 구성 | 2011년 3월 31일
-| MB4-534 | SL 7.0 설치 및 구성 | 2013년 12월 31일
-| MB4-535 | SL 7.0 금융 | 2013년 12월 31일
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일
+| MB4-348 | SL 6.5 Financials | 2011년 3월 31일
+| MB4-349 | SL 6.5 Installation & Configuration | 2011년 3월 31일
+| MB4-534 | SL 7.0 Installation & Configuration | 2013년 12월 31일 
+| MB4-535 | SL 7.0 Financials | 2013년 12월 31일
 | MB4-536 | SL 7.0 Project Series | 2013년 12월 31일
-| MB4-640 | SL 7.0 사용자 지정 관리자 | 2013년 12월 31일
-| MB4-641 | SL 7.0 VB 도구 | 2013년 12월 31일
-| MB4-643 | SL 7.0 재고 관리 및 주문 처리 | 2013년 12월 31일
-| MB4-873 | Microsoft Dynamics SL 2011 금융 | 2014년 12월 31일
-| MB4-874 | Microsoft Dynamics SL 2011 설치 및 구성 | 2014년 12월 31일
-| MB5-294 | FRx 6.7 보고서 설계 | 2011년 8월 5일
+| MB4-640 | SL 7.0 Customization Manager | 2013년 12월 31일
+| MB4-641 | SL 7.0 Tools for VB | 2013년 12월 31일
+| MB4-643 | SL 7.0 Inventory & Order Processing | 2013년 12월 31일
+| MB4-873 | Microsoft Dynamics SL 2011 Financials | 2014년 12월 31일
+| MB4-874 | Microsoft Dynamics SL 2011 Installation and Configuration | 2014년 12월 31일
+| MB5-294 | FRx 6.7 Reporting Design | 2011년 8월 5일
 | MB5-537 | Microsoft Dynamics Retail Management System 2.0 Store Operations | 2014년 12월 31일
 | MB5-538 | Microsoft Dynamics Retail Management System 2.0 Headquarters | 2014년 12월 31일
 | MB5-554 | Small Business Financials 9.0 | 2012년 6월 22일
 | MB5-629 | Microsoft Forecaster 7.0 | 2013년 10월 1일
-| MB5-700 | Microsoft Dynamics C5 2012 애플리케이션 컨설턴트 | 2015년 7월 31일
-| MB5-705 | Microsoft Dynamics 구현 관리 | 2016년 12월 31일
+| MB5-700 | Microsoft Dynamics C5 2012 Application Consultant | 2015년 7월 31일
+| MB5-705 | Managing Microsoft Dynamics Implementations | 2016년 12월 31일
 | MB5-845 | Microsoft Dynamics POS 2009 | 2014년 12월 31일
-| MB5-854 | C5 2010 프로그래밍 | 2013년 10월 1일
-| MB5-855 | C5 2010 고급 프로그래밍 | 2013년 10월 1일
-| MB5-856 | C5 2010 애플리케이션 컨설턴트 | 2013년 10월 1일
-| MB5-858 | Microsoft Dynamics 구현 관리 | 2013년 9월 20일
-| MB6-202 | Axapta 3.0 프로그래밍 | 2010년 1월 12일
-| MB6-203 | Axapta 3.0 금융| 2010년 1월 12일
-| MB6-204 | Axapta 3.0 거래 및 물류 | 2010년 1월 12일
-| MB6-205 | Axapta 3.0 프로덕션| 2010년 1월 12일
-| MB6-206 | Axapta 3.0 설치 및 구성 | 2010년 1월 12일
+| MB5-854 | C5 2010 Programming| 2013년 10월 1일
+| MB5-855 | C5 2010 Advanced Programming | 2013년 10월 1일
+| MB5-856 | C5 2010 Application Consultant | 2013년 10월 1일
+| MB5-858 | Managing Microsoft Dynamics Implementations | 2013년 9월 20일
+| MB6-202 | Axapta 3.0 Programming | 2010년 1월 12일
+| MB6-203 | Axapta 3.0 Financials | 2010년 1월 12일
+| MB6-204 | Axapta 3.0 Trade and Logistics | 2010년 1월 12일
+| MB6-205 | Axapta 3.0 Production | 2010년 1월 12일
+| MB6-206 | Axapta 3.0 Installation and Configuration | 2010년 1월 12일
 | MB6-282 | Axapta 3.0 HRM | 2010년 1월 12일
 | MB6-283 | Axapta 3.0 Questionnaire | 2010년 1월 12일
-| MB6-284 | Axapta 3.0 프로젝트 | 2010년 1월 12일
+| MB6-284 | Axapta 3.0 Projects | 2010
 | MB6-285 | Axapta 3.0 Sales and Marketing | 2011년 12월 31일
 | MB6-288 | Axapta 3.0 Product Builder | 2010년 1월 12일
 | MB6-291 | Axapta 3.0 Shop Floor Control | 2011년 12월 31일
-| MB6-295 | Axapta 3.0 Enterprise Portal  개발 | 2010년 1월 12일
+| MB6-295 | Axapta 3.0 Enterprise Portal Development | 2010년 1월 12일
 | MB6-502 | AX 4.0 Product Builder | 2011년 9월 30일
-| MB6-503 | AX 4.0 설치 및 구성 | 2011년 9월 30일
+| MB6-503 | AX 4.0 Installation and Configuration | 2011년 9월 30일
 | MB6-504 | AX 4.0 Project Series | 2011년 9월 30일
 | MB6-506 | AX 4.0 Questionnaire | 2011년 9월 30일
-| MB6-507 | AX 4.0 금융 | 2011년 9월 30일
-| MB6-508 | AX 4.0 개발 도입 | 2011년 9월 30일
-| MB6-509 |  4.0 거래 및 물류 | 2011년 9월 30일
-| MB6-510 | AX 4.0 인사 관리 | 2011년 9월 30일
-| MB6-511 | AX 4.0 프로덕션| 2011년 9월 30일
-| MB6-512 | AX 4.0 Enterprise Portal 개발 | 2011년 9월 30일
-| MB6-513 | AX 4.0 MorphX 솔루션 개발 | 2011년 9월 30일
-| MB6-700 | Microsoft Dynamics AX 2012 R2 프로젝트 | 2016년 12월 31일
-| MB6-701 | Microsoft Dynamics AX 2012 R3 도매 | 2017년 3월 31일
-| MB6-702 | Microsoft Dynamics AX 2012 R3 금융| 2016년 12월 31일
-| MB6-703 | Microsoft Dynamics AX 2012 R3 거래 및 물류 관리 | 2016년 12월 31일
-| MB6-704 | Microsoft Dynamics AX 2012 R3 CU8 개발 입문 | 2016년 12월 31일
-| MB6-817 | AX 2009 거래 및 물류 | 2014년 1월 6일
-| MB6-818 | AX 2009 금융 | 2014년 1월 6일
-| MB6-819 | AX 2009 개발 도입 | 2014년 1월 6일
-| MB6-820 | AX 2009 설치 및 구성 | 2014년 1월 6일
-| MB6-821 | AX 2009 MorphX 솔루션 개발 | 2014년 1월 6일
-| MB6-822 | AX 2009 프로덕션| 2014년 1월 6일
+| MB6-507 | AX 4.0 Financials | 2011년 9월 30일
+| MB6-508 | AX 4.0 Development Introduction | 2011년 9월 30일
+| MB6-509 | AX 4.0 Trade and Logistics | 2011년 9월 30일
+| MB6-510 | AX 4.0 Human Resource Management | 2011년 9월 30일
+| MB6-511 | AX 4.0 Production | 2011년 9월 30일
+| MB6-512 | AX 4.0 Enterprise Portal Development | 2011년 9월 30일
+| MB6-513 | AX 4.0 MorphX Solution Development | 2011년 9월 30일
+| MB6-700 | Microsoft Dynamics AX 2012 R2 Project | 2016년 12월 31일
+| MB6-700 | Microsoft Dynamics AX 2012 R2 Project | 2017년 3월 31일
+| MB6-702 | Microsoft Dynamics AX 2012 R3 Financials | 2016년 12월 31일
+| MB6-703 | Microsoft Dynamics AX 2012 R3 Trade and Logistics | 2016년 12월 31일
+| MB6-704 | Microsoft Dynamics AX 2012 R3 CU8 Development Introduction | 2016년 12월 31일
+| MB6-817 | AX 2009 Trade & Logistics | 2014년 1월 6일
+| MB6-818 | AX 2009 Financials | 2014년 1월 6일
+| MB6-819 | AX 2009 Development Introduction | 2014년 1월 6일
+| MB6-820 | AX 2009 Installation & Configuration | 2014년 1월 6일
+| MB6-821 | AX 2009 MorphX Solution Development | 2014년 1월 6일
+| MB6-822 | AX 2009 Production | 2014년 1월 6일
 | MB6-823 | AX 2009 Project Series | 2014년 1월 6일
-| MB6-824 | AX 2009 인사 관리 | 2014년 1월 6일
+| MB6-824 | AX 2009 Human Resource Management | 2014년 1월 6일
 | MB6-825 | AX 2009 Enterprise Portal 개발 | 2014년 1월 6일
 | MB6-826 | AX 2009 Product Builder | 2014년 1월 6일
-| MB6-827 | AX 2009 급여 | 2011년 6월 3일
-| MB6-869 | Microsoft Dynamics AX 2012 개발 | 2015년 7월 31일
-| MB6-870 | Microsoft Dynamics AX 2012 거래 및 물류 관리 | 2015년 7월 31일
-| MB6-871 | Microsoft Dynamics AX 2012 금융 | 2015년 7월 31일
-| MB6-872 | Microsoft Dynamics AX 2012 설치 및 구성 | 2015년 7월 31일
+| MB6-827 | AX 2009 Payroll | 2011년 6월 3일
+| MB6-869 | Microsoft Dynamics AX 2012 Development | 2015년 7월 31일
+| MB6-870 | Microsoft Dynamics AX 2012 Trade and Logistics | 2015년 7월 31일
+| MB6-871 | Microsoft Dynamics AX 2012 Financials | 2015년 7월 31일
+| MB6-872 | Microsoft Dynamics AX 2012 Installation and Configuration | 2015년 7월 31일
 | MB6-884 | Microsoft Dynamics AX 2012 Lean Manufacturing| 2016년 12월 31일
 | MB6-885 | Microsoft Dynamics AX 2012 Public Sector | 2016년 12월 31일
-| MB6-886 | Microsoft Dynamics AX 2012 프로세스 제조 생산 및 물류 | 2016년 12월 31일
-| MB6-889 | Microsoft Dynamics AX 2012 서비스 관리 | 2016년 12월 31일
-| MB7-221 | Navision 4.0 C/SIDE 소개 | 2010년 1월 12일
-| MB7-222 | NAV 4.0 C/SIDE 솔루션 개발 | 2010년 1월 12일
-| MB7-223 | Navision 4.0 Warehouse 관리 | 2010년 1월 12일
-| MB7-224 | Navision 4.0 Manufacturing  | 2010년 1월 12일
-| MB7-225 | Navision 4.0 금융 | 2010년 1월 12일
-| MB7-226 | Navision 4.0 설치 및 구성 | 2010년 1월 12일
-| MB7-227 | Navision 4.0 거래 및 재고 관리 | 2010년 1월 12일
-| MB7-231 | Navision 4.0 관계 관리 | 2010년 1월 12일
-| MB7-232 | Navision 4.0 서비스 관리 | 2010년 1월 12일
-| MB7-233 | Navision 4.0 비용 | 2010년 1월 12일
-| MB7-514 | Microsoft Dynamics NAV 5.0 C/SIDE 소개 | 2012년 11월 30일
-| MB7-515 | Microsoft Dynamics NAV 5.0 금융 | 2012년 11월 30일
-| MB7-516 | Microsoft Dynamics NAV 5.0 C/SIDE 솔루션 개발 | 2012년 11월 30일
-| MB7-517 | Microsoft Dynamics NAV 5.0 설치 및 구성 | 2012년 11월 30일
-| MB7-700 | Microsoft Dynamics NAV 2013 설치 및 구성 | 2015년 7월 31일
-| MB7-701 | Microsoft Dynamics NAV 2013 핵심 설정 및 금융 | 2015년 7월 31일
-| MB7-702 | Microsoft Dynamics NAV 2013 C/SIDE 개발 | 2015년 7월 31일
-| MB7-838 | NAV 2009 설치 및 구성 | 2014년 6월 30일
-| MB7-839 | NAV 2009 핵심 설정 및 금융 | 2014년 6월 30일
-| MB7-840 | NAV 2009 C/SIDE 소개 | 2014년 6월 30일
-| MB7-841 | NAV 2009 C/SIDE 솔루션 개발 | 2014년 6월 30일
-| MB7-842 | NAV 2009 거래 및 물류 | 2014년 6월 30일
-| MB7-843 | NAV 2009 Warehouse 관리 | 2014년 6월 30일
-| MB7-846 | NAV 2009 관계 관리 | 2014년 6월 30일
-| MB7-848 | NAV 2009 서비스 관리 | 2014년 6월 30일
+| MB6-886 | Microsoft Dynamics AX 2012 Process Manufacturing Production and Logistics | 2016년 12월 31일
+| MB6-889 | Microsoft Dynamics AX 2012 Service Management | 2016년 12월 31일
+| MB7-221 | Navision 4.0 C/SIDE Introduction | 2010년 1월 12일
+| MB7-222 | NAV 4.0 C/SIDE Solution Development | 2010년 1월 12일
+| MB7-223 | Navision 4.0 Warehouse Management | 2010년 1월 12일
+| MB7-224 | Navision 4.0 Manufacturing | 2010년 1월 12일
+| MB7-225 | Navision 4.0 Financials | 2010년 1월 12일
+| MB7-226 | Navision 4.0 Installation and Configuration | 2010년 1월 12일
+| MB7-227 | Navision 4.0 Trade and Inventory | 2010년 1월 12일
+| MB7-231 | Navision 4.0 Relationship Management | 2010년 1월 12일
+| MB7-232 | Navision 4.0 Service Management | 2010년 1월 12일
+| MB7-233 | Navision 4.0 Costing | 2010년 1월 12일
+| MB7-514 | Microsoft Dynamics NAV 5.0 C/SIDE Introduction | 2012년 11월 30일
+| MB7-515 | Microsoft Dynamics NAV 5.0 Financials | 2012년 11월 30일
+| MB7-516 | Microsoft Dynamics NAV 5.0 C/SIDE Solution Development | 2012년 11월 30일
+| MB7-517 | Microsoft Dynamics NAV 5.0 Installation and Configuration | 2012년 11월 30일
+| MB7-700 | Microsoft Dynamics NAV 2013 Installation and Configuration | 2015년 7월 31일 금요일
+| MB7-701 | Microsoft Dynamics NAV 2013 Core Setup and Finance | 2015년 7월 31일
+| MB7-702 | Microsoft Dynamics NAV 2013 C/Side Development | 2015년 7월 31일
+| MB7-838 | NAV 2009 Installation & Configuration | 2014년 6월 30일
+| MB7-839 | NAV 2009 Core Setup and Finance | 2014년 6월 30일
+| MB7-840 | NAV 2009 C/SIDE Introduction | 2014년 6월 30일
+| MB7-841 | NAV 2009 C/SIDE Solution Development | 2014년 6월 30일 월요일
+| MB7-842 | NAV 2009 Trade & Inventory | 2014년 6월 30일
+| MB7-843 | NAV 2009 Warehouse Management | 2014년 6월 30일
+| MB7-846 | NAV 2009 Relationship Management | 2014년 6월 30일
+| MB7-848 | NAV 2009 Service Management | 2014년 6월 30일
 | MB7-849 | NAV 2009 Manufacturing | 2014년 6월 30일
 | MB7-849 | NAV 2009-Produktion (덴마크) | 2014년 6월 30일
 | MB7-849 | NAV 2009-Produktion (독일) | 2014년 6월 30일
