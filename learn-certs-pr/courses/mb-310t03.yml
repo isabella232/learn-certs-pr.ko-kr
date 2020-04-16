@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 재무 및 운영에서 예산 책정, 고정 자산 및 추가 기능 구성 및 사용
+title: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations
 metadata:
-  title: '과정 MB-310T03-A: 재무 및 운영에서 예산 책정, 고정 자산 및 추가 기능 구성 및 사용'
-  description: '과정 MB-310T03-A: 재무 및 운영에서 예산 책정, 고정 자산 및 추가 기능 구성 및 사용'
+  title: 'Course MB-310T03-A: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations'
+  description: 'Course MB-310T03-A: Configure and use budgeting, fixed assets, and additional functionality in Finance and Operations'
 uid: course.mb-310t03
 courseNumber: 'MB-310T03-A'
 hoursToComplete: 24
@@ -21,20 +21,19 @@ exams:
 - uid: exam.mb-310
 summary: |-
   조직은 Dynamics 365 for Finance and Operations를 사용하여 수익성을 높이고 인력 생산성을 최적화하고 운영 비용을 줄이고 요구 사항 변경에 신속히 적응하고 자산 관리를 간소화함으로써 재무 성과를 향상시킵니다. 본 과정에서는 Dynamics 365 for Finance and Operations에서 예산 책정, 고정 자산 및 추가 기능 구성 및 사용 방법을 설명합니다.
-
   #### 대상 그룹 프로필
   Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용한 솔루션을 구현합니다.
 prerequisitesSection: |-
   ERP 및 CRM 개념에 대한 기본적인 이해.
 outlineSection: |-
-  ### 모듈 1&#58; 선일자수표 구성
+  ### 모듈 1&#58; - 선일자수표 구성
   선일자수표는 미래 날짜에 지급을 받기 위해 발행되는 수표입니다. 따라서 지정된 날짜까지 수표를 현금화할 수 없습니다. Microsoft Dynamics 365 for Finance and Operations는 수취 계정과 지급 계정 모두에서 사후 점검을 위한 관리주기를 전체적으로 지원합니다. 이 토픽에서는 선일자수표 설정 및 처리 방법을 설명합니다.
   #### 단원
   - 소개
   - 선일자수표 관리
   - 랩 실습
   - 모듈 요약
-  
+
   본 모듈에서는 다음의 방법을 학습했습니다&#58;
   - 선일자수표 처리
   - 선일자수표 설정
@@ -42,7 +41,6 @@ outlineSection: |-
   - 고객 선일자수표 지급
   - 공급 업체 선일자수표 등록 및 발송
   - 공급 업체 선일자수표 지급
-
 
   ### 모듈 2&#58; 기본 예산 및 예산 통제 프로세스 구성 및 사용
   민간이든 공공이든 모든 조직은 예산을 생성하여 재무 및 운영 목표를 설정합니다. 예산이 설정되면 경영진은 예산 프레임워크 내 활동을 모니터링합니다. 본 모듈에서는 기본 예산 책정 및 예산 관리를 구성하고 사용하는 방법에 대한 정보를 제공합니다.
@@ -54,7 +52,7 @@ outlineSection: |-
   - 문의 사항 및 보고서 사용
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음의 방법을 학습했습니다&#58;
   - 기본 예산 책정 구성 요소 구성
@@ -71,7 +69,7 @@ outlineSection: |-
   - 예산 기획 구성 요소 구성
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음의 방법을 학습했습니다&#58;
   - 예산 기획 구성 요소 구성
@@ -90,7 +88,7 @@ outlineSection: |-
   - 고정 자산 생성
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음의 방법을 학습했습니다&#58;
   - 고정 자산 구성 요소 구성
@@ -107,7 +105,7 @@ outlineSection: |-
   - 고정 자산 작업 수행
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음의 방법을 학습했습니다&#58;
   - 고정 자산 취득 수행
@@ -123,7 +121,7 @@ outlineSection: |-
   - 원가 통제 작업 영역
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음을 학습했습니다&#58;
   - 원가 통제 작업 영역
@@ -142,14 +140,14 @@ outlineSection: |-
   - 연말 마감 처리
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음의 방법을 학습했습니다&#58;
   - 재무 기간 종료의 구성
   - 은행 조정
   - 정기 마감 및 연 마감 프로세스 수행
   - 정기적인 서류 준비
-  - 협력 업체 1099s 프로세스의 구성 및 테스트
+  - Configure and test Vendor 1099s process
   - 외화 재평가 절차 실행
   - 재정 통합 및 제거 과정 수행
   - 재무제표 작성을 위한 재무 보고 사용
@@ -165,7 +163,7 @@ outlineSection: |-
   - 전자 보고 수식 디자이너
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음의 방법을 학습했습니다&#58;
   - 전자보고(ER) 구성
@@ -175,7 +173,7 @@ outlineSection: |-
 
 
   ### 모듈 9&#58; 현지화 기능 구성
-  Dynamics 365 for Finance and Operations에는 제품 현지화 및 번역 이용 가능 가이드에 문서화된 국가 및 지역의 기능이 포함되어 있습니다. 본 모듈에서는 Finance and Operations에서 지역 기능 예시 구성 방법을 설명합니다. - 지역화 및 규제 기능 페이지의 정보를 읽고 모든 국가/지역에 대한 Finance and Operations의 지역 기능에 대한 최신 정보를 업데이트 하세요.
+  Dynamics 365 for Finance and Operations에는 제품 현지화 및 번역 이용 가능 가이드에 문서화된 국가 및 지역의 기능이 포함되어 있습니다. 본 모듈에서는 Finance and Operations에서 지역 기능 예시 구성 방법을 설명합니다. 지역화 및 규제 기능 페이지의 정보를 읽고 모든 국가/지역에 대한 Finance and Operations의 지역 기능에 대한 최신 정보를 업데이트 하세요.
   #### 단원
   - 소개
   - 현지화 및 규정 기능
@@ -186,7 +184,7 @@ outlineSection: |-
   - 전자 송장
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음을 학습했습니다&#58;
   - 현지화 및 규정 기능
@@ -207,7 +205,7 @@ outlineSection: |-
   - 무료 텍스트 송장를 위한 청구 코드 구성
   - 랩 실습
   - 모듈 요약
-  
+
 
   본 모듈에서는 다음을 학습했습니다&#58;
   - 공공 부문 자금 설정
@@ -224,6 +222,6 @@ outlineSection: |-
   - 최종 평가
   - 과정 요약
   - 과정 이후 설문 조사
-  
 
   학생들은 다음 과정을 마쳤습니다.
+

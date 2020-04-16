@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 지속적 업데이트 구현
+title: Implementing Continuous Delivery
 metadata:
-  title: '과정 AZ-400T03-A: 지속적 업데이트 구현'
-  description: '과정 AZ-400T03-A: 지속적 업데이트 구현'
+  title: 'Course AZ-400T03-A: Implementing Continuous Delivery'
+  description: 'Course AZ-400T03-A: Implementing Continuous Delivery'
 uid: course.az-400t03
 courseNumber: 'AZ-400T03-A'
 hoursToComplete: 24
@@ -46,7 +46,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   본 과정에서는 지속적 업데이트를 구현하기 위한 지식과 기술을 제공합니다. 릴리스 전략을 설계하고, 릴리스 관리 워크플로를 설정하고, 적절한 배포 패턴을 구현하는 방법을 설명합니다.
-
   #### 대상 그룹 프로필
   본 과정의 수강자는 DevOps 프로세스 구현에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
 prerequisitesSection: |-
@@ -59,7 +58,6 @@ outlineSection: |-
   - 고품질 릴리스 파이프라인 구성
   - 배포 패턴 선택
   - 올바른 릴리스 관리 도구 선택
-
   #### 랩 &#58; 릴리스 전략 구성
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 릴리스와 배포 구분
@@ -124,3 +122,4 @@ outlineSection: |-
   - 블루 그린 배포 구현
   - 카나리아 릴리스 구현
   - 프로그레시브 노출 배포 구현
+

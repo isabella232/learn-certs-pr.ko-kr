@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 하이브리드 메시징 전략 정의
+title: Defining a Hybrid Messaging Strategy
 metadata:
-  title: '과정 MS-201T01-A: 하이브리드 메시징 전략 정의'
-  description: '과정 MS-201T01-A: 하이브리드 메시징 전략 정의'
+  title: 'Course MS-201T01-A: Defining a Hybrid Messaging Strategy'
+  description: 'Course MS-201T01-A: Defining a Hybrid Messaging Strategy'
 uid: course.ms-201t01
 courseNumber: 'MS-201T01-A'
 hoursToComplete: 48
@@ -31,7 +31,6 @@ exams:
 - uid: exam.ms-201
 summary: |-
   본 과정에서는 학생들에게 하이브리드 메시징의 세계를 소개합니다. 학생들은 Exchange 조직을 위해 하이브리드 환경을 배포하는 방법과 사서함을 Exchange Online으로 마이그레이션하는 방법을 학습합니다. 사용 가능한 사서함 마이그레이션 옵션을 검토한 다음 하이브리드 배포 계획에 중점을 둡니다. 마지막으로, 학생들은 하이브리드 배포 구현 및 문제 해결 방법을 학습합니다.
-
   #### 대상 그룹 프로필
   메시징 관리자는 온-프레미스 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리 및 문제를 해결합니다. 메시지 예방 조치 관리, 메시징 인프라 및 하이브리드 구성 및 마이그레이션 업무를 포함합니다. 메시징 관리자는 또한 재해 복구, 고가용성 및 클라이언트 액세스를 구현하고 관리합니다. 최신 조직의 비즈니스 요구를 충족시키는 보안 하이브리드 토폴로지를 구현하려면 메시징 관리자는 보안 관리자 및 Microsoft 365 엔터프라이즈 관리자와 협력해야 합니다. 메시징 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다.
 prerequisitesSection: |-
@@ -53,7 +52,6 @@ outlineSection: |-
   - Exchange 하이브리드 배포 요구 사항
   - 하이브리드 구성 마법사 실행
 
-
   ### 모듈 3&#58; 하이브리드 환경 배포 및 문제 해결
   #### 단원
   - Edge 전송 서버 배포 및 관리
@@ -64,6 +62,7 @@ outlineSection: |-
 
   ### 모듈 4&#58; 랩 - 하이브리드 배포 및 관리
 
-  #### 랩&#58; 하이브리드 배포 및 관리
+  #### 랩 &#58; 하이브리드 배포 및 관리
   - 연습 1&#58; Microsoft 365로 사서함 마이그레이션 수행
   - 연습 2&#58; 하이브리드 시나리오 관리
+

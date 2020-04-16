@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Office 365 Workloads for Collaboration 활성화
+title: Enabling Office 365 Workloads for Collaboration
 metadata:
-  title: '과정 MS-300T04-A: Office 365 Workloads for Collaboration 활성화'
-  description: '과정 MS-300T04-A: Office 365 Workloads for Collaboration 활성화'
+  title: 'Course MS-300T04-A: Enabling Office 365 Workloads for Collaboration'
+  description: 'Course MS-300T04-A: Enabling Office 365 Workloads for Collaboration'
 uid: course.ms-300t04
 courseNumber: 'MS-300T04-A'
 hoursToComplete: 48
@@ -30,19 +30,7 @@ products:
 - office-yammer
 exams:
 - uid: exam.ms-300
-summary: |-
-  최신 작업 공간에서 조직 내부 및 외부 팀워크 및 협업 혁신이 더욱 중요하게 되었습니다. 본 과정에서는 Yammer, Stream, PowerApps 및 Flow와 같은 Office 365 공동 작업 워크로드를 활용하여 조직 생산성을 향상시키는 방법을 학습합니다. 사용 가능한 협업 도구 세트를 평가하고 비즈니스 요구 사항을 분석합니다. 사용자 채택 및 변경 관리를 포함하여 디지털 혁신을 위한 거버넌스를 계획하고 개발하는 방법도 학습합니다. 
-  
-  본 과정은 조직에서 팀워크 인프라를 배포하고 관리하는 IT 전문가를 대상으로 합니다. 
-  
-  Teamwork 관리자를 위한 4가지 일련의 과정 중 마지막입니다. 본 과정은 시험 MS-300&#58; Microsoft 365 Teamwork 배포 준비에 도움이 됩니다.
-
-  #### 대상 그룹 프로필
-  Microsoft 365 Teamwork Administrator역할을 위한 과정입니다. 효율적이고 효과적인 협업 및 활용에 초점을 맞춘 Office 365 및 Azure 워크로드의 구성, 배포 및 관리를 담당하는 역할입니다. 비즈니스 요구 사항을 충족시키기 위해 앱, 서비스 및 지원 인프라를 관리합니다. 관리자는 제품과 서비스를 인식 및 구별할 수 있지만 각 제품이나 서비스를 직접 관리하지는 않습니다.
-
-  Teamwork Administrator는 SharePoint (Online, 온-프레미스, 하이브리드), OneDrive 및 Teams의 배포, 관리, 마이그레이션 및 보안에 관한 능력이 있어야 합니다. 
-  
-  Teamwork 관리자는 다음과 같은 앱 및 서비스와의 통합 지점을 기본적으로 이해하고 있습니다&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner, 및 Project. 관리자는 기간 업무(LOB) 애플리케이션을 비롯한 타사 앱 및 서비스를 통합하는 방법을 알아야 합니다.
+summary: "최신 작업 공간에서 조직 내부 및 외부 팀워크 및 협업 혁신이 더욱 중요하게 되었습니다. 본 과정에서는 Yammer, Stream, PowerApps 및 Flow와 같은 Office 365 공동 작업 워크로드를 활용하여 조직 생산성을 향상시키는 방법을 학습합니다. 사용 가능한 협업 도구 세트를 평가하고 비즈니스 요구 사항을 분석합니다. 사용자 채택 및 변경 관리를 포함하여 디지털 혁신을 위한 거버넌스를 계획하고 개발하는 방법도 학습합니다. \n\n본 과정은 조직에서 팀워크 인프라를 배포하고 관리하는 IT 전문가를 대상으로 합니다. \n\nTeamwork 관리자를 위한 4가지 일련의 과정 중 마지막입니다. 본 과정은 시험 MS-300&#58; Microsoft 365 Teamwork 배포 준비에 도움이 됩니다.\n#### 대상 그룹 프로필\nMicrosoft 365 Teamwork Administrator역할을 위한 과정입니다. 효율적이고 효과적인 협업 및 활용에 초점을 맞춘 Office 365 및 Azure 워크로드의 구성, 배포 및 관리를 담당하는 역할입니다. 비즈니스 요구 사항을 충족시키기 위해 앱, 서비스 및 지원 인프라를 관리합니다. 관리자는 제품과 서비스를 인식 및 구별할 수 있지만 각 제품이나 서비스를 직접 관리하지는 않습니다.\nTeamwork Administrator는 SharePoint (Online, 온-프레미스, 하이브리드), OneDrive 및 Teams의 배포, 관리, 마이그레이션 및 보안에 관한 능력이 있어야 합니다. \n\nTeamwork 관리자는 다음과 같은 앱 및 서비스와의 통합 지점을 기본적으로 이해하고 있습니다&#58; Office, PowerApps, Flow, Yammer, Microsoft Graph, Stream, Planner, 및 Project. 관리자는 기간 업무(LOB) 애플리케이션을 비롯한 타사 앱 및 서비스를 통합하는 방법을 알아야 합니다."
 prerequisitesSection: |-
   학습자는 이미 다음의 기술을 갖추고 본 과정을 시작해야 합니다&#58;
   - Windows PowerShell을 사용한 경험
@@ -54,7 +42,6 @@ outlineSection: |-
   #### 단원
   - 사용 가능한 기술 도구 평가
   - 비즈니스 요구 사항 분석
-
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 사용 가능한 기술 도구 평가
   - 비즈니스 요구 사항 분석
@@ -90,3 +77,4 @@ outlineSection: |-
   - Stream 기능 관리
   - Yammer 기능 관리
   - Flow 및 PowerApp 기능 관리
+

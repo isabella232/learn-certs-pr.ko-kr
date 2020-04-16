@@ -1,8 +1,8 @@
 ### YamlMime:Course
 title: Microsoft 365 Security Management
 metadata:
-  title: '과정 MS-101T01-A: Microsoft 365 Security Management'
-  description: '과정 MS-101T01-A: Microsoft 365 Security Management'
+  title: 'Course MS-101T01-A: Microsoft 365 Security Management'
+  description: 'Course MS-101T01-A: Microsoft 365 Security Management'
 uid: course.ms-101t01
 courseNumber: 'MS-101T01-A'
 hoursToComplete: 24
@@ -34,13 +34,12 @@ exams:
 - uid: exam.ms-101
 summary: |-
   보안 메트릭 관리 방법, Azure AD ID 보호 활성화 방법, Microsoft 365 보안 관리 서비스 구성 및 Microsoft 365 위협 인텔리전스 사용 방법을 포함하여 Microsoft 365 Security Management에 대해 알아 봅시다.
-
   #### 대상 그룹 프로필
   본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
 prerequisitesSection: |-
   - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 , 같은 역할 기반 관리자 과정을 이수했습니다.
   - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험.
-  - 일반적인 IT 관행에 대한 능숙한 이해.
+  - 일반적인 IT 관행에 대한 능숙한 이해
 outlineSection: |-
   ### 모듈 1&#58; Microsoft 365 Tenant 디자인
   #### 단원
@@ -54,7 +53,6 @@ outlineSection: |-
   - FastTrack 및 파트너 서비스 활용
   - 도메인 서비스 구현
 
-
   ### 모듈 3&#58; Microsoft 365 Tenant 관리
   #### 단원
   - 테넌트 역할 구성
@@ -63,7 +61,8 @@ outlineSection: |-
 
   ### 모듈 4&#58; 실습 교육
 
-  #### 랩&#58; Microsoft 365 Security 관리
+  #### 랩 &#58; Microsoft 365 Security 관리
   - 연습 1&#58; 랩 환경 설정
   - 연습 2&#58; 고급 위협 보호(ATP) 안전한 링크 정책 변경 및 안전한 첨부 파일 정책 생성
   - 연습 3&#58; 고급 위협 분석(ATA) 센터 활성화 및 설치
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: DevOps 전략 설계
+title: Designing a DevOps Strategy
 metadata:
-  title: '과정 AZ-400T07-A: DevOps 전략 설계'
-  description: '과정 AZ-400T07-A: DevOps 전략 설계'
+  title: 'Course AZ-400T07-A: Designing a DevOps Strategy'
+  description: 'Course AZ-400T07-A: Designing a DevOps Strategy'
 uid: course.az-400t07
 courseNumber: 'AZ-400T07-A'
 hoursToComplete: 24
@@ -14,7 +14,7 @@ skillsGained:
 - skill: 프로젝트 품질 전략 개발.
 - skill: 안전한 개발 관행 및 컴플라이언스 규칙 계획.
 - skill: 아티팩트 마이그레이션 및 통합.
-- skill: 소스 제어 측정 마이그레이션 및 통합.
+- skill: 소스 제어 측정 마이그레이션 및 통합
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
@@ -32,7 +32,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   본 과정에서는 DevOps 전략을 설계하기 위한 지식과 기술을 제공합니다. 변화를 계획하고, 프로젝트를 선택하고, 팀 구조를 만드는 방법을 설명합니다. 품질 및 보안 전략을 개발하는 방법도 제공합니다. 아티팩트 및 소스 제어를 마이그레이션 및 통합하는 계획도 다룹니다.
-
   #### 대상 그룹 프로필
   본 과정의 수강자는 DevOps 프로젝트 계획에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
 prerequisitesSection: |-
@@ -45,7 +44,6 @@ outlineSection: |-
   - 전환 계획
   - 프로젝트 선택
   - 팀 구조
-
   #### 랩 &#58; Azure Boards를 통한 신속한 계획 및 포트폴리오 관리
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 공유 목표와 타임라인을 통해 변환 계획
@@ -77,3 +75,4 @@ outlineSection: |-
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 아티팩트 마이그레이션 및 통합
   - 소스 제어 측정 마이그레이션 및 통합
+

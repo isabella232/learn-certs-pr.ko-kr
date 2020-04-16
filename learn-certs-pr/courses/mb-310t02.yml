@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 재무 및 운영에서 지급, 수취 및 수집을 위한 계정 구성 및 사용
+title: Configure and use accounts payable, receivable, and collections in Finance and Operations
 metadata:
-  title: '과정 MB-310T02-A: 재무 및 운영에서 지급, 수취 및 수집을 위한 계정 구성 및 사용'
-  description: '과정 MB-310T02-A: 재무 및 운영에서 지급, 수취 및 수집을 위한 계정 구성 및 사용'
+  title: 'Course MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
+  description: 'Course MB-310T02-A: Configure and use accounts payable, receivable, and collections in Finance and Operations'
 uid: course.mb-310t02
 courseNumber: 'MB-310T02-A'
 hoursToComplete: 24
@@ -21,9 +21,8 @@ exams:
 - uid: exam.mb-310
 summary: |-
   조직은 Dynamics 365 for Finance and Operations를 사용하여 수익성을 높이고 인력 생산성을 최적화하고 운영 비용을 줄이고 요구 사항 변경에 신속히 적응하고 자산 관리를 간소화함으로써 재무 성과를 향상시킵니다.
-  
-  본 과정에서는 Dynamics 365 for Finance and Operations에서 지급 계정, 수취 계정 및 컬렉션 구성 및 사용 방법을 설명합니다.
 
+  본 과정에서는 Dynamics 365 for Finance and Operations에서 지급 계정, 수취 계정 및 컬렉션 구성 및 사용 방법을 설명합니다.
   #### 대상 그룹 프로필
   Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
 prerequisitesSection: |-
@@ -39,7 +38,6 @@ outlineSection: |-
   - 포지티브 페이 구성 및 사용
   - 랩 실습
   - 모듈 요약
-
   본 모듈에서는 다음의 방법을 학습했습니다&#58;
   - 지급 계정 구성 요소 구성
   - 공급 업체 생성 및 유지 관리
@@ -152,3 +150,4 @@ outlineSection: |-
   - 과정 이후 설문 조사
 
   학생들은 다음 과정을 마쳤습니다.
+
