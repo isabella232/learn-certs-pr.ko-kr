@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: SQL 워크로드를 Azure로 마이그레이션
+title: Migrate SQL workloads to Azure
 metadata:
-  title: '과정 DP-050T00-A: SQL 워크로드를 Azure로 마이그레이션'
-  description: '과정 DP-050T00-A: SQL 워크로드를 Azure로 마이그레이션'
+  title: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
+  description: 'Course DP-050T00-A: Migrate SQL workloads to Azure'
 uid: course.dp-050t00
 courseNumber: 'DP-050T00-A'
 hoursToComplete: 48
@@ -25,13 +25,12 @@ products:
 summary: |-
   본 과정에서는 데이터 플랫폼 현대화의 목표와 주어진 비즈니스 요구사항에 얼마나 적합한 지에 대해 설명합니다. 또한 데이터 플랫폼 현대화 프로세스의 각 단계를 살펴보고, 평가 및 계획 단계와 같은 각 단계에서 어떤 작업이 수행되는지 정의합니다. 또한 사용 가능한 마이그레이션 도구와 이러한 도구가 데이터 마이그레이션 프로세스의 각 단계에 어떻게 적합한 지에 대해서도 설명합니다.
   SQL 기반 워크로드를 위한 세 가지 대상 플랫폼, 즉 Azure 가상 머신, Azure SQL 데이터베이스 및 Azure SQL Database Managed Instances로 마이그레이션하는 방법도 설명합니다. 또한 각 대상 플랫폼의 장점과 한계, 그리고 이를 사용하여 최신 SQL 워크로드에 대한 비즈니스 및 기술 요구사항을 모두 충족하는 방법을 설명합니다. 수강생들은 기존 SQL 기반 애플리케이션에 필요한 변경 사항을 검토하여 Azure에서 최신 데이터 플랫폼을 최대한 활용할 수 있습니다.
-
   #### 대상 그룹 프로필
   이 과정에는 Microsoft Azure에 존재하는 데이터 플랫폼 마이그레이션 기술과 기존 SQL 기반 워크로드를 마이그레이션 및 현대화할 수 있는 방법에 대해 알아보려는 데이터 전문가와 데이터 설계자가 참가할 수 있습니다.
   본 과정의 다음 대상자는 데이터 플랫폼을 관리하거나 기존 데이터 플랫폼 기술을 통해 콘텐츠를 제공하는 애플리케이션을 개발하는 사람들입니다.
 prerequisitesSection: |-
-  SQL Server에 대한 전문적인 경험 외에도, 본 교육을 받는 수강생은 다음 과정에 해당하는 기술 지식을 갖추어야 합니다&#58;
-  - Azure fundamentals
+  SQL Server에 대한 전문적인 경험 외에도, 본 교육을 받는 수강생은 다음 과정에 해당하는 기술 지식을 갖추어야 합니다.
+  - [Azure fundamentals](https&#58;//docs.microsoft.com/en-us/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### 모듈 1&#58; 데이터 플랫폼 현대화 소개
   이 모듈에서는 학생들이 데이터 플랫폼 현대화의 목적을 학습하고 데이터 플랫폼 현대화가 조직에 가져다 줄 수 있는 혜택에 대해 간략히 설명합니다. 그런 다음  각 단계에서 어떤 작업이 수행되는지 파악하고 성공적인 데이터 플랫폼 현대화 프로젝트의 가능성을 극대화하기 위한 데이터 플랫폼 마이그레이션 프로젝트의 다양한 단계를 설명합니다. 마지막으로, 다양한 데이터 마이그레이션 경로를 탐색하여 각 접근 방식이 어떻게 다른 접근 방식보다 하나의 마이그레이션 방식을 선택하는 이유를 제공합니다.
@@ -39,7 +38,6 @@ outlineSection: |-
   - 데이터 플랫폼 현대화 이해
   - 마이그레이션 단계들에 대한 이해
   - 데이터 마이그레이션 경로
-
   #### 랩 &#58; 데이터 플랫폼 현대화 소개
   - 데이터 플랫폼 현대화 이해
   - 마이그레이션 단계들에 대한 이해
@@ -59,18 +57,18 @@ outlineSection: |-
   - 데이터베이스 마이그레이션 가이드 검색
   - Map Toolkit를 사용하여 데이터 자산 인벤토리 작성
   - Data Migration Assistant를 사용하여 마이그레이션 후보 식별
-  - Database Experimentation Assistant를 사용하여 데이터 워크로드 평가
+  - Database Experimation Assistant를 사용하여 데이터 워크로드 평가
   - Azure Database Migration Service를 사용한 데이터 마이그레이션
   - SQL Migration Assistant를 사용하여 non-SQL Server 워크로드를 Azure로 마이그레이션
 
 
   #### 랩 &#58; 데이터 마이그레이션을 위한 올바른 도구 선택
   - Data Migration Assistant를 사용하여 마이그레이션 후보 식별
-  - Database Experimentation Assistant를 사용하여 데이터 워크로드 평가
+  - Database Experimation Assistant를 사용하여 데이터 워크로드 평가
 
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - Data Migration Assistant를 사용하여 마이그레이션 후보 식별
-  - Database Experimentation Assistant를 사용하여 데이터 워크로드 평가
+  - Database Experimation Assistant를 사용하여 데이터 워크로드 평가
 
 
   ### 모듈 3&#58; SQL 워크로드를 Azure 가상 머신으로 마이그레이션
@@ -128,3 +126,4 @@ outlineSection: |-
   - SQL Database Managed Instance로 마이그레이션
   - SQL Database Managed instance로 데이터 로드 및 이동
   - 애플리케이션 구성 및 최적화
+

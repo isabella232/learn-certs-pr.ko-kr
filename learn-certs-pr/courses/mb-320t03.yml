@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 for Finance and Operations에서 프로세스 제조의 구성 및 사용
+title: Configure and use process manufacturing in Dynamics 365 for Finance and Operations
 metadata:
-  title: '과정 MB-320T03-A: Dynamics 365 for Finance and Operations에서 프로세스 제조의 구성 및 사용'
-  description: '과정 MB-320T03-A: Dynamics 365 for Finance and Operations에서 프로세스 제조의 구성 및 사용'
+  title: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-320T03-A: Configure and use process manufacturing in Dynamics 365 for Finance and Operations'
 uid: course.mb-320t03
 courseNumber: 'MB-320T03-A'
 hoursToComplete: 24
@@ -22,7 +22,6 @@ exams:
 summary: |-
   조직은 Dynamics 365 for Finance and Operations를 사용하여 가장 적합한 제조 프로세스를 선택하고 운영 절차를 개선하며 리소스 관리를 단순화하고 제품 제공을 가속화하며 품질 및 고객 만족도를 높이면서 관련이 있는 작업을 스마트하게 운영합니다.
   본 과정에서는 Dynamics 365 for Finance and Operations에서 프로세스 제조 구성 및 사용 방법을 설명합니다.
-
 prerequisitesSection: |-
   ERP 및 CRM 개념에 대한 기본적인 이해.
 outlineSection: |-
@@ -42,7 +41,6 @@ outlineSection: |-
   - 수식 관리 이해
   - 공동 제품 및 부산물 이해
   - 승인된 공급 업체 이해
-
 
   ### 모듈 2&#58; 프로세스 제조에 대한 배치 속성 식별 및 구성
   이 토픽에서는 Finance and Operations의 배치 속성을 구성하는 방법을 설명합니다.
@@ -87,3 +85,4 @@ outlineSection: |-
 
 
   학생들은 다음 과정을 마쳤습니다.
+

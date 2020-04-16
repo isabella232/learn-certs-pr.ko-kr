@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azure 데이터 솔루션 구현
+title: Implementing an Azure Data Solution
 metadata:
-  title: '과정 DP-200T01-A: Azure 데이터 솔루션 구현'
-  description: '과정 DP-200T01-A: Azure 데이터 솔루션 구현'
+  title: 'Course DP-200T01-A: Implementing an Azure Data Solution'
+  description: 'Course DP-200T01-A: Implementing an Azure Data Solution'
 uid: course.dp-200t01
 courseNumber: 'DP-200T01-A'
 hoursToComplete: 72
@@ -30,14 +30,12 @@ exams:
 - uid: exam.dp-200
 summary: |-
   본 과정에서는 다양한 데이터 플랫폼 기술을 온-프레미스, 클라우드, 관계형 데이터와 NoSQL 데이터를 모두 병합하는 하이브리드 데이터 시나리오 등 비즈니스 및 기술 요구 사항에 부합하는 솔루션으로 구현하는 방법을 설명합니다. 또한 다양한 기술과 언어를 사용하여 스트리밍 및 배치 데이터 모두에 대해 처리하는 방법도 설명합니다.
-
   인증, 권한 부여, 데이터 정책 및 표준을 포함한 데이터 보안을 구현하는 방법에 대해서도 다룹니다. 이와 함께 데이터 저장 및 데이터 처리 작업 모두에 대한 데이터 솔루션 모니터링을 정의하고 구현하는 방법을 설명합니다. 마지막으로 빅 데이터의 최적화 및 재해 복구, 배치 처리 및 스트리밍 데이터 솔루션을 포함한 Azure 데이터 솔루션을 관리하고 문제를 해결합니다.
-
   #### 대상 그룹 프로필
   본 과정의 주요 대상 그룹은 Microsoft Azure에 존재하는 데이터 플랫폼 기술에 대해 알고 싶어하는 데이터 전문가, 데이터 설계자 및 비즈니스 인텔리전스 전문가입니다. 이 과정의 두 번째 대상 그룹은 Microsoft Azure에 있는 데이터 플랫폼 기술을 통해 콘텐츠를 제공하는 애플리케이션을 개발하는 전문가입니다.
 prerequisitesSection: |-
-  전문적인 경험 외에도, 본 교육을 받는 수강생은 다음 과정에 해당하는 기술 지식을 갖추어야 합니다&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  전문적인 경험 외에도, 본 교육을 받는 수강생은 다음 과정에 해당하는 기술 지식을 갖추어야 합니다.
+  - [Azure Fundamentals](https&#58;//docs.microsoft.com/ko-kr/learn/modules/welcome-to-azure/)
 outlineSection: |-
   ### 모듈 1&#58; 데이터 엔지니어 용 Azure
   이 모듈에서는 데이터 세계가 어떻게 발전해왔는지, 그리고 클라우드 데이터 플랫폼 기술이 어떻게 기업에게 다양한 방식으로 데이터를 탐색할 수 있는 새로운 기회를 제공하는지에 대해 알아봅니다. 사용 가능한 다양한 데이터 플랫폼 기술과 데이터 엔지니어의 역할 및 책임이 어떻게 조직의 이익을 위해 새로운 환경에서 작동하도록 진화했는지에 대해 간략히 설명합니다.
@@ -46,7 +44,6 @@ outlineSection: |-
   - Azure Data Platform에서 서비스 설문 조사
   - 데이터 엔지니어가 수행하는 과제 식별
   - 사례 연구에서 클라우드의 사용 사례 설명
-
 
   #### 랩 &#58; 데이터 엔지니어 용 Azure
   - 진화하는 데이터 세계 식별
@@ -232,3 +229,4 @@ outlineSection: |-
   - 일반적인 데이터 저장소 문제 해결
   - 일반적인 데이터 프로세싱 문제 해결
   - 재해 복구 관리
+

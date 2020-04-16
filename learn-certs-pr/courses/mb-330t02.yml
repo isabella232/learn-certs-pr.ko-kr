@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 for Finance and Operations에서 품질 관리, 회사 간 거래 및 마스터 플랜 사용
+title: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations
 metadata:
-  title: '과정 MB-330T02-A: Dynamics 365 for Finance and Operations에서 품질 관리, 회사 간 거래 및 마스터 플랜 사용'
-  description: '과정 MB-330T02-A: Dynamics 365 for Finance and Operations에서 품질 관리, 회사 간 거래 및 마스터 플랜 사용'
+  title: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
+  description: 'Course MB-330T02-A: Use quality management, Intercompany trading and master planning in Dynamics 365 for Finance and Operations'
 uid: course.mb-330t02
 courseNumber: 'MB-330T02-A'
 hoursToComplete: 24
@@ -35,12 +35,10 @@ outlineSection: |-
   - 검역 관리 수행
   - 랩 실습
   - 모듈 요약
-
   본 모듈에서는 다음을 학습했습니다&#58;
   - 품질 관리 및 품질 관리 프로세스 수행
   - 재고 차단 적용
   - 검역 관리 수행
-
 
   ### 모듈 2&#58; 회사 간 거래 관계 구성 및 사용
   Dynamics 365 for Finance and Operations의 회사 간 기능은 여러 회사의 정적 및 동적 데이터를 단일 데이터베이스에 별도의 법인으로 통합하는 메커니즘을 제공합니다. 회사 간 거래를 통해 전 세계에 분산된 제조 사이트, 유통 센터 및 판매 자회사는 통합된 하나의 조직으로 활동할 수 있습니다. 본 모듈에서는 Finance and Operations에서 회사 간 거래 관계 구성과 사용 및 회사 간 주문 처리 방법을 설명합니다.
@@ -83,7 +81,7 @@ outlineSection: |-
   - 수요 및 공급 예측에 대해 학습하기
   - 계산된 지연 구성
   - 항목 적용 범위 구성
-  -회사 간 마스터 계획에 대한 간략한 소개 이해
+  - 회사 간 마스터 계획에 대한 간략한 소개 이해
   - 계획 및 확정된 계획 주문 실행
 
 
@@ -96,3 +94,4 @@ outlineSection: |-
 
 
   학생들은 다음 과정을 마쳤습니다.
+

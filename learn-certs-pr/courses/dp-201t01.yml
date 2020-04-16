@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azure 데이터 솔루션 설계
+title: Designing an Azure Data Solution
 metadata:
-  title: '과정 DP-201T01-A: Azure 데이터 솔루션 설계'
-  description: '과정 DP-201T01-A: Azure 데이터 솔루션 설계'
+  title: 'Course DP-201T01-A: Designing an Azure Data Solution'
+  description: 'Course DP-201T01-A: Designing an Azure Data Solution'
 uid: course.dp-201t01
 courseNumber: 'DP-201T01-A'
 hoursToComplete: 48
@@ -30,12 +30,11 @@ exams:
 - uid: exam.dp-201
 summary: |-
   본 과정에서는 다양한 데이터 플랫폼 기술을 비즈니스 및 기술 요구 사항에 부합하는 솔루션으로 설계하는 방법을 설명합니다. 여기에는 관계형, NoSQL 또는 데이터 웨어하우스 데이터를 통합한 온-프레미스, 클라우드 및 하이브리드 데이터 시나리오가 포함될 수 있습니다. 또한 스트리밍과 배치 데이터 모두에 대해 다양한 기술을 사용하여 프로세스 아키텍처를 설계하는 방법도 설명합니다. 데이터 액세스, 데이터 정책 및 표준을 포함한 데이터 보안을 설계하는 방법에 대해서도 다룹니다. 마지막으로 빅 데이터의 최적화, 가용성 및 재해 복구, 배치 처리 및 스트리밍 데이터 솔루션을 포함한 Azure 데이터 솔루션을 설계합니다.
-
   #### 대상 그룹 프로필
   본 과정은 Microsoft Azure에 존재하는 데이터 플랫폼 기술에 대해 알아보려는 데이터 전문가, 데이터 설계자 및 비즈니스 인텔리전스 전문가를 대상으로 합니다. 또한 Microsoft Azure에 있는 데이터 플랫폼 기술을 통해 콘텐츠를 제공하는 애플리케이션을 개발하는 전문가입니다.
 prerequisitesSection: |-
   전문적인 경험 외에도, 본 교육을 받는 수강생은 다음 과정에 해당하는 기술 지식을 갖추어야 합니다&#58;
-  - [Azure Fundamentals](https://docs.microsoft.com/learn/modules/welcome-to-azure/)
+  - [Azure Fundamentals](https&#58;//docs.microsoft.com/ko-kr/learn/modules/welcome-to-azure/)
   - DP-200&#58; Azure 데이터 솔루션 구현
 outlineSection: |-
   ### 모듈 1&#58; 데이터 플랫폼 아키텍처 고려 사항
@@ -47,7 +46,6 @@ outlineSection: |-
   - 가용성 및 복구성 설계
   - 효율성 및 운영 디자인
   - 사례 연구
-
   #### 랩 &#58; 사례 연구
   - 보안을 염두에 둔 디자인
   - 성능 및 확장성 고려
@@ -174,3 +172,4 @@ outlineSection: |-
   - 클라우드 환경의 효율성 최대화
   - 모니터링 및 분석을 사용하여 운영 통찰력 습득
   - 자동화를 사용한 작업량 및 오류 감소
+

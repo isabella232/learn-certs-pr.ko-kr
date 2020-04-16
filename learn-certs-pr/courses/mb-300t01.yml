@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 for Finance and Operations의 핵심 공통 기능
+title: Core common features of Dynamics 365 for Finance and Operations
 metadata:
-  title: '과정 MB-300T01-A: Dynamics 365 for Finance and Operations의 핵심 공통 기능'
-  description: '과정 MB-300T01-A: Dynamics 365 for Finance and Operations의 핵심 공통 기능'
+  title: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
+  description: 'Course MB-300T01-A: Core common features of Dynamics 365 for Finance and Operations'
 uid: course.mb-300t01
 courseNumber: 'MB-300T01-A'
 hoursToComplete: 24
@@ -20,13 +20,7 @@ products:
 - dynamics-finance-operations
 exams:
 - uid: exam.mb-300
-summary: |-
-  조직은 Dynamics 365 for Finance and Operations를 사용하여 운영 비용을 줄이고 변화하는 비즈니스 요구 사항에 신속히 대응합니다. 이 솔루션으로 조직은 이러한 목표를 달성할 수 있습니다. 
-
-  본 과정에서는 Microsoft Dynamics 365 for Finance and Operations의 핵심 구성 요소에 대해 설명합니다.
-
-  #### 대상 그룹 프로필
-  Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
+summary: "조직은 Dynamics 365 for Finance and Operations를 사용하여 운영 비용을 줄이고 변화하는 비즈니스 요구 사항에 신속히 대응합니다. 이 솔루션으로 조직은 이러한 목표를 달성할 수 있습니다. \n본 과정에서는 Microsoft Dynamics 365 for Finance and Operations의 핵심 구성 요소에 대해 설명합니다.\n#### 대상 그룹 프로필\nDynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다."
 prerequisitesSection: |-
   ERP 및 CRM 개념에 대한 기본적인 이해.
 outlineSection: |-
@@ -110,7 +104,7 @@ outlineSection: |-
   - 랩 실습
   - 모듈 요약
 
-  모바일 앱을 만들고 Finance and Operations에 게시하는 방법을 설명합니다. 모바일 앱의 디자인 고려 사항을 이해하면 최신 애플리케이션의 사용자 경험에 맞는 모바일 앱을 만들 수 있습니다. 또한 Finance and Operations를 사용하고 작업하려면 Microsoft Dynamics 365 Unified Operations 앱을 다운로드해야 한다는 것을 학습했습니다. 또한 Dynamics 365 Unified Operations 앱을 실행하여 Finance and Operations에 연결하는 방법, 게시된 모바일 앱 사용 및 데이터를 풀하고 새로 고치는 방법도 설명합니다.
+  모바일 앱을 만들고 Finance and Operations에 게시하는 방법을 설명합니다. 모바일 앱의 디자인 고려 사항을 이해하면 최신 애플리케이션의 사용자 경험에 맞는 모바일 앱을 만들 수 있습니다. 또한 Finance and Operations를 사용하고 작업하려면 Microsoft Dynamics 365 Unified Operations 앱을 다운로드해야 한다는 것을 학습했습니다. 또한 Dynamics 365 Unified Operations 앱을 실행하여 Finance and Operations에 연결하는 방법, 게시된 모바일 앱 사용 및 데이터를 풀하고 새로 고치는 방법도 설명합니다..
 
   ### 모듈 6&#58; 워크플로 생성, 관리 및 사용
   워크플로는 비즈니스 프로세스를 표현합니다. 작업을 완료하거나, 결정을 내리거나, 문서를 승인해야 하는 사람을 표시하여 시스템을 통해 문서가 진행되거나 이동하는 방법을 정의합니다.
@@ -126,10 +120,11 @@ outlineSection: |-
   본 모듈에서는 워크플로를 사용하여 자동화 적용 방법을 학습하였고 특정 유형을 정의하면 기업은 중요한 프로세스에서 각 단계를 통제할 수 있음을 설명합니다. 워크플로가 여러 업무 일지 승인을 사용하는 절차 단계로 사용될 수 있다는 것을 설명합니다. 또한 각 워크플로의 여러 버전을 정의하여 원본을 삭제하지 않고도 기존 워크 플로우를 수정할 수 있다는 것을 설명합니다. 이러한 워크플로 프로세스는 수동 승인, 워크플로 프로세스 승인이 필요하거나 승인이 필요하지 않을 수도 있습니다. 워크플로 아키텍처, 요소 및 동작을 이해하고 워크플로 설정, 워크플로 속성 구성 및 수동 또는 자동으로 워크플로에 작업을 추가하는 방법을 설명합니다. 마지막으로 워크플로에서 승인 프로세스를 구성하고, 사용자를 워크플로 터치포인트에 할당하고, 워크플로 승인 단계를 구성하고 작업 항목 기능을 사용하여 워크플로를 처리하는 방법을 설명합니다.
 
   ### 모듈 7&#58; 과정 마무리
-  최종 평가, 과정 요약 및 과정 이후 설문 조사.
+  최종 평가, 과정 요약 및 과정 이후 설문 조사
   #### 단원
   - 최종 평가
   - 과정 요약
   - 과정 이후 설문 조사
 
   학생들은 다음 과정을 마쳤습니다.
+
