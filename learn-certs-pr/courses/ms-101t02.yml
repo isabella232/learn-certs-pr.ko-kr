@@ -1,14 +1,14 @@
 ### YamlMime:Course
-title: Microsoft 365 규정 준수 관리
+title: Microsoft 365 Compliance Management
 metadata:
-  title: '과정 MS-101T02-A: Microsoft 365 규정 준수 관리'
-  description: '과정 MS-101T02-A: Microsoft 365 규정 준수 관리'
+  title: 'Course MS-101T02-A: Microsoft 365 Compliance Management'
+  description: 'Course MS-101T02-A: Microsoft 365 Compliance Management'
 uid: course.ms-101t02
 courseNumber: 'MS-101T02-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: '다음을 포함한 ‘Microsoft 365의 데이터 거버넌스 이해: 아카이빙, 보존, 정보 권한 관리, SMIME(Secure Multipurpose Internet Mail Extension), Office 365 메시지 암호화 및 데이터 손실 방지'
+- skill: '다음을 포함한 Microsoft 365의 데이터 거버넌스 이해: 아카이빙, 보존, 정보 권한 관리, SMIME(Secure Multipurpose Internet Mail Extension), Office 365 메시지 암호화 및 데이터 손실 방지'
 - skill: SharePoint 인플레이스 기록 관리 구현
 - skill: Exchange 아카이빙 및 보존 구현
 - skill: 보안 및 준수 센터에서 보존 정책 생성
@@ -41,13 +41,12 @@ exams:
 - uid: exam.ms-101
 summary: |-
   Microsoft 365의 데이터 보존 및 데이터 손실 방지 솔루션, Microsoft 365의 아카이빙 및 보존, 데이터 거버넌스 구현 및 관리, 검색 및 조사 관리를 포함한 Microsoft 365 규정 준수 관리에 대해 알아 봅시다.
-
   #### 대상 그룹 프로필
   본 과정은 Microsoft 365 Enterprise 관리자 역할에 관심이 있고 Microsoft 365 역할 기반 관리자 인증 경로를 이수한 사람을 대상으로 합니다.
 prerequisitesSection: |-
   - 메시징, 팀워크, 보안 및 규정 준수 또는 공동 작업과 , 같은 역할 기반 관리자 과정을 이수했습니다.
   - DNS에 대한 능숙한 이해 및 Microsoft 365 서비스의 기초 및 기능적인 경험.
-  - 일반적인 IT 관행에 대한 능숙한 이해.
+  - 일반적인 IT 관행에 대한 능숙한 이해
 outlineSection: |-
   ### 모듈 1&#58; Microsoft 365 데이터 거버넌스 소개
   #### 단원
@@ -64,7 +63,6 @@ outlineSection: |-
   - Exchange 아카이빙 및 보존
   - SCC 보존 정책
   - 도메인 서비스 구현
-
 
   ### 모듈 3&#58; Microsoft 365 인텔리전스 데이터 거버넌스 구현
   #### 단원
@@ -98,16 +96,17 @@ outlineSection: |-
   - 연습 1&#58; 조직 준수 초기화
 
 
-  #### 랩&#58; Microsoft 365 아카이빙 및 보존
+  #### 랩 &#58; Microsoft 365 아카이빙 및 보존
   - 연습 1&#58; 보존 태그 및 정책 구현
   - 연습 2&#58; AIP 및 WIP 구현
 
 
-  #### 랩&#58; 데이터 거버넌스 구현
+  #### 랩 &#58; 데이터 거버넌스 구현
   - 연습 1&#58; DLP 정책 테스트
   - 연습 2&#58; Azure Information Protection 사용
   - 연습 3&#58; Windows Information Protection 사용
 
 
-  #### 랩&#58; 데이터 거버넌스 정책 검증
+  #### 랩 &#58; 데이터 거버넌스 정책 검증
   - 연습 1&#58; Microsoft 365 데이터 조사
+

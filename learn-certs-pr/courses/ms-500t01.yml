@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 ID 및 액세스 관리
+title: Managing Microsoft 365 Identity and Access
 metadata:
-  title: '과정 MS-500T01-A: Microsoft 365 ID 및 액세스 관리'
-  description: '과정 MS-500T01-A: Microsoft 365 ID 및 액세스 관리'
+  title: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
+  description: 'Course MS-500T01-A: Managing Microsoft 365 Identity and Access'
 uid: course.ms-500t01
 courseNumber: 'MS-500T01-A'
 hoursToComplete: 24
@@ -28,15 +28,7 @@ products:
 - office-365
 exams:
 - uid: exam.ms-500
-summary: |-
-  ID 및 액세스 관리로 자격 증명 손상을 방지합니다. 본 과정에서는 조직 리소스에 대한 사용자 액세스를 보호하는 방법을 학습합니다. 특히, 본 과정에서는 사용자 암호 보호, 다단계 인증, Azure ID 보호 방법, Active Directory Federation Services 구성 방법, Azure AD Connect 설정 및 사용 방법을 다루고 조건부 액세스를 소개합니다. Microsoft 365의 외부 액세스 관리를 위한 솔루션을 학습합니다.
-  
-  #### 대상 그룹 프로필
-  Microsoft 365 보안 관리자 역할을 위한 과정입니다. Microsoft 365 Enterprise Administrator, 비즈니스 이해관계자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인하는 역할입니다. 
-  
-  Microsoft 365 Enterprise 환경을 사전에 보호하는 역할을 합니다. 위협에 대응하고 Microsoft 365 환경의 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링하는 업무을 포함합니다. 인시던트, 조사 및 데이터 거버넌스 시행에 대응합니다. 
-  
-  Microsoft 365 보안 관리자는 Microsoft 365 워크로드에 익숙하며 ID 보호, 정보 보호, 위협 방지, 보안 관리 및 데이터 거버넌스에 대한 뛰어난 기술과 경험을 갖추고 있어야 합니다. 응시자의 역할은 주로 Microsoft 365 환경에 초점을 맞추고 있으며, 하이브리드 환경을 포함합니다.
+summary: "ID 및 액세스 관리로 자격 증명 손상을 방지합니다. 본 과정에서는 조직 리소스에 대한 사용자 액세스를 보호하는 방법을 학습합니다. 특히, 본 과정에서는 사용자 암호 보호, 다단계 인증, Azure ID 보호 방법, Active Directory Federation Services 구성 방법, Azure AD Connect 설정 및 사용 방법을 다루고 조건부 액세스를 소개합니다. Microsoft 365의 외부 액세스 관리를 위한 솔루션을 학습합니다.\n#### 대상 그룹 프로필\nMicrosoft 365 보안 관리자 역할을 위한 과정입니다. Microsoft 365 Enterprise Administrator, 비즈니스 이해관계자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인하는 역할입니다. \n\nMicrosoft 365 Enterprise 환경을 사전에 보호하는 역할을 합니다. 위협에 대응하고 Microsoft 365 환경의 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링하는 업무을 포함합니다. 인시던트, 조사 및 데이터 거버넌스 시행에 대응합니다. \n\nMicrosoft 365 보안 관리자는 Microsoft 365 워크로드에 익숙하며 ID 보호, 정보 보호, 위협 방지, 보안 관리 및 데이터 거버넌스에 대한 뛰어난 기술과 경험을 갖추고 있어야 합니다. 응시자의 역할은 주로 Microsoft 365 환경에 초점을 맞추고 있으며, 하이브리드 환경을 포함합니다."
 prerequisitesSection: |-
   학습자는 이미 다음의 기술을 갖추고 본 과정을 시작해야 합니다&#58;
   - Microsoft Azure에 대한 기본 개념 이해.
@@ -53,12 +45,10 @@ outlineSection: |-
   - Microsoft 365 관리자 역할 및 보안 그룹
   - Microsoft 365 비밀번호 관리
   - Azure AD ID 보호
-
-  #### 랩&#58; Microsoft 365 ID 환경 관리
+  #### 랩 &#58; Microsoft 365 ID 환경 관리
   - 랩 환경 설정
   - Microsoft 365 관리자 서버를 사용한 Microsoft 365 ID 환경 관리
   - 서비스 관리자 할당
-
   본 모듈을 마친 후에는 학생들은 다음을 수행할 수 있어야 합니다&#58;
   - Microsoft 365 사용자 ID 설명
   - Microsoft 365 관리 센터 및 Windows PowerShell에서 사용자 계정 생성
@@ -80,7 +70,7 @@ outlineSection: |-
   - 동기화된 Azure ID 관리
 
 
-  #### 랩&#58; ID 동기화 구현
+  #### 랩 &#58; ID 동기화 구현
   - 연습 ID 동기화를 위한 조직 설정
 
   본 모듈을 마친 후에는 학생들은 다음을 수행할 수 있어야 합니다&#58;
@@ -93,7 +83,7 @@ outlineSection: |-
   - 디렉토리 동기화로 사용자 관리
   - 디렉토리 동기화로 그룹 관리
   - Azure AD Connect 동기화 보안 그룹 사용
-  
+
 
   ### 모듈 3&#58; 페더레이션 ID
   본 모듈은 ADFS (Active Directory Federation Services)에 관한 것입니다. 특히 AD FS를 계획 및 관리하여 다른 디렉터리 사용자에게 제공하려는 액세스 수준을 달성하는 방법을 학습합니다.
@@ -128,3 +118,4 @@ outlineSection: |-
   - Azure RBAC 및 Azure AD 관리 역할 구분
   - 외부 액세스 관리
   - Azure AD B2B 공동 작업에 대한 라이선스 가이드 설명
+

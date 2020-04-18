@@ -1,0 +1,68 @@
+### YamlMime:Examination
+title: Microsoft Azure Administrator (beta)
+metadata:
+  title: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
+  description: 'Exam AZ-104: Microsoft Azure Administrator (beta)'
+uid: exam.az-104
+displayName: AZ-104
+summary: |-
+  Azure Administrator는 클라우드 환경에서 ID, 거버넌스, 저장소, 컴퓨팅 및 가상 네트워크를 구현, 관리 및 모니터링합니다. Azure Administrator는 리소스를 프로비저닝, 크기 조정, 모니터링하여 적절히 조정합니다.
+  
+  응시자는 Azure 관리 실무 경험이 최소 6개월은 있어야 합니다. 응시자는 핵심 Azure 서비스, Azure 워크로드, 보안 및 거버넌스를 잘 알고 있어야 합니다. 본 시험의 응시자는 PowerShell, 명령줄 인터페이스, Azure Portal 및 ARM 템플릿 사용 경험이 있어야 합니다.
+  
+  <div style='color&#58; red; font-weight&#58; bold;'><br/>참고&#58; 이 시험은 2020년 3월 31일부터 응시할 수 있습니다.</div>
+subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. Azure ID 및 거버넌스 관리, 저장소 구현 및 관리, Azure 컴퓨팅 리소스 배포 및 관리, 가상 네트워크 구성 및 관리, Azure 리소스 모니터링 및 백업.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWy
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-104&examname=Exam%20AZ-104:%20Microsoft%20Azure%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-104
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Azure ID 및 거버넌스 관리 (15-20%) 
+- 저장소 구현 및 관리 (10-15%)
+- Azure 컴퓨팅 리소스 배포 및 관리 (25-30%) 
+- 가상 네트워킹 구성 및 관리 (30-35%) 
+- Azure 리소스 모니터링 및 백업 (10 -15%)
+roles:
+- administrator
+products:
+- azure
+paths:
+- uid: learn.administer-infrastructure-resources-in-azure
+- uid: learn.architect-storage-infrastructure
+- uid: learn.architect-network-infrastructure
+- uid: learn.architect-infrastructure-operations
+- uid: learn.architect-compute-infrastructure
+- uid: learn.architect-migration-bcdr
+- uid: learn.manage-resources-in-azure
+- uid: learn.security.manage-identity-and-access
+- uid: learn.security.manage-security-operations
+- uid: learn.security.implement-resource-mgmt-security
+- uid: learn.administer-containers-in-azure
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md

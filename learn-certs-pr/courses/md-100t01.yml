@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Windows 10 설치
+title: Installing Windows 10
 metadata:
-  title: '과정 MD-100T01-A: Windows 10 설치'
-  description: '과정 MD-100T01-A: Windows 10 설치'
+  title: 'Course MD-100T01-A: Installing Windows 10'
+  description: 'Course MD-100T01-A: Installing Windows 10'
 uid: course.md-100t01
 courseNumber: 'MD-100T01-A'
 hoursToComplete: 24
@@ -26,11 +26,8 @@ exams:
 - uid: exam.md-100
 summary: |-
   본 과정에서 학생들은 Windows 10과 관련된 설치 작업을 지원하는 방법을 학습합니다. 학생들은 Windows 10 설치 및 사용자 지정 방법을 포함한 기술을 개발합니다. 학생들은 새로운 Windows 서비스 모델과 Windows를 최신 상태로 유지하는 방법에 대해 학습합니다. 본 과정은 일반 설치 후 작업으로 마무리합니다.
-
   #### 대상 그룹 프로필
-  이 시험은 Windows 10 핵심 서비스의 설치, 구성, 일반 로컬 관리 , 및 유지 관리를 수행하는 IT 전문가를 대상으로 실시됩니다.  
-  
-  응시자는 기업 시나리오 또는 클라우드 통합 서비스를 잘 알아야 합니다.
+  이 시험은 Windows 10 핵심 서비스의 설치, 구성, 일반 로컬 관리 , 및 유지 관리를 수행하는 IT 전문가를 대상으로 실시됩니다. 응시자는 기업 시나리오 또는 클라우드 통합 서비스를 잘 알아야 합니다.
 prerequisitesSection: |-
   학습자는 이미 다음의 기술을 갖추고 본 과정을 시작해야 합니다&#58;
   - 컴퓨터 네트워크 및 하드웨어 개념에 대한 기본적인 이해.
@@ -45,11 +42,9 @@ outlineSection: |-
   - Windows 기능 요구 사항
   - 설치 과정 및 미디어
   - Windows 10으로 업그레이드
-
-  #### 랩&#58; Windows 10 설치
+  #### 랩 &#58; Windows 10 설치
   - Windows 7에서 Windows 10으로 업그레이드
   - 사용자 설정 마이그레이션
-
 
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - Windows 10의 다양한 에디션 및 기능 이해
@@ -65,7 +60,7 @@ outlineSection: |-
   - 애플리케이션 및 Windows 업데이트 적용
 
 
-  #### 랩&#58; Windows 10 업데이트
+  #### 랩 &#58; Windows 10 업데이트
   - 단일 장치에 대한 업데이트 구성
   - GPO 사용 업데이트 구성
 
@@ -87,7 +82,7 @@ outlineSection: |-
   - Windows PowerShell 사용 설명
 
 
-  #### 랩&#58; Windows 10 구성
+  #### 랩 &#58; Windows 10 구성
   - 설정 앱 사용
   - 제어판 사용 제어판 사용
   - Windows PowerShell 사용
@@ -105,4 +100,5 @@ outlineSection: |-
   - 최종 시험
 
 
-  #### 랩&#58; 등급별 랩
+  #### 랩 &#58; 등급별 랩
+

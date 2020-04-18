@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Azure에서 Data Science Solution 설계 및 구현
+title: Designing and Implementing a Data Science Solution on Azure
 metadata:
-  title: '과정 DP-100T01-A: Azure에서 Data Science Solution 설계 및 구현'
-  description: '과정 DP-100T01-A: Azure에서 Data Science Solution 설계 및 구현'
+  title: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
+  description: 'Course DP-100T01-A: Designing and Implementing a Data Science Solution on Azure'
 uid: course.dp-100t01
 courseNumber: 'DP-100T01-A'
 hoursToComplete: 72
@@ -21,12 +21,11 @@ exams:
 - uid: exam.dp-100
 summary: |-
   Azure 서비스를 사용하여 기계 학습 솔루션을 개발, 교육 및 구축하는 방법에 필요한 지식을 습득합니다. 이 과정은 데이터 과학을 지원하는 Azure 서비스에 대한 개요로 시작합니다. 그로부터 Azure의 최고 데이터 과학 서비스인 Azure Machine Learning 서비스를 사용하여 데이터 과학 파이프라인을 자동화합니다. 본 과정은 Azure에 중점을 두고 있으며 학생들에게 데이터 과학을 가르치는 것은 아닙니다. 학생들은 이미 그것을 알고 있다고 가정합니다.
-
   #### 대상 그룹 프로필
   본 과정은 데이터 과학자와 기계 학습 모델을 교육하고 배포하는 데 있어 중요한 책임이 있는 사람들을 대상으로 합니다.
 prerequisitesSection: |-
   이 과정에 참석하기 전에 학생들은 다음을 숙지해야 합니다&#58;
-  - [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals) 취득 .
+  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
   - 데이터를 준비하고, 모델을 교육하고, 경쟁 모델을 평가하여 최적의 모델을 선택하는 방법을 포함한 데이터 과학 이해.
   - Python 프로그래밍 언어로 프로그래밍하는 방법 및 pandas, scikit-learn, matplotlib, 및 seaborn 등의 Python 라이브러리를 사용하는 방법.
 outlineSection: |-
@@ -55,3 +54,4 @@ outlineSection: |-
   본 모듈에서는 AML 서비스에서 기계 학습 모델을 자동으로 관리하고 모니터링하는 방법을 설명합니다.
   #### 단원
   - Machine Learning 모델 관리 및 모니터링
+

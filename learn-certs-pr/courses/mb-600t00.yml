@@ -1,0 +1,151 @@
+### YamlMime:Course
+title: 'Microsoft Power Apps + Dynamics 365 Solution Architect'
+metadata:
+  title: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+  description: 'Course MB-600T00-A: Microsoft Power Apps + Dynamics 365 Solution Architect'
+uid: course.mb-600t00
+courseNumber: 'MB-600T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- solution-architect
+products:
+- dynamics
+- power-apps
+exams:
+- uid: exam.mb-600
+summary: |-
+  솔루션 설계자는 전체 솔루션의 성공적인 설계, 구현, 배포 및 활용을 담담합니다. 솔루션 설계자는 솔루션을 사용하여 현재와 미래의 고객 요구 사항을 충족하도록 보장합니다. 이 과정에서는 보안, 통합, Power Apps 아키텍처, Power Automate 아키텍처 등을 포함한 구현을 진행하는 동안 솔루션 설계자가 내리는 의사 결정에 대해 배우게됩니다 이 과정은 솔루션 설계자 역할을 소개하기 위한 과정입니다.
+
+  #### 대상 그룹 프로필
+  
+  솔루션 설계자가 되려고 하는 선임 (기능 및 기술) 컨설턴트 또는 역할을 처음 맡은 현재 솔루션 설계자  
+prerequisitesSection: |-
+  본 과정을 수강하기 전 학생들은 다음을 갖추어야 합니다:
+  
+  - MB-200 시험 합격
+  - Dynamics 365 및 Power Platform 경험
+  - 수석 컨설턴트 (기능 또는 기술) 또는 솔루션 설계자 역할
+  - Microsoft Azure 일부 지식
+outlineSection: |-  
+  ### 모듈 1: 소개
+  
+  과정 소개
+  
+  ### 모듈 2: 솔루션 설계자 되기/고객 알아보기
+
+  #### 단원
+  - 솔루션 설계자 정의
+  - 프로젝트에서 솔루션 설계자 역할
+  - 프로젝트 방법론
+  - 고객 알아보기
+  - 그룹 연습 - 고객 알아보기
+
+  ### 모듈 3: 요구 사항에서 설계 개념화
+  
+  #### 단원
+  - 요구 사항 수집 활동 인솔 방법
+  - Fit & Gap 분석
+  - 좋은 아키텍처의 요소
+  - 솔루션 아키텍처 상세 계획
+  - 그룹 연습 - 요구 사항에서 설계
+  
+  ### 모듈 4: 프로젝트 거버넌스 및 팀으로 작업
+    
+  #### 단원
+  - 프로젝트 거버넌스에서 솔루션 설계자의 역할
+  - 프로젝트를 순조롭게 진행하는 기술
+  - 프로젝트가 실패로 돌아갈 수 있는 시나리오
+  - 그룹 연습 - 프로젝트 거버넌스 및 팀으로 작업
+  
+  ### 모듈  5: Power Platform 아키텍처
+  
+  #### 단원
+  - 주요 Power Platform 아키텍처 구성 요소
+  - 플랫폼 설계 및 제한이 솔루션 아키텍처에 미치는 영향 이해
+  - 업데이트 및 기능 릴리스
+  - 플랫폼이 고객 요구 사항을 충족하도록 소통하는 방법 이해
+  
+  ### 모듈  6: 데이터 모델링
+  
+  #### 단원
+  - 데이터 모델 영향
+  - 데이터 모델 전략
+  - 데이터 형식
+  - 데이터 관계
+  - 그룹 연습 - 데이터 모델링
+  
+  ### 모듈 7: 시각화, 분석, 리포팅 및 AI
+  
+  #### 단원
+  - 요구 사항 계획 및 평가
+  - 운영 리포팅
+  - Power BI
+  - 엔터프라이즈 BI
+  - 사전 구축된 인사이트 및 사용자 지정 AI
+  
+  ### 모듈  8: Power Apps 아키텍처
+  
+  #### 단원
+  - 앱 옵션 및 시작 위치 선택 방법 논의
+  - 앱 구성 옵션 논의
+  - 앱 아키텍처 일부로 구성 요소 사용
+  - 아키텍처에서 포털을 앱으로 포함 시 고려 사항
+  - 그룹 연습 - Power Apps 아키텍처 주제
+
+  ### 모듈  9: 애플리케이션 수명 주기 관리(ALM)
+  
+  #### 단원
+  - ALM에서 Microsoft 비전 및 솔루션 설계자의 역할
+  - 환경 전략
+  - 결과물을 위한 솔루션 구조 정의
+  
+  #### 랩 : ALM 실습 랩
+  
+  ### 모듈  10: Power Automate 아키텍처
+  
+  #### 단원
+  - 자동화 및 사용자 지정 로직을 위한 옵션 논의
+  - 트리거 및 일반 작업 시 고려 사항 검토
+  -  비즈니스 프로세스 흐름(BPF)을 사용하여 업무 프로세스를 통한 사용자 가이드 안내
+  - 그룹 연습 - Power Automate 사용 시나리오 평가
+  
+  ### 모듈  11: 보안 모델링
+  
+  #### 단원
+  - 보안 모델링에서 솔루션 설계자의 역할
+  - 클라이언트 환경 발견 및 학습
+  - 환경 및 자원 액세스 제어
+  - CDS 데이터 액세스 제어
+  - 그룹 연습 - 보안 모델링
+  
+  ### 모듈 12: 통합
+  
+  #### 단원
+  - 통합에서 솔루션 설계자의 역할
+  - 통합의 개념과 필요성
+  - 통합 활성화 플랫폼 기능
+  - CDS 이벤트 게시
+  - 그룹 토론 시나리오
+  
+  ### 모듈 13: Dynamics 365 애플리케이션 아키텍처
+  
+  #### 단원
+  - Dynamics 365 앱 배포시 솔루션 설계자의 역할
+  - 기본 앱을 위한 아키텍처 고려 사항
+  - 그룹 연습 - 앱 별 작업 그룹이 요구 사항 평가
+  
+  ### 모듈  14: 테스트 및 Go Live
+  
+  #### 단원
+  - 테스트 및 Go Live에서 솔루션 설계자의 역할
+  - 테스트 계획
+  - Go Live 계획
+  
+  #### 추가 자료
+  https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/

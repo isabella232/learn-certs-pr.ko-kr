@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 작업 부하 및 보안 구현
+title: Implementing Workloads and Security
 metadata:
-  title: '과정 AZ-300T02-A: 작업 부하 및 보안 구현'
-  description: '과정 AZ-300T02-A: 작업 부하 및 보안 구현'
+  title: 'Course AZ-300T02-A: Implementing Workloads and Security'
+  description: 'Course AZ-300T02-A: Implementing Workloads and Security'
 uid: course.az-300t02
 courseNumber: 'AZ-300T02-A'
 hoursToComplete: 24
@@ -43,17 +43,7 @@ products:
 - azure-event-hubs
 exams:
 - uid: exam.az-300
-summary: |-
-  본 과정에서는 IT 전문가가 온-프레미스 리소스 및 인프라의 Azure로 마이그레이션을 검색, 평가, 계획 및 구현하는 방법에 대해 설명합니다. 수강생은 Azure Migrate를 사용하여 성공적인 마이그레이션에 중요한 검색 및 평가 단계를 수행하는 방법을 배웁니다. 또한 Azure Site Recovery를 사용하여 워크로드를 Azure로 실제 마이그레이션하는 방법도 배웁니다. 본 과정은 주로 Hyper-V 인프라에서 ASR을 사용하여 마이그레이션 프로세스를 준비하고 완료하는 데 중점을 둡니다.
-
-  또한 수강생들은 Azure Functions, Event Grid 및 Service Bus 같은 서버리스 컴퓨팅 기능을 배포하는 방법을 배웁니다. 또한 Azure Multi-Factor Authentication을 통해 데이터 및 애플리케이션에 대한 안전한 액세스를 실현하여 간단한 로그인 프로세스에 대한 고객의 요구를 충족하는 방법을 배우게 됩니다. 또한 Azure Active Directory Privileged Identity Management를 사용하여 조직 내의 Azure 리소스에 대한 액세스를 관리, 제어 및 모니터링하는 방법에 대해 배우게 됩니다.
-
-  개발자가 구성하고 배포하는 핵심 웹 애플리케이션 및 서비스에 대한 인프라를 관리하고 유지하는 방법을 확인하세요. Azure App Service를 PaaS(Platform as a Service) 제안을 사용하여 웹 및 모바일 환경을 위한 클라우드 앱을 배포하는 방법에 대해서도 설명합니다.
-
-  마지막으로, Application Gateway와 같은 고급 네트워킹 기능을 구현하는 방법, 부하 분산 구성 방법, 온-프레미스 네트워크를 Azure 가상 네트워크와 통합하는 방법, Network Watcher를 사용하여 문제를 모니터링하고 해결하는 방법을 살펴봅니다.
-
-  #### 대상 그룹 프로필
-  성공적인 Azure Solutions Architect는 운영 체제, 가상화, 클라우드 인프라, 저장소 구조, 청구 및 네트워킹에 대한 경험을 바탕으로 이 역할을 시작합니다.
+summary: "본 과정에서는 IT 전문가가 온-프레미스 리소스 및 인프라의 Azure로 마이그레이션을 검색, 평가, 계획 및 구현하는 방법에 대해 설명합니다. 수강생은 Azure Migrate를 사용하여 성공적인 마이그레이션에 중요한 검색 및 평가 단계를 수행하는 방법을 배웁니다. 또한 Azure Site Recovery를 사용하여 워크로드를 Azure로 실제 마이그레이션하는 방법도 배웁니다. 본 과정은 주로 Hyper-V 인프라에서 ASR을 사용하여 마이그레이션 프로세스를 준비하고 완료하는 데 중점을 둡니다. \n또한 수강생들은 Azure Functions, Event Grid 및 Service Bus 같은 서버리스 컴퓨팅 기능을 배포하는 방법을 배웁니다. 또한 Azure Multi-Factor Authentication을 통해 데이터 및 애플리케이션에 대한 안전한 액세스를 실현하여 간단한 로그인 프로세스에 대한 고객의 요구를 충족하는 방법을 배우게 됩니다. 또한 Azure Active Directory Privileged Identity Management를 사용하여 조직 내의 Azure 리소스에 대한 액세스를 관리, 제어 및 모니터링하는 방법에 대해 배우게 됩니다.\n개발자가 구성하고 배포하는 핵심 웹 애플리케이션 및 서비스에 대한 인프라를 관리하고 유지하는 방법을 확인하세요. Azure App Service를 PaaS(Platform as a Service) 제안을 사용하여 웹 및 모바일 환경을 위한 클라우드 앱을 배포하는 방법에 대해서도 설명합니다.\n마지막으로, Application Gateway와 같은 고급 네트워킹 기능을 구현하는 방법, 부하 분산 구성 방법, 온-프레미스 네트워크를 Azure 가상 네트워크와 통합하는 방법, Network Watcher를 사용하여 문제를 모니터링하고 해결하는 방법을 살펴봅니다.\n\n#### 대상 그룹 프로필\n성공적인 Azure Solutions Architect는 운영 체제, 가상화, 클라우드 인프라, 저장소 구조, 청구 및 네트워킹에 대한 경험을 바탕으로 이 역할을 시작합니다."
 outlineSection: |-
   ### 모듈 1&#58; Azure로 서버 마이그레이션 평가 및 수행
   이 모듈에서는 워크로드를 다른 데이터 센터든 공용 클라우드든 새로운 환경으로 마이그레이션하고 마이그레이션 목표를 명확히 설정하는 방법에 대해 다룹니다. 목표에는 마이그레이션에 대한 기술 중심 목표와 비즈니스 중심 목표, 그리고 조직의 비즈니스에 대한 이점이 포함됩니다. 활동에는 프로젝트 생성, 수집기 생성, 준비 상태 평가 및 비용 예측과 같은 Azure 마이그레이션 프로세스의 구성 요소가 포함됩니다. 또한 엔드투엔드 시나리오가 포함된 ASR(Azure Site Recovery)의 개요를 제공합니다.
@@ -81,3 +71,4 @@ outlineSection: |-
 
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - Azure AD를 사용한 ID 보안
+

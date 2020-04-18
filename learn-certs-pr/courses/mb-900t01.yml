@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Dynamics 365 Fundamentals
+title: Dynamics 365 fundamentals
 metadata:
-  title: '과정 MB-900T01-A: Dynamics 365 Fundamentals'
-  description: '과정 MB-900T01-A: Dynamics 365 Fundamentals'
+  title: 'Course MB-900T01-A: Dynamics 365 fundamentals'
+  description: 'Course MB-900T01-A: Dynamics 365 fundamentals'
 uid: course.mb-900t01
 courseNumber: 'MB-900T01-A'
 hoursToComplete: 24
@@ -25,7 +25,6 @@ exams:
 - uid: exam.mb-900
 summary: |-
   Dynamics 365는 고객 참여, 통합 운영, 마케팅, 소매 및 Talent 관리를 위한 다방면의 도구입니다. 본 과정을 통해 학습자는 Dynamics 365 기능 및 비즈니스 가치를 잘 알게 됩니다. 본 과정에서는 Dynamics 365 애플리케이션, Power Platform, 클라우드 개념, 보안 모델 및 라이선스 고려 사항을 다룹니다.
-
 prerequisitesSection: |-
   IT 원리에 대한 기초 지식과 Dynamics 365에 대한 관심.
 outlineSection: |-
@@ -37,14 +36,13 @@ outlineSection: |-
   - 통합 작업용 앱
   - Power Platform
   - 애플리케이션 기초
-  
+
   ### 모듈 2&#58; 클라우드 개념
   본 모듈에서는 높은 수준의 클라우드 개념에 대해 설명하고 Microsoft 클라우드 오퍼링인 Azure을 소개한 후 Dynamics 365와의 관계를 검토합니다.
   #### 단원
   - 클라우드 아키텍처 개요
   - 사용 가능한 다양한 유형의 클라우드 서비스
   - 클라우드 오퍼링을 상응하는 온-프레미스 오퍼링과 비교
-
 
   ### 모듈 3&#58; 배포 및 릴리스 관리
   본 모듈에서는 배포 유형, 릴리스 케이던스 및 보안 모델 디자인을 포함하여 중요한 구현 고려 사항을 다룹니다.
@@ -62,3 +60,4 @@ outlineSection: |-
   - 파트너 찾기 및 협력
   - 라이선싱 옵션
   - 세팅하기
+

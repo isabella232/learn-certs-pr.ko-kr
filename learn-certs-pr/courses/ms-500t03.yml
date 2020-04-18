@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft 365 Information Protection 구현
+title: Implementing Microsoft 365 Information Protection
 metadata:
-  title: '과정 MS-500T03-A: Microsoft 365 Information Protection 구현'
-  description: '과정 MS-500T03-A: Microsoft 365 Information Protection 구현'
+  title: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
+  description: 'Course MS-500T03-A: Implementing Microsoft 365 Information Protection'
 uid: course.ms-500t03
 courseNumber: 'MS-500T03-A'
 hoursToComplete: 24
@@ -27,22 +27,15 @@ products:
 - office-365
 exams:
 - uid: exam.ms-500
-summary: |-
-  정보 보호는 데이터가 어디에 있든지 찾아서 분류하는 개념입니다. 본 과정에서는 Microsoft 365 환경을 보호하는 데 도움이 되는 정보 보호 기술에 대해 알아봅니다. 특히, 본 과정에서는 정보 손실 관리 및 정보 보호를 지원하는 레이블, 정책 및 규칙뿐만 아니라 정보 권한 관리 콘텐츠 및 메시지 암호화를 설명합니다. 마지막으로 본 과정에서는 Microsoft Cloud App Security 배포에 대해 설명합니다.
-
-  #### 대상 그룹 프로필
-  Microsoft 365 보안 관리자 역할을 위한 과정입니다. Microsoft 365 Enterprise Administrator, 비즈니스 이해관계자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인하는 역할입니다. 
-  
-  Microsoft 365 Enterprise 환경을 사전에 보호하는 역할을 합니다. 위협에 대응하고 Microsoft 365 환경의 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링하는 업무을 포함합니다. 인시던트, 조사 및 데이터 거버넌스 시행에 대응합니다.
-  Microsoft 365 보안 관리자는 Microsoft 365 워크로드에 익숙하며 ID 보호, 정보 보호, 위협 방지, 보안 관리 및 데이터 거버넌스에 대한 뛰어난 기술과 경험을 갖추고 있어야 합니다. 응시자의 역할은 주로 Microsoft 365 환경에 초점을 맞추고 있으며, 하이브리드 환경을 포함합니다.
+summary: "정보 보호는 데이터가 어디에 있든지 찾아서 분류하는 개념입니다. 본 과정에서는 Microsoft 365 환경을 보호하는 데 도움이 되는 정보 보호 기술에 대해 알아봅니다. 특히, 본 과정에서는 정보 손실 관리 및 정보 보호를 지원하는 레이블, 정책 및 규칙뿐만 아니라 정보 권한 관리 콘텐츠 및 메시지 암호화를 설명합니다. 마지막으로 본 과정에서는 Microsoft Cloud App Security 배포에 대해 설명합니다.\n#### 대상 그룹 프로필\nMicrosoft 365 보안 관리자 역할을 위한 과정입니다. Microsoft 365 Enterprise Administrator, 비즈니스 이해관계자 및 기타 워크로드 관리자와 협력하여 보안 전략을 계획 및 구현하고 솔루션이 조직의 정책 및 규정을 준수하는지 확인하는 역할입니다. \n\nMicrosoft 365 Enterprise 환경을 사전에 보호하는 역할을 합니다. 위협에 대응하고 Microsoft 365 환경의 보안 및 규정 준수 솔루션을 구현, 관리 및 모니터링하는 업무을 포함합니다. 인시던트, 조사 및 데이터 거버넌스 시행에 대응합니다.\nMicrosoft 365 보안 관리자는 Microsoft 365 워크로드에 익숙하며 ID 보호, 정보 보호, 위협 방지, 보안 관리 및 데이터 거버넌스에 대한 뛰어난 기술과 경험을 갖추고 있어야 합니다. 응시자의 역할은 주로 Microsoft 365 환경에 초점을 맞추고 있으며, 하이브리드 환경을 포함합니다."
 prerequisitesSection: |-
   학습자는 이미 다음의 기술을 갖추고 본 과정을 시작해야 합니다&#58;
   - Microsoft Azure에 대한 기본 개념 이해
   - Windows 10 디바이스 경험
   - Office 365 경험
-  - 권한 부여 및 인증에 대한 기본 이해
-  - 컴퓨터 네트워크에 대한 기본 지식
-  - 모바일 장치 관리에 대한 실무 지식
+  - 권한 부여 및 인증에 대한 기본 이해.
+  - 컴퓨터 네트워크에 대한 기본 지식.
+  - 모바일 장치 관리에 대한 실무 지식.
 outlineSection: |-
   ### 모듈 1&#58; 정보 보호
   본 모듈에서는 Exchange 및 SharePoint의 정보 권한 관리에 대해 설명합니다. 메시지 보안에 사용되는 암호화 기술에 대해서도 설명합니다. 본 모듈에서는 Azure Information Protection 및 Windows Information Protection을 구현하는 방법을 소개합니다.
@@ -53,8 +46,7 @@ outlineSection: |-
   - Azure Information Protection
   - 고급 정보 보호
   - Windows Information Protection
-
-  #### 랩&#58; 데이터 손실 방지(DLP)
+  #### 랩 &#58; 데이터 손실 방지(DLP)
   - 조직에서 사용자 생성 및 허가
   - MDM 자동 등록 구성
   - AIP 및 WIP 구현
@@ -78,7 +70,7 @@ outlineSection: |-
   - 정책 팁
 
 
-  #### 랩&#58; 데이터 손실 방지(DLP)
+  #### 랩 &#58; 데이터 손실 방지(DLP)
   - 조직에서 사용자 생성 및 허가
   - DLP 정책 생성
   - DLP 정책 테스트
@@ -112,3 +104,4 @@ outlineSection: |-
   - 클라우드 디스커버리 대시 보드 사용.
   - Office 365 Cloud App Security 준비.
   - 클라우드 앱 권한 관리.
+

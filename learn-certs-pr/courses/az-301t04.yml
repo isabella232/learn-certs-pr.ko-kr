@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 인프라 전략 설계
+title: Designing an Infrastructure Strategy
 metadata:
-  title: '과정 AZ-301T04-A: 인프라 전략 설계'
-  description: '과정 AZ-301T04-A: 인프라 전략 설계'
+  title: 'Course AZ-301T04-A: Designing an Infrastructure Strategy'
+  description: 'Course AZ-301T04-A: Designing an Infrastructure Strategy'
 uid: course.az-301t04
 courseNumber: 'AZ-301T04-A'
 hoursToComplete: 24
@@ -47,18 +47,15 @@ exams:
 - uid: exam.az-301
 summary: |-
   Azure에서 VNET에 대한 DNS 및 IP 전략을 설명하고, 애드혹 및 하이브리드 연결을 위한 연결 옵션을 비교하고, 부하 분산 장치를 사용하여 여러 로드에 네트워크 트래픽을 분산하고, 클라우드와 온-프레미스 간에 하이브리드 연결 시나리오를 설계하는 방법에 대해 설명합니다.
-
   #### 대상 그룹 프로필
   성공적인 Cloud Solutions Architect는 운영 체제, 가상화, 클라우드 인프라, 저장소 구조, 청구 및 네트워킹에 대한 실제 경험을 바탕으로 이 역할을 시작합니다.
 outlineSection: |-
   ### 모듈 1&#58; Azure에서 애플리케이션 아키텍처 패턴
   이 모듈에서는 Microsoft Patterns & Practices 팀이 규정한 일반적인 Azure 패턴 및 아키텍처를 소개하고 검토합니다 각 패턴은 성능, 복원력 및 확장성 범주로 그룹화되며 범주 내에서 유사한 패턴 상황에 대해 설명되었습니다.
-  
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 클라우드 설계 패턴 설명서를 찾아서 참조.
   - Azure Architecture Center를 찾아서 참조.
   - 클라우드 설계 패턴에서 도출된 다양한 패턴 설명.
-
 
   ### 모듈 2&#58;  Azure IaaS-Based Server Applications (ADSK) 구성
   이 모듈에서는 Azure의 Infrastructure-as-a-Service 서비스를 사용하여 이상적으로 배포된 워크로드를 식별합니다. 이 모듈에서는 Azure의 VM(가상 머신) 확장 집합 및 VM 서비스와 가용성 세트와 같은 모범 사례 및 기능을 사용하여 이러한 서비스에 워크로드를 가장 잘 배포하는 방법을 중점적으로 다룹니다.
@@ -90,3 +87,4 @@ outlineSection: |-
   - Storage Queues와 Service Bus Queues 비교.
   - 솔루션의 통합 구성요소에 Azure Functions 또는 Logic Apps를 사용하는 식별.
   - IoT Hubs, Event Hubs, 및 Time Series Insights사이의 차이점 설명.
+

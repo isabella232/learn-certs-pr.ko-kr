@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: DevOps 개발 프로세스 구현
+title: Implementing DevOps Development Processes
 metadata:
-  title: '과정 AZ-400T01-A: DevOps 개발 프로세스 구현'
-  description: '과정 AZ-400T01-A: DevOps 개발 프로세스 구현'
+  title: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
+  description: 'Course AZ-400T01-A: Implementing DevOps Development Processes'
 uid: course.az-400t01
 courseNumber: 'AZ-400T01-A'
 hoursToComplete: 24
@@ -31,7 +31,6 @@ exams:
 - uid: exam.az-400
 summary: |-
   본 과정에서는 DevOps 프로세스를 구현하기 위한 지식과 기술을 제공합니다. 소스 제어 사용, 엔터프라이즈용 확장 Git, 빌드 인프라 구현 및 관리 방법에 대해 설명합니다.
-
   #### 대상 그룹 프로필
   본 과정의 수강자는 DevOps 프로세스 구현에 관심이 있거나 Microsoft Azure DevOps 솔루션 인증 시험에 합격한 학생들입니다.
 prerequisitesSection: |-
@@ -45,11 +44,9 @@ outlineSection: |-
   - Azure Repos 소개
   - Team Foundation 버전 제어(TFVC)를 Git로 마이그레이션
   - Git Repos 인증
-  
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 소스 제어 사용의 혜택 설명
   - TFVC에서 Git으로의 마이그레이션
-
 
   ### 모듈 2&#58; 엔터프라이즈 DevOps를 위한 Git 확장
   #### 단원
@@ -74,7 +71,7 @@ outlineSection: |-
   - 에이전트 풀
   - 파이프라인 및 동시성
   - Azure DevOps 및 오픈 소스 프로젝트
-  - Azure Pipelines YAML 대 Visual Designer
+  - Azure Pipelines YAML vs Visual Designer
   - 사용자 에이전트 설정
   - Jenkins를 Azure Pipelines과 통합
   -  외부 소스 제어를 Azure Pipelines와 통합
@@ -107,3 +104,4 @@ outlineSection: |-
 
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 모바일 DevOps 전략 구현
+

@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: 'Dynamics 365: Power Platform 애플리케이션'
+title: 'Dynamics 365: Power Platform applications'
 metadata:
-  title: '과정 MB-200T01-A: Dynamics 365: Power Platform 애플리케이션'
-  description: '과정 MB-200T01-A: Dynamics 365: Power Platform 애플리케이션'
+  title: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
+  description: 'Course MB-200T01-A: Dynamics 365: Power Platform applications'
 uid: course.mb-200t01
 courseNumber: 'MB-200T01-A'
 hoursToComplete: 48
@@ -108,3 +108,4 @@ outlineSection: |-
   이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 사업부 생성 및 사용
   - 보안 역할 생성, 수정 및 사용
+

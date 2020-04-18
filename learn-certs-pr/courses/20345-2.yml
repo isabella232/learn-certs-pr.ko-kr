@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Exchange Server 2016/2019 설계 및 배포
+title: Designing and Deploying Microsoft Exchange Server 2016/2019
 metadata:
-  title: '과정 20345-2-B: Microsoft Exchange Server 2016/2019 설계 및 배포'
-  description: '과정 20345-2-B: Microsoft Exchange Server 2016/2019 설계 및 배포'
+  title: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
+  description: 'Course 20345-2-B: Designing and Deploying Microsoft Exchange Server 2016/2019'
 uid: course.20345-2
 courseNumber: '20345-2-B'
 hoursToComplete: 120
@@ -33,12 +33,11 @@ exams:
 - uid: exam.70-345
 summary: |-
   본 과정에서는 숙련된 Exchange Server 관리자에게 Exchange Server 메시징 환경을 설계하고 구현할 수 있는 지식을 제공합니다. 또한 사이트 복원력, 고급 보안, 준수, 보관 및 검색 솔루션, 다른 Exchange 조직 또는 Exchange Online과의 공존, 이전 버전의 Exchange 서버로부터의 마이그레이션과 같은 Exchange Server 배포의 고급 구성 요소를 설계하고 구성하는 방법을 다룹니다. 이 외에도 Exchange Server 배포를 최적화하는 데 도움이 되는 지침, 모범 사례 및 고려 사항을 제공합니다.
-
   #### 대상 그룹 프로필
   이 과정의 대상 그룹은 메시징 관리자, 메시징 설계자 또는 컨설턴트 경험이 있는 IT 전문가입니다. 본 과정은 이전 버전의 Exchange Server 또는 Exchange Online을 포함하는 환경을 포함하여 Exchange Server 솔루션을 설계하고 배포하는 업무를 담당하는 기업을 수행하는 사람들을 위해 설계되었습니다. 본 과정을 수강하는 학생들은 Exchange Server 2019 또는 이전 버전의 Exchange Server에 대한 경험이 있어야 합니다.
 prerequisitesSection: |-
-  실무 경험 이외에 이 교육에 참가하는 학생들은 다음 기술적 지식을 갖추어야 합니다&#58;
-   - 과정 20345-1B&#58; Microsoft Exchange Server 2016/2019 관리에 참석했거나 그에 상응한 지식
+  실무 경험 이외에 이 교육에 참가하는 학생들은 다음 기술적 지식을 갖추어야 합니다.
+   - 과정 20345-1B, Microsoft Exchange Server 2016/2019 관리에 참석했거나 그에 상응한 지식
    - 2년 이상 Exchange Server에서 작업한 경험
    - 6개월 이상 Exchange Server 2013 또는 Exchange Server 2016에서 작업한 경험
    - 2년 이상 Windows Server 2016 또는 Windows Server 2019를 포함하여 Windows Server를 관리한 경험
@@ -47,15 +46,14 @@ prerequisitesSection: |-
    - 공개 키 인프라(PKI) 인증서를 포함한 인증서 작업 경험
    - Windows PowerShell로 작업한 경험
 outlineSection: |-
-  ### 모듈 1&#58; Exchange Server 배포 계획
+  ### 모듈  1&#58; Exchange Server 배포 계획
   이 모듈은 Exchange Server의 주요 기능 및 비즈니스 요구 사항을 수집하는 방법을 설명합니다 또한 Exchange Server 배포 계획 및 통합 메시징을 클라우드 음성 사서함으로의 마이그레이션 계획 방법에 대해서도 설명합니다.
-  
+
   #### 단원
   - Exchange Server 2019의 새로운 기능
   - Exchange Server 배포에 대한 비즈니스 요구 사항 수집
   - Exchange Server 배포 계획
   - 통합 메시징을 클라우드 음성 사서함으로 마이그레이션 계획
-
   #### 랩 &#58; Exchange Server 2019 배포 계획
   - 기존 메시징 인프라 평가
   - 요구사항 식별
@@ -68,7 +66,7 @@ outlineSection: |-
   - Exchange Server 2016 UM을 클라우드 음성 사서함으로 마이그레이션하는 방법 계획
 
 
-  ### 모듈 2&#58; Exchange Server Mailbox 서비스 계획 및 배포
+  ### 모듈  2&#58; Exchange Server Mailbox 서비스 계획 및 배포
   이 모듈에서는 Exchange Server 하드웨어, Exchange Server 가상화, Azure 통합 및 공용 폴더를 계획하고 구현하는 방법을 설명합니다.
   #### 단원
   - Exchange Server 하드웨어 요구 사항 계획
@@ -88,7 +86,7 @@ outlineSection: |-
   - 공용 폴더 계획 및 구현
 
 
-  ### 모듈 3&#58; 메시지 전송 계획
+  ### 모듈  3&#58; 메시지 전송 계획
   이 모듈에서는 인터넷을 통해서 뿐만아니라 내부적으로 메일 라우팅을 계획하고 구현하는 방법을 설명합니다. 또한 조직의 전송 관련 작업도 설명합니다.
   #### 단원
   - 메시지 라우팅 설계
@@ -109,7 +107,7 @@ outlineSection: |-
   - 전송 준수 설계 및 구현
 
 
-  ### 모듈 4&#58; 클라이언트 액세스 계획 및 배포
+  ### 모듈  4&#58; 클라이언트 액세스 계획 및 배포
   본 모듈에서는 Exchange Server 클라이언트, 클라이언트 액세스, Microsoft Office Online Server 및 Microsoft SharePoint와 Exchange Server의 공존성을 계획하고 구현하는 방법을 설명합니다. 또한 외부 클라이언트 액세스의 설계 및 구현에 대해서도 설명합니다.
   #### 단원
   - Exchange Server 클라이언트 계획
@@ -133,7 +131,7 @@ outlineSection: |-
   - 외부 클라이언트 액세스 설계
 
 
-  ### 모듈 5&#58; 고가용성 설계 및 구현
+  ### 모듈  5&#58; 고가용성 설계 및 구현
   이 모듈에서는 Exchange Server의 고가용성을 계획하고 구현하는 방법을 설명합니다. 또한 부하 분산을 계획하는 방법도 설명합니다. 마지막으로, 사이트 복원력을 계획하고 구현하는 방법을 설명합니다.
   #### 단원
   - Exchange Serve에 대한 고가용성 계획
@@ -154,7 +152,7 @@ outlineSection: |-
   - Exchange Server 배포에서 사이트 복원력 계획
 
 
-  ### 모듈 6&#58; Exchange Server 관리
+  ### 모듈  6&#58; Exchange Server 관리
   이 모듈에서는 관리되는 가용성 및 DSC를 사용하여 Exchange Server를 관리하는 방법을 설명합니다.
   #### 단원
   - 관리되는 가용성을 사용하여 고가용성 개선
@@ -170,7 +168,7 @@ outlineSection: |-
   - DSC 구현
 
 
-  ### 모듈 7&#58; 메시지 보안 설계
+  ### 모듈  7&#58; 메시지 보안 설계
   이 모듈에서는 메시징 보안을 계획하는 방법과 Exchange Server 조직에서 AD RMS 및 Azure RMS를 설계 및 구현하는 방법을 설명합니다.
   #### 단원
   - 메시징 보안 계획
@@ -188,7 +186,7 @@ outlineSection: |-
   - AD RMS 및 Azure RMS 설계 및 구현
 
 
-  ### 모듈 8&#58; 메시지 보존기간 및 보관 설계 및 구현
+  ### 모듈  8&#58; 메시지 보존기간 및 보관 설계 및 구현
   이 모듈에서는 보관 목적 및 메시징 기록 관리에 대해 설명합니다. 또한 내부 보관 및 메시지 보존을 설계 및 구현하는 방법도 설명합니다.
   #### 단원
   - 보관 및 메시징 기록 관리 개요
@@ -206,7 +204,7 @@ outlineSection: |-
   - 메시지 보존 기간 설계 및 구현
 
 
-  ### 모듈 9&#58; 메시징 준수 설계 및 구현
+  ### 모듈  9&#58; 메시징 준수 설계 및 구현
   이 모듈에서는 데이터 손실 방지 정책, 원본 위치 유지 및 원본 위치 eDiscovery를 설계 및 구현하는 방법을 설명합니다.
   #### 단원
   - 데이터 손실 방지 정책 설계 및 구현
@@ -226,7 +224,7 @@ outlineSection: |-
   - 원본 위치 eDiscovery 설계 및 구현
 
 
-  ### 모듈 10&#58; 메시징 공존성 설계 및 구현
+  ### 모듈  10&#58; 메시징 공존성 설계 및 구현
   이 모듈에서는 페더레이션을 설계하고 구현하는 방법을 설명합니다. 또한 Exchange Server 조직 간의 공존성을 설계하는 방법도 설명합니다. 마지막으로, 크로스 포리스트 사서함 이동을 설계하고 구현하는 방법을 설명합니다.
   #### 단원
   - 페더레이션 설계 및 구현
@@ -244,7 +242,7 @@ outlineSection: |-
   - 크로스 포리스트 사서함 이동 설계 및 구현
 
 
-  ### 모듈 11&#58; Exchange Server 2019 업그레이드
+  ### 모듈  11&#58; Exchange Server 2019 업그레이드
   이 모듈에서는 Exchange Server 2019 구현을 선택할 때 사용할 수 있는 옵션에 대한 개요 및 기존 Exchange Server 2013 또는 Exchange Server 2016 조직이 Exchange Server 2019로 업그레이드하는 방법에 대한 자세한 정보를 제공합니다.
   #### 단원
   - 기존 Exchange Server 버전에서 업그레이드 계획
@@ -262,7 +260,7 @@ outlineSection: |-
   - Exchange Server 2019로 업그레이드 구현
 
 
-  ### 모듈 12&#58; 하이브리드 Exchange Server 배포 계획
+  ### 모듈  12&#58; 하이브리드 Exchange Server 배포 계획
   이 모듈에서는 하이브리드 구현의 기본과 하이브리드 배포에서의 인증 계획 방법을 설명합니다. 또한 Microsoft Azure Active Directory (Azure AD) Connect, 하이브리드 개발, 및 하이브리드 배포의 고급 기능을 구현하는 방법도 설명합니다.
   #### 단원
   - 하이브리드 배포의 기본
@@ -281,3 +279,4 @@ outlineSection: |-
   - Azure AD Connect 구현
   - 하이브리드 배포 구현
   - 하이브리드 배포를 위한 고급 기능 구현
+
