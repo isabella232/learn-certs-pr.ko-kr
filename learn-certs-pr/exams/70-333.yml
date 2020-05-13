@@ -6,8 +6,10 @@ metadata:
 uid: exam.70-333
 displayName: 70-333
 summary: |-
-  <div style='color&#58; red;'>이 인증은 2020년 6월 30일에 중단됩니다. 대체 시험이있을 수 있습니다. 자세한 내용을 보려면 저희 블로그를 방문하세요&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 또한, 시험 중단에 관한 게시물을 검토하세요. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/><br/></div>
-  
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
   본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 Skype for Business 기술에 관해 2년 이상의 경력이 있어야 하며 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 엔드포인트 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위해 Skype for Business Server 및 Skype for Business Online 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 Skype for Business를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 Active Directory Domain Services, 데이터 네트워크, 통신 표준 및 Skype for Business의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 Skype for Business를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
 subTitle: 본 시험은 UC(통합 통신)용 솔루션을 설계, 계획, 배포 및 유지 관리하는 IT 컨설턴트와 통신 컨설팅 전문가를 위한 시험입니다. 응시자는 비즈니스 요구 사항으로부터 UC 솔루션을 위한 기술 아키텍처 및 설계를 도출할 수 있어야 합니다. 응시자는 Skype for Business 기술에 관해 2년 이상의 경력이 있어야 하며 지원되는 마이그레이션 시나리오를 잘 알고 있어야 합니다. 응시자는 최종 사용자, 엔드포인트 장치, 전화 통신, 오디오/비디오 및 웹 회의, 보안, 고가용성을 위해 Skype for Business Server 및 Skype for Business Online 솔루션을 배포하는 데 능숙해야 합니다. 또한 응시자는 Microsoft 도구를 사용하여 Skype for Business를 모니터링하고 문제를 해결하는 방법을 알고 있어야 합니다. 아울러 응시자는 Active Directory Domain Services, 데이터 네트워크, 통신 표준 및 Skype for Business의 구성을 지원하는 구성 요소를 능숙하게 다룰 수 있어야 합니다. 응시자는 Skype for Business를 Microsoft Exchange Server 및 Office 365와 통합하기 위해 충족해야 할 요구 사항을 잘 알고 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -17,13 +19,14 @@ scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=3
 locales:
 - en
 - ja
-levels: 
+levels:
 - advanced
 skills:
 - '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - Enterprise Voice를 포함한 비즈니스용 Skype 계획 및 설계 (30-35%)
 - Enterprise Voice 배포 및 구성 (30-35%)
 - Enterprise Voice 관리 및 문제 해결 (30-35%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -41,8 +44,9 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

@@ -13,7 +13,7 @@ ms.author: micsullivan
 
 향후 12개월 내에 중단될 예정인 시험이 기술 별로 등재된 목록입니다. (추후 변동될 수 있습니다.)
 
-| 2020년 6월 30일 중단 예정 | |
+| 2021년 1월 31일 일요일 중단 예정 | |
 | --- | --- |
 | [70-333](https://www.microsoft.com/learning/exam-70-333.aspx): Deploying Enterprise Voice with Skype for Business 2015 |  |
 | [70-334](https://www.microsoft.com/learning/exam-70-334.aspx): Core Solutions of Microsoft Skype for Business 2015 |  |
@@ -37,7 +37,7 @@ ms.author: micsullivan
 | [70-483](https://www.microsoft.com/learning/exam-70-483.aspx): Programming in C# |  |
 | [70-486](https://www.microsoft.com/learning/exam-70-486.aspx): Developing ASP.NET MVC Web Applications |  |
 | [70-487](https://www.microsoft.com/learning/exam-70-487.aspx): Developing Microsoft Azure and Web Services |  |
-| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack |  |
+| [70-537](https://www.microsoft.com/learning/exam-70-537.aspx): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub |  |
 | [70-705](https://www.microsoft.com/learning/exam-70-705.aspx): Designing and Providing Microsoft Licensing Solutions to Large Organizations |  |
 | [70-740](https://www.microsoft.com/learning/exam-70-740.aspx): Installation, Storage, and Compute with Windows Server 2016 |  |
 | [70-741](https://www.microsoft.com/learning/exam-70-741.aspx): Networking with Windows Server 2016 |  |
@@ -58,11 +58,20 @@ ms.author: micsullivan
 | [MB6-894](https://www.microsoft.com/learning/exam-mb6-894.aspx): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |  |
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail |  |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent |  |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
 
-| 2020년 5월 31일 일요일 중단 예정 | |
+| 2020년 9월 30일 중단 예정 | |
 | --- | --- |
+| [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies |  |
+| [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design |  |
+
+| 2020년 8월 31일 월요일 중단 예정 | |
+| --- | --- |
+| [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
+
+| 2020년 6월 30일 중단 예정 | |
+| --- | --- |
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 |  |
 
 ## 최근 중단된 시험
 
@@ -87,7 +96,7 @@ ms.author: micsullivan
 | 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 2019년 3월 31일
 | [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 2019년 4월 30일
 | [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | 2019년 4월 30일
-| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 2019년 7월 31일
+| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 2019년 12월 31일
 | 70-398 | Planning for and Managing Devices in the Enterprise | 2018년 7월 31일
 | [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Designing and Implementing Cloud Data Platform Solutions | 2019년 6월 30일
 | [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 2019년 6월 30일
@@ -114,7 +123,7 @@ ms.author: micsullivan
 | [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Perform Cloud Data Science with Azure Machine Learning | 2019년 6월 30일
 | [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Perform Data Engineering on Microsoft Azure HDInsight | 2019년 6월 30일
 | [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Perform Big Data Engineering on Microsoft Cloud Services | 2019년 6월 30일
-| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019년 7월 30일
+| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019년 7월 31일
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 2017년 12월 31일
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 2018년 7월 31일
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019년 9월 30일
@@ -223,8 +232,8 @@ ms.author: micsullivan
 | 70-383 | Recertification for MCSE: SharePoint | 2017년 3월 31일
 | 70-384 | Recertification for MCSE: Communication | 2017년 3월 31일
 | 70-385 | Recertification for MCSE: Messaging | 2017년 3월 31일
-| 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 2013년 3월 31일
-| 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 2013년 3월 31일
+| 70-400 | TS: Microsoft System Center Operations Manager 2007, Configuring | 2013년 7월 31일
+| 70-401 | TS: Microsoft System Center Configuration Manager 2007, Configuring | 2013년 7월 31일
 | 70-403 | TS: System Center Virtual Machine Manager 2008, Configuring | 2011년 9월 30일
 | 70-415 | Implementing a Desktop Infrastructure | 2016년 1월 31일
 | 70-416 | Implementing Desktop Application Environments | 2016년 1월 31일
@@ -250,7 +259,7 @@ ms.author: micsullivan
 | 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 2 | 2016년 7월 31일
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016년 1월 31일
 | 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 2016년 1월 31일
-| 70-469 | Recertification for MCSE: Data Platform | 2017년 3월 31일
+| 70-469 | Recertification for MCSE: Data Platform | 2017년 3월 31일 금요일
 | 70-470 | Recertification for MCSE: Business Intelligence | 2017년 3월 31일 금요일
 | 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 2016년 9월 30일
 | 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 2016년 9월 30일
@@ -259,7 +268,7 @@ ms.author: micsullivan
 | 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 2017년 3월 31일
 | 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 2017년 3월 31일
 | 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 2016년 9월 30일
-| 70-494 | Recertification for MCSD: Web Applications | 2017년 3월 31일
+| 70-494 | Recertification for MCSD: Web Applications | 2017년 3월 31일 금요일
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 2017년 3월 31일
 | 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 2011년 3월 31일
 | 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 2010년 10월 31일
@@ -288,7 +297,7 @@ ms.author: micsullivan
 | 70-545 | TS: Microsoft Visio 2007, Application Development | 2013년 1월 31일
 | 70-547 | PRO: Designing and Developing Web-Based Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
 | 70-548 | PRO: Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
-| 70-549 | PRO: Designing and Developing Windows-Based Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
+| 70-549 | PRO: Designing and Developing Enterprise Applications by Using the Microsoft .NET Framework | 2011년 6월 30일
 | 70-551 | UPGRADE: MCAD Skills to MCPD Web Developer by Using the Microsoft .NET Framework | 2011년 6월 30일
 | 70-552 | UPGRADE: MCAD Skills to MCPD Windows Developer by Using the Microsoft .NET Framework | 2011년 6월 30일
 | 70-553 | UPGRADE: MCSD Microsoft .NET Skills to MCPD Enterprise Application Developer by Using the Microsoft .NET Framework: 파트 1 | 2011년 6월 30일
@@ -383,7 +392,7 @@ ms.author: micsullivan
 | 74-139 | Deploying Business Desktops with Microsoft Windows Server 2003 and Microsoft Office 2003 | 2010년 10월 31일
 | 74-322 | Microsoft Lync Server 2010—Advanced Design and Deployment | 2015년 7월 31일
 | 74-324 | Administering Office 365 for Small Businesses | 2013년 8월 24일
-| 74-325 | Administering Office 365 for Small Businesses | 2015년 1월 31일 토요일
+| 74-325 | Administering Office 365 for Small Businesses | 2015년 1월 31일 
 | 74-335 | Lync Network Readiness Assessment | 2016년 3월 30일
 | 74-338 | Lync 2013 Depth Support Engineer | 2016년 3월 30일
 | 74-353 | Windows UX Design | 2015년 1월 31일
@@ -395,7 +404,7 @@ ms.author: micsullivan
 | 74-678 | Designing and Providing Microsoft Volume Licensing Solutions to Large Organizations | 2017년 12월 31일 일요일
 | 74-679 | Windows Server 2008 Hosted Environments, Configuring and Managing | 2013년 7월 31일
 | 74-697 | OEM Preinstallation | 2016년 1월 31일
-| 74-924 | Microsoft Office Communications Server 2007 R2 – U.C. Voice Specialization | 2010년 10월 31일
+| 74-924 | Microsoft Office Communications Server 2007 R2 – U.C. Voice Specialization | 2010년 10월 31일 일요일
 | 77-891 | Office 365 | 2014년 12월 31일
 | 78-702 | Designing and Managing a Microsoft Business Intelligence Solution | 2011년 9월 30일
 | 88-961 | MCM: SharePoint Server 2010: 1 주 | 2013년 8월 25일
@@ -407,7 +416,7 @@ ms.author: micsullivan
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014년 1월 1일
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014년 1월 1일
 | 88-969 | Lync Server 2010 Lab Exam | 2014년 1월 1일
-| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013년 12월 31일 화요일
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013년 12월 31일 
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 2014년 1월 1일
 | 98-362 | Windows Development Fundamentals | 2014년 7월 31일
 | 98-363 | Web Development Fundamentals | 2015년 7월 31일
@@ -454,15 +463,16 @@ ms.author: micsullivan
 | MB3-532 | GP 10.0 Project Series | 2013년 12월 31일
 | MB3-533 | GP 10.0 Human Resources with Payroll | 2013년 12월 31일
 | MB3-637 | GP 10.0 Manufacturing Applications | 2013년 12월 31일
-| MB3-637 | GP 10.0 Manufacturing Applications | 2015년 7월 31일
-| MB3-701 | Microsoft Dynamics GP 2013 Financials | 2015년 7월 31일
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일
+| MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 2015년 7월 31일
+| MB3-701 | Microsoft Dynamics GP 2013 Financials | 2015년 7월 31일 금요일
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일 
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일 
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2014년 12월 31일
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일 
 | MB4-348 | SL 6.5 Financials | 2011년 3월 31일
 | MB4-349 | SL 6.5 Installation & Configuration | 2011년 3월 31일
 | MB4-534 | SL 7.0 Installation & Configuration | 2013년 12월 31일 
-| MB4-535 | SL 7.0 Financials | 2013년 12월 31일
+| MB4-535 | SL 7.0 Financials | 2013년 12월 31일 
 | MB4-536 | SL 7.0 Project Series | 2013년 12월 31일
 | MB4-640 | SL 7.0 Customization Manager | 2013년 12월 31일
 | MB4-641 | SL 7.0 Tools for VB | 2013년 12월 31일
@@ -480,7 +490,7 @@ ms.author: micsullivan
 | MB5-854 | C5 2010 Programming| 2013년 10월 1일
 | MB5-855 | C5 2010 Advanced Programming | 2013년 10월 1일
 | MB5-856 | C5 2010 Application Consultant | 2013년 10월 1일
-| MB5-858 | Managing Microsoft Dynamics Implementations | 2013년 9월 20일
+| MB5-858 | Managing Microsoft Dynamics Implementations | 2013년 9월 20일 금요일
 | MB6-202 | Axapta 3.0 Programming | 2010년 1월 12일
 | MB6-203 | Axapta 3.0 Financials | 2010년 1월 12일
 | MB6-204 | Axapta 3.0 Trade and Logistics | 2010년 1월 12일
@@ -505,20 +515,20 @@ ms.author: micsullivan
 | MB6-512 | AX 4.0 Enterprise Portal Development | 2011년 9월 30일
 | MB6-513 | AX 4.0 MorphX Solution Development | 2011년 9월 30일
 | MB6-700 | Microsoft Dynamics AX 2012 R2 Project | 2016년 12월 31일
-| MB6-700 | Microsoft Dynamics AX 2012 R2 Project | 2017년 3월 31일
+| MB6-701 | Microsoft Dynamics AX 2012 R3 Retail | 2017년 03월 31일
 | MB6-702 | Microsoft Dynamics AX 2012 R3 Financials | 2016년 12월 31일
 | MB6-703 | Microsoft Dynamics AX 2012 R3 Trade and Logistics | 2016년 12월 31일
 | MB6-704 | Microsoft Dynamics AX 2012 R3 CU8 Development Introduction | 2016년 12월 31일
 | MB6-817 | AX 2009 Trade & Logistics | 2014년 1월 6일
-| MB6-818 | AX 2009 Financials | 2014년 1월 6일
-| MB6-819 | AX 2009 Development Introduction | 2014년 1월 6일
+| MB6-818 | AX 2009 Financials | 2014년 1월 6일 월요일
+| MB6-819 | AX 2009 Development Introduction | 2014년 1월 6일 월요일
 | MB6-820 | AX 2009 Installation & Configuration | 2014년 1월 6일
-| MB6-821 | AX 2009 MorphX Solution Development | 2014년 1월 6일
-| MB6-822 | AX 2009 Production | 2014년 1월 6일
-| MB6-823 | AX 2009 Project Series | 2014년 1월 6일
-| MB6-824 | AX 2009 Human Resource Management | 2014년 1월 6일
+| MB6-821 | AX 2009 MorphX Solution Development | 2014년 1월 6일 월요일
+| MB6-822 | AX 2009 Production | 2014년 1월 6일 월요일
+| MB6-823 | AX 2009 Project Series | 2014년 1월 6일 월요일
+| MB6-824 | AX 2009 Human Resource Management | 2014년 1월 6일 월요일
 | MB6-825 | AX 2009 Enterprise Portal 개발 | 2014년 1월 6일
-| MB6-826 | AX 2009 Product Builder | 2014년 1월 6일
+| MB6-826 | AX 2009 Product Builder | 2014년 1월 6일 월요일
 | MB6-827 | AX 2009 Payroll | 2011년 6월 3일
 | MB6-869 | Microsoft Dynamics AX 2012 Development | 2015년 7월 31일
 | MB6-870 | Microsoft Dynamics AX 2012 Trade and Logistics | 2015년 7월 31일

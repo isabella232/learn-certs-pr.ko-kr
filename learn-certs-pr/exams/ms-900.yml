@@ -1,13 +1,17 @@
 ### YamlMime:Examination
 title: Microsoft 365 Fundamentals
 metadata:
-  title: '시험 MS-900: Microsoft 365 Fundamentals'
-  description: '시험 MS-900: Microsoft 365 Fundamentals'
+  title: 'Exam MS-900: Microsoft 365 Fundamentals'
+  description: 'Exam MS-900: Microsoft 365 Fundamentals'
 uid: exam.ms-900
 displayName: MS-900
-summary: >-
-  본 시험은 일반적으로 클라우드 서비스를 채택하는 데 있어 고려할 사항과 혜택 및 서비스로서의 소프트웨어(SaaS) 클라우드 모델에 관한 기본적인 수준의 지식을 입증하려는 후보자를 대상으로 합니다. 본 시험은 Microsoft 365 클라우드 서비스 오퍼링을 구현함으로써 가능한 옵션 및 혜택에 대한 지식이 포함됩니다.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 14년 4월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
+  </div>
 
+  본 시험은 일반적으로 클라우드 서비스를 채택하는 데 있어 고려할 사항과 혜택 및 서비스로서의 소프트웨어(SaaS) 클라우드 모델에 관한 기본적인 수준의 지식을 입증하려는 후보자를 대상으로 합니다. 본 시험은 Microsoft 365 클라우드 서비스 오퍼링을 구현함으로써 가능한 옵션 및 혜택에 대한 지식이 포함됩니다.
 
   본 시험은 Office 365, Microsoft Intune, AIP(Azure Information Protection) 및 Windows 10과 같은 cloud 컴퓨팅 및 기술 시험의 선행 시험으로 활용하실 수 있습니다.
 subTitle: cloud 개념, 핵심 Microsoft 365 서비스 및 개념, Microsoft 365의 보안, 규정 준수, 개인 정보 보호 및 신뢰, Microsoft 365 가격 및 지원을 이해함을 입증하십시오.
@@ -18,17 +22,18 @@ locales:
 - en
 - ja
 providers:
-  - providerType: pearson-vue
-    examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-900&examname=시험%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Flearn%2Fcertifications%2Fexams%2Fms-900
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-900&examname=Exam%20MS-900:%20Microsoft%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-900
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
-- 클라우드 개념 이해 (15-20%)
-- 핵심 Microsoft 365 서비스 및 개념 이해 (30-35%)
-- Microsoft 365에서의 보안, 규정 준수, 개인 정보 보호 및 신뢰 이해 (25-30%)
-- Microsoft 365 가격 정책 및 지원 이해 (25-30%)
+- 본 시험 내용은 2020년 14년 4월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 클라우드 개념 설명(15-20%)
+- 핵심 Microsoft 365 서비스 및 개념 설명(30-35%)
+- Microsoft 365에서의 보안, 규정 준수, 개인 정보 보호 및 신뢰 옵션 설명(25-30%)
+- Microsoft 365 가격 정책 및 지원 옵션 설명(25-30%)
 roles:
 - administrator
 products:
@@ -44,20 +49,24 @@ relatedCertifications:
     uid: certification.microsoft-365-fundamentals
 resources:
 - title: 인증서 학습 경로
-  description: '다음의 받기 위한 교육 리소스를 확인하십시오 Microsoft Certified: Fundamentals.'
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 인증 시험 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: 시험 정책 및 자주 하는 질문
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

@@ -6,10 +6,13 @@ metadata:
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
-  <div style='color&#58; red;'>이 인증은 2020년 6월 30일에 중단됩니다. 대체 시험이있을 수 있습니다. 자세한 내용을 보려면 저희 블로그를 방문하세요&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 또한, 시험 중단에 관한 게시물을 검토하세요. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/><br/></div>
-  
-  인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 [Microsoft 365 Certified&#58; Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
-  
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>본 인증은 2021년 1월 31일에 중단됩니다. 해당일 이후부터는 본 인증을 더 이상 취득할 수 없습니다. 중단 일자 전에 취득한 모든 자격증은 에 있는 성적표에 계속 표시됩니다. <a href='https://www.microsoft.com/learning/dashboard.aspx'>인증 대시보드</a>. 만료된 모든 인증서도 <a href='/learn/certifications/retired-certifications'>찾아볼 수 있습니다</a>.</strong><br/><br/></div>
+  </div>
+
+  인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
+
   MCSE Productivity Solutions Expert가 되려면 다음 요구 사항을 충족해야 합니다.
   - 한 개의 필수 자격증 취득
     - 필수 선택사항 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
@@ -19,7 +22,7 @@ summary: |-
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
     - [70-345&#58; Designing and Deploying Microsoft Exchange Server 2016](/learn/certifications/exams/70-345)
-subTitle: '인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 Microsoft 365 Certified: Enterprise Administrator Expert가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.'
+subTitle: 인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 Microsoft 365 Certified Enterprise Administrator Expert가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
 levels:
 - advanced
 skills:
@@ -51,8 +54,9 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+
