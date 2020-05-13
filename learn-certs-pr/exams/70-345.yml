@@ -6,12 +6,15 @@ metadata:
 uid: exam.70-345
 displayName: 70-345
 summary: |-
-  <div style='color&#58; red;'>이 인증은 2020년 6월 30일에 중단됩니다. 대체 시험이있을 수 있습니다. 자세한 내용을 보려면 저희 블로그를 방문하세요&#58; <a href="https://www.microsoft.com/en-us/learning/community.aspx">https://www.microsoft.com/en-us/learning/community.aspx</a> 또한, 시험 중단에 관한 게시물을 검토하세요. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다<br/><br/></div>
-  
-  이 시험의 응시자는 관리자 팀의 기술 리더 역할을 하는 IT 컨설턴트 또는 선임 관리자입니다. 응시자는 Microsoft Exchange Server를 Skype for Business 및 Office 365와 통합하는 데 필요한 요구 사항을 잘 알고 있어야 합니다.
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  본 시험의 응시자는 관리자 팀의 기술 리더 역할을 하는 IT 컨설턴트 또는 선임 관리자입니다. 응시자는 Microsoft Exchange Server를 Skype for Business 및 Office 365와 통합하는 데 필요한 요구 사항을 잘 알고 있어야 합니다.
 
   응시자는 Exchange 서버를 설계하고 관리하는 경험과 엔터프라이즈 환경에서 Exchange 2016 메시징 환경을 담당한 경험이 최소 3년 이상 있어야 합니다.
-subTitle: 이 시험의 응시자는 관리자 팀의 기술 리더 역할을 하는 IT 컨설턴트 또는 선임 관리자입니다. 응시자는 Microsoft Exchange Server를 Skype for Business 및 Office 365와 통합하는 데 필요한 요구 사항을 잘 알고 있어야 합니다.
+subTitle: 본 시험의 응시자는 관리자 팀의 기술 리더 역할을 하는 IT 컨설턴트 또는 선임 관리자입니다. 응시자는 Microsoft Exchange Server를 Skype for Business 및 Office 365와 통합하는 데 필요한 요구 사항을 잘 알고 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8do
 practiceTestUrl: https://www.mindhub.com/70-345-designing-and-deploying-microsoft-exchange/p/MU-70-345?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,7 +28,7 @@ locales:
 - de
 - ja
 - pt-br
-levels: 
+levels:
 - advanced
 skills:
 - '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
@@ -35,6 +38,7 @@ skills:
 - Exchange 인프라, 수신자, 보안 계획, 배포 및 관리(15-20%)
 - 규제 준수, 아카이빙, eDiscovery, 감사 계획, 배포 및 관리(10-15%)
 - 공존, 하이브리드 시나리오, 마이그레이션 및 페더레이션 구현 및 관리(10-15%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
@@ -53,8 +57,9 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아보십시오.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
   href: ../certification-exam-policies.md
+

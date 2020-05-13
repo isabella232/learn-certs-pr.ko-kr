@@ -5,7 +5,20 @@ metadata:
   description: 'Course MB-700T00-A: Microsoft Dynamics 365: Finance and Operations Apps Solution Architect'
 uid: course.mb-700t00
 courseNumber: 'MB-700T00-A'
-hoursToComplete: 120
+hoursToComplete: 72
+skillsGained:
+- skill: 솔루션 설계자 역할의 기술 영역 정의
+- skill: Microsoft의 인스턴스 및 배포 모델 권장 사항 설명
+- skill: 클라우드 솔루션, CDM 및 CDS 이해
+- skill: Dynamics 365 라이선싱, AppSource 및 지원에 대한 자세한 정보 보기
+- skill: 솔루션 설계자로 수명 주기 서비스 사용
+- skill: Dynamics 365 솔루션 계획을 위한 고려 사항 파악
+- skill: 데이터 관리에 사용되는 개념 및 도구 이해
+- skill: 솔루션에 대한 통합 옵션 및 비즈니스 이벤트 설명
+- skill: 솔루션 지역화, 규정 준수 및 보고에 사용 가능한 옵션 파악
+- skill: 확장성, 보안 및 성능에 대한 아키텍처 지식 소유
+- skill: ALM 애플리케이션 수명 주기 관리의 정의 이해
+- skill: 자동화된 테스트 및 RSAT 사용 기회 식별
 iconUrl: /media/learn/certification/course.svg
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -18,4 +31,44 @@ products:
 - dynamics
 exams:
 - uid: exam.mb-700
-summary: ""
+summary: |-
+  본 과정은 솔루션 설계자 역할을 희망하며 처음 접하는 분들을 위해 개발되었습니다. 본 과정에서는 애플리케이션 아키텍처와 이 역할로의 여정을 시작하기 위한 기교에 초점을 맞춘 기술 정보를 제공합니다. 본 과정에서는 해당 역할에 필요한 산업 기술 및 전달 기술에 대해서는 다루지 않습니다.
+
+  #### 대상 그룹 프로필
+
+  본 과정의 대상 그룹은 Dynamics 365&#58; Finance and Operations의 기능 또는 기술적 중심에 대한 경험이 있어야 합니다. 주로 설계자 역할을 희망하며 처음 접하는 분들을 대상으로 합니다. 
+prerequisitesSection: |-
+  희망자는 솔루션 설계자를 위한 솔루션 설계자 학습 경로를 완료해야 합니다. [여기](https://docs.microsoft.com/learn/browse/?roles=solution-architect&products=dynamics-finance-operations)
+outlineSection: |-
+  ### 모듈 1&#58; 소개
+
+  ### 모듈 2&#58; 설계자 역할
+
+  ### 모듈 3&#58; 환경, 인스턴스 및 배포 모델
+
+  ### 모듈 4&#58; 클라우드 솔루션, CDM 및 CDS
+
+  ### 모듈 5&#58; 라이선싱, AppSource 및 지원
+
+  ### 모듈 6&#58; 수명 주기 서비스 
+
+  ### 모듈 7&#58; Dynamics 365 보안 상세 계획
+
+  ### 모듈 8&#58; 데이터 관리
+
+  ### 모듈 9&#58; 통합 및 비즈니스 이벤트
+
+  ### 모듈 10&#58; 지역화, 규정 준수 및 보고
+
+  ### 모듈 11&#58; 확장성
+
+  ### 모듈 12&#58; 보안
+
+  ### 모듈 13&#58; 성능
+
+  ### 모듈 14&#58; 애플리케이션 수명 주기 관리 
+
+  ### 모듈 15&#58; 자동화된 테스트 및 RSAT
+
+  ### 모듈 16&#58; 설계자를 위한 추가 영역
+

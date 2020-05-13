@@ -1,19 +1,22 @@
 ### YamlMime:Certification
-title: Microsoft 365 Certified Fundamentals
+title: 'Microsoft 365 Certified: Fundamentals'
 metadata:
-  title: Microsoft 365 Certified Fundamentals
-  description: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
+  title: 'Microsoft 365 Certified: Fundamentals'
+  description: 'Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.'
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+
+  Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 subTitle: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 levels:
 - beginner
 skills:
-- cloud 개념 이해
-- 핵심 Microsoft 365 서비스 및 개념 이해
-- Microsoft 365에서의 보안, 규정 준수, 개인 정보 보호 및 신뢰 이해
-- Microsoft 365 가격 정책 및 지원 이해
+- 클라우드 개념 설명
+- 핵심 Microsoft 365 서비스 및 개념 설명
+- Microsoft 365에서의 보안, 규정 준수, 개인 정보 보호 및 신뢰 옵션 설명
+- Microsoft 365 가격 정책 및 지원 옵션 설명
 roles:
 - business-user
 - administrator
@@ -30,16 +33,16 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRK
 exams:
 - uid: exam.ms-900
 resources:
-- title: 인증서 학습 과정
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft 365 Certified Fundamentals.'
+- title: 인증서 학습 경로
+  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35svT
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 찾아봅니다.
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oRBC
-- title: 재응시하기
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay [재응시하기]
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md
 - title: 인증 지원
@@ -48,3 +51,4 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

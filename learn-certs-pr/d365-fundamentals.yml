@@ -6,15 +6,17 @@ metadata:
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Microsoft Dynamics 365, 인공 지능(AI), 혼합 현실(MR), Power Platform, 클라우드 개념, 클라우드 보안, Dynamics 365 보안, 일반 데이터 서비스(CDS), Dynamics 365 보고, Dynamics 365 통합 및 클라우드 배포를 이해하고 있음을 입증하십시오.
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+
+  Microsoft Dynamics 365, 인공 지능, 혼합 현실, Power Platform, 클라우드 개념, 클라우드 보안, Dynamics 365 보안, 일반 데이터 서비스(CDS), Dynamics 365 보고, Dynamics 365 통합 및 클라우드 배포를 이해하고 있음을 입증하십시오.
 subTitle: 'Microsoft Dynamics 365, 인공 지능(AI), 혼합 현실(MR), Power Platform, 클라우드 개념, 클라우드 보안, Dynamics 365 보안, 일반 데이터 서비스(CDS), Dynamics 365 보고, Dynamics 365 통합 및 클라우드 배포를 이해하고 있음을 입증하십시오.'
 levels:
 - beginner
 skills:
 - Dynamics 365용 Microsoft 플랫폼 구성 요소 식별
-- Dynamics 365용 AI 및 혼합 현실 이해
-- 모델 기반 앱 이해
-- Dynamics 365 Finance and Operations 앱 이해
+- Dynamics 365에서 인공지능과 혼합 현실 설명
+- 모델 기반 앱 설명
+- Finance and Operations 앱 설명
 roles:
 - functional-consultant
 type: fundamentals
@@ -41,8 +43,9 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -6,29 +6,32 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+
   Azure 데이터베이스 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다. Azure 데이터베이스 관리자는 다양한 방법과 도구를 사용하여 관리 목적의 T-SQL 사용 지식 활용 등 일상적인 작업을 수행합니다.
-  
-  <div style='color&#58; red;'><br/><strong>참고&#58; 본 인증은 2020년 4월 2일부터 실시됩니다.</strong> 이 정보는 최종이 아니며 인증이 릴리스되면 사소한 변경이 있을 수 있습니다.</div>
 subTitle: Azure 데이터베이스 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.
 levels:
 - intermediate
 skills:
-- 데이터 플랫폼 리소스 계획 및 구현 
-- 안전한 환경 구현 
-- 운영 리소스 모니터링 및 최적화 
-- 쿼리 성능 최적화 
+- 데이터 플랫폼 리소스 계획 및 구현
+- 안전한 환경 구현
+- 운영 리소스 모니터링 및 최적화
+- 쿼리 성능 최적화
 - 작업 자동화 수행
-- 고가용성 및 재해 복구 환경(HADR) 계획 및 구현 
+- 고가용성 및 재해 복구 환경(HADR) 계획 및 구현
 - T-SQL을 사용한 관리 수행
 roles:
-- administrator
+- database-administrator
 type: role-based
 products:
 - azure
 - azure-automation
+- azure-database-mysql
+- azure-database-postgresql
 - azure-sql-database
 - azure-storage
 - azure-virtual-machines
+- sql-server
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
 exams:
 - uid: exam.dp-300
@@ -43,8 +46,9 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+
