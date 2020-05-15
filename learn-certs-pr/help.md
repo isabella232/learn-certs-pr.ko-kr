@@ -11,11 +11,13 @@ ms.author: micsullivan
 ---
 # Microsoft 교육 및 인증 도움말
 
+<div style='color&#58; red;'><strong><font color="red"><br/>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>더 알아보기</a>.</font></strong><br/><br/></div>
+
 Microsoft 교육 및 인증에 관하여 궁금한 점이 있으십니까? [Microsoft Learn](/learn/certifications/)을 방문하면 Microsoft 교육, 인증, 시험, MOC (Microsoft Official Courses) 등에 대한 대부분의 질문에 대한 답변을 볼 수 있습니다.
 
 아직 궁금한 게 있으세요? 아래 지원 옵션을 참조하세요.
 
-인증 및 교육 지원을 원하는 고객인 경우 응답 시간이 예상보다 길다는 점에 유의하십시오. 모든 문의 사항을 최대한 빨리 처리하기 위해 노력하고 있으니 조금만 더 기다려 주시면 감사하겠습니다.
+***인증 및 교육 지원을 원하는 고객인 경우 응답 시간이 예상보다 길다는 점에 유의하십시오. 모든 문의 사항을 최대한 빨리 처리하기 위해 노력하고 있으니 조금만 더 기다려 주시면 .
 
 ## 인증 도움말
 

@@ -21,6 +21,7 @@ products:
 - sql-server
 summary: |-
   본 과정에서는 Azure SQL Database를 이해하고 MySQL 및 PostgreSQL 워크로드를 Azure SQL Database로 마이그레이션하는 데 필요한 사항을 설명합니다.
+
   #### 대상 그룹 프로필
   본 과정의 주요 대상 그룹은 MySQL 또는 Postgres DB 워크로드를 Azure SQL DB로 마이그레이션하려는 데이터베이스 개발자입니다.
   이 과정의 2차 대상 그룹은 Azure SQL DB의 기능과 혜택에 대한 인식을 높이려는 MySQL/Postgres 관리자입니다.
@@ -34,6 +35,8 @@ outlineSection: |-
   - OSS 데이터베이스 개요
   - 일반 OSS 데이터베이스 워크로드
   - 마이그레이션에서 고객 챌린지
+
+
   #### 랩 &#58; 원본 OSS 데이터베이스 작성
   - Postgres 마이그레이션 DB 서버 설치
   - MySQL 마이그레이션 DB 서버 설치
@@ -83,12 +86,13 @@ outlineSection: |-
   - 마이그레이션 수행
   - 마이그레이션 검증
 
-  이 모듈을 끝내면 학생들은 다음을 수행할 수 있습니다.
+  이 모듈을 끝내면 학생들은 다음을 수행할 수 있습니다&#58;
   - PostgreSQL용 Azure SQL DB 구성 및 관리
   - 온-프레미스 MySQL을 PostgreSQL용 SQL DB로 마이그레이션
   - 애플리케이션 마이그레이션
   - 마이그레이션 이후 고려 사항
 
-  #### 추가 자료 
+  #### 추가 자료
+
   본 과정을 수강하는 데 추가 자료가 필요하지 않습니다
 

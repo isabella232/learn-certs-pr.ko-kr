@@ -36,14 +36,14 @@ exams:
 - uid: exam.mb-300
 summary: |-
   본 과정에서는 다음 내용을 설명합니다&#58;
-  - Dynamics 365 for Finance and Operations의 핵심 공통 기능
-  - Dynamics 365 for Finance and Operations의 핵심 구성
-  - Dynamics 365 for Finance and Operations를 통한 데이터 마이그레이션 및 출시 준비
-  조직은 Dynamics 365 for Finance and Operations를 사용하여 운영 비용을 줄이고 변화하는 비즈니스 요구 사항에 신속히 대응합니다. 이 솔루션으로 조직은 이러한 목표를 달성할 수 있습니다.
-  이 과정에서는 Microsoft Dynamics 365 for Finance and Operations의 핵심 구성 요소 및 구성, 데이터 마이그레이션 및 출시 준비를 설명합니다.
+  - Dynamics 365 Finance 핵심 공통 기능
+  - Dynamics 365 Finance의 핵심 구성
+  - Dynamics 365 Finance 를 통한 데이터 마이그레이션 및 출시 준비
+  조직은 Dynamics 365 Finance 를 사용하여 운영 비용을 줄이고 변화하는 비즈니스 요구 사항에 신속히 대응합니다. 이 솔루션으로 조직은 이러한 목표를 달성할 수 있습니다.
+  이 과정에서는 Microsoft Dynamics 365 Finance 핵심 구성 요소 및 구성, 데이터 마이그레이션 및 출시 준비를 설명합니다.
 
   #### 대상 그룹 프로필
-  Dynamics 365 for Finance and Operations 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. Functional Consultant는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용한 솔루션을 구현합니다.
+  Dynamics 365 Finance Functional Consultant는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 솔루션과 애플리케이션 구성을 담당합니다. Functional Consultant는 기본 제공 기능 및 코드리스 확장, 애플리케이션 및 서비스 통합을 사용한 솔루션을 구현합니다.
 prerequisitesSection: |-
   이 과정에 참석하기 전에 학생들은 다음을 숙지해야 합니다&#58;
   - Microsoft Windows 일반 지식
@@ -307,7 +307,7 @@ outlineSection: |-
   - 실시간 전송 준비
   - 모듈 요약
 
-  Go-Live 준비
+  Go Live 준비
   - 라이프 사이클 서비스(LCS) 방법론 완료
   - 솔루션용 사용자 수용성 테스트(UAT) 수행
   - FastTrack 실시간 전송 평가 이해
@@ -322,3 +322,4 @@ outlineSection: |-
   - 과정 이후 설문 조사
 
   과정을 마쳤습니다.
+
