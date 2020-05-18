@@ -1,21 +1,25 @@
-- name: Microsoft 인증
+- name: Microsoft 認定資格
   href: index.yml
-- name: 제안
+- name: オファー
   href: deals.md
-- name: 볼륨 라이선싱
+- name: ボリュームライセンス
   href: volume-licensing-program.md
-- name: 중단된 인증, 시험 및 과정
+- name: 認定資格、試験、コースを棄権しました
   expanded: false
   items:
-  - name: 중단된 인증
+  - name: 認定資格を棄権しました
     href: retired-certifications.md
-  - name: 중단된 시험
+  - name: 試験を棄権しました
     href: retired-certification-exams.md 
-  - name: 중단된 과정
+  - name: コースを棄権しました
     href: retired-courses.md
-- name: MCT 인증
+- name: Microsoft Certified Trainer 취득
   href: mct-certification.md
-- name: 시험 정책 및 자주 하는 질문
+- name: Microsoft Certification 시험 정보
+  href: certification-exams.md
+- name: 온라인 시험 소개
+  href: online-exams.md
+- name: 試験のポリシーと FAQ
   href: certification-exam-policies.md
-- name: 인증 도움말
+- name: 認定資格のヘルプ
   href: help.md
