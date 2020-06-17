@@ -1,0 +1,49 @@
+### YamlMime:Certification
+title: 'MCSA: Windows Server 2016'
+metadata:
+  title: 'MCSA: Windows Server 2016'
+  description: 'MCSA: Windows Server 2016'
+uid: certification.mcsa-windows-server-2016-certification
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>본 인증은 2021년 1월 31일에 중단됩니다. 해당일 이후부터는 본 인증을 더 이상 취득할 수 없습니다. 중단 일자 전에 취득한 모든 자격증은 에 있는 성적표에 계속 표시됩니다. <a href='https://www.microsoft.com/learning/dashboard.aspx'>인증 대시보드</a>. 만료된 모든 인증서도 <a href='/learn/certifications/retired-certifications'>찾아볼 수 있습니다</a>.</strong><br/><br/></div>
+  </div>
+
+  IT 비용을 절약하고 더 많은 비즈니스 가치를 제공하기 위해 요구되는 Windows Server 2016의 기본 기술에 대한 귀하의 전문성을 입증하십시오.
+subTitle: IT 비용을 절약하고 더 많은 비즈니스 가치를 제공하기 위해 요구되는 Windows Server 2016의 기본 기술에 대한 귀하의 전문성을 입증하십시오.
+levels:
+- intermediate
+skills:
+- none
+roles:
+- administrator
+type: mcsa
+products:
+- windows-server
+courses:
+- uid: course.20740
+- uid: course.20741
+- uid: course.20742
+exams:
+- uid: exam.70-740
+- uid: exam.70-741
+- uid: exam.70-742
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

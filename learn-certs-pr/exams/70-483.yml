@@ -1,0 +1,70 @@
+### YamlMime:Examination
+title: Programming in C#
+metadata:
+  title: 'Exam 70-483: Programming in C#'
+  description: 'Exam 70-483: Programming in C#'
+uid: exam.70-483
+displayName: 70-483
+summary: |+
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  본 시험의 응시자는 최소 1년 이상 C#를 사용하여 다양한 애플리케이션 유형 및 하드웨어, 소프트웨어 플랫폼의 필수적인 비즈니스 논리를 프로그래밍한 경험이 있어야 합니다.
+
+  응시자는 또한 다음을 잘 이해하고 있어야 합니다&#58;
+  - 프로그램 흐름 및 이벤트 관리
+  - 비동기 프로그래밍 및 스레딩
+  - 데이터 유효성 검사 및 LINQ를 포함한 데이터 수집 및 작업
+  - 오류 및 예외 처리
+  - 배열 및 컬렉션을 사용한 작업
+  - 변수, 연산자 및 표현식 작업
+  - 클래스와 메서드로 작업하기
+  - 결정 및 반복문
+
+  <div style='font-weight&#58; bold;'><br/>참고&#58; 2017년 12월 14일 금요일부터 시험 업데이트의 효력이 발생합니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 Exam 483 변경 문서를 다운로드하여 검토하십시오.</div>
+subTitle: 본 시험의 응시자는 최소 1년 이상 C#를 사용하여 다양한 애플리케이션 유형 및 하드웨어, 소프트웨어 플랫폼의 필수적인 비즈니스 논리를 프로그래밍한 경험이 있어야 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMh
+practiceTestUrl: https://www.mindhub.com/70-483-Programming-in-C-p/mu-70-483_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-483&examname=Programming%20in%20C#&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-483
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- ja
+- pt-br
+levels:
+- intermediate
+skills:
+- 프로그램 흐름 관리(25–30%)
+- 유형 생성 및 사용(25-30%)
+- 애플리케이션 디버깅 및 보안 구현(25–30%)
+- 데이터 액세스 구현(25–30%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.20483
+relatedCertifications:
+- related:
+    uid: certification.mcsa-universal-windows-platform
+- related:
+    uid: certification.mcsa-web-applications-certification
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Developing Microsoft SQL Server Databases
+metadata:
+  title: 'Exam 70-464: Developing Microsoft SQL Server Databases'
+  description: 'Exam 70-464: Developing Microsoft SQL Server Databases'
+uid: exam.70-464
+displayName: 70-464
+summary: |-
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  본 시험은 데이터베이스를 작성 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 전문가의 직무 영역에는 데이터베이스 파일, 데이터 형식과 테이블 만들기, 인덱스 계획과 만들기 및 최적화, 데이터 완전성 보장, 뷰, 저장 프로시저와 기능의 구현, 거래와 잠금 관리가 포함됩니다.
+
+  <div style='font-weight&#58; bold;'><br/>2016년 2월 18일부터 본 시험범위에 SQL Server 2012 및 SQL Server 2014가 포함됩니다. 이 시험에 SQL Server 2012에만 단독으로 적용되는 기능에 대한 질문은 포함되어 있지 않습니다. 더 자세한 내용은 이 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tCcY">문서를 다운로드하여 검토하십시오</a>.</div>
+subTitle: 본 시험은 데이터베이스를 작성 및 구현하고 높은 수준의 데이터 가용성을 보장하는 데이터베이스 전문가를 대상으로 합니다. 데이터베이스 전문가의 직무 영역에는 데이터베이스 파일, 데이터 형식과 테이블 만들기, 인덱스 계획과 만들기 및 최적화, 데이터 완전성 보장, 뷰, 저장 프로시저와 기능의 구현, 거래와 잠금 관리가 포함됩니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkI
+practiceTestUrl: https://www.mindhub.com/70-464-developing-microsoft-sql-server-databases/p/MU-70-464?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-464&examname=Developing%20Microsoft%20SQL%20Server%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-464
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 데이터베이스 개체 구현(30-35%)
+- 프로그래밍 개체 구현(15-20%)
+- 데이터베이스 개체 설계 (25-30%)
+- 쿼리 최적화 및 문제 해결 (25-30%)
+roles:
+- data-engineer
+products:
+- sql-server
+courses:
+- uid: course.20464
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

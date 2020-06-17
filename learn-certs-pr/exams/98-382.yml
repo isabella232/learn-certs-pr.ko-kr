@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using JavaScript
+metadata:
+  title: 'Exam 98-382: Introduction to Programming Using JavaScript'
+  description: 'Exam 98-382: Introduction to Programming Using JavaScript'
+uid: exam.98-382
+displayName: 98-382
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+
+  이 시험의 응시자는 구문론적으로 올바른 JavaScript 코드를 인식하고 작성하고, JavaScript에서 지원하는 데이터 유형을 사용하며, 주어진 문제를 논리적으로 해결 가능한 JavaScript 코드를 인식하고 작성할 수 있어야 합니다.
+
+  응시자는 JavaScript 프로그래밍 언어로 100시간 이상의 교육을 받았거나 실제 경험이 있어야합니다. 응시자는 JavaScript의 기능을 숙지하여 올바른 형식을 갖추고 문서화된 JavaScript 코드를 작성, 디버그 및 유지하는 방법을 알아야 합니다.
+subTitle: 이 시험의 응시자는 구문론적으로 올바른 JavaScript 코드를 인식하고 작성하고, JavaScript에서 지원하는 데이터 유형을 사용하며, 주어진 문제를 논리적으로 해결 가능한 JavaScript 코드를 인식하고 작성할 수 있어야 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiyb
+practiceTestUrl: https://www.mindhub.com/MTA-98-382-Intro-to-Programming-with-JavaScript-p/mu-98-382_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=98-382&examname=Introduction%20to%20Programming%20Using%20JavaScript&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-382
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- JavaScript 연산자, 메서드 및 키워드를 사용한 프로그래밍 (20-25%)
+- 변수, 데이터 유형 및 함수를 사용한 프로그래밍 (25-30%)
+- 의사 결정 및 루프의 구현 및 분석 (20-25%)
+- 문서 객체 모델과의 상호 작용 (15-20%)
+- HTML 양식과의 상호 작용 (5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-javascript
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+
