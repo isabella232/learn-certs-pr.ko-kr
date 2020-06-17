@@ -1,0 +1,86 @@
+### YamlMime:Course
+title: 'Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+metadata:
+  title: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+  description: 'Course 40034-A: Software Development Fundamentals with HTML5: Training 2-Pack for MTA Exams 98-361 and 98-375'
+uid: course.40034
+courseNumber: '40034-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 핵심 프로그래밍 이해
+- skill: 객체 지향 프로그래밍 이해
+- skill: 일반 소프트웨어 개발 이해
+- skill: 웹 애플리케이션 이해
+- skill: 데스크톱 애플리케이션 이해
+- skill: 데이터베이스 이해
+- skill: 애플리케이션 수명 주기 관리
+- skill: HTML5를 사용한 사용자 인터페이스 구성
+- skill: CSS를 사용한 사용자 인터페이스 형식 지정
+- skill: JavaScript를 사용한 코드 작성
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- developer
+products:
+- vs
+exams:
+- uid: exam.98-361
+summary: |-
+  5일간 진행하는 본 교육 2팩은 Microsoft Technology Associate Exams 98-361 및 98-365를 준비하고 핵심 프로그래밍, 개체 지향 프로그래밍, 일반 소프트웨어 개발, 웹 애플리케이션, 데스크톱 애플리케이션, 데이터베이스, 애플리케이션 수명 주기 관리, HTML5를 사용하여 사용자 인터페이스 구성, CSS를 사용하여 사용자 인터페이스 형식지정, JavaScript를 사용한 코드 작성과 같은 주제를 이해하는 데 도움이 됩니다. 해당 교육 과정에는 본 시험용 Microsoft 공식 교육 과정(MOAC)과 같은 내용을 활용합니다.
+
+  #### 대상 그룹 프로필
+  MTA(Microsoft Technology Associate)는 Microsoft 기술을 사용하여 경력을 쌓는 데 필요한 기본 지식을 검증하는 Microsoft의 최신 기술 인증 시험 집합입니다. 본 프로그램은 미래의 기술 경력에 적절한 시작점을 제공하며 경험이 일정하게 있거나 교육을 받은 것으로 가정하지만 현장 경험이 있다고 가정하지는 않습니다.
+prerequisitesSection: |-
+  본 과정에 대한 필수 요구 사항은 없습니다.
+outlineSection: |-
+  ### 모둘 1&#58; 프로그래밍 소개
+
+
+  ### 모듈 2&#58; 객체 지향 프로그래밍 소개
+
+
+  ### 모듈 3&#58; 일반 소프트웨어 개발 이해
+
+
+  ### 모듈 4&#58; 웹 애플리케이션 이해
+
+
+  ### 모듈 5&#58; 데스크톱 애플리케이션 이해
+
+
+  ### 모듈 6&#58; 데이터베이스 이해
+
+
+  ### 모듈 7&#58; 애플리케이션 수명 주기 관리
+
+
+  ### 모듈 8&#58; HTML5를 사용하여 텍스트, 그래픽 및 미디어와 같은 사용자 인터페이스 구성
+
+
+  ### 모듈 9&#58; HTML5를 사용하여 조직, 입력 및 검증과 같은 사용자 인터페이스 구성
+
+
+  ### 모듈 10&#58; 콘텐츠 흐름, 위치 지정 및 스타일 지정과 같은 CSS 필수 요소 이해
+
+
+  ### 모듈 11&#58; 레이아웃과 같은 CSS 필수 요소 이해
+
+
+  ### 모듈 12&#58; CSS를 사용하여 텍스트 흐름 관리
+
+
+  ### 모듈 13&#58; CSS를 사용하여 그래픽 인터페이스 관리
+
+
+  ### 모듈 14&#58; JavaScript 및 코드 작성 기초 이해
+
+
+  ### 모듈 15&#58; 애니메이션 작성, 그래픽 작업 및 데이터 액세스
+
+
+  ### 모듈 16&#58; 터치 인터페이스 용 JavaScript 코드 작성, 장치 및 운영 체제 리소스 등
+

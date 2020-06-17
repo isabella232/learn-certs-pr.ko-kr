@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Querying Microsoft SQL Server 2012/2014
+metadata:
+  title: 'Exam 70-461: Querying Microsoft SQL Server 2012/2014'
+  description: 'Exam 70-461: Querying Microsoft SQL Server 2012/2014'
+uid: exam.70-461
+displayName: 70-461
+summary: |-
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  이 시험은 쿼리 작성 기술 및 지식을 입증하려는 2년 이상 경력을 가진 SQL Server 데이터베이스 관리자, 시스템 엔지니어 및 개발자를 대상으로 합니다.
+
+  <div style='font-weight&#58; bold;'><br/>2015년 12월 본 시험은 SQL Server 2012 및 SQL Server 2014에 대한 적합성 평가를 받았습니다. 시험 범위 변경이 필요하지 않을 것으로 결정되었습니다.</div>
+subTitle: 이 시험은 쿼리 작성 기술 및 지식을 입증하려는 2년 이상 경력을 가진 SQL Server 데이터베이스 관리자, 시스템 엔지니어 및 개발자를 대상으로 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t54W
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-461&examname=Querying%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-461
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 데이터베이스 개체 생성 (20-25%)
+- 데이터 작업 (25-30%)
+- 데이터 수정 (20-25%)
+- 문제 해결 및 최적화 (25-30%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20461
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql-certification
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

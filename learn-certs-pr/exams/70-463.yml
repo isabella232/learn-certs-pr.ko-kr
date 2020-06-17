@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014
+metadata:
+  title: 'Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014'
+  description: 'Exam 70-463: Implementing a Data Warehouse with Microsoft SQL Server 2012/2014'
+uid: exam.70-463
+displayName: 70-463
+summary: |-
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  본 시험은 주로 BI(비즈니스 인텔리전스) 솔루션을 만들고 데이터 정리, 추출/변환/로드 및 데이터 웨어하우스 구현을 담당하는 ETL 및 데이터 웨어하우스 개발자를 대상으로 합니다.
+
+  <div style='font-weight&#58; bold;'><br/>2016년 2월 18일부터 본 시험범위에 SQL Server 2012 및 SQL Server 2014가 포함됩니다. 이 시험에 SQL Server 2012에만 단독으로 적용되는 기능에 대한 질문은 포함되어 있지 않습니다. 더 자세한 내용은 이 <a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tLUy">문서를 다운로드하여 검토하십시오</a>.</div>
+subTitle: 본 시험은 주로 BI(비즈니스 인텔리전스) 솔루션을 만들고 데이터 정리, 추출/변환/로드 및 데이터 웨어하우스 구현을 담당하는 ETL 및 데이터 웨어하우스 개발자를 대상으로 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
+locales:
+- en
+- zh-cn
+- fr
+- de
+- ja
+- pt-br
+levels:
+- advanced
+skills:
+- 데이터 웨어하우스 설계 및 구현(10-15%)
+- 데이터 추출, 변환(20-25%)
+- 데이터 로드 (25-30%)
+- SSIS 솔루션 구성 및 배치(20-25%)
+- 데이터 품질 솔루션 작성(15–20%)
+roles:
+- database-administrator
+products:
+- sql-server
+courses:
+- uid: course.20463
+relatedCertifications:
+- related:
+    uid: certification.mcsa-sql-certification
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+
