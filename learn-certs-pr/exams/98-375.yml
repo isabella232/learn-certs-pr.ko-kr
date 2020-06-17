@@ -1,0 +1,60 @@
+### YamlMime:Examination
+title: HTML5 Application Development Fundamentals
+metadata:
+  title: 'Exam 98-375: HTML5 Application Development Fundamentals'
+  description: 'Exam 98-375: HTML5 Application Development Fundamentals'
+uid: exam.98-375
+displayName: 98-375
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+
+  이 시험은 현재 터치 가능 장치(PC, 태블릿, 전화)에서 실행되는 핵심적인 HTML5 클라이언트 응용 프로그램 개발 기술 능력을 입증받으려는 응시자를 대상으로 합니다. HTML은 UI를 생성하기 위해 브라우저에서 렌더링되는 웹 기술로 생각되고 있으나, 이 시험에서는 HTML5, CSS3 및 JavaScript를 사용하여 클라이언트 응용 프로그램을 개발하는 것에 초점을 맞춥니다. 시험에 응시하기 전 응시자는 CSS 및 JavaScript를 포함하여 이 준비 가이드에 나와 있는 주제에 대한 탄탄한 기초 지식을 갖추고 있어야 합니다. 응시자는 관련 교육 과정을 수강하거나 MSDN 및 Microsoft Visual Studio에서 이용 가능한 자습서와 예제로 작업하여 여기에 설명된 기술에 대한 실질적인 경험을 쌓고 해당 개념을 잘 알고 있어야 합니다.
+subTitle: 이 시험은 현재 터치 가능 장치(PC, 태블릿, 전화)에서 실행되는 핵심적인 HTML5 클라이언트 응용 프로그램 개발 기술 능력을 입증받으려는 응시자를 대상으로 합니다. HTML은 UI를 생성하기 위해 브라우저에서 렌더링되는 웹 기술로 생각되고 있으나, 이 시험에서는 HTML5, CSS3 및 JavaScript를 사용하여 클라이언트 응용 프로그램을 개발하는 것에 초점을 맞춥니다. 시험에 응시하기 전 응시자는 CSS 및 JavaScript를 포함하여 이 준비 가이드에 나와 있는 주제에 대한 탄탄한 기초 지식을 갖추고 있어야 합니다. 응시자는 관련 교육 과정을 수강하거나 MSDN 및 Microsoft Visual Studio에서 이용 가능한 자습서와 예제로 작업하여 여기에 설명된 기술에 대한 실질적인 경험을 쌓고 해당 개념을 잘 알고 있어야 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJs
+practiceTestUrl: https://www.mindhub.com/MTA-98-375-HTML5-Application-Development-Fundame-p/mu-98-375_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=98-375&examname=HTML5%20Application%20Development%20Fundamentals&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-375
+locales:
+- en
+- zh-cn
+- zh-tw
+- fr
+- de
+- it
+- ja
+- ko
+- pt-br
+- ru
+- es
+- es-mx
+levels:
+- beginner
+skills:
+- 애플리케이션 수명 주기 관리 (20-25%)
+- HTML5를 사용한 유저 인터페이스(UI) 구축 (25–30%)
+- CSS(Cascading Style Sheets)를 사용한 UI 양식 지정 (20-25%)
+- JavaScript 코딩 (30-35%)
+roles:
+- developer
+products:
+- vs
+courses:
+- uid: course.40375
+- uid: course.40034
+relatedCertifications:
+- related:
+    uid: certification.mta-html5-application-development-fundamentals
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

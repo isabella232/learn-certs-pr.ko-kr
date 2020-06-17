@@ -1,0 +1,51 @@
+### YamlMime:Examination
+title: Implementing Microsoft Azure Cosmos DB Solutions
+metadata:
+  title: 'Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions'
+  description: 'Exam 70-777: Implementing Microsoft Azure Cosmos DB Solutions'
+uid: exam.70-777
+displayName: 70-777
+summary: |-
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  이 시험은 Azure Cosmos DB를 활용하는 개발자 및 설계자를 대상으로 실시됩니다. 응시자는 Cosmos DB API 독립적인 확장 가능한 애플리케이션을 구축하고 구성하기 위한 파티셔닝, 복제 및 자원 관리의 기본 개념을 이해해야 합니다. 또한, 응시자는 Cosmos DB SQL API에 대한 기본적인 지식도 가지고 있어야 합니다.
+
+  이 시험의 응시자에게는 비즈니스 및 기술적 요구 사항을 충족하는 Cosmos DB 솔루션을 설계, 구축하는 능력과 문제 해결 능력이 요구됩니다.
+subTitle: 이 시험은 Azure Cosmos DB를 활용하는 개발자 및 설계자를 대상으로 실시됩니다. 응시자는 Cosmos DB API 독립적인 확장 가능한 애플리케이션을 구축하고 구성하기 위한 파티셔닝, 복제 및 자원 관리의 기본 개념을 이해해야 합니다. 또한, 응시자는 Cosmos DB SQL API에 대한 기본적인 지식도 가지고 있어야 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjS
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-777&examname=Implementing%20Microsoft%20Azure%20Cosmos%20DB%20Solutions&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-777
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 파티션 및 데이터 모델링
+- 세계적 범위에서 데이터 복제
+- Azure Cosmos DB Solutions 튜닝 및 디버깅
+- 통합 수행 및 솔루션 개발
+roles:
+- data-analyst
+products:
+- sql-server
+courses:
+- uid: course.20777
+relatedCertifications:
+- related:
+    uid: certification.mcse-data-management-analytics
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

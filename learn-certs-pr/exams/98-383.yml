@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using HTML and CSS
+metadata:
+  title: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+  description: 'Exam 98-383: Introduction to Programming Using HTML and CSS'
+uid: exam.98-383
+displayName: 98-383
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+
+  이 시험의 응시자는 구문론적으로 올바른 HTML 및 CSS를 인식하고 작성하고, HTML 요소를 사용하여 데이터를 구조화하며 CSS를 사용한 스타일을 만들고 적용 할 수 있어야 합니다.
+
+  응시자는 HTML 및 CSS에 대한 100시간 이상의 교육이나 실습 경험이 있어야 하고, 해당 기능을 숙지해야하며 올바른 형식의 HTML 및 CSS 코드를 작성, 디버그 및 유지 관리하는 방법을 알아야 합니다.
+subTitle: 이 시험의 응시자는 구문론적으로 올바른 HTML 및 CSS를 인식하고 작성하고, HTML 요소를 사용하여 데이터를 구조화하며 CSS를 사용한 스타일을 만들고 적용 할 수 있어야 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyQ
+practiceTestUrl: https://www.mindhub.com/mta-98-383-introduction-to-programming-using-html-and-css-microsoft-official-practice-test/p/MU-98-383?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=98-383&examname=Introduction%20to%20Programming%20Using%20HTML%20and%20CSS&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-383
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- HTML 기초 이해 (10-15%)
+- CSS 기초 이해 (15-20%)
+- HTML을 사용하는 문서 구조 작성 (30-35%)
+- HTML을 사용한 멀티미디어 표시 (10-15%)
+- CSS를 사용하는 웹 페이지 스타일링 (20-25%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-html-and-css
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

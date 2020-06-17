@@ -1,0 +1,54 @@
+### YamlMime:Examination
+title: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance
+metadata:
+  title: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+  description: 'Exam MB6-894: Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance'
+uid: exam.mb-6-894
+displayName: MB6-894
+summary: |-
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  본 시험의 응시자는 Microsoft Dynamics 365 Finance 및 Microsoft Dynamics 365 Commerce를 사용자 지정하는 데 필요한 기본 기술 및 개발 작업을 구현하는 기술 컨설턴트, 프로그래머 또는 IT 직원입니다.
+
+  응시자는 Microsoft Dynamics 365 Finance 및 Microsoft Dynamics 365 Commerce에 대한 기본 지식이 있어야합니다. 또한, 응시자들은 Visual Studio 및 객체 지향 프로그래밍 관련 경험이 있어야 합니다.
+
+  본 개발 시험의 응시자는 프로그래밍 개념 및 프로세스에 대한 중급 수준의 이해뿐만 아니라 다양한 비즈니스 프로세스 시나리오에 적용되는 재무 및 상업 수정, 개선 사항 및 새로운 개발 프로젝트에 대한 이해를 갖추어야 합니다.
+
+  <div style='font-weight&#58; bold;'><br/>2020년 2월 4일, 본 시험의 내용이 업데이트되었습니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 exam MB6-894 변경 문서를 다운로드하여 검토하십시오.</div>
+subTitle: 본 시험의 응시자는 Microsoft Dynamics 365 Finance 및 Microsoft Dynamics 365 Commerce를 사용자 지정하는 데 필요한 기본 기술 및 개발 작업을 구현하는 기술 컨설턴트, 프로그래머 또는 IT 직원입니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oaj7
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=MB6-894&examname=Development,%20Extensions,%20and%20Deployment%20for%20Microsoft%20Dynamics%20365%20Finance&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB6-894
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 아키텍처 및 개발 환경 이해(20-25%)
+- 애플리케이션 탐색기를 사용하여 새 요소 개발 (20-25%)
+- Basic X++ 읽기 및 쓰기 (20-25%)
+- 개발자를 위한 사용자 인터페이스 및 보안 관리(20-25%)
+- 소매 구성 요소 개발 및 확장 (15-20%)
+roles:
+- business-analyst
+products:
+- dynamics-finance
+relatedCertifications:
+- related:
+    uid: certification.mcsa-microsoft-dynamics-365-for-operations
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

@@ -1,0 +1,55 @@
+### YamlMime:Examination
+title: Implementing a Software-Defined Datacenter
+metadata:
+  title: 'Exam 70-745: Implementing a Software-Defined Datacenter'
+  description: 'Exam 70-745: Implementing a Software-Defined Datacenter'
+uid: exam.70-745
+displayName: 70-745
+summary: |-
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  </div>
+
+  본 시험은 Windows Server 2016 및 Microsoft System Center 2016 SCVMM (Virtual Machine Manager)을 사용하여 SDDC (소프트웨어 정의 데이터 센터)를 구현할 IT 전문가를 대상으로 합니다.
+
+  응시자는 고가용성 SCVMM 인프라를 구현 및 관리하고 소프트웨어 정의 스토리지, 컴퓨팅 및 네트워킹 구성 요소를 구현해야 합니다. 또한 SCOM (System Center Operations Manager)을 사용하여 테넌트 작업 부하를 관리 및 구성하고, 컨테이너를 배포 및 관리하고, 기본 모니터링 및 유지 관리 작업을 수행할 수 있어야 합니다. 본 시험은 추가적으로 일반적인 비즈니스 연속성 및 실패 복구 옵션을 결정하고 구현하는 지위에 있는 책임자를 대상으로 합니다.
+
+  <div style='font-weight&#58; bold;'><br/>참고&#58; 2018년 6월 15일 금요일부터 시험 업데이트의 효력이 발생합니다. 이러한 변경 사항 및 측정된 기술에 미치는 영향에 대해 자세히 알아보려면 Exam 745 변경 문서를 다운로드하여 검토하십시오.</div>
+subTitle: 본 시험은 Windows Server 2016 및 Microsoft System Center 2016 SCVMM (Virtual Machine Manager)을 사용하여 SDDC (소프트웨어 정의 데이터 센터)를 구현할 IT 전문가를 대상으로 합니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
+locales:
+- en
+levels:
+- advanced
+skills:
+- System Center Virtual Machine Manager (VMM) 핵심 인프라 계획 및 구현
+- 소프트웨어 정의 네트워킹(SDN) 구현
+- 소프트웨어 정의 스토리지 구현
+- VMM(Virtual Machine Manager)을 사용하여 데이터 센터 컴퓨팅 솔루션 구현
+- 소프트웨어 정의 데이터센터 보호
+- 소프트웨어 정의 데이터센터 모니터링 및 유지 관리
+roles:
+- administrator
+products:
+- windows-system-center
+courses:
+- uid: course.20745
+relatedCertifications:
+- related:
+    uid: certification.mcse-core-infrastructure
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+

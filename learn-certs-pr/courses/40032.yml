@@ -1,0 +1,74 @@
+### YamlMime:Course
+title: 'Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+metadata:
+  title: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+  description: 'Course 40032-A: Networking and Security Fundamentals: Training 2-Pack for MTA Exams 98-366 and 98-367'
+uid: course.40032
+courseNumber: '40032-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 네트워크 인프라 이해
+- skill: 네트워크 하드웨어 이해
+- skill: 프로토콜 및 서비스 이해
+- skill: 보안 계층 이해
+- skill: 운영 체제 보안 이해
+- skill: 네트워크 보안 이해
+- skill: 보안 소프트웨어 이해
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- administrator
+products:
+- windows-server
+exams:
+- uid: exam.98-366
+summary: |-
+  5일간 진행하는 본 교육 2팩은 Microsoft Technology Associate Exams 98-366 및 98-367을 준비하고 네트워크 인프라, 네트워크 하드웨어, 프로토콜 및 서비스, 보안 계층, 운영 체제 보안, 네트워크 보안, 보안 소프트웨어 등의 주제를 이해하는 데 도움이 됩니다. 해당 교육 과정에는 본 시험용 Microsoft 공식 교육 과정(MOAC)과 같은 내용을 활용합니다.
+
+  #### 대상 그룹 프로필
+  MTA(Microsoft Technology Associate)는 Microsoft 기술을 사용하여 경력을 쌓는 데 필요한 기본 지식을 검증하는 Microsoft의 최신 기술 인증 시험 집합입니다. 본 프로그램은 미래의 기술 경력에 적절한 시작점을 제공하며 경험이 일정하게 있거나 교육을 받은 것으로 가정하지만 현장 경험이 있다고 가정하지는 않습니다.
+prerequisitesSection: |-
+  본 과정에 대한 필수 요구 사항은 없습니다.
+outlineSection: |-
+  ### 모듈 1&#58; LAN(근거리 통신망) 이해
+
+
+  ### 모듈 2&#58; OSI 모델을 사용한 네트워크 정의
+
+
+  ### 모듈 3&#58; 유선 및 무선 네트워크 이해
+
+
+  ### 모듈 4&#58; 인터넷 프로토콜 이해
+
+
+  ### 모듈 5&#58; 명령 줄에서 TCP/IP 구현
+
+
+  ### 모듈 6&#58; 네트워킹 서비스로 작업
+
+
+  ### 모듈 7&#58; 광역 네트워크 이해
+
+
+  ### 모듈 8&#58; 네트워크 인프라 및 네트워크 보안 정의
+
+
+  ### 모듈 9&#58; 보안 계층 이해
+
+
+  ### 모듈 10&#58; 인증, 권한 부여 및 회계
+
+
+  ### 모듈 11&#58; 보안 정책 이해
+
+
+  ### 모듈 12&#58; 네트워크 보안 이해
+
+
+  ### 모듈 13&#58; 서버 및 클라이언트 보호
+

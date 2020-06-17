@@ -1,0 +1,57 @@
+### YamlMime:Examination
+title: Introduction to Programming Using Java
+metadata:
+  title: 'Exam 98-388: Introduction to Programming Using Java'
+  description: 'Exam 98-388: Introduction to Programming Using Java'
+uid: exam.98-388
+displayName: 98-388
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+
+  이 시험은 Java 6 Se 또는 그 이후 버전을 사용하는 애플리케이션 개발자 및, 중등 및 고등 교육과정의 소프트웨어 개발을 배우는 학생 또는 입문 과정의 소프트웨어 개발자를 대상으로 실시됩니다.
+
+  응시자는 Java에 대한 150시간 이상의 교육이나 실습 경험이 있어야 하고, 해당 기능을 숙지해야 하며 올바른 형식의 Java 코드를 작성하고, 디버그 및 유지 관리하는 방법을 알아야 합니다.
+subTitle: 이 시험은 Java 6 Se 또는 그 이후 버전을 사용하는 애플리케이션 개발자 및, 중등 및 고등 교육과정의 소프트웨어 개발을 배우는 학생 또는 입문 과정의 소프트웨어 개발자를 대상으로 실시됩니다.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyR
+practiceTestUrl: https://www.mindhub.com/product-p/mu-98-388_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=98-388&examname=Introduction%20to%20Programming%20Using%20Java&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-388
+locales:
+- en
+- ja
+- zh-tw
+- zh-cn
+- es
+- pt-br
+- fr
+- de
+- ko
+levels:
+- beginner
+skills:
+- Java 기초 이해 (15-20%)
+- 데이터 타입, 변수 및 표현식 사용 (40-45%)
+- 흐름 제어 구현(15-20%)
+- 객체 지향 프로그래밍 수행(10-15%)
+- 컴파일 및 코드 디버깅(5-10%)
+roles:
+- developer
+products:
+- vs
+relatedCertifications:
+- related:
+    uid: certification.mta-introduction-to-programming-using-java
+resources:
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: ../certification-exam-policies.md
+
