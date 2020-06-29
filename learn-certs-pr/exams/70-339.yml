@@ -7,8 +7,8 @@ uid: exam.70-339
 displayName: 70-339
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 해당 시험을 치를 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
   </div>
 
   본 시험은 데이터 센터 및 클라우드에서 SharePoint 2016을 설치, 구성, 배포 및 관리하는 숙련된 IT 전문가를 대상으로 합니다. 일반적으로 응시자는 SharePoint 및 SharePoint가 의존하는 기타 핵심 기술(Windows Server 2008 R2 이상, IIS(인터넷 정보 서비스), SQL Server 2008 R2 이상, Active Directory 및 네트워킹 인프라 서비스)을 계획하고 유지 관리한 4년 이상의 실무 경력을 갖고 있습니다.
@@ -33,7 +33,6 @@ locales:
 levels:
 - intermediate
 skills:
-- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - SharePoint 인프라 설계(15-20%)
 - 인증 및 보안 계획(15-20%)
 - 워크로드 최적화 계획(15-20%)
@@ -53,14 +52,14 @@ relatedCertifications:
 - related:
     uid: certification.mcse-productivity-certification
 resources:
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

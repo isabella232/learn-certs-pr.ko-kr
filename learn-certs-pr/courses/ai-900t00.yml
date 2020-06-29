@@ -1,0 +1,97 @@
+### YamlMime:Course
+title: Microsoft Azure AI Fundamentals
+metadata:
+  title: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+  description: 'Course AI-900T00-A: Microsoft Azure AI Fundamentals'
+uid: course.ai-900t00
+courseNumber: 'AI-900T00-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 인공 지능 워크로드 및 고려사항 설명
+- skill: Azure에서 Machine Learning의 기본 원리 설명
+- skill: Azure에서 Computer Vision 워크로드의 특징 설명
+- skill: Azure에서 NLP(자연 언어 처리) 워크로드의 특징 설명
+- skill: Azure에서 대화형 AI 워크로드의 특징 설명
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+exams:
+- uid: exam.ai-900
+summary: |-
+  본 과정에서는 인공 지능(AI)과 관련된 기본 개념과 AI 솔루션을 만드는 데 활용할 수 있는 Microsoft Azure의 서비스를 소개합니다. 본 과정은 전문 데이터 과학자나 소프트웨어 개발자가 되려는 학생들을 위한 것이 아니라 일반적인 AI 워크로드에 대한 인식과 이를 지원할 Azure 서비스를 식별할 수 있는 능력을 키우기 위한 것입니다. 본 과정은 강사 주도 교육과 Microsoft Learn 플랫폼(https://azure.com/learn)의 온라인 자료를 결합한 혼합형 학습 환경으로 설계되었습니다. 본 과정의 실습 연습은 Learn 모듈을 기반으로 하며, 학습 내용을 참고 자료로 사용하여 수업에서 배운 내용을 보강하고 주제를 보다 심층적으로 탐구할 것을 권장합니다.
+
+  #### 대상 그룹 프로필
+  Azure AI Fundamentials 과정은 AI(인공 지능)을 사용할 수 있는 솔루션 유형과 이를 만드는 데 사용할 수 있는 Microsoft Azure 서비스에 대해 배우고자 하는 모든 사람들을 대상으로 합니다. 본 과정을 수강하기 전에 Microsoft Azure를 사용한 경험이 있어야 할 필요는 없지만, 컴퓨터 기술과 인터넷에 기본적으로 익숙하다고 가정합니다. 본 과정에서 다루는 일부 개념에는 차트 해석 능력과 같은 기본적인 수학적 이해가 필요합니다. 본 교육 과정에는 데이터 작업과 코드 실행을 포함한 실습 활동이 포함되어 있으므로 기본적인 프로그래밍 원리에 대한 지식이 본 과정에 도움이 될 것입니다.
+prerequisitesSection: |-
+  컴퓨터와 웹 브라우저 사용에 익숙.
+outlineSection: |-
+  ### 모듈 1&#58; AI 소개
+  본 모듈에서는 AI(인공 지능)의 일반적인 사용법 및 AI와 관련된 다양한 워크로드 유형에 대해 설명합니다. 그런 다음 책임이 막중한 AI 개발을 위한 고려사항과 원칙을 살펴봅니다.
+  #### 단원
+  - Azure에서 인공 지능
+  - 책임이 막중한 AI
+  
+  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 인공 지능 워크로드 및 고려사항 설명
+
+
+  ### 모듈 2&#58; Machine Learning
+  머신러닝은 현대 인공지능 솔루션의 기반입니다. 본 모듈에서는 몇 가지 기본적인 Machine Learning 개념과 Azure Machine Learning 서비스를 사용하여 머신러닝 모델을 만들고 게시하는 방법을 학습합니다.
+  #### 단원
+  - Machine Learning 소개
+  - Azure Machine Learning
+  
+  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Azure에서 Machine Learning의 기본 원리 설명
+  
+
+  ### 모듈 3&#58; Computer Vision
+  Computer Vision은 이미지, 동영상 파일, 카메라를 통해 현실에 대한 시각적 이해를 다루는 AI 분야입니다. 본 모듈에서는 여러 Computer Vision 기술과 서비스에 대해 살펴봅니다.
+  #### 단원
+  - Computer Vision 개념
+  - Azure에서 Computer Vision
+  
+  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Azure에서 Computer Vision 워크로드의 특징 설명
+
+
+  ### 모듈 4&#58; 자연어 처리
+  본 모듈에서는 문어와 구어를 처리할 수 있는 AI 솔루션 시나리오를 설명합니다. 텍스트 분석, 음성 인식 및 합성, 언어 간 번역 및 명령어 해석 등의 솔루션을 구축하는 데 사용할 수 있는 Azure 서비스를 학습합니다.
+  
+  
+  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Azure에서 NLP(자연 언어 처리) 워크로드의 특징 설명
+
+
+  ### 모듈 5&#58; 대화형 AI
+  사용자는 대화형 AI를 사용하여 이메일, 웹챗 인터페이스, 소셜 미디어 등과 같은 커뮤니케이션 채널을 통해 AI 에이전트, 또는 *봇*과의 대화에 참여할 수 있습니다. 본 모듈에서는 봇을 사용하여 작업하기 위한 몇 가지 기본 원리를 설명하고 사용자 질문에 지능적으로 대응할 수 있는 봇을 만들어 보는 기회를 제공합니다.
+  #### 단원
+  - 대화형 AI 개념
+  - Azure에서 대화형 AI
+
+  이 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Azure에서 대화형 AI 워크로드의 특징 설명
