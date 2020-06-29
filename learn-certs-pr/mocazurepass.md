@@ -1,6 +1,6 @@
 ---
-title: Microsoft Learning Azure Pass | Microsoft Docs
-description: Microsoft Learning Azure Pass
+title: Microsoft Learning Azure Passes | Microsoft Docs
+description: Microsoft Learning Azure Passes
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # 공인 Microsoft Learning Partners의 학생을 위한 Microsoft Learning Azure Pass 액세스
 
-<div style='color&#58; red;'><font color="red">코로나바이러스(COVID-19)에 대응하여 Microsoft는 <a href="https://azure.microsoft.com/blog/">가장 필요한 곳에</a> Azure 용량을 우선시하고 있습니다. 이 정책을 지원하기 위해 Courware Marketplace 및 MCT Azure Pass 포털에서 Azure Pass 구독을 무기한 삭제했습니다.</font></div>
+<div style='color: red;'><font color="red">Microsoft WWL은 Azure Pass에 대한 액세스를 복원했습니다. 이는 비-SLA 솔루션이며 일부 영역에서는 여전히 리소스 제한이 발생할 수 있습니다.<br/><br/>Azure 인터페이스에서는 지원되는 영역과 크기, 그리고 선택된 영역에 대한 중요한 요구가 있는지 등에 대한 피드백을 제공합니다. 중요한 요구 사항이나 크기 제한이 없는 구독에서 지원되는 다른 영역을 사용하는 것이 좋습니다.<br/><br/>대체할 수 있는 SLA 지원 솔루션에 대한 자세한 내용은 현재 Azure에 대한 액세스를 제공하는 ALH(Authorized Lab Hosters) 중 한 곳에 문의하시기 바랍니다.</font></div>
 
-최근 업데이트: **2020년 3월 26일**
+최근 업데이트: **2020년 6월 5일**
 
 Microsoft는 Microsoft 공식 과정을 통해 자격있는 Azure 관련 과정에 등록하는 학생들에게 30일 무료 Microsoft Azure Pass를 제공합니다. 학생을 위한 Pass는 공인 Microsoft Learning Partner가 Courseware Marketplace를 통해서만 얻을 수 있으며, 주문한 MOC 과정당 1개의 Pass를 한도로 MOC 과정 구매에 직접 연결됩니다. 학생 Pass를 받기 위한 다른 메커니즘은 사용할 수 없습니다. Learning Partner가 MOC 과정을 주문했지만 구입 시 제공되는 Azure Pass를 선택하지 않은 경우, Partner는 Courseware Marketplace로 돌아가서 필요한 경우 Pass를 주문할 수 있는 선택권이 있습니다.
 
@@ -42,7 +42,6 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
 - 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
-- 40504 Microsoft Cloud Workshop: Intelligent Vending Machines
 - 40505 Microsoft Cloud Workshop: Internet of Things
 - 40508 Microsoft Cloud Workshop: Modern Cloud Apps
 - 40510 Microsoft Cloud Workshop: SQL Server Hybrid Cloud
@@ -50,10 +49,8 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - 40512 Microsoft Cloud Workshop: App Modernization
 - 40513 Microsoft Cloud Workshop: Building a Resilient IaaS Architecture
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
-- 40516 Microsoft Cloud Workshop: Intelligent Analytics
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
 - 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40517 Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse
 - 40519 Microsoft Cloud Workshop: SAP on Azure
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
@@ -62,12 +59,9 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
-- 40532 Microsoft Cloud Workshop: Mobile App Innovation
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
 - 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
-- 40550 Microsoft Cloud Workshop: Windows Server and SQL Server 2008-R2 end of support planning
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
 - 40558 Microsoft Cloud Workshop: Line-of-business application migration
 - 40559 Microsoft Cloud Workshop: MLOps
@@ -85,7 +79,9 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
 - AI-100T01 Designing and Implementing an Azure AI Solution
+- AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
+- AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-103T00 Microsoft Azure Administrator
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
@@ -94,8 +90,9 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - AZ-220T00 Microsoft Azure IoT Developer
 - AZ-300T0X Azure Solutions Architect - Technologies courses
 - AZ-301T0X Azure Solutions Architect - Design courses
+- AZ-303T00 Microsoft Azure Architect Technologies
+- AZ-304T00 Microsoft Azure Architect Design
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
-- AZ-400T0X Azure DevOps Engineer courses
 - AZ-500T00 Microsoft Azure Security Technologies
 - AZ-900T00 Microsoft Azure Fundamentals (2 Day)
 - DP-050T00 Migrate SQL workloads to Azure
@@ -104,10 +101,8 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
-- MB-300T00 Microsoft Finance and Operations Core
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
-- MB-700T00 Microsoft Dynamics 365: Finance and Operations Apps Solution Architect
 - WS-050T00 Migrating Application Workloads to Azure
 
 참고: 이 목록은 변경될 수 있으며 새 버전 또는 과정이 릴리스되고 이전 버전 및 과정이 만료됨에 따라 제목이 이 목록에 추가되거나 이 목록에서 제거될 수 있습니다.
@@ -134,10 +129,10 @@ Microsoft Learning Partner가 제공하는 이 학생 Pass는 제한 조건이 �
 | Azure Pass를 등록하려면 Microsoft 계정이 필요합니다 |
 | 공동 관리자를 추가할 수 있습니다. 즉, 다른 Microsoft 계정을 동일한 Pass에 추가할 수 있습니다 |
 | Pass가 활성 상태인지 만료된 상태인지 여부에 관계없이 동일한 Microsoft 계정에 여러 Microsoft Learning Azure Pass를 추가할 수 없습니다. 즉, Microsoft 계정은 사용 기간에 1개의 Microsoft Learning Azure Pass 제안만 사용할 수 있습니다. 또한 Microsoft Learning Azure Pass를 사용한 계정은 공개적으로 사용 가능한 무료 평가판 구독을 사용할 수 없습니다. 그러나 공개 무료 평가판 구독을 사용한 계정은 Microsoft Learning Azure Pass를 사용할 수 있습니다. |
-| Default Directory는 기본적으로 Active Directory에 생성됩니다. |
+| Default Directory는 기본적으로 Active Directory에 생성됩니다 |
 | 미리보기에서 Azure 기능을 사용할 수 있습니다 |
 | Azure 지원 계획을 구입하는 데 사용할 수 없습니다 |
-| 예를 들어, Linux를 사용하는 경우 Oracle DB와 같은 타사 브랜드 제품과 함께 사용할 수 없습니다. |
+| 예를 들어, Linux를 사용하는 경우 Oracle DB와 같은 타사 브랜드 제품과 함께 사용할 수 없습니다 |
 | 마켓플레이스 또는 스토어를 통해 판매되는 제품 또는 Azure와 별도로 판매되는 제품(예를 들어 Microsoft Azure Active Directory Premium)을 구입하는 데 사용할 수 없습니다. |
 | 일반 유료 구독으로 전환하고 이 Microsoft Learning Azure Pass를 통해 Azure에서 생성된 모든 작업을 유지할 수 있습니다. |
 

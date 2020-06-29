@@ -2,21 +2,28 @@
 title: 'Microsoft Certified: Azure for SAP Workloads Specialty'
 metadata:
   title: 'Microsoft Certified:  Azure for SAP Workloads Specialty'
-  description: Architects of Azure for SAP Workloads는 SAP Landscape 인증 프로세스 및 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식을 가지고 있습니다.
+  description: Microsoft Azure for SAP Workloads의 설계자 또는 엔지니어는 SAP 시스템 환경 및 Azure에서 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식이 있어야 합니다.
 uid: certification.azure-for-sap-workloads-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
-  Architects of Azure for SAP Workloads는 SAP Landscape 인증 프로세스 및 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식을 가지고 있습니다.
-subTitle: Architects of Azure for SAP Workloads는 SAP Landscape 인증 프로세스 및 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식을 가지고 있습니다.
+  Azure for SAP Workloads Specialty 인증 응시자는 Microsoft Azure에서 SAP 솔루션의 장기간 운영과 관련된 SAP 시스템 환경 및 업계 표준에 대한 폭넓은 경험과 지식이 있는 설계자 또는 엔지니어입니다.
+
+  본 역할에는 최적의 복원력, 성능, 규모, 프로비저닝, 사이즈 및 모니터링에 적합하도록 서비스에 대한 권장 사항을 작성하고 리소스를 조정하는 업무를 포함합니다.
+
+  Azure for SAP Workloads 설계자 또는 엔지니어는 클라우드 관리자, 클라우드 DBA 및 클라이언트와 파트너 관계를 맺고 솔루션을 구현합니다.
+
+  본 인증의 응시자는 다음과 같은 SAP 응용에 대한 폭넓은 경험과 지식이 있어야 합니다. SAP HANA, S/4HANA, SAP NetWeaver, SAP BW/4HANA, SAP 애플리케이션 및 데이터베이스용 OS 서버, Azure Portal, ARM 템플릿, 운영 체제, 가상화, cloud 인프라, 스토리지 구조, 고가용성 설계, 재해 복구 설계, 데이터 보호 개념 및 네트워킹.
+
+  본 역할의 경우 SAP HANA 및 Linux 인증 외에도 Azure Administrator Associate 또는 Azure Solutions Architect Expert 인증을 취득하는 것이 좋습니다.
+subTitle: Microsoft Azure for SAP Workloads의 설계자 또는 엔지니어는 SAP 시스템 환경 및 Azure에서 SAP 솔루션의 장기 운영에 특화된 업계 표준에 대해 풍부한 경험과 지식이 있어야 합니다.
 levels:
 - advanced
 skills:
-- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - SAP 워크로드를 Azure로 마이그레이션
 - SAP 워크로드를 지원하는 Azure 솔루션 설계
-- SAP 워크로드용 Azure 빌드 및 배포
+- SAP 워크로드용 Azure 구축 및 배포
 - SAP 워크로드용 Azure 인프라 유효성 검사
 - Azure SAP 아키텍처 운영
 roles:
@@ -36,19 +43,22 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE44g2
 exams:
 - uid: exam.az-120
 resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [재응시하기]
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 
