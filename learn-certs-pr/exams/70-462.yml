@@ -16,7 +16,7 @@ summary: |-
 subTitle: 본 시험은 설치, 유지 관리 및 구성 태스크를 수행하는 데이터베이스 전문가를 대상으로 합니다. 그 밖의 다른 직무 영역에는 데이터베이스 시스템 설정, 시스템의 효율적 작동 보장, 정기적인 저장과 백업 및 무단 액세스로부터 데이터 보호 등이 포함됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIN
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=462&examname=Administering%20Microsoft%20SQL%20Server%202012/2014%20Databases&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-462
 locales:
 - en
 - zh-cn

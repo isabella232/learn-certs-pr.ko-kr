@@ -16,7 +16,7 @@ summary: |-
 subTitle: 본 시험은 주로 BI(비즈니스 인텔리전스) 솔루션을 만들고 데이터 정리, 추출/변환/로드 및 데이터 웨어하우스 구현을 담당하는 ETL 및 데이터 웨어하우스 개발자를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
 locales:
 - en
 - zh-cn

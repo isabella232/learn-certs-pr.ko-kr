@@ -18,7 +18,7 @@ summary: |-
 subTitle: 본 시험은 Windows Server 2016 및 Microsoft System Center 2016 SCVMM (Virtual Machine Manager)을 사용하여 SDDC (소프트웨어 정의 데이터 센터)를 구현할 IT 전문가를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1k
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=745&examname=Implementing%20a%20Software-Defined%20Datacenter&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-745
 locales:
 - en
 levels:
