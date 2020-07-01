@@ -16,7 +16,7 @@ summary: |-
 subTitle: 본 시험은 조직에서 데이터베이스 솔루션을 설계 및 작성하는 데이터베이스 전문가를 대상으로 합니다. 해당하는 전문가는 데이터베이스 구조, 저장소, 개체 및 서버를 계획하고 설계하는 업무를 담당합니다. 또한 데이터베이스 솔루션이 실행되는 환경에 대한 계획을 수립합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t560
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=465&examname=Designing%20Database%20Solutions%20for%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-465
 locales:
 - en
 - zh-cn

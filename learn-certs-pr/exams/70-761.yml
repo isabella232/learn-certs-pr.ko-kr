@@ -15,7 +15,7 @@ subTitle: 이 시험은 쿼리 작성 기술 및 지식을 입증하려는 2년 
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiOm
 practiceTestUrl: https://www.mindhub.com/search?query=70-761&amp;categoryId=11284?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=761&examname=Querying%20Data%20with%20Transact-SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-761
 locales:
 - en
 levels:

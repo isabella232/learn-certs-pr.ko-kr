@@ -16,7 +16,7 @@ summary: |-
 subTitle: 본 시험은 다차원 데이터 모델 구현, OLAP 큐브 구현과 유지 관리 및 비즈니스 의사 결정에서 사용되는 정보 표시 만들기를 필요로 하는 BI 솔루션의 작성에 초점을 맞추고 있는 BI(비즈니스 인텔리전스) 개발자를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkJ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=466&examname=Implementing%20Data%20Models%20and%20Reports%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-466
 locales:
 - en
 - zh-cn
