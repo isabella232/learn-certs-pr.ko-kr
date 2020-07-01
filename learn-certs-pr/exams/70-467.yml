@@ -16,7 +16,7 @@ summary: |-
 subTitle: 본 시험은 BI 인프라 및 사용 중인 다른 데이터 시스템과 BI 인프라가 연관되는 방식을 전반적으로 설계하는 업무를 담당하는 BI(비즈니스 인텔리전스) 아키텍트를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toXf
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=467&examname=Designing%20Business%20Intelligence%20Solutions%20with%20Microsoft%20SQL%20Server&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-467
 locales:
 - en
 - zh-cn

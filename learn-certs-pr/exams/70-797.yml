@@ -20,7 +20,7 @@ summary: |-
 subTitle: 이 시험에서는 응시자가 회사 포털과 Windows 스토어를 사용한 안전한 ID 작성, 콘텐츠 보호(데이터 손실 방지), 모바일 장치 관리 정책, Hyper-V를 통한 가상화, 응용 프로그램 관리와 관련된 필수 지식과 기술을 갖추고 있는지 검증합니다. 응시자는 Windows 10 보안과 통합된 Azure 기능에 대한 평가를 받게 됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjT
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=70-797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=797&examname=Configuring%20Windows%20Devices&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-797
 locales:
 - en
 levels:
