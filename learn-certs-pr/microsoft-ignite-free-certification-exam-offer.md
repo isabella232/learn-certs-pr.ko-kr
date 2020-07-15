@@ -13,38 +13,46 @@ ms.author: micsullivan
 
 <div style='color: red;'><font color="red"><em><strong>2020년 3월 26일 업데이트됨</strong> 코로나바이러스(COVID-19)에 대응하여 Microsoft는 시험 제안을 2021년 1월 31일까지 연장합니다. 즉, 이벤트에 따라 180일 동안 유효했던 인증 시험 제안이 이제 2021년 1월 31일까지 유효합니다. <a href="https://aka.ms/covid-19certannoucement">자세히 알아보기</a>. 이 변경 사항은 아래 세부 사항에 반영됩니다.</em></font></div>
 
-![무료 인증 시험 제공 배너](images/free-certification-exam-offer-banner.png “무료 인증 시험 제공 배너")
+![무료 인증 시험 제공 배너](images/free-certification-exam-offer-banner.png "무료 인증 시험 제공 배너")
 
-Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 참석해 주셔서 감사합니다. 이벤트에 직접 참가한 모든 참석자에게는 [사용 약관](#terms-and-conditions)에 따라 계속해서 기술을 익히고 직원과 동료들에게 자신의 기술 전문 지식을 입증하는 데 도움이 되는 무료 인증 시험이 제공됩니다.
+Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 참석해 주셔서 감사합니다. 이벤트에 직접 참가한 모든 참석자에게는 [사용 약관](#Terms-and-conditions)에 따라 계속해서 기술을 익히고 직원과 동료들에게 자신의 기술 전문 지식을 입증하는 데 도움이 되는 무료 인증 시험이 제공됩니다.
 
 ## 제안 세부 사항
 
 Microsoft Ignite 2019 또는 Microsoft Ignite The Tour 2019-2020 이벤트에 직접 참가한 경우 1회의 Microsoft Fundamentals, 역할 기반 또는 전문 인증 시험을 무료로 받을 수 있습니다. 무료 시험 제안은 참가한 이벤트가 시작될 때부터 상환 가능하며, 2021년 1월 31일까지 유효합니다. 해당 기간 내에 자격 시험을 예약하지 않고 참석하지 않으면 제안을 상환할 수 없습니다.  
 
-## <a name="how-to-claim-your-free-exam"></a> 무료 시험을 요청하는 방법
+## <a name="how-to-claim-your-free-exam"></a> 무료 시험 청구 방법
 
-다음은 무료 시험을 청구하는 방법에 대한 단계별 지침입니다. 이벤트에 대해 그룹으로 등록한 경우 이벤트 등록 프로필이 완료되었는지 확인하세요. 이벤트 등록 프로필로 이동하려면 Microsoft Ignite 2019 참가자인 경우 [https://register.ignite.microsoft.com](https://register.ignite.microsoft.com)으로, MS Ignite The Tour London 참가자인 경우 [https://register.msignite-the-tour.microsoft.com/](https://register.msignite-the-tour.microsoft.com/) 도시이름, 즉 [https://reigster.msignite-the-tour.microsoft.com/london](https://reigster.msignite-the-tour.microsoft.com/london)으로 이동하세요.
+다음은 무료 시험을 청구하는 방법에 대한 단계별 지침입니다.
 
 **1 단계:** [자격 시험](#eligible-exams-for-this-offer)을 선택하고 "시험 예약" 버튼을 클릭하여 온라인 등록 프로세스를 시작합니다.  
-![시험 예약](images/step-1-2x.png)
+![시험 예약](images/step1.png)
 
 **2 단계:** 기존 Microsoft 인증 프로필에 로그인하거나 Microsoft 계정을 사용하여 인증 프로필을 만듭니다.  
 ![Microsoft 계정으로 로그인](images/step-2-2x.png)
 
 **3 단계:** 로그인한 후 인증 프로필의 세부 정보가 정확한지 확인합니다.  
-![Microsoft 인증 프로필 세부 정보 확인](images/step-3-2x.png)
+![Microsoft 인증 프로필 세부 정보 확인](images/step3.png)
 
 **4 단계:** 인증 프로필 페이지 하단에 있는 “저장하고 계속” 버튼을 클릭하여 ‘시험 할인’ 페이지로 이동합니다.  
 ![인증 프로필 페이지 하단의 저장 및 계속 버튼 클릭](images/step-4-2x.png)
 
-**5 단계:** '시험 할인' 페이지에서 참석했던 이벤트를 선택하고 "계정 확인" 버튼을 클릭합니다.  
-![시험 할인 페이지의 계정 확인 버튼 클릭](images/step-5-2x.png)
+**5 단계:** “시험 할인” 페이지에서 이벤트 등록에 사용한 이메일을 입력합니다. (예: alias@company.com 또는 alias@outlook.com).  
+![이벤트 등록에 사용한 이메일 입력](images/step5-1-enter-email.png)
 
-**6 단계:** 계정을 인증할 때 이벤트 등록에 사용된 소셜 계정을 사용하여 인증해야 합니다(참고: Microsoft 계정을 사용하여 이벤트를 등록한 경우 동일한 Microsoft 계정으로 인증 프로필에 로그인하여 시험을 예약해야 합니다. 인증 프로필이 두개인 경우 시험을 마친 후 [Microsoft 인증 지원 포럼의 지원팀에 문의](https://trainingsupport.microsoft.com/mcp/forum?sort=LastReplyDate&dir=Desc&tab=All&status=all&mod=&modAge=&advFil=&postedAfter=&postedBefore=&threadType=All&isFilterExpanded=false&page=1)하여 프로필을 병합합니다.  
-![같은 소셜 계정으로 인증하여 계정 확인](images/step-6-2x.png)
+**6 단계:** 시험 할인을 받을 수 있는 자격이 있는 경우 입력한 주소로 확인 이메일을 받게 됩니다. 계속하려면 이메일로 받은 암호를 입력해야 합니다. 이메일을 받지 못한 경우 코드를 다시 보낼 수 있습니다.  
+![이메일로 받은 암호 입력](images/step6-enter-passcode.png)
 
-**7 단계:** 다음 화면의 단계를 따라 시험을 예약하는 데 필요한 세부 정보를 제공합니다. 체크 아웃 시 총 금액이 0.00달러인지 확인하고 주문서를 제출합니다.  
-![시험 예약을 위한 필수 세부 정보 제공](images/step-7-2x.png)
+**7 단계:** 올바른 암호를 입력한 후 계정을 연결해야 합니다. 할인을 받으려면 계정 연결에 동의해야 합니다.  
+![할인을 받기 위한 계정 연결](images/step7-linkmodal.png)
+
+다음번 로그인 시 계정 중 하나로 시험 할인을 받을 수 있는 자격이 있는 경우 할인이 자동으로 표시됩니다. 계정을 삭제하려면 [인증 대시보드](https://aka.ms/certdashboard)로 이동하여 “인증 프로필 편집”을 클릭합니다.
+
+**8 단계:** 상단에 할인 팝업이 표시됩니다. 청구하려는 할인을 선택하고 예약한 시험 버튼을 클릭하여 구매를 계속합니다.  
+![할인을 선택하고 예약한 시험 버튼을 클릭하여 계속합니다.](images/step8-coupon.png)
+
+**9 단계:** 후속 화면의 단계를 따라 시험을 예약하는 데 필요한 세부 정보를 제공합니다. 구매 과정에서 총 결제 금액이 0.00 달러 인지 확인하고 주문을 제출합니다.  
+![할인을 받으려는 계정 연결](images/step9.png)
 
 **인증 지원:**
 
