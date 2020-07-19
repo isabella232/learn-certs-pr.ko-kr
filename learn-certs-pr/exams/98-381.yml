@@ -6,7 +6,7 @@ metadata:
 uid: exam.98-381
 displayName: 98-381
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>더 알아보기</a>.</strong><br/><br/></div>
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
 
   이 시험의 응시자는 구문론적으로 올바른 Python 코드를 인식하고 작성하고, Python에서 지원하는 데이터 유형을 인식하며, 주어진 문제를 논리적으로 해결 가능한 Python 코드를 인식하고 작성할 수 있어야 합니다.
 
@@ -15,7 +15,11 @@ subTitle: 이 시험의 응시자는 구문론적으로 올바른 Python 코드�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7k2
 practiceTestUrl: https://www.mindhub.com/98-381-Introduction-to-Programming-Using-Python-p/mu-98-381_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=98-381&examname=Introduction%20to%20Programming%20Using%20Python&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/98-381
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - ja
@@ -46,13 +50,13 @@ relatedCertifications:
     uid: certification.mta-introduction-to-programming-using-python
 resources:
 - title: Exam Replay
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.

@@ -6,14 +6,16 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div><div style='color&#58; red;'>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>본 시험의 내용은 2020년 6월 15일 월요일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.<br/><br/></div>
+  <div><div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 6월 15일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
   </div>
 
-  본 시험의 응시자는 인력과 프로세스, 기술력을 결합하여 최종 요구와 비즈니스 목적을 만족시키는 가치있는 상품과 서비스를 계속적으로 제공하는 DevOps 전문가들입니다. DevOps 전문가는 관행을 최적화하고, 의사소통과 협력을 향상시키며, 자동화를 생성하여 전달을 간소화합니다. 지속적인 통합, 테스팅, 배포, 모니터링 및 피드백을 가능하게 하는 애플리케이션 코드 및 인프라 전략을 설계 및 구현합니다.
+  본 시험 응시자는 지속적으로 비즈니스 가치를 제공할 수 있는 인력, 프로세스 및 기술과 관련된 주제 전문 지식을 갖춰야 합니다.
 
-  응시자들은 Agile 연습에 능숙해야 합니다. 그들은 Azure 관리와 Azure 개발, 전문가 중 최소 한 영역과 친숙해져야 합니다. Azure DevOps 전문가들은 버전 제어, 준수, 코드로서 인프라, 구성 관리, 빌드, 릴리스와 Azure 기술사용을 통한 테스팅을 위한 DevOps 연습을 설계하고 구현해야 합니다.
-subTitle: '본 시험은 DevOps 전략을 설계하고 다음을 구현하는 능력을 측정합니다. DevOps 개발 프로세스, 종속성 관리, 애플리케이션 인프라, 그리고 지속적인 통합, 전달 및 피드백.'
+  본 직무 역할에는 협업, 코드, 인프라, 소스 제어, 보안, 규정 준수, 지속적인 통합, 테스트, 제공, 모니터링 및 피드백에 대한 전략의 설계 및 구현을 포함합니다.
+
+  본 시험의 응시자는 Azure 관리와 개발 모두에 익숙해야 하며 이러한 분야 중 적어도 한 분야의 전문가여야 합니다.
+subTitle: '본 시험은 계측 전략 개발, SRE(사이트 신뢰성 엔지니어링) 전략 개발, 보안 및 규정 준수 계획 개발, 소스 제어 관리, 통신 및 협업 촉진, 지속적인 통합 정의 및 구현, 지속적인 업데이트 및 릴리스 관리 전략을 정의하고 구현에 대한 응시자의 수행 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -26,14 +28,14 @@ locales:
 levels:
 - advanced
 skills:
-- 본 시험의 내용은 2020년 6월 15일 월요일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.'
-- DevOps 전략 설계 (20-25%)
-- DevOps 개발 프로세스 구현 (20-25%)
-- 연속 통합 구현 (10-15%)
-- 지속적인 업데이트 구현 (10-15%)
-- 종속성 관리 구현 (5-10%)
-- 애플리케이션 인프라 구현 (15-20%)
-- 지속적인 피드백 구현 (10-15%)
+- 본 시험 내용은 2020년 6월 15일 에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 계측 전략 개발(5-10%)
+- SRE(사이트 신뢰성 엔지니어링) 전략 개발(5-10%)
+- 보안 및 규정 준수 계획 수립(10-15%)
+- 소스 제어 관리(10-15%)
+- 의사 소통 및 협업 촉진(10-15%)
+- 지속적 통합 정의 및 구현(20-25%)
+- 지속적인 업데이트 및 릴리스 관리 전략 정의 및 구현(10-15%)
 roles:
 - devops-engineer
 products:

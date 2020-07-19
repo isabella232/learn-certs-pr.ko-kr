@@ -13,6 +13,8 @@ ms.author: micsullivan
 
 다음 표는은 이미 중단되거나 향후 중단될 예정인 코스웨어 목록입니다. 명시된 중단 일자 이후부터 해당 과정은 판매가 중단됩니다.
 
+MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 주십시오. [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+
 ## 중단된 코스웨어: 강사 지도식 교육
 
 * 2020년 6월 30일 중단된 코스웨어
@@ -154,30 +156,30 @@ ms.author: micsullivan
     | MS-500T04|| Administering Microsoft 365 Built-in Compliance| 영어| 2020년 5월 29일|
     | 40517 | G | Microsoft Cloud Workshop: Migrate EDW to Azure SQL Data Warehouse | 영어 | 2020년 5월 29일 |
 
-* 2020년 2월 28일 중단된 코스웨어
+* 2020년 02월 28일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 2778 | A | Writing Queries Using Microsoft® SQL Server™ 2008 Transact-SQL | 영어 | 2020년 2월 28일 |
-    | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 영어 | 2020년 2월 28일 |
-    | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | 영어 | 2020년 2월 28일 |
-    | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | 영어 | 2020년 2월 28일 |
-    | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | 영어 | 2020년 2월 28일 |
+    | 2778 | A | Writing Queries Using Microsoft® SQL Server™ 2008 Transact-SQL | 영어 | 2020년 02월 28일 |
+    | 6231 | B | Maintaining a Microsoft® SQL Server® 2008 R2 Database | 영어 | 2020년 02월 28일 |
+    | 6234 | A | Implementing and Maintaining Microsoft® SQL Server® 2008 Analysis Services | 영어 | 2020년 02월 28일 |
+    | 6236 | A | Implementing and Maintaining Microsoft® SQL Server™ 2008 Reporting Services | 영어 | 2020년 02월 28일 |
+    | 6421 | B | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure | 영어 | 2020년 02월 28일 |
     | 6425 | C | Configuring and Troubleshooting Windows Server® 2008 Active Directory® Domain Services | 영어 | 2020년 2월 28일 |
     | 6426 | C | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® | 영어 | 2020년 2월 28일 |
-    | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | 영어 | 2020년 2월 28일 |
-    | 10135 | B | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | 영어 | 2020년 2월 28일 |
-    | 10174 | B | Configuring and Administering Microsoft® SharePoint® 2010 | 영어 | 2020년 2월 28일 |
-    | 10175 | A | Microsoft® SharePoint® 2010, Application Development | 영어 | 2020년 2월 28일 |
-    | 10262 | A | Developing Windows® Applications with Microsoft® Visual Studio® 2010 | 영어 | 2020년 2월 28일 |
-    | 10263 | A | Developing Windows® Communication Foundation Solutions with Microsoft® Visual Studio® 2010 | 영어 | 2020년 2월 28일 |
-    | 10264 | A | Developing Web Applications with Microsoft® Visual Studio® 2010 | 영어 | 2020년 2월 28일 |
-    | 10265 | A | Developing Data Access Solutions with Microsoft® Visual Studio® 2010 | 영어 | 2020년 2월 28일 |
-    | 10324 | A | Implementing and Managing Microsoft® Desktop Virtualization | 영어 | 2020년 2월 28일 |
+    | 6460 | A | Visual Studio® 2008: Windows® Presentation Foundation | 영어 | 2020년 02월 28일 |
+    | 10135 | B | Configuring, Managing and Troubleshooting Microsoft® Exchange Server 2010 | 영어 | 2020년 02월 28일 |
+    | 10174 | B | Configuring and Administering Microsoft® SharePoint® 2010 | 영어 | 2020년 02월 28일 |
+    | 10175 | A | Microsoft® SharePoint® 2010, Application Development | 영어 | 2020년 02월 28일 |
+    | 10262 | A | Developing Windows® Applications with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
+    | 10263 | A | Developing Windows® Communication Foundation Solutions with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
+    | 10264 | A | Developing Web Applications with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
+    | 10265 | A | Developing Data Access Solutions with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
+    | 10324 | A | Implementing and Managing Microsoft® Desktop Virtualization | 영어 | 2020년 02월 28일 |
     | 10550 | A | Programming in Visual Basic with Microsoft® Visual Studio® 2010 | 영어 | 2020년 02월 28일 |
     | 10748 | C | Planning and Deploying System Center 2012 Configuration Manager | 영어 | 2020년 02월 28일 |
-    | 10977 | B | Upgrading Your SQL Server Skills to Microsoft® SQL Server® 2014 | 영어 | 2020년 2월 28일 |
-    | 10981 | A | Infrastructure Provisioning with System Center Virtual Machine Manager | 영어 | 2020년 2월 28일 |
+    | 10977 | B | Upgrading Your SQL Server Skills to Microsoft® SQL Server® 2014 | 영어 | 2020년 02월 28일 |
+    | 10981 | A | Infrastructure Provisioning with System Center Virtual Machine Manager | 영어 | 2020년 02월 28일 |
     | 10991 | A | Troubleshooting Windows Server 2016 Core Technologies | 영어 | 2020년 02월 28일 |
     | 10993 | B | Integrating Cloud Services with System Center Configuration Manager | 영어 | 2020년 02월 28일 |
     | 10999 | A | SQL Server on Linux | 영어 | 2020년 2월 28일 |
@@ -209,7 +211,7 @@ ms.author: micsullivan
     | MB-200T03 | A | Dynamics 365: Power Platform integrations | 영어 | 2020년 01월 31일 |
     | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | 영어 | 2020년 01월 31일 |
     | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | 영어 | 2020년 01월 31일 |
-    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing   | 영어 | 2020년 01월 31일 |
+    | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing | 영어 | 2020년 01월 31일 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | 영어 | 2020년 01월 31일 |
     | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | 영어 | 2020년 01월 31일 |
     | MB-240T03 | A | Universal Resource Scheduling for Dynamics 365 for Field Service | 영어 | 2020년 01월 31일 |
@@ -519,7 +521,7 @@ ms.author: micsullivan
     | 2145 | B | Verwalten Einer Microsoft® Windows Server 2003-Umgebung | 독일 | 2018년 06월 30일 |
     | 2149 | B | Maintenance D'un Environnement Microsoft® Windows Server 2003 | 프랑스령 | 2018년 06월 30일 |
     | 2163 | B | Warten Einer Microsoft® Windows Server™ 2003-Umgebung | 독일 | 2018년 06월 30일 |
-    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003: services réseau | 프랑스령 | 2018년 06월 30일 |
+    | 2182 | A | Implémentation, administration et maintenance d'une infrastructure réseau Microsoft® Windows Server™ 2003 : services réseau | 프랑스령 | 2018년 06월 30일 |
     | 2183 | A | Implementieren, Verwalten und Warten einer Microsoft® Windows Server™ 2003-Netzwerkinfrastruktur: Netzwerkdienste | 독일 | 2018년 06월 30일 |
     | 2194 | A | Planification, implémentation et maintenance d’une infrastructure Active Directory® Microsoft® Windows Server™ 2003 | 프랑스령 | 2018년 06월 30일 |
     | 2226 | B | Instalação, configuração e administração do Microsoft® Windows® XP Professional | 포르투갈어 | 2018년 06월 30일 |
@@ -928,7 +930,7 @@ ms.author: micsullivan
     | 10703 | A | Microsoft SharePoint 2010 の構成および管理 | 일본어 | 2015년 08월 31일
     | 10713 | A | Microsoft Visual Studio 2010 による Web アプリケーションの開発 | 일본어 | 2015년 08월 31일
     | 10775 | A | Administering Microsoft SQL Server 2012 Databases | 영어 | 2015년 08월 31일
-    | 50430 | B | Administering Team Foundation Server 2010 | 영어 | 2015년 8월 31일 |
+    | 50430 | B | Administering Team Foundation Server 2010 | 영어 | 2015년 08월 31일 |
     | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | 영어 | 2015년 08월 31일
 
 * 2015년 6월 30일 중단된 코스웨어

@@ -12,7 +12,7 @@ summary: |-
 subTitle: 응시자는 문자 및 단락 서식을 사용하여 이메일 메시지 컨텐츠의 서식을 지정하고 차트, 표, SmartArt 그래픽과 같은 그래픽 요소를 만들거나 메시지에 삽입할 수 있습니다. 또한 Bcc 필드를 사용하여 개인 수신자에게 메시지를 보낼 수 있습니다. 응시자는 수신 메시지에서 연락처 레코드, 과제 및 약속을 생성할 수 있으며 연락처 그룹을 설정하여 다른 Outlook 사용자와의 통신을 쉽게 할 수 있습니다. 다른 Outlook 사용자와 일정 정보를 공유할 수도 있습니다. 응시자는 사람 및 시스템 리소스가 포함 된 모임 일정을 잡고 다른 사람에게 작업을 위임할 수 있습니다. 핵심 사용자는 Outlook 애플리케이션 창과 빠른 실행 도구 모음을 개인 설정하여 효율성을 극대화할 수 있습니다. 핵심 사용자는 메시지 및 기타 Outlook 항목을 구성하고 메일 폴더와 일정, 주소록 및 과제 목록에 대한 다양한 보기를 표시합니다. 또한 여러 개의 캘린더를 표시하고 다른 Outlook 사용자와 캘린더를 공유할 수도 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tiMb
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-423&examname=Outlook%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-423
 locales:
 - en
 - zh-tw
@@ -22,12 +22,14 @@ locales:
 - ko
 - nb
 - nl
+- ar-sa
+- el-gr
 levels:
 - beginner
 skills:
 - Outlook 환경 관리(25-30%)
 - 메시지 관리 (25-30%)
-- 일정 관리 (30-35%)
+- 일정 관리(30-35%)
 - 연락처 및 그룹 관리 (15–20%)
 roles:
 - business-user
