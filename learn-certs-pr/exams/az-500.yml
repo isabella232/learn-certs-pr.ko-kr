@@ -17,7 +17,7 @@ summary: |-
 
   Azure Security Engineers는 종종 엔드투엔드 인프라의 일부로 클라우드 기반 관리 및 보안 또는 하이브리드 환경을 전담하는 대규모 팀의 일원으로 활동합니다.
 
-  본 시험의 응시자는 스크립팅 및 자동화, 네트워킹, 가상화 및 클라우드 N-계층 아키텍처에 대한 깊은 이해, Azure용 클라우드 기능, 제품 및 서비스, 기타 Microsoft 제품 및 서비스에 완전히 친숙해야 합니다.
+  본 시험의 응시자는 스크립팅 및 자동화에 익숙해야 하며 네트워킹 및 가상화에 대해 깊게 이해하여야 합니다. 또한 응시자는 클라우드 기능, Azure 제품 및 서비스, 기타 Microsoft 제품 및 서비스에 대해 잘 알고 있어야 합니다.
 subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. ID 및 액세스 관리, 플랫폼 보호 구현, 보안 운영 관리, 데이터 및 애플리케이션 보안.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70

@@ -9,7 +9,7 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: micsullivan
 ---
-# Microsoft Certified Trainer 취득
+# Become a Microsoft Certified Trainer
 
 Microsoft Certified Trainer(MCT)는 Microsoft 기술의 최고 기술 전문가 겸 교육 전문가입니다. 전 세계 Microsoft 기술 교육 전문가로 구성된 회원제 그룹에 가입하여 MCT 교육 인증 및 멤버십의 혜택을 누리십시오.
 
@@ -79,16 +79,17 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft Certified: Azure Security Engineer Associate](https://www.microsoft.com/learning/azure-security-engineer.aspx)
 - [Microsoft Certified: Azure DevOps Engineer Expert](https://www.microsoft.com/learning/azure-devops.aspx)
 - [Microsoft Certified: Azure Solutions Architect Expert](https://www.microsoft.com/learning/azure-solutions-architect.aspx)
+- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
+- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
+- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
+- [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(2020년 8월 31일에 중지됩니다.)
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (2020년 8월 31일에 중지됩니다.))
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
-- [Microsoft Certified: Azure AI Engineer Associate](https://www.microsoft.com/learning/azure-ai-engineer.aspx)
-- [Microsoft Certified: Azure Data Scientist Associate](https://www.microsoft.com/learning/azure-data-scientist.aspx)
-- [Microsoft Certified: Azure Data Engineer Associate](https://www.microsoft.com/learning/azure-data-engineer.aspx)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -130,7 +131,7 @@ MCT 온라인 신청은 [MCT 등록 도구](https://mcp.microsoft.com/Authentica
 
 **참고** MCT 등록 도구에 액세스하려면 MSA에 로그인하십시오.
 
-Microsoft Office Specialist이지만 Microsoft Certification ID (ID)가 없는 경우에는 [customerservices@certiport.com](mailto:customerservices@certiport.com)에 문의하여 받으십시오. 그런 다음 [MCT 인증 도구](https://mcp.microsoft.com/Authenticate/MCT)로 이동하십시오. 온라인 신청을 완료하시기 전에 다음 섹션에서 제공되는 MCT 등록 관련 세부 정보를 확인하시기 바랍니다.
+Microsoft Office Specialist이지만 Microsoft Certification ID (MCID)가 없는 경우에는 [customerservices@certiport.com](mailto:customerservices@certiport.com)에 문의하여 받으십시오. 그런 다음 [MCT 인증 도구](https://mcp.microsoft.com/Authenticate/MCT)로 이동하십시오. 온라인 신청을 완료하시기 전에 다음 섹션에서 제공되는 MCT 등록 관련 세부 정보를 확인하시기 바랍니다.
 
 MCT 등록 도구의 용도:
 
@@ -178,7 +179,7 @@ MCT Alumni 소속인 경우, MCT 프로그램 교육 실무로 복귀하시면 �
 
 MCT 복귀 요건:
 
-- **본 페이지의 [요구 사항](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다.** MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인.
+- **본 페이지의** [요구 사항](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다. MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인.
 - **MCT 프로그램 참여 신청.** MCT Alumni 멤버인 경우, 기존의 MCT 프로그램 참가 신청을 증명하는 교육기술 인증 증빙서류를 제출하시거나 최소 1년의 교육 경력을 증명하는 증빙서류를 제출하시기 바랍니다. 관련 증빙서류는 과거 고객, 매니저 또는 동료 직원으로부터 발급 받으셔도 무방합니다.
 
 ## MCT 및 MCT 동문 프로그램 비용

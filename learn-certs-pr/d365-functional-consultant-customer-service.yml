@@ -2,11 +2,11 @@
 title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
-  description: 'Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.'
+  description: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div style='color&#58; red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
   Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.
 subTitle: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 니즈를 예측하는 실용적인 통찰력을 얻습니다.
@@ -30,10 +30,7 @@ products:
 - dynamics
 - dynamics-customer-service
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 - uid: course.mb-230t01
 paths:
 - uid: learn-bizapps.create-powerapps
@@ -46,7 +43,7 @@ paths:
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
-- uid: learn-bizapps.dyn365-voice-of-customer
+- uid: learn-dynamics.create-forms
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
 - uid: exam.mb-200

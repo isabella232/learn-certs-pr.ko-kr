@@ -14,20 +14,20 @@ summary: |-
 subTitle: 이 시험의 일반적인 응시자는 특징 및 기능 수준에서 PowerPoint 2010을 탐색하는 학생, 회사원 또는 강사입니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://www.certiport.com/locator
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=77-883&examname=MOS:%20PowerPoint%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-883
 locales:
-- en
 - zh-cn
 - zh-tw
 - de
 - es
 - fr
-- it
 - ja
 - ko
 - nl
-- pt-br
 - ru
+- ar-sa
+- it
+- pt-br
 levels:
 - beginner
 skills:
@@ -51,12 +51,12 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
 
