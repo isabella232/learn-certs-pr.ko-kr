@@ -42,15 +42,15 @@ ms.author: micsullivan
 
 
 ## 학생 할인으로 비용 절약
-시험 등록 전 학생 신분을 증명하시면 Microsoft Certified Professional(MCP) 시험을 학생 할인가로 응시할 수 있습니다. 귀하께서 소속된 교육 기관이 Microsoft Imagine Academy 프로그램의 구성원일 경우 추가적인 할인 혜택도 받으실 수 있습니다. *참고 인도 또는 중국에서는 Microsoft Certified 시험에 대한 할인 혜택을 이용할 수 없다는 점을 참고하십시오.*
+시험 등록 전 학생 신분을 증명하시면 Microsoft Certified Professional(MCP) 시험을 학생 할인가로 응시할 수 있습니다. *참고 인도 또는 중국에서는 Microsoft Certified 시험에 대한 할인 혜택을 이용할 수 없다는 점을 참고하십시오.*
 
 [**자세히 알아보기**](/learn/certifications/certification-exam-policies)
 
-## <a name="frequently-asked-questions"></a>자주 하는 질문
+## 자주 하는 질문
 
 **질문. Exam Replay란 무엇입니까?**
 
-**답변.** Exam Replay는 동일한 시험에 대한 1회 재응시가 포함된 시험 쿠폰입니다. **연습 시험을 통한 Exam Replay**는 동일한 시험의 재시험 1회 및 Microsoft 공식 연습 시험을 위한 별도의 쿠폰을 포함하는 시험 쿠폰입니다.
+**답변.** Exam Replay는 동일한 시험에 대한 1회 재응시가 포함된 시험 쿠폰입니다. **연습 시험을 통한 Exam Replay** 는 동일한 시험의 재시험 1회 및 Microsoft 공식 연습 시험을 위한 별도의 쿠폰을 포함하는 시험 쿠폰입니다.
 
 **질문. Exam Replay 쿠폰은 한 번에 몇 개나 구매할 수 있습니까?**
 

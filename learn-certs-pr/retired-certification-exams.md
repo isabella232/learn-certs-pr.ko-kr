@@ -59,12 +59,12 @@ ms.author: micsullivan
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail | |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent | |
 
-| 2020년 9월 30일 수요일 중단 예정 | |
+| 2020년 9월 30일 중단 예정 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies | |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design | |
 
-| 2020년 8월 31일 중단 예정 | |
+| 2020년 8월 31일 월요일 중단 예정 | |
 | --- | --- |
 | [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform | |
 | [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform | |
@@ -73,25 +73,26 @@ ms.author: micsullivan
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator | |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure | |
 
-| 2020년 6월 30일 중단 예정 | |
-| --- | --- |
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx): Microsoft SharePoint 2013 | |
-
 ## 최근 중단된 시험
 
 참고로 지난 한 해동안 중단된 시험에는 12개월 동안 시험 세부 정보 페이지로 연결되는 링크가 포함됩니다.
 
-| ITPro/Developer| | |
+| 역할 기반 | | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019년 5월 1일
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019년 5월 1일
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019년 6월 30일
-| AZ-200 | Microsoft Azure Developer Core Solutions (2018년 9월 24일) | 2019년 1월 3일
-| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018년 9월 24일) | 2019년 1월 3일
-| AZ-202 | Microsoft Azure Developer Certification Transition (2018년 9월 24일) | 2019년 3월 31일
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018년 9월 24일에 릴리스) | 2019년 1월 3일
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018년 9월 24일에 릴리스) | 2019년 1월 3일
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018년 9월 24일에 릴리스) | 2019년 3월 31일
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019년 6월 30일
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019년 9월 30일
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 2019년 9월 30일
+
+<br/>
+
+| ITPro/Developer| | |
+| --- | --- | --- |
 | 70-246 | Monitoring and Operating a Private Cloud with System Center 2012 | 2017년 12월 31일
 | 70-247 | Configuring and Deploying a Private Cloud | 2017년 12월 31일
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 2019년 3월 31일
@@ -130,6 +131,7 @@ ms.author: micsullivan
 | [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019년 7월 31일
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 2017년 12월 31일
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 2018년 7월 31일
+| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 2020년 6월 30일
 | [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019년 9월 30일
 | [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019년 8월 07일
 
@@ -264,7 +266,7 @@ ms.author: micsullivan
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016년 1월 31일
 | 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 2016년 1월 31일
 | 70-469 | Recertification for MCSE: Data Platform | 2017년 3월 31일
-| 70-470 | Recertification for MCSE: Business Intelligence | 2017년 3월 31일 금요일
+| 70-470 | Recertification for MCSE: Business Intelligence | 2017년 3월 31일 
 | 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 2016년 9월 30일
 | 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 2016년 9월 30일
 | 70-484 | Essentials of Developing Windows Store Apps Using C# | 2016년 9월 30일
@@ -272,7 +274,7 @@ ms.author: micsullivan
 | 70-490 | Recertification for MCSD: Windows Store Apps Using HTML5 | 2017년 3월 31일
 | 70-491 | Recertification for MCSD: Windows Store Apps Using C# | 2017년 3월 31일
 | 70-492 | Upgrade Your MCPD: Web Developer 4 to MCSD: Web Applications | 2016년 9월 30일
-| 70-494 | Recertification for MCSD: Web Applications | 2017년 3월 31일 금요일
+| 70-494 | Recertification for MCSD: Web Applications | 2017년 3월 31일 
 | 70-499 | Recertification for MCSD: Application Lifecycle Management | 2017년 3월 31일
 | 70-500 | TS: Microsoft Windows Mobile 5.0, Implementing and Managing | 2011년 3월 31일
 | 70-501 | TS: Windows Server 2003 Hosted Environments, Configuration and Management | 2010년 10월 31일
@@ -328,7 +330,7 @@ ms.author: micsullivan
 | 70-580 | TS: Windows Mobile 6.5, Application Development | 2011년 12월 31일
 | 70-582 | TS: Windows Embedded Standard 7 for Developers | 2014년 7월 31일
 | 70-583 | PRO: Designing and Developing Microsoft Azure Applications | 2014년 7월 31일
-| 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015년 7월 31일 금요일
+| 70-595 | TS: Developing Business Process and Integration Solutions by Using Microsoft BizTalk Server 2010 | 2015년 7월 31일 
 | 70-599 | Pro: Designing and Developing Windows Phone Applications | 2014년 9월 30일
 | 70-620 | TS: Configuring Microsoft Windows Vista Client | 2013년 7월 31일
 | 70-621 | PRO: Upgrading Your MCDST Certification to MCITP Enterprise Support | 2011년 3월 31일
@@ -420,7 +422,7 @@ ms.author: micsullivan
 | 88-966 | Windows Server 2008 R2: Directory Knowledge Exam | 2014년 1월 1일
 | 88-968 | Lync Server 2010 Knowledge Exam | 2014년 1월 1일
 | 88-969 | Lync Server 2010 Lab Exam | 2014년 1월 1일
-| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013년 12월 31일 화요일
+| 88-971 | SQL Server 2008 Microsoft Certified Master: Lab Exam | 2013년 12월 31일 
 | 88-981 | Windows Server 2008 R2: Directory Lab Exam | 2014년 1월 1일
 | 98-362 | Windows Development Fundamentals | 2014년 7월 31일
 | 98-363 | Web Development Fundamentals | 2015년 7월 31일
@@ -468,15 +470,15 @@ ms.author: micsullivan
 | MB3-533 | GP 10.0 Human Resources with Payroll | 2013년 12월 31일
 | MB3-637 | GP 10.0 Manufacturing Applications | 2013년 12월 31일
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 2015년 7월 31일
-| MB3-701 | Microsoft Dynamics GP 2013 Financials | 2015년 7월 31일 금요일
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일 수요일
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일 수요일
-| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2014년 12월 31일 수요일
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일 수요일
+| MB3-701 | Microsoft Dynamics GP 2013 Financials | 2015년 7월 31일 
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2014년 12월 31일
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일
 | MB4-348 | SL 6.5 Financials | 2011년 3월 31일
 | MB4-349 | SL 6.5 Installation & Configuration | 2011년 3월 31일
-| MB4-534 | SL 7.0 Installation & Configuration | 2013년 12월 31일 화요일
-| MB4-535 | SL 7.0 Financials | 2013년 12월 31일 화요일
+| MB4-534 | SL 7.0 Installation & Configuration | 2013년 12월 31일 
+| MB4-535 | SL 7.0 Financials | 2013년 12월 31일 
 | MB4-536 | SL 7.0 Project Series | 2013년 12월 31일
 | MB4-640 | SL 7.0 Customization Manager | 2013년 12월 31일
 | MB4-641 | SL 7.0 Tools for VB | 2013년 12월 31일
@@ -494,7 +496,7 @@ ms.author: micsullivan
 | MB5-854 | C5 2010 Programming| 2013년 10월 1일
 | MB5-855 | C5 2010 Advanced Programming | 2013년 10월 1일
 | MB5-856 | C5 2010 Application Consultant | 2013년 10월 1일
-| MB5-858 | Managing Microsoft Dynamics Implementations | 2013년 9월 20일 금요일
+| MB5-858 | Managing Microsoft Dynamics Implementations | 2013년 9월 20일 
 | MB6-202 | Axapta 3.0 Programming | 2010년 1월 12일
 | MB6-203 | Axapta 3.0 Financials | 2010년 1월 12일
 | MB6-204 | Axapta 3.0 Trade and Logistics | 2010년 1월 12일
@@ -556,7 +558,7 @@ ms.author: micsullivan
 | MB7-515 | Microsoft Dynamics NAV 5.0 Financials | 2012년 11월 30일
 | MB7-516 | Microsoft Dynamics NAV 5.0 C/SIDE Solution Development | 2012년 11월 30일
 | MB7-517 | Microsoft Dynamics NAV 5.0 Installation and Configuration | 2012년 11월 30일
-| MB7-700 | Microsoft Dynamics NAV 2013 Installation and Configuration | 2015년 7월 31일 금요일
+| MB7-700 | Microsoft Dynamics NAV 2013 Installation and Configuration | 2015년 7월 31일 
 | MB7-701 | Microsoft Dynamics NAV 2013 Core Setup and Finance | 2015년 7월 31일
 | MB7-702 | Microsoft Dynamics NAV 2013 C/Side Development | 2015년 7월 31일
 | MB7-838 | NAV 2009 Installation & Configuration | 2014년 6월 30일

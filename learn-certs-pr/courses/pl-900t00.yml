@@ -33,33 +33,32 @@ summary: |-
 prerequisitesSection: |-
   이 과정은 선수과정이 없습니다.
 outlineSection: |-
-  ### 모듈 1&#58; Power Platform 소개
-  Power Platform의 구성 요소, 데이터 연결 방법, 조직에서 이 기술을 활용하는 방법에 대해 알아봅니다.
+  ### 모듈 1 &#58; Power Platform 소개
+  Power Platform의 구성 요소, 데이터 연결 방법, 조직에서 비즈니스 솔루션을 생성하기 위한 기술을 활용하는 방법에 대해 학습합니다.
   #### 단원
   - Power Platform 개요
   - 모듈 요약
 
-  Power Platform의 구성 요소와 기능을 알아봅니다
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 각 Power Platform 구성 요소 애플리케이션을 사용하여 비즈니스 솔루션 구축 시기 식별
   - Power Platform을 사용한 비즈니스 솔루션 구축의 가치 알아보기
+  - Power Platform의 구성 요소와 기능을 알아봅니다
 
   ### 모듈 2&#58; Power Apps 시작하기
   PowerApps의 가치와 기능, 그리고 다른 조직에서 이 기술을 활용하여 비즈니스를 위한 간단한 애플리케이션을 구축하는 방법에 대해 알아봅니다.
   #### 단원
   - Power Apps 개요
   - 앱 솔루션 구성 방법
-
-
-  #### 랩 &#58; 기본 캔버스 앱 작성 방법 1
   - Staff Canvas 앱 작성
   - 앱 완료
 
   #### 랩 &#58; 기본 캔버스 앱 작성 방법 2
   - Security Canvas 앱 작성
 
-  Power Apps의 정의와 비즈니스 가치에 대해 알아봅니다.
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 다른 조직이 Power Apps를 사용하여 프로세스를 디지털화하는 방법 알아보기
   - Power Apps 작동 방식 확인 및 첫 번째 앱 작성 옵션 학습
+  - Power Apps의 정의와 비즈니스 가치에 대해 알아봅니다.
 
 
   ### 모듈 3&#58; Common Data Service 소개
@@ -74,9 +73,10 @@ outlineSection: |-
   - 엔터티 및 관계 생성
   - 데이터 가져오기
 
-  Common Data Service의 환경, 엔터티, 필드 및 관계를 설명합니다
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - Common Data Service와 Common Data Model의 차이 설명
   - 비즈니스 규칙 및 프로세스 흐름의 사용 사례 및 제한 사항 설명
+  - Common Data Service의 환경, 엔터티, 필드 및 관계를 설명합니다
 
 
   ### 모듈 4&#58; Power Automate 시작하기
@@ -90,9 +90,10 @@ outlineSection: |-
   - 방문 알림 흐름 생성
   - 보안 스위프 흐름 생성
 
-  Power Automate의 비즈니스 가치와 기능에 대해 알아봅니다
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 사용자의 관점에서 Power Automation의 작동 방식 및 모습 알아보기
   - 간단한 흐름 구성
+  - Power Automate의 비즈니스 가치와 기능에 대해 알아봅니다
 
 
   ### 모듈 5&#58; Power BI 시작하기
@@ -103,7 +104,9 @@ outlineSection: |-
 
 
   #### 랩 &#58; Power BI Report 작성
-  Power BI의 비즈니스 가치와 기능에 대해 설명합니다
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 사용자의 관점에서 Power BI의 작동 방식 및 모습 알아보기
   - 간단한 Power BI 대시보드 구축 방법 알아보기
+  - Power BI의 비즈니스 가치와 기능에 대해 설명합니다
 
