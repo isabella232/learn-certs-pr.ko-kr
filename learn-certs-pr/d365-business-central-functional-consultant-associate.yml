@@ -1,32 +1,29 @@
 ### YamlMime:Certification
-title: 'Microsoft 365 Certified: Messaging Administrator Associate'
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
 metadata:
-  title: 'Microsoft 365 Certified: Messaging Administrator Associate'
-  description: 'Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링합니다.'
-uid: certification.m365-messaging-administrator
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+  description: 본 인증은 2020년 9월에 사용할 수 있습니다. Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
+uid: certification.d365-business-central-functional-consultant-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
-  Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링합니다.
-subTitle: Microsoft 365 Messaging Administrator는 하이브리드 및 클라우드 엔터프라이즈 환경에서 수신자, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링합니다.
+  Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
+
+  <div><br/><strong>참고&#58; 본 인증은 2020년 9월에 사용할 수 있습니다.</strong></div>
+subTitle: 본 인증은 2020년 9월에 사용할 수 있습니다. Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
 levels:
 - intermediate
 skills:
-- 최적화 설정 및 리소스 관리
-- 메일 아키텍처 계획 및 관리
-- 하이브리드 구성 및 마이그레이션 계획 및 구현
-- 메시징 환경 보안
+- 아직 사용할 수 없음
 roles:
-- administrator
+- functional-consultant
 type: role-based
 products:
-- m365
-pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHd
-courses:
-- uid: course.ms-203t00
+- dynamics-business-central
+- power-platform
 exams:
-- uid: exam.ms-203
+- uid: exam.mb-800
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.

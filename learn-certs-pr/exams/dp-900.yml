@@ -9,7 +9,11 @@ summary: "<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) �
 subTitle: '핵심 데이터 개념, Azure에서 관계형 데이터 관련 작업 방법, Azure에서 비관계형 데이터 관련 작업 방법 및 Azure에서 분석 워크로드에 대해 설명할 수 있음을 입증합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wsKZ
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-900&examname=Exam%20DP-900:%20Microsoft%20Azure%20Data%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-900
+- providerType: gsi
+  examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
 - en
 levels:
@@ -26,10 +30,16 @@ products:
 - azure
 paths:
 - uid: learn.wwl.azure-data-fundamentals-explore-core-data-concepts
+- uid: learn.wwl.azure-data-fundamentals-explore-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-non-relational-data
+- uid: learn.wwl.azure-data-fundamentals-explore-data-warehouse-analytics
 relatedCertifications:
 - related:
     uid: certification.azure-data-fundamentals
 resources:
+- title: 인증으로의 여정
+  description: Azure Data Fundamentals 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AM8g
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
