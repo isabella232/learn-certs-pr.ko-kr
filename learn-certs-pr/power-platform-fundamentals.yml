@@ -15,9 +15,9 @@ levels:
 skills:
 - Power Platform의 비즈니스 가치 설명
 - Power Platform의 핵심 구성요소 식별
-- Power BI의 비즈니스 가치 설명
-- Power Apps의 비즈니스 가치 설명
-- Power Automate의 비즈니스 가치 설명
+- Power BI의 기능 입증
+- Power Apps의 기능 설명
+- Power Automate의 기능 입증
 - Power Virtual Agents의 비즈니스 가치 입증
 roles:
 - business-user
@@ -37,7 +37,7 @@ resources:
   description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Power Platform Fundamentals.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4oeDu
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.

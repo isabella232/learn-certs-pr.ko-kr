@@ -8,7 +8,7 @@ displayName: AZ-500
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>본 시험의 내용은 2020년 7월 29일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>본 시험의 내용은 2020년 7월 29일  업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.<br/><br/></div>
   </div>
 
   본 시험의 응시자는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 보안 제어 및 위협 보호, ID 및 액세스 관리, 데이터, 애플리케이션 및 네트워크 보호 등을 구현하는 실무 전문 지식을 갖추어야 합니다.
@@ -17,7 +17,7 @@ summary: |-
 
   Azure Security Engineers는 종종 엔드투엔드 인프라의 일부로 클라우드 기반 관리 및 보안 또는 하이브리드 환경을 전담하는 대규모 팀의 일원으로 활동합니다.
 
-  본 시험의 응시자는 스크립팅 및 자동화에 익숙해야 하며 네트워킹 및 가상화에 대해 깊게 이해하여야 합니다. 또한 응시자는 클라우드 기능, Azure 제품 및 서비스, 기타 Microsoft 제품 및 서비스에 대해 잘 알고 있어야 합니다.
+  이 시험의 응시자는 스크립팅 및 자동화에 익숙해야하며 네트워킹 및 가상화에 대해 깊이 이해해야합니다. 또한 후보자는 클라우드 기능, Azure 제품 및 서비스, 기타 Microsoft 제품 및 서비스에 대해 잘 알고 있어야합니다.
 subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. ID 및 액세스 관리, 플랫폼 보호 구현, 보안 운영 관리, 데이터 및 애플리케이션 보안.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
@@ -35,7 +35,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 내용은 2020년 7월 29일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 본 시험의 내용은 2020년 7월 29일  업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
 - ID 및 액세스 관리(20-25%)
 - 플랫폼 보호 구현(35-40%)
 - 보안 운영 관리(15-20%)
@@ -62,8 +62,11 @@ relatedCertifications:
 - related:
     uid: certification.azure-security-engineer
 resources:
+- title: 인증으로의 여정
+  description: Azure Security Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
