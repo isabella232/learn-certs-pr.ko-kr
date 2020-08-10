@@ -1,0 +1,64 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform Developer (beta)'
+metadata:
+  title: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
+  description: 'Exam PL-400: Microsoft Power Platform Developer (beta)'
+uid: exam.pl-400
+displayName: PL-400
+summary: |-
+  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+
+  본 시험의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 수행합니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현해야 합니다.
+
+  응시자는 기능, 경계 및 제약 조건에 대한 심층적인 이해를 포함하여 Power Platform 서비스에 대한 확실한 응용 지식이 있어야 합니다. 응시자는 Power Platform에 대한 DevOps 관행을 기본적으로 이해하고 있어야 합니다.
+
+  응시자는 Power Platform 서비스, JavaScript, TypeScript, C#, HTML, JSON, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET 및 Microsoft Power BI를 포함하는 개발 경험이 있어야 합니다.
+
+  <div style='font-weight&#58; bold;'><br/>참고&#58; 본 시험은 2020년 10월에 사용할 수 있습니다.</div>
+subTitle: '본 시험은 2020년 10월에 사용할 수 있습니다. 본 시험은 다음과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다: 기술 디자인 작성, Common Data Service (CDS) 구성, Power Apps 작성 및 구성, 비즈니스 프로세스 자동화 구성, 사용자 경험 확장, 플랫홈 확장, 및 통합 개발.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4BeRV
+locales:
+- en
+levels:
+- intermediate
+skills:
+- 기술 디자인 작성 (10-15%)
+- 구성 Common Data Service (15-20%)
+- Power Apps 작성 및 구성 (15-20%)
+- 비즈니스 프로세스 자동화 구성 (5-10%)
+- 사용자 경험 확장 (10-15%)
+- 플랫홈 확장 (15-20%)
+- 통합 개발 (5-10%)
+roles:
+- developer
+products:
+- power-platform
+- power-apps
+- common-data-service
+relatedCertifications:
+- related:
+    uid: certification.power-platform-developer-associate
+resources:
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의 시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: 시험 정책 및 자주 묻는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md
+

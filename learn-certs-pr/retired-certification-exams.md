@@ -59,7 +59,7 @@ ms.author: micsullivan
 | [MB6-897](https://www.microsoft.com/learning/exam-mb6-897.aspx): Microsoft Dynamics 365 for Retail | |
 | [MB6-898](https://www.microsoft.com/learning/exam-mb6-898.aspx): Microsoft Dynamics 365 for Talent | |
 
-| 2020년 9월 30일 중단 예정 | |
+| 2020년 9월 30일  중단 예정 | |
 | --- | --- |
 | [AZ-300](https://www.microsoft.com/learning/exam-AZ-300.aspx): Microsoft Azure Architect Technologies | |
 | [AZ-301](https://www.microsoft.com/learning/exam-AZ-301.aspx): Microsoft Azure Architect Design | |
@@ -77,14 +77,14 @@ ms.author: micsullivan
 
 참고로 지난 한 해동안 중단된 시험에는 12개월 동안 시험 세부 정보 페이지로 연결되는 링크가 포함됩니다.
 
-| 역할 기반 | | |
+| 역할 기반| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019년 5월 1일
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019년 5월 1일
 | [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019년 6월 30일
-| AZ-200 | Microsoft Azure Developer Core Solutions (2018년 9월 24일에 릴리스) | 2019년 1월 3일
-| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018년 9월 24일에 릴리스) | 2019년 1월 3일
-| AZ-202 | Microsoft Azure Developer Certification Transition (2018년 9월 24일에 릴리스) | 2019년 3월 31일
+| AZ-200 | Microsoft Azure Developer Core Solutions (2018년 9월 24일) | 2019년 1월 3일
+| AZ-201 | Microsoft Azure Developer Advanced Solutions (2018년 9월 24일) | 2019년 1월 3일
+| AZ-202 | Microsoft Azure Developer Certification Transition (2018년 9월 24일) | 2019년 3월 31일
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019년 6월 30일
 | [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019년 9월 30일
 | [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 2019년 9월 30일
@@ -265,7 +265,7 @@ ms.author: micsullivan
 | 70-458 | Transition Your MCTS on SQL Server 2008 to MCSA: SQL Server 2012, Part 2 | 2016년 7월 31일
 | 70-459 | Transition Your MCITP: Database Administrator 2008 or MCITP: Database Developer 2008 to MCSE: Data Platform | 2016년 1월 31일
 | 70-460 | Transition Your MCITP: Business Intelligence Developer 2008 to MCSE: Business Intelligence | 2016년 1월 31일
-| 70-469 | Recertification for MCSE: Data Platform | 2017년 3월 31일
+| 70-469 | Recertification for MCSE: Data Platform | 2017년 3월 31일 
 | 70-470 | Recertification for MCSE: Business Intelligence | 2017년 3월 31일 
 | 70-481 | Essentials of Developing Windows Store Apps Using HTML5 and JavaScript | 2016년 9월 30일
 | 70-482 | Advanced Windows Store App Development Using HTML5 and JavaScript | 2016년 9월 30일
@@ -471,10 +471,10 @@ ms.author: micsullivan
 | MB3-637 | GP 10.0 Manufacturing Applications | 2013년 12월 31일
 | MB3-700 | Microsoft Dynamics GP 2013 Installation & Configuration | 2015년 7월 31일
 | MB3-701 | Microsoft Dynamics GP 2013 Financials | 2015년 7월 31일 
-| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일
-| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일
-| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2014년 12월 31일
-| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일
+| MB3-859 | Microsoft Dynamics GP 2010 Financials | 2014년 12월 31일 
+| MB3-860 | Microsoft Dynamics GP 2010 Project Series | 2014년 12월 31일 
+| MB3-861 | Microsoft Dynamics GP 2010 Installation and Configuration | 2014년 12월 31일 
+| MB3-862 | Microsoft Dynamics GP 2010 Inventory and Order Processing | 2014년 12월 31일 
 | MB4-348 | SL 6.5 Financials | 2011년 3월 31일
 | MB4-349 | SL 6.5 Installation & Configuration | 2011년 3월 31일
 | MB4-534 | SL 7.0 Installation & Configuration | 2013년 12월 31일 

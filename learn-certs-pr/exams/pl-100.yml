@@ -5,11 +5,13 @@ metadata:
   description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
 uid: exam.pl-100
 displayName: PL-100
-summary: "<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>\r\n  \r\n앱 제작자는 자기 자신과 솔루션 도메인에 대한 깊은 전문 지식을 보유한 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하는 솔루션을 구축합니다. 응시자들은 데이터 모델링, 기본 UX 설계, 요구사항 분석, 프로세스 분석 등과 같은 주요 기술 비즈니스 분석 업무에 숙련되어 있어야 합니다.</br></br>\r\n\r\n앱 작성자는 비즈니스 프로세스를 생성 및 시행하고, 디지털 정보 수집을 구조화하고, 반복 가능한 작업의 효율성을 개선하고, 비즈니스 프로세스를 자동화합니다.\r\n\r\n앱 작성자는 Power Platform의 maker 도구를 사용하여 비즈니스 문제를 해결합니다. 그들은 Visual Basic for Applications, Excel 피벗 테이블, Teams 및 기타 도구를 사용해 본 경험이 있을 수 있습니다. 또한 데이터 모델, 사용자 인터페이스 및 프로세스를 기본적으로 이해해야 합니다. 앱 개발자는 사용 가능한 도구의 기능과 한계를 알고 있으며 이를 적용하는 방법을 이해하고 있습니다.\r\n\r\n앱 개발자는 자기 주도적이고 솔루션에 중점을 둡니다. 이들은 공식적인 IT 교육은 받지 못했을 수 있지만 개인적인 성장 사고방식으로 편리하게 기술을 사용하여 비즈니스 문제를 해결합니다. 이들은 운영상의 필요성을 이해하고 원하는 결과에 대한 비전을 가지고 있습니다. 이들은 단계적이고 반복적인 전략으로 문제에 접근합니다.  \r\n\r\n<div style='font-weight&#58; bold;'><br/>참고&#58; 이 시험은 2020년 7월 17일 부터 응시할 수 있습니다.</div>"
-subTitle: '본 시험은 2020년 7월 17일 또는 그 즈음에 사용할 수 있습니다. 본 시험에서는 솔루션 설계, 솔루션 작성, 데이터 분석, 솔루션 구현 및 관리 등 기술적인 작업을 수행할 수 있는 능력을 측정합니다.'
+summary: "<div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>\r\n  \r\n앱 제작자는 자기 자신과 솔루션 도메인에 대한 깊은 전문 지식을 보유한 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하는 솔루션을 구축합니다. 응시자들은 데이터 모델링, 기본 UX 설계, 요구사항 분석, 프로세스 분석 등과 같은 주요 기술 비즈니스 분석 업무에 숙련되어 있어야 합니다.</br></br>\r\n\r\n앱 작성자는 비즈니스 프로세스를 생성 및 시행하고, 디지털 정보 수집을 구조화하고, 반복 가능한 작업의 효율성을 개선하고, 비즈니스 프로세스를 자동화합니다.\r\n\r\n앱 작성자는 Power Platform의 maker 도구를 사용하여 비즈니스 문제를 해결합니다. 그들은 Visual Basic for Applications, Excel 피벗 테이블, Teams 및 기타 도구를 사용해 본 경험이 있을 수 있습니다. 또한 데이터 모델, 사용자 인터페이스 및 프로세스를 기본적으로 이해해야 합니다. 앱 개발자는 사용 가능한 도구의 기능과 한계를 알고 있으며 이를 적용하는 방법을 이해하고 있습니다.\r\n\r\n앱 개발자는 자기 주도적이고 솔루션에 중점을 둡니다. 이들은 공식적인 IT 교육은 받지 못했을 수 있지만 개인적인 성장 사고방식으로 편리하게 기술을 사용하여 비즈니스 문제를 해결합니다. 이들은 운영상의 필요성을 이해하고 원하는 결과에 대한 비전을 가지고 있습니다. 이들은 단계적이고 반복적인 전략으로 문제에 접근합니다.\r\n\r\n<div style='font-weight&#58; bold;'><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의 <a href=\"/learn/certifications/certification-exams#participating-in-beta-exams\">유용성과 중요성에 대해 자세히 알아보십시오</a>.</div>"
+subTitle: '본 시험에서는 솔루션 설계, 솔루션 작성, 데이터 분석, 솔루션 구현 및 관리 등 기술적인 작업을 수행할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
 providers:
+- providerType: pearson-vue
+  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=PL-100&examname=Exam%20PL-100:%20Microsoft%20Power%20Platform%20App%20Maker&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-100
 - providerType: gsi
   examUrl: https://docs.microsoft.com/learn/certifications/skillingoffer
 locales:
@@ -61,12 +63,24 @@ products:
 - power-bi
 - power-apps
 - power-virtual-agents
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-bizapps.understand-advanced-topics
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.ui-controls-canvas-app-powerapps
+- uid: learn-bizapps.create-business-process-flow
 relatedCertifications:
 - related:
     uid: certification.power-platform-app-maker
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
