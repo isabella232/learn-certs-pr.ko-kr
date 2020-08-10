@@ -5,7 +5,7 @@ metadata:
   description: Azure AI Fundamentals는 Machine Learning 및 인공지능 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 검증합니다.
 uid: certification.azure-ai-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: "<div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>\r\n\r\nAzure AI Fundamentals 인증의 응시자는 Machine Learning(ML) 및 인공지능(AI) 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 갖추고 있어야 합니다.  \r\n\r\n본 인증은 일반적인 ML 및 AI 워크로드에 대한 지식과 Azure에서 그를 구현하는 방법을 시연할 수 있는 기회입니다.  \r\n\r\n본 인증은 기술적 배경이 있거나 없는 모든 응시자를 대상으로 합니다. 데이터 과학 및 소프트웨어 엔지니어링 경험은 필요하지 않지만 일반적인 프로그래밍 지식이나 경험은 이점이 될 것입니다.  \r\n\r\nAzure AI Fundamentials는 Azure Data Scientist Associate 또는 Azure AI Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 어느 인증에도 필수 조건은 아닙니다."
+summary: "<div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</font></strong><br/><br/></div>\r\n\r\nAzure AI Fundamentals 인증의 응시자는 Machine Learning(ML) 및 인공지능(AI) 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 갖추고 있어야 합니다.  \r\n\r\n본 인증은 일반적인 ML 및 AI 워크로드에 대한 지식과 Azure에서 그를 구현하는 방법을 시연할 수 있는 기회입니다.  \r\n\r\n본 인증은 기술적 배경이 있거나 없는 모든 응시자를 대상으로 합니다. 데이터 과학 및 소프트웨어 엔지니어링 경험은 필요하지 않지만 일반적인 프로그래밍 지식이나 경험은 이점이 될 것입니다.  \r\n\r\nAzure AI Fundamentials는 Azure Data Scientist Associate 또는 Azure AI Engineer Associative와 같은 다른 Azure 역할 기반 인증에 대비하기 위해 사용할 수 있지만 이러한 어느 인증에도 필수 조건은 아닙니다."
 subTitle: Azure AI Fundamentals는 Machine Learning 및 인공지능 개념과 관련 Microsoft Azure 서비스에 대한 기초 지식을 검증합니다.
 levels:
 - beginner
@@ -37,6 +37,14 @@ products:
 - azure-text-speech
 - azure-translator-speech
 - azure-translator-text
+courses:
+- uid: course.ai-900t00
+paths:
+- uid: learn.wwl.get-started-with-artificial-intelligence-on-azure
+- uid: learn.wwl.create-no-code-predictive-models-with-azure-machine-learning
+- uid: learn.wwl.explore-computer-vision-microsoft-azure
+- uid: learn.wwl.explore-natural-language-processing
+- uid: learn.wwl.explore-conversational-ai
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
 exams:
 - uid: exam.ai-900
@@ -44,6 +52,9 @@ resources:
 - title: Azure 인증 포스터
   description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 인증으로의 여정
+  description: Azure AI Fundamentals 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARlg
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -57,6 +68,6 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 
