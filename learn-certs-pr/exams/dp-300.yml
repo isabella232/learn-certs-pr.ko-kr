@@ -1,12 +1,12 @@
 ### YamlMime:Examination
-title: Administering Relational Databases on Microsoft Azure (beta)
+title: Administering Relational Databases on Microsoft Azure
 metadata:
-  title: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
-  description: 'DP-300: Administering Relational Databases on Microsoft Azure (beta)'
+  title: 'DP-300: Administering Relational Databases on Microsoft Azure'
+  description: 'DP-300: Administering Relational Databases on Microsoft Azure'
 uid: exam.dp-300
 displayName: DP-300
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
   본 시험의 응시자는 Microsoft SQL Server 및 Microsoft Azure 데이터 서비스에 구축된 온-프레미스 및 클라우드 관계형 데이터베이스를 관리하는 데이터베이스 관리자 및 데이터 관리 전문가입니다.
 
@@ -14,7 +14,7 @@ summary: |-
 
   이 역할은 최신 관계형 데이터베이스 솔루션의 관리, 가용성, 보안 및 성능 모니터링 및 최적화를 담당합니다. Azure 데이터 기술자와 협업하여 데이터 플랫폼 솔루션의 운영 측면을 관리합니다.
 
-  <div style='font-weight&#58; bold;'><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">유용성과 중요성에 대해 자세히 알아보십시오</a>.</div>
+  <div><strong><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. 베타 시험의 <a href="/learn/certifications/certification-exams#participating-in-beta-exams">유용성과 중요성에 대해 자세히 알아보십시오</a>.</strong></div>
 subTitle: '본 시험은 다음과 같은 기술 과제를 수행할 수 있는 능력을 측정합니다. 데이터 플랫폼 리소스 계획 및 구현, 안전한 환경 구현, 운영 리소스 모니터링 및 최적화, 쿼리 성능 최적화, 작업 자동화 수행, 고가용성 및 재해 복구 환경(HADR) 계획 및 구현, T-SQL을 사용한 관리 수행.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4q3yZ
@@ -44,12 +44,20 @@ products:
 - sql-server
 courses:
 - uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
 relatedCertifications:
 - related:
     uid: certification.azure-database-administrator-associate
 resources:
 - title: 인증으로의 여정
-  description: Azure database-administrator Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  description: Azure Database Administrator Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
@@ -67,7 +75,7 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

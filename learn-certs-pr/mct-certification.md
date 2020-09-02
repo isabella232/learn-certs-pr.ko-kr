@@ -9,9 +9,9 @@ ms.workload: NA
 ms.date: 11/26/2019
 ms.author: micsullivan
 ---
-# Become a Microsoft Certified Trainer
+# Microsoft Certified Trainer 되기
 
-Microsoft Certified Trainer(MCT)는 Microsoft 기술의 최고 기술 전문가 겸 교육 전문가입니다. 전 세계 Microsoft 기술 교육 전문가로 구성된 회원제 그룹에 가입하여 MCT 교육 인증 및 멤버십의 혜택을 누리십시오.
+Microsoft Certified Trainer(MCT)는 Microsoft 기술의 최고 기술 전문가 겸 교육 전문가입니다. 세계적 범위의 Microsoft 기술 교육 전문가로 구성된 회원제 그룹에 가입하여 MCT 교육 인증 및 멤버십의 혜택을 누리십시오.
 
 공식 Microsoft 교육 및 인증 제품의 전체 라이브러리에 대한 액세스, 시험, 서적 및 Microsoft 제품에 대한 상당한 할인 혜택 등 MCT로서의 회원 한정 혜택을 누릴 수 있습니다. 또한 Microsoft 준비 리소스를 사용하여 교육자로서의 경력을 향상시키고 온라인 커뮤니티 포럼에서 다른 MCT 구성원들과 어울릴 수 있습니다. 또한 Microsoft 및 현지 MCT 커뮤니티 행사 초대장도 받으시게 됩니다.
 
@@ -35,7 +35,6 @@ MCT 프로그램은 전세계 곳곳에서 Microsoft 기술에 대한 교육을 
 
 MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [신청 절차](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) 섹션의 MCT 프로그램 가이드 및 MCT 프로그램 계약을 참조하시기 바랍니다.
 
-
 ### MCT 프로그램 참여 요건
 - 현재 MCT 프로그램에 적격한 Microsoft 인증 또는 자격을 보유해야 합니다. 
 (자격 인증 목록은 아래를 참조하십시오)
@@ -43,7 +42,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
   - 강의 기술 인증
     - CompTIA CTT+
     - Essential Educate Trainer (내부 Microsoft - 인증)
-	- Fourth Dimension Technologies, Inc.
+    - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge Instructional Skills Certification
     - IAMCT Approved Technical Trainer(IAMCT ATT)
@@ -57,7 +56,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
   
   또는<br/><br/>
 
-  - 최소 1년의 강의 경력에 대한 증빙 서류 제공 
+  - 최소 1년의 강의 경력에 대한 증빙 서류 제공
 
 **참고** MCT 인증을 갱신하시려면 인증 획득일까지 MCT 프로그램 갱신 요건을 충족하셔야 합니다.
 
@@ -85,7 +84,7 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft Certified: Data Analyst Associate](/learn/certifications/data-analyst-associate)
 - [Microsoft 365 Certified: Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)
 - [Microsoft 365 Certified: Modern Desktop Administrator Associate](https://www.microsoft.com/learning/modern-desktop.aspx)
-- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx) (2020년 8월 31일에 중지됩니다.))
+- [Microsoft 365 Certified: Teamwork Administrator Associate](https://www.microsoft.com/learning/m365-teamwork-administrator.aspx)(2020년 8월 31일 중지.)
 - [Microsoft 365 Certified: Security Administrator Associate](https://www.microsoft.com/learning/m365-security-administrator.aspx)
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
@@ -99,12 +98,11 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-supply-chain-management.aspx)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Developer Associate](/learn/certifications/d365-finance-and-operations-apps-developer-associate)
 - [Microsoft Certified: Dynamics 365: Finance and Operations Apps Solution Architect Expert](/learn/certifications/d365-finance-and-operations-apps-solution-architect-expert)
-- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate)
+- [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) (2020년 12월 31일 중지)
 - [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert)
-- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2021년 1월 31일 일요일 사용 중지), Microsoft Dynamics 365 for Operations (2021년 1월 31일 일요일 사용 중지), SQL 2016 BI Development (2021년 1월 31일 일요일 사용 중지), SQL 2016 Database Administration (2021년 1월 31일 일요일 사용 중지), SQL 2016 Database Development (2021년 1월 31일 일요일 사용 중지), SQL Server 2012/2014 (2021년 1월 31일 일요일 사용 중지), Universal Windows Platform (2021년 1월 31일 일요일 사용 중지), Web Applications (2021년 1월 31일 일요일 사용 중지), Windows Server 2012 (2021년 1월 31일 일요일 사용 중지), 또는 Windows Server 2016 (2021년 1월 31일 일요일 사용 중지)
+- [Microsoft Certified Solutions Associate (MCSA)](https://www.microsoft.com/learning/mcsa-certification.aspx): BI Reporting (2021년 1월 31일 사용 중지), Microsoft Dynamics 365 for Operations (2021년 1월 31일 사용 중지: [여기서 각각의 Microsoft Dynamics 자격 및 인증과 관련된 요구 사항을 확인하세요](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm)), SQL 2016 BI Development (2021년 1월 31일 사용 중지), SQL 2016 Database Administration (2021년 1월 31일 사용 중지), SQL 2016 Database Development (2021년 1월 31일 사용 중지), SQL Server 2012/2014 (2021년 1월 31일 사용 중지), Universal Windows Platform (2021년 1월 31일 사용 중지), Web Applications (2021년 1월 31일 사용 중지), Windows Server 2012 (2021년 1월 31일 사용 중지), 또는 Windows Server 2016 (2021년 1월 31일 사용 중지)
 - [Microsoft Certified Solutions Expert (MCSE)](https://www.microsoft.com/learning/mcse-certification.aspx): Business Applications (2021년 1월 31일 일요일 사용 중지), Data Management and Analytics (2021년 1월 31일 일요일 사용 중지), Productivity (2021년 1월 31일 일요일 사용 중지), 또는 Core Infrastructure (2021년 1월 31일 일요일 사용 중지)
 - [Microsoft Certified Solutions Developer (MCSD)](https://www.microsoft.com/learning/mcsd-certification.aspx): App Builder (2021년 1월 31일 일요일 사용 중지)
-- Dynamics CRM Dynamics Technical (2019년 12월 31일 중단) - [각 Microsoft Dynamics 자격 및 인증과 관련된 요구 사항 이해](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWrwMm).
 - [Microsoft Office Specialist (MOS)](https://www.microsoft.com/learning/certification-overview-mos.aspx): Master 2016, Master 2013, Expert Excel 2016, Expert Excel 2013, Expert Word 2016, Expert Word 2013, [Word Associate (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-2019.aspx), [Excel Associate (Excel and Excel 2019)](https://www.microsoft.com/learning/mos-excel-2019.aspx), [PowerPoint Associate (PowerPoint and PowerPoint 2019)](https://www.microsoft.com/learning/mos-powerpoint-2019.aspx), [Outlook Associate (Outlook and Outlook 2019)](/learn/certifications/mos-outlook-2019), [Microsoft Office Specialist: Associate (Office 365 and Office 2019)](https://www.microsoft.com/learning/microsoft-office-specialist-associate-2019.aspx), [Word Expert (Word and Word 2019)](https://www.microsoft.com/learning/mos-word-expert-2019.aspx), [Excel Expert (Excel and Excel 2019)](/learn/certifications/mos-excel-expert-2019), [Access Expert (Access and Access 2019)](/learn/certifications/mos-access-expert-2019) or [Microsoft Office Specialist: Expert (Office 365 and Office 2019)](/learn/certifications/microsoft-office-specialist-expert-2019)
  
 **참고** MCT 프로그램에 적격한 Microsoft 인증 및 자격은 변동될 수 있습니다. 모든 새로운 역할 기반 인증은 출시된 후 MCT 프로그램에 대한 자격을 얻게 됩니다. 만료된 인증은 만료일로부터 최대 6개월까지 MCT 프로그램에 대한 자격을 가집니다. [인증 중단에 대해 자세히 알아보기](https://www.microsoft.com/learning/retired-certifications.aspx).
@@ -131,7 +129,7 @@ MCT 온라인 신청은 [MCT 등록 도구](https://mcp.microsoft.com/Authentica
 
 **참고** MCT 등록 도구에 액세스하려면 MSA에 로그인하십시오.
 
-Microsoft Office Specialist이지만 Microsoft Certification ID (MCID)가 없는 경우에는 [customerservices@certiport.com](mailto:customerservices@certiport.com)에 문의하여 받으십시오. 그런 다음 [MCT 인증 도구](https://mcp.microsoft.com/Authenticate/MCT)로 이동하십시오. 온라인 신청을 완료하시기 전에 다음 섹션에서 제공되는 MCT 등록 관련 세부 정보를 확인하시기 바랍니다.
+Microsoft Office Specialist이지만 Microsoft Certification ID (ID)가 없는 경우에는 [customerservices@certiport.com](mailto:customerservices@certiport.com)에 문의하여 받으십시오. 그런 다음 [MCT 인증 도구](https://mcp.microsoft.com/Authenticate/MCT)로 이동하십시오. 온라인 신청을 완료하시기 전에 다음 섹션에서 제공되는 MCT 등록 관련 세부 정보를 확인하시기 바랍니다.
 
 MCT 등록 도구의 용도:
 
@@ -164,7 +162,6 @@ MCT Alumni 혜택 사항:
 
 MCT Alumni 멤버가 되길 희망하시는 경우, MCT Alumni 프로그램 계약을 살펴보시고 멤버십 약관에 대해 숙지하시기 바랍니다.<br/>
 
-
 [MCT Alumni 프로그램 약관](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 
 **참고** 별도로 명시된 경우를 제외하고 모든 내용은 영어로 제공됩니다.
@@ -179,7 +176,7 @@ MCT Alumni 소속인 경우, MCT 프로그램 교육 실무로 복귀하시면 �
 
 MCT 복귀 요건:
 
-- **본 페이지의** [요구 사항](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다. MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인.
+**본** 페이지의 [요구 사항](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다. MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인.
 - **MCT 프로그램 참여 신청.** MCT Alumni 멤버인 경우, 기존의 MCT 프로그램 참가 신청을 증명하는 교육기술 인증 증빙서류를 제출하시거나 최소 1년의 교육 경력을 증명하는 증빙서류를 제출하시기 바랍니다. 관련 증빙서류는 과거 고객, 매니저 또는 동료 직원으로부터 발급 받으셔도 무방합니다.
 
 ## MCT 및 MCT 동문 프로그램 비용
