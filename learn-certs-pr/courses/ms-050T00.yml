@@ -13,7 +13,7 @@ skillsGained:
 - skill: SharePoint에 대한 고가용성 구현 방법 설명.
 - skill: BDC 서비스 애플리케이션 인스턴스 프로비전.
 - skill: 보안 저장소 서비스 애플리케이션 구성.
-- skill: SharePoint 2019에서 내 사이트 구성 방법 설명.
+- skill: SharePoint 2019에서 내 사이트 구성 방법 설명
 - skill: 사용 가능한 SharePoint 하이브리드 시나리오 설명.
 - skill: SharePoint 하이브리드 구성의 요구 사항 설명.
 - skill: SharePoint Server 하이브리드를 위한 계획.
@@ -21,6 +21,8 @@ skillsGained:
 - skill: 마이그레이션 프로세스 중 사용 가능한 리소스 및 도구 설명.
 - skill: SharePoint 마이그레이션 평가 도구(SMAT)를 사용하여 마이그레이션할 데이터에 액세스.
 - skill: SharePoint 마이그레이션 도구(SPMT)를 사용하여 클라우드에 콘텐츠 마이그레이션.
+- skill: 마이그레이션 관리자를 사용하여 클라우드에 콘텐츠 마이그레이션.
+- skill: Mover를 사용하여 클라우드에 콘텐츠 마이그레이션.
 - skill: 마이그레이션 프로세스 관리 및 모니터링.
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -28,7 +30,7 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - m365
 summary: |-
@@ -37,7 +39,7 @@ summary: |-
   #### 대상 그룹 프로필
   본 과정은 SharePoint 온-프레미스 환경 배포 및 관리와 하이브리드 시나리오 배포 및 Microsoft 365로의 콘텐츠 마이그레이션에 관심이 있는 IT 전문가를 대상으로 합니다.
 prerequisitesSection: |-
-  - Windows PowerShell을 사용해 본 경험.
+  - Windows PowerShell 사용 경험.
   - SQL Server 관리에 대한 기본적인 이해.
   - DNS를 포함한 네트워킹에 대한 기본적인 이해.
   - Windows 서버 관리에 대한 실무 지식.
@@ -48,7 +50,7 @@ outlineSection: |-
   본 모듈에서는 기본적인 SharePoint 인프라에 대하여 설명합니다. SharePoint 팜 구성 요소를 설명합니다. SharePoint 팜 설치 및 구성 방법도 설명합니다.
   #### 단원
   - SharePoint 팜 계획
-  - SharePoint 2019
+  - SharePoint Server 2019 개요
   - SharePoint 팜 설치 및 관리
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
@@ -59,7 +61,7 @@ outlineSection: |-
 
 
   ### 모듈 2&#58; SharePoint 인증 및 보안
-  본 모듈에서는 SharePoint 인증 및 보안을 다룹니다. SharePoint 2019 의 다양한 인증 방법을 소개합니다.
+  본 모듈에서는 SharePoint 인증 및 보안을 다룹니다. SharePoint 2019의 다양한 인증 방법을 소개합니다.
   #### 단원
   - 인증 계획
   - 페더레이션 인증 구성
@@ -74,9 +76,9 @@ outlineSection: |-
   ### 모듈 3&#58; SharePoint 콘텐츠 관리
   본 모듈에서는 SharePoint 콘텐츠 관리를 다룹니다. SharePoint의 콘텐츠 구조를 설명합니다. SharePoint의 권한 부여 및 콘텐츠 액세스에 대한 세부 정보도 제공합니다.
   #### 단원
-  - SharePoint 콘텐츠 구조 개요
+  - 사이트 및 사이트 모음 계획
   - 콘텐츠 액세스 관리
-  - 사이트 모음 관리
+  - 사이트 모음 구성 및 관리
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 사이트 모음 개념 설명.
@@ -90,8 +92,8 @@ outlineSection: |-
   본 모듈에서는 SharePoint 서비스 애플리케이션 및 워크플로를 다룹니다. BCS 서비스 애플리케이션과 사용자 프로필 서비스 애플리케이션을 프로비전하고 관리하는 방법을 설명합니다. 특히, SharePoint로 사용자 속성을 가져오는 방법과 BDC 모델을 가져오고 내보내는 방법을 설명합니다.
   #### 단원
   - SharePoint 서비스 애플리케이션 및 워크플로
-  - BCS(Business Connectivity Service) 및 보안 저장소 계획 및 구성
-  - 사용자 프로필 계획 및 구성
+  - BCS 및 Secure Store 서비스 계획 및 구성
+  - 사용자 프로필 서비스 계획 및 구성
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - BDC 모델 주요 구성 요소 설명.
@@ -107,12 +109,12 @@ outlineSection: |-
   - SharePoint Active Directory 가져오기 및 동기화 계획 방법 설명.
 
 
-  ### 모듈 5&#58; Managed Metadata 계획 및 구성
+  ### 모듈 5&#58; 관리되는 메타데이터 서비스 계획 및 구성
   본 모듈에서는 Managed Metadata Service, 콘텐츠 형식 및 용어 집합 등 정보 아키텍처를 생성하고 전파할 수 있는 필수적인 기능을 다룹니다. Managed Metadata Service의 배경이 되는 개념뿐만 아니라 분류체계, 용어 집합 및 비즈니스 키워드를 포함한 콘텐츠 형식의 목적을 소개합니다.
   #### 단원
-  - 컨텐츠 형식 관리
-  - 관리되는 메타데이터
-  - Managed Metadata Service 구성
+  컨텐츠 형식 관리
+  - 관리되는 메타데이터 서비스 개요
+  - 관리되는 메타데이터 서비스 구성
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 콘텐츠 형식 기능 및 사용 설명.
@@ -178,26 +180,28 @@ outlineSection: |-
   - 하이브리드 검색 결과 구성.
 
 
-  ### 모듈 10&#58; 마이그레이션 소개
+  ### 모듈 10&#58; 콘텐츠 마이그레이션 계획
   본 모듈에서는 클라우드로의 마이그레이션 프로세스 계획을 다룹니다. 마이그레이션 프로세스 중 사용 가능한 리소스 및 도구의 개요를 설명합니다.
   #### 단원
-  - 마이그레이션 개요
-  - FastTrack 및 파트너 서비스 활용
+  - 콘텐츠 마이그레이션 개요
+  - 콘텐츠 마이그레이션 준비
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 콘텐츠 마이그레이션 프로세스를 위한 계획.
   - 마이그레이션 프로세스 중 사용 가능한 리소스 및 도구 설명.
 
 
-  ### 모듈 11&#58; SharePoint Online으로의 마이그레이션
+  ### 모듈 11&#58; Microsoft 365로 콘텐츠 마이그레이션
   본 모듈에서는 클라우드에 콘텐츠를 마이그레이션하기 위한 SharePoint 마이그레이션 도구 (SPMT) 사용 방법에 중점을 둡니다. 특히, SPMT의 요구 사항 및 제한 사항을 설명합니다. 파일 공유 및 SharePoint 콘텐츠 등 여러 가지 데이터 원본에 대한 다양한 마이그레이션 방법을 소개합니다.
   #### 단원
-  - 마이그레이션 준비
-  - 클라우드에 콘텐츠 마이그레이션
-  - 마이그레이션 프로세스 관리 및 모니터링
+  - SPMT로 콘텐츠 마이그레이션
+  - 마이그레이션 매니저로 콘텐츠 마이그레이션
+  - Mover로 콘텐츠 마이그레이션
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - SharePoint 마이그레이션 평가 도구(SMAT)를 사용하여 마이그레이션할 데이터에 액세스.
   - SharePoint 마이그레이션 도구(SPMT)를 사용하여 클라우드에 콘텐츠 마이그레이션.
+  - 마이그레이션 관리자를 사용하여 클라우드에 콘텐츠 마이그레이션.
+  - Mover를 사용하여 클라우드에 콘텐츠 마이그레이션.
   - 마이그레이션 프로세스 관리 및 모니터링.
 

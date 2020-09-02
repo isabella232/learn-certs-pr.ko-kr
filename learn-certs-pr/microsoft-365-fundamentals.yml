@@ -6,7 +6,7 @@ metadata:
 uid: certification.microsoft-365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
   Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
 subTitle: Microsoft 365에서 이용 가능한 옵션과 software as a service (SaaS) Cloud 모델과 같은 Cloud 서비스 채택 및 Microsoft 365 Cloud 서비스 구현에 따른 이점을 이해하고 있음을 입증하십시오.
@@ -28,7 +28,10 @@ products:
 courses:
 - uid: course.ms-900t01
 paths:
-- uid: learn-m365.microsoft-365-fundamentals
+- uid: learn.wwl.m365-productivity-teamwork-solutions
+- uid: learn.wwl.m365-business-management-solutions
+- uid: learn.wwl.m365-security-compliance-capabilities
+- uid: learn.wwl.m365-licensing-service-support
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRKj
 exams:
 - uid: exam.ms-900

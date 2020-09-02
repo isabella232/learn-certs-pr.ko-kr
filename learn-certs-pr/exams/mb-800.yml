@@ -6,19 +6,29 @@ metadata:
 uid: exam.mb-800
 displayName: MB-800
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
-  Dynamics 365 Business Central 핵심 애플리케이션 기능 컨설턴트는 핵심 앱 기능, 모듈 및 Business Central로의 마이그레이션 데이터 설정을 포함하여 Business Central 앱을 구현하고 구성합니다. 컨설턴트는 구현 팀과 협업하여 사용자 인터페이스를 구성함으로써 관리 및 탐색 용이성을 기업에 제공합니다. 컨설턴트는 Power Platform 구성 요소를 사용하여 통찰력, 단서, 작업 타일, 보고서, 차트 조정 및 Business Central 확장을 포함하여 역할 센터를 구성합니다.
+  본 시험의 응시자는 중소기업의 핵심 애플리케이션 설정 프로세스를 구현하는 기능 컨설턴트입니다. 응시자는 핵심 앱 기능 및 모듈 설정과 Business Central로의 데이터 마이그레이션 을 포함하여 Dynamics 365 Business Central 앱을 구현하고 구성합니다.
 
-  <div style='font-weight&#58; bold;'><br/>참고&#58; 본 시험은 2020년 9월에 사용할 수 있습니다.</div>
-subTitle: '본 시험은 2020년 9월에 사용할 수 있습니다. 본 시험은 Business Central 설정, 재무 구성, 판매 및 구매 구성, 운영 설정 및 Power Platform 구성 요소 사용과 같은 작업 수행 능력을 측정합니다.'
+  응시자는 구현 팀과 협업하여 사용자 인터페이스를 운영함으로써 관리 및 탐색 용이성을 기업에게 제공합니다. 기능 컨설턴트는 Power Platform 구성 요소를 사용하여 통찰력, 단서, 작업 타일, 보고서, 차트 조정 및 Business Central 확장을 포함하여 역할 센터를 구성합니다.
+
+  응시자는 재무 관리, 영업, 구매 및 재고의 기본적인 이해를 포함하여 Business Central 앱을 통해 사용자 요구를 충족시키는 지식 응용력이 있어야 합니다.
+
+  본 시험의 응시자는 일반적으로 하나 이상의 Business Central 기능을 전문적으로 다룹니다. 응시자는 Dynamics 365 애플리케이션 제품군과 관련지어 Business Central의 역할을 이해합니다
+
+  <div><strong><br/>참고&#58; 본 시험은 2020년 10월 사용할 수 있습니다.</strong></div>
+subTitle: '본 시험은 2020년 10월 사용할 수 있습니다. 본 시험은 Business Central 설정, Financials 구성, Sales and Purchasing 구성 및 Business Central Operations 수행과 같은 작업 완성 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 아직 사용할 수 없음
+- Business Central 설정 (20-25%)
+- Financials 구성 (25-30%)
+- Sales and Purchasing 구성 (10-15%)
+- Business Central Operations 수행 (30-35%)
 roles:
 - functional-consultant
 products:
@@ -44,7 +54,7 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

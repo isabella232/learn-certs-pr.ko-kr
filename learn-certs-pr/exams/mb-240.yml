@@ -7,35 +7,36 @@ uid: exam.mb-240
 displayName: MB-240
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5년 19월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong> 본 시험의 내용은 2020년 10월 7일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
-  본 시험은 현장 서비스 경험이 있는 고객 서비스 전문 Microsoft Dynamics 365 Customer Engagement 기능 컨설턴트를 대상 응시자로 합니다. 응시자는 현장 서비스 수명 주기를 완료하는 리소스 관리 솔루션을 구현해야 합니다.
+  본 시험은 현장 서비스 경험이 있는 고객 서비스 전문 Microsoft Dynamics 365 Customer Engagement 기능 컨설턴트를 대상으로 합니다. 응시자는 현장 서비스 수명 주기를 완료하는 리소스 관리 솔루션을 구현해야 합니다.
 
-  응시자는 내부 및 외부 팀과 협력하여 설계된 현장 서비스 프로세스를 구현합니다. 이 협업에는 현장 서비스 애플리케이션의 기본 관리 영역 구성, IoT (연결된 현장 서비스) 솔루션 및 모바일 애플리케이션 배포 및 추가로 필요한 사용자 정의에 대한 구현이 포함됩니다. 응시자는 핵심 고객 서비스 애플리케이션과 결합하여 현장 서비스 애플리케이션의 구성 및 배포를 담당하는 업무에 종사합니다.
+  응시자는 내부 및 외부 팀과 협력하여 설계된 현장 서비스 프로세스를 구현합니다. 이 협력에는 현장 서비스 애플리케이션의 기본 관리 영역 구성, IoT(연결된 현장 서비스) 솔루션 및 모바일 애플리케이션 배포 및 추가로 필요한 사용자 정의에 대한 구현이 포함됩니다. 응시자는 핵심 고객 서비스 애플리케이션과 결합하여 현장 서비스 애플리케이션의 구성 및 배포를 담당하는 업무에 종사합니다.
 
-  응시자는 서비스, 리소스, 특성, 사고, 재고 통합, 서비스 계약, 리소스 예약, 작업 오더, 서비스 과제, 현장 서비스 사용자 역할, 현장 서비스 설정, IoT (연결된 현장 서비스) 솔루션 및 현장 서비스 모바일 앱의 구성 등을 포함하여 현장 서비스 애플리케이션의 구성 요소를 구성하고 사용자 정의하는 방법을 알고 있어야 합니다.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다: 현장 서비스 애플리케이션 구성하기, 작업 오더 관리하기, 작업 오더 일정 설정 및 배포하기, 현장 서비스 모빌리티 관리, 재고 및 구매 관리, 자산 및 계약 관리.'
+  응시자는 서비스, 리소스, 특성, 사고, 재고 통합, 서비스 계약, 리소스 예약, 작업 주문, 서비스 과제, 현장 서비스 사용자 역할, 현장 서비스 설정, IoT(연결된 현장 서비스) 솔루션 및 현장 서비스 모바일 앱의 구성 등을 포함하여 현장 서비스 애플리케이션의 구성 요소를 구성하고 사용자 정의하는 방법을 알고 있어야 합니다.
+subTitle: '본 시험은 현장 서비스 애플리케이션 구성하기, 작업 주문 관리하기, 작업 주문 일정 설정 및 배포하기, 현장 서비스 모빌리티 관리, 재고 및 구매 관리, 자산 및 계약 관리와 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
+practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 본 시험 내용은 2020년 5년 19월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 본 시험의 내용은 2020년 10월 7일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
 - 현장 서비스 애플리케이션 구성하기 (20-25%)
-- 작업 오더 관리하기 (15-20%)
-- 작업 오더 일정 설정 및 배포하기 (20-25%)
-- 현장 서비스 모빌리티 관리(10–15%)
-- 재고 및 구매 관리(10–15%)
+- 작업 주문 관리하기 (15-20%)
+- 작업 주문 일정 설정 및 배포하기 (20-25%)
+- 현장 서비스 모빌리티 관리 (10–15%)
+- 재고 및 구매 관리 (10–15%)
 - 자산 및 계약 관리 (10-15%)
 roles:
 - functional-consultant
 products:
-- dynamics
+- dynamics-365
 - dynamics-field-service
 exams:
 - uid: exam.mb-200
@@ -49,14 +50,14 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-field-service
 resources:
 - title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -67,7 +68,7 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.
