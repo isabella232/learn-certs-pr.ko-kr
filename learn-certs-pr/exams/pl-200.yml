@@ -6,25 +6,28 @@ metadata:
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
-  Power Platform 기능 컨설턴트는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 Power Platform 솔루션과 앱 구성을 담당합니다.
+  본 시험의 응시자는 검색 수행, 요구사항 파악, 실무 전문가 및 이해 당사자 참여, 요구사항 변환 및 Power Platform 솔루션과 앱 구성을 수행합니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 생성합니다.
 
-  기능 컨설턴트는 애플리케이션 향상, 사용자 지정 사용자 환경, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현해야 합니다.
+  응시자는 솔루션 설계자와 협력하여 제공되는 디자인과 사용자 환경 디자이너가 정한 표준, 브랜딩 및 아티팩트를 구현합니다. 응시자는 타사 애플리케이션 및 서비스와 완벽한 통합을 제공하기 위해 통합을 설계합니다.
 
-  <div style='font-weight&#58; bold;'><br/>참고&#58; 본 시험은 2020년 10월에 사용할 수 있습니다.</div>
-subTitle: '본 시험은 2020년 10월에 사용할 수 있습니다. 본 시험은 다음과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다: Common Data Service (CDS) 구성, Power App 구축, Power Automate로 자동화 생성, Power Visual Agents 구성 및 Power BI로 시각화 생성.'
+  응시자는 품질 보증 팀원과의 적극적인 협업을 통해 솔루션이 기능 및 비기능적 요구 사항을 반드시 충족하도록 합니다. 응시자는 패키징 및 배포를 위한 아티팩트를 식별 및 생성하여 DevOps 엔지니어에게 제공하며 Power Platform 관리자에게는 운영 및 유지 관리 교육을 제공합니다.
+
+  <div><strong><br/>참고&#58; 본 시험은 2020년 9월 사용할 수 있습니다.</strong></div>
+subTitle: '본 시험은 2020년 9월 사용할 수 있습니다. 본 시험은 Common Data Service (CDS) 구성, Power Apps를 사용한 앱 생성, Power Automate 생성 및 관리, Power Visual Agents 챗봇 구현 및 Power Apps를 다른 앱 및 서비스와 통합과 같은 과제를 완료할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 구성 Common Data Service
-- Power App 구축
-- Power Automate로 자동화 생성
-- Power Virtual Agents 구성
-- Power BI로 시각화 생성
+- Common Data Service 구성 (25-30%)
+- Power Apps을 사용한 앱 생성 (20-25%)
+- Power Automate 생성 및 관리 (15-20%)
+- Power Virtual Agents 챗봇 구현 (10-15%)
+- Power Apps를 다른 앱 및 서비스와 통합 (15-20%)
 roles:
 - business-analyst
 - developer
@@ -46,8 +49,8 @@ resources:
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
@@ -58,7 +61,7 @@ resources:
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

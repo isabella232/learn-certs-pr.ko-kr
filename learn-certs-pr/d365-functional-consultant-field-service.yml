@@ -6,7 +6,9 @@ metadata:
 uid: certification.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong>MB-200은 2020년 9월 새로운 시험인 <a href="/learn/certifications/exams/pl-200">PL-200</a>으로 대체됩니다. MB-200이 2020년 12월 31일 중단될 때까지 MB-200에 합격하거나 PL-200 및 MB-240에 합격하여 이 인증을 획득할 수 있습니다. MB-200이 중단된 후, 이 인증을 획득하려면 PL-200 및 MB-240에 합격하여야 합니다.</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
 subTitle: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
@@ -14,14 +16,14 @@ levels:
 - intermediate
 skills:
 - 검색, 계획, 및 분석 수행
-- 사용자 경험 디자인 관리
-- 엔티티 및 데이터 관리
+- 사용자 환경 디자인 관리
+- 엔터티 및 데이터 관리
 - 보안 구현
 - 통합 구현
 - 솔루션 배포 및 테스트 수행
 - 현장 서비스 애플리케이션 구성하기
-- 작업 오더 관리하기
-- 작업 오더 일정 설정 및 배포하기
+- 작업 주문 관리하기
+- 작업 주문 일정 설정 및 배포하기
 - 현장 서비스 모빌리티 관리
 - 재고 및 구매 관리
 - 자산 및 계약 관리
@@ -29,7 +31,7 @@ roles:
 - functional-consultant
 type: role-based
 products:
-- dynamics
+- dynamics-365
 - dynamics-field-service
 courses:
 - uid: course.mb-200t00
@@ -49,22 +51,25 @@ exams:
 - uid: exam.mb-200
 - uid: exam.mb-240
 resources:
-- title: 인증서 학습 경로
-  description: '다음 받기 위한 교육 리소스를 확인합니다 Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE35I72
+- title: 인증 포스터
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 인증으로의 여정
+  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 인증 포스터
-  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 인증서 학습 경로
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
-- title: 인증 지원
-  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
-  href: help.md
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
 

@@ -24,7 +24,7 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- administrator
 products:
 - m365
 summary: |-
@@ -50,7 +50,7 @@ outlineSection: |-
   - SharePoint 사이트 생성.
   - SharePoint 사이트 스토리지 용량 한도 관리.
   - SharePoint 허브 사이트 생성 및 구성.
-  - SharePoint 관리 센터를 사용한 SharePoint 사이트 관리 방법 설명.
+  - SharePoint 관리 센터를 사용한 SharePoint 사이트 관리 방법 설명
 
 
   ### 모듈 2&#58; OneDrive 구성 및 관리
@@ -89,7 +89,7 @@ outlineSection: |-
 
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 사용자 프로필 속성 구성 방법 설명.
-  - 대상 그룹 관리 방법 설명.
+  - 대상 그룹 관리 방법 설명
   - 앱 카탈로그를 사용한 사용자 지정 앱 관리 방법 설명.
 
 

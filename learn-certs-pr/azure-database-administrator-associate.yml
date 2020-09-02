@@ -6,7 +6,7 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
   Azure 데이터베이스 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다. Azure 데이터베이스 관리자는 다양한 방법과 도구를 사용하여 관리 목적의 T-SQL 사용 지식 활용 등 일상적인 작업을 수행합니다.
 subTitle: Azure 데이터베이스 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.
@@ -34,6 +34,14 @@ products:
 - sql-server
 courses:
 - uid: course.dp-300t00
+paths:
+- uid: learn.azure-sql-fundamentals
+- uid: learn.wwl.plan-implement-data-platform-resources
+- uid: learn.wwl.implement-secure-environment-database-service
+- uid: learn.wwl.monitor-optimize-operational-resources-sql-server
+- uid: learn.wwl.optimize-query-performance-sql-server
+- uid: learn.wwl.automate-tasks-sql-server
+- uid: learn.wwl.plan-implement-ha-dr-environment
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf6
 exams:
 - uid: exam.dp-300
@@ -42,7 +50,7 @@ resources:
   description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: 인증으로의 여정
-  description: Azure database-administrator Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  description: Azure Database Administrator Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AGXA
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
