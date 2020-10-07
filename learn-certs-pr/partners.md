@@ -2,13 +2,12 @@
 title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
 description: 'Microsoft Learning Partners and Providers'
 documentationcenter: NA
-author: micsullivan
+author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 06/02/2020
-ms.author: msulliv
-ms.prod: non-product-specific
+ms.author: micsullivan
 ---
 # Microsoft 학습 파트너 오늘 내일의 기술 교육.
 
@@ -63,7 +62,7 @@ ms.prod: non-product-specific
 > - [이탈리아](#italy)
 > - [일본](#japan)
 > - [카자흐스탄](#kazakhstan)
-> - [대한민국](#korea)
+> - [대한민국 ](#korea)
 > - [코소보](#kosovo)
 > - [쿠웨이트](#kuwait)
 > - [레바논](#lebanon)
@@ -445,10 +444,12 @@ ms.prod: non-product-specific
 |-----------|
 | [SMACLINK ACADEMY](https://smaclink.com/category/khoa-dao-tao/theo-hang-cong-nghe/microsoft/)   </br>[Trainocate](https://trainocate.com/courses/Microsoft) |
 
+
 ## 1000개 이상의 솔루션 공급자 검색
 
 > [!div class="nextstepaction"]
 > [MICROSOFT 솔루션 공급자 찾기](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
+
 
 ## IT 전문가 및 개발자들이 얻는 이점
 

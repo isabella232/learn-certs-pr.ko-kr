@@ -1,11 +1,11 @@
 ### YamlMime:Role 
-title: 관리자 
+title: Administrator 
 metadata: 
-  title: 관리자 
-  description: 관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft 솔루션을 구현하고 모니터링하며 유지 관리합니다.
+  title: Administrator 
+  description: Administrators 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft 솔루션을 구현하고 모니터링하며 유지 관리합니다.
 uid: role.administrator 
 summary: | 
-  관리자는 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft 솔루션을 구현하고 모니터링하며 유지 관리합니다.
+  Administrators 컴퓨팅, 저장소, 네트워크 및 보안과 관련된 주요 서비스들을 포함하는 Microsoft 솔루션을 구현하고 모니터링하며 유지 관리합니다.
 subTitle: 관리자는 Microsoft 솔루션을 구현하고 모니터링하며 유지 관리합니다.
 certificationPaths: 
 - title: Azure Administrator
@@ -19,11 +19,11 @@ certificationPaths:
   - uid: certification.azure-administrator
     levels:
     - intermediate
-  - uid: certification.azure-devops
+  - uid: certification.devops-engineer
     levels:
     - advanced      
-- title: Microsoft 365 인증 Messaging Administrator Associate
-  linkedInKeywords: Microsoft 365 인증 Messaging Administrator AssociateAssociate
+- title: Microsoft 365 Certified Messaging Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Messaging Administrator Associate
   uid: certification.m365-messaging-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -36,8 +36,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 인증 Modern Desktop Administrator Associate
-  linkedInKeywords: Microsoft 365 인증 Modern Desktop Administrator Associate
+- title: Microsoft 365 Certified Modern Desktop Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Modern Desktop Administrator Associate
   uid: certification.modern-desktop
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -50,8 +50,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 인증 Security Administrator Associate
-  linkedInKeywords: Microsoft 365 인증 Security Administrator Associate
+- title: Microsoft 365 Certified Security Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Security Administrator Associate
   uid: certification.m365-security-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -64,8 +64,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft 365 인증 Teamwork Administrator Associate
-  linkedInKeywords: Microsoft 365 인증 Teamwork Administrator Associate
+- title: Microsoft 365 Certified Teamwork Administrator Associate
+  linkedInKeywords: Microsoft 365 Certified Teamwork Administrator Associate
   uid: certification.m365-teamwork-administrator
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -78,8 +78,8 @@ certificationPaths:
   - uid: certification.m365-enterprise-administrator
     levels:
     - advanced
-- title: Microsoft Teams 관리자
-  linkedInKeywords: Microsoft Teams 관리자
+- title: Microsoft Teams Administrator
+  linkedInKeywords: Microsoft Teams Administrator
   uid: certification.m365-teams-administrator-associate
   prerequisites: 
   - uid: certification.microsoft-365-fundamentals
@@ -92,14 +92,13 @@ certificationPaths:
 certifications:
 - uid: certification.azure-administrator
   requiredExams:
-  - uid: exam.az-103 
-- uid: certification.azure-devops
+  - uid: exam.az-104
+- uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
-  - uid: exam.az-400
+  - uid: exam.az-120
 - uid: certification.m365-messaging-administrator
   requiredExams:
-  - uid: exam.ms-200
-  - uid: exam.ms-201
+  - uid: exam.ms-203
 - uid: certification.modern-desktop
   requiredExams:
   - uid: exam.md-100
@@ -107,10 +106,6 @@ certifications:
 - uid: certification.m365-security-administrator
   requiredExams:
   - uid: exam.ms-500
-- uid: certification.m365-teamwork-administrator
-  requiredExams:
-  - uid: exam.ms-300
-  - uid: exam.ms-301
 - uid: certification.m365-enterprise-administrator
   requiredExams:
   - uid: exam.ms-100
@@ -120,11 +115,11 @@ certifications:
   - uid: exam.ms-700
 resources:
 - title: Microsoft 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 교육 및 인증 포스터
   description: 이 교육 및 인증 포스터를 통해 성공을 위한 길을 선택합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 인증 지원
   href: ../help.md
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
