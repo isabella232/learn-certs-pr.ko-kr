@@ -17,6 +17,111 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
 ## 중단된 코스웨어: 강사 지도식 교육
 
+* 2020년 12월 31일 중단된 코스웨어
+
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
+    | --- | --- | --- | --- | --- |
+    | MB-200T00 | A | Microsoft Power Platform + Dynamics 365 Core | 영어 | 2020년 12월 31일 |
+    | MB-400T00 | A | Microsoft Power Apps + Dynamics 365 Developer | 영어 | 2020년 12월 31일 |
+
+* 2020년 11월 30일 중단된 코스웨어
+
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
+    | --- | --- | --- | --- | --- |
+    | 40512 | G | App modernization | 영어 | 2020년 11월 30일 |
+    | 40528 | G | Business continuity and disaster recovery | 영어 | 2020년 11월 30일 |
+    | 40503 | G | Enterprise-ready cloud | 영어 | 2020년 11월 30일 |
+    | 40565 | G | Modernizing Data Analytics with SQL Server 2019 | 영어 | 2020년 11월 30일 |
+    | 40533 | G | OSS PaaS and DevOps | 영어 | 2020년 11월 30일 |
+    | 40563 | G | Real-time data with Azure Database for PostgreSQL Hyperscale | 영어 | 2020년 11월 30일 |
+
+* 2020년 9월 30일 중단되는 코스웨어 및 2020년 10월 30일 중단되는 관련 현지화 코스
+
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
+    | --- | --- | --- | --- | --- |
+    | AZ-300T01 | A | Deploying and Configuring Infrastructure | 영어 | 2020년 09월 30일 |
+    | AZ-300T01ZH | A | Deploying and Configuring Infrastructure | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-300T01KO | A | Deploying and Configuring Infrastructure | 한국어 | 2020년 10월 30일 |
+    | AZ-300T01JA | A | Deploying and Configuring Infrastructure | 일본어 | 2020년 10월 30일 |
+    | AZ-300T02 | A | Implementing Workloads and Security | 영어 | 2020년 09월 30일 |
+    | AZ-300T02ZH | A | Implementing Workloads and Security | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-300T02KO | A | Implementing Workloads and Security | 한국어 | 2020년 10월 30일 |
+    | AZ-300T02JA | A | Implementing Workloads and Security | 일본어 | 2020년 10월 30일 |
+    | AZ-300T03 | A | Understanding Cloud Architect Technology Solutions | 영어 | 2020년 09월 30일 |
+    | AZ-300T03ZH | A | Understanding Cloud Architect Technology Solutions | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-300T03KO | A | Understanding Cloud Architect Technology Solutions | 한국어 | 2020년 10월 30일 |
+    | AZ-300T03JA | A | Understanding Cloud Architect Technology Solutions | 일본어 | 2020년 10월 30일 |
+    | AZ-300T04 | A | Creating and Deploying Apps | 영어 | 2020년 09월 30일 |
+    | AZ-300T04ZH | A | Creating and Deploying Apps | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-300T04KO | A | Creating and Deploying Apps | 한국어 | 2020년 10월 30일 |
+    | AZ-300T04JA | A | Creating and Deploying Apps | 일본어 | 2020년 10월 30일 |
+    | AZ-300T06 | A | Developing for the Cloud | 영어 | 2020년 09월 30일 |
+    | AZ-300T06ZH | A | Developing for the Cloud | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-300T06KO | A | Developing for the Cloud | 한국어 | 2020년 10월 30일 |
+    | AZ-300T06JA | A | Developing for the Cloud | 일본어 | 2020년 10월 30일 |
+    | AZ-301T01 | A | Designing for Identity and Security | 영어 | 2020년 09월 30일 |
+    | AZ-301T01ZH | A | Designing for Identity and Security | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-301T01KO | A | Designing for Identity and Security | 한국어 | 2020년 10월 30일 |
+    | AZ-301T01JA | A | Designing for Identity and Security | 일본어 | 2020년 10월 30일 |
+    | AZ-301T02 | A | Designing a Data Platform Solution | 영어 | 2020년 09월 30일 |
+    | AZ-301T02ZH | A | Designing a Data Platform Solution | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-301T02KO | A | Designing a Data Platform Solution | 한국어 | 2020년 10월 30일 |
+    | AZ-301T02JA | A | Designing a Data Platform Solution | 일본어 | 2020년 10월 30일 |
+    | AZ-301T03 | A | Design for Deployment, Migration, and Integration | 영어 | 2020년 09월 30일 |
+    | AZ-301T03ZH | A | Design for Deployment, Migration, and Integration | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-301T03KO | A | Design for Deployment, Migration, and Integration | 한국어 | 2020년 10월 30일 |
+    | AZ-301T03JA | A | Design for Deployment, Migration, and Integration | 일본어 | 2020년 10월 30일 |
+    | AZ-301T04 | A | Designing an Infrastructure Strategy | 영어 | 2020년 09월 30일 |
+    | AZ-301T04ZH | A | Designing an Infrastructure Strategy | 중국어 (간체) | 2020년 10월 30일 |
+    | AZ-301T04KO | A | Designing an Infrastructure Strategy | 한국어 | 2020년 10월 30일 |
+    | AZ-301T04JA | A | Designing an Infrastructure Strategy | 일본어 | 2020년 10월 30일 |
+
+* 2020년 8월 31일 중단된 코스웨어
+
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
+    | --- | --- | --- | --- | --- |
+    | AZ-103T00 | A | Microsoft Azure Administrator | 영어 | 2020년 8월 31일 |
+    | AZ-103T00ZH | A | Microsoft Azure Administrator | 중국어 (간체) | 2020년 8월 31일 |
+    | AZ-103T00KO | A | Microsoft Azure Administrator | 한국어 | 2020년 8월 31일 |
+    | AZ-103T00JA | A | Microsoft Azure Administrator | 일본어 | 2020년 8월 31일 |
+    | AZ-203T01 | A | Develop Azure Infrastructure as a Service compute solutions | 영어 | 2020년 8월 31일 |
+    | AZ-203T01ZH | A | Develop Azure Infrastructure as a Service compute solutions | 중국어 (간체) | 2020년 8월 31일 |
+    | AZ-203T01KO | A | Develop Azure Infrastructure as a Service compute solutions | 한국어 | 2020년 8월 31일 |
+    | AZ-203T01JA | A | Develop Azure Infrastructure as a Service compute solutions | 일본어 | 2020년 8월 31일 |
+    | AZ-203T02 | A | Develop Azure Platform as a Service compute solutions | 영어 | 2020년 8월 31일 |
+    | AZ-203T02ZH | A | Develop Azure Platform as a Service compute solutions | 중국어 (간체) | 2020년 8월 31일 |
+    | AZ-203T02KO | A | Develop Azure Platform as a Service compute solutions | 한국어 | 2020년 8월 31일 |
+    | AZ-203T02JA | A | Develop Azure Platform as a Service compute solutions | 일본어 | 2020년 8월 31일 |
+    | AZ-203T03 | A | Develop for Azure storage | 영어 | 2020년 8월 31일 |
+    | AZ-203T03ZH | A | Develop for Azure storage | 중국어 (간체) | 2020년 8월 31일 |
+    | AZ-203T03KO | A | Develop for Azure storage | 한국어 | 2020년 8월 31일 |
+    | AZ-203T03JA | A | Develop for Azure storage | 일본어 | 2020년 8월 31일 |
+    | AZ-203T04 | A | Implement Azure security | 영어 | 2020년 8월 31일 |
+    | AZ-203T04ZH | A | Implement Azure security | 중국어 (간체) | 2020년 8월 31일 |
+    | AZ-203T04KO | A | Implement Azure security | 한국어 | 2020년 8월 31일 |
+    | AZ-203T04JA | A | Implement Azure security | 일본어 | 2020년 8월 31일 |
+    | AZ-203T05 | A | Monitor, troubleshoot, and optimize Azure solutions | 영어 | 2020년 8월 31일 |
+    | AZ-203T05ZH | A | Monitor, troubleshoot, and optimize Azure solutions | 중국어 (간체) | 2020년 8월 31일 |
+    | AZ-203T05KO | A | Monitor, troubleshoot, and optimize Azure solutions | 한국어 | 2020년 8월 31일 |
+    | AZ-203T05JA | A | Monitor, troubleshoot, and optimize Azure solutions | 일본어 | 2020년 8월 31일 |
+    | AZ-203T06 | A | Connect to and consume Azure and third-party services | 영어 | 2020년 8월 31일 |
+    | AZ-203T06ZH | A | Connect to and consume Azure and third-party services | 중국어 (간체) | 2020년 8월 31일 |
+    | AZ-203T06KO | A | Connect to and consume Azure and third-party services | 한국어 | 2020년 8월 31일 |
+    | AZ-203T06JA | A | Connect to and consume Azure and third-party services | 일본어 | 2020년 8월 31일 |
+    | MS-200T01 | A | Understanding the Modern Messaging Infrastructure | 영어 | 2020년 8월 31일 |
+    | MS-200T02 | A | Managing Client Access and Mail Flow | 영어 | 2020년 8월 31일 |
+    | MS-200T03 | A | Managing Messaging High Availability and Disaster Recovery | 영어 | 2020년 8월 31일 |
+    | MS-201T01 | A | Defining a Hybrid Messaging Strategy | 영어 | 2020년 8월 31일 |
+    | MS-201T02 | A | Managing Messaging Security, Hygiene, and Compliance | 영어 | 2020년 8월 31일 |
+    | MS-300T01 | A | Managing Office 365 Content Services | 영어 | 2020년 8월 31일 |
+    | MS-300T02 | A | Managing SharePoint Online | 영어 | 2020년 8월 31일 |
+    | MS-300T03 | A | Enabling Microsoft Teams for Collaboration | 영어 | 2020년 8월 31일 |
+    | MS-300T04 | A | Enabling Office 365 Workloads for Collaboration | 영어 | 2020년 8월 31일 |
+    | MS-301T01 | A | Implementing SharePoint 2019 Infrastructure | 영어 | 2020년 8월 31일 |
+    | MS-301T02 | A | Implementing SharePoint 2019 Service Applications | 영어 | 2020년 8월 31일 |
+    | MS-301T03 | A | Implementing SharePoint Hybrid Scenarios | 영어 | 2020년 8월 31일 |
+    | MS-301T04 | A | Migrating to SharePoint Online | 영어 | 2020년 8월 31일 |
+
 * 2020년 6월 30일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
@@ -105,7 +210,7 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 20346 | D | Managing Office 365 Identities and Services | 영어 | 2020년 06월 30일 |
     | 20398 | B | Planning for and Managing Devices in the Enterprise: Enterprise Mobility Suite (EMS) & On-Premises Tools | 영어 | 2020년 06월 30일 |
     | 20409 | B | Server Virtualization with Windows Server Hyper-V® and System Center | 영어 | 2020년 06월 30일 |
-    | 20415 | B | Implementing a Desktop Infrastructure | 영어 | 2020년 06월 30일 | |
+    | 20415 | B | Implementing a Desktop Infrastructure | 영어 | 2020년 06월 30일 |
     | 20416 | B | Implementing Desktop Application Environments | 영어 | 2020년 06월 30일 |
     | 20489 | B | Developing Microsoft® SharePoint® 2013 Advanced Solutions | 영어 | 2020년 06월 30일 |
     | 20687 | D | Configuring Windows® 8.1 | 영어 |2020년 06월 30일 |
@@ -180,24 +285,24 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 10748 | C | Planning and Deploying System Center 2012 Configuration Manager | 영어 | 2020년 02월 28일 |
     | 10977 | B | Upgrading Your SQL Server Skills to Microsoft® SQL Server® 2014 | 영어 | 2020년 02월 28일 |
     | 10981 | A | Infrastructure Provisioning with System Center Virtual Machine Manager | 영어 | 2020년 02월 28일 |
-    | 10991 | A | Troubleshooting Windows Server 2016 Core Technologies | 영어 | 2020년 02월 28일 |
-    | 10993 | B | Integrating Cloud Services with System Center Configuration Manager | 영어 | 2020년 02월 28일 |
+    | 10991 | A | Troubleshooting Windows Server 2016 Core Technologies | 영어 | 2020년 2월 28일 |
+    | 10993 | B | Integrating Cloud Services with System Center Configuration Manager | 영어 | 2020년 2월 28일 |
     | 10999 | A | SQL Server on Linux | 영어 | 2020년 2월 28일 |
     | 13969 | B | Active Directory® Services with Windows Server | 일본어 | 2020년 02월 28일 |
-    | 20331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | 영어 | 2020년 02월 28일 |
+    | 20331 | B | Core Solutions of Microsoft® SharePoint® Server 2013 | 영어 | 2020년 2월 28일 |
     | 20332 | B | Advanced Solutions of Microsoft SharePoint Server 2013 | 영어 | 2020년 2월 28일 |
-    | 20341 | B | Core Solutions of Microsoft® Exchange Server 2013 | 영어 | 2020년 02월 28일 |
-    | 20342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | 영어 | 2020년 02월 28일 |
+    | 20341 | B | Core Solutions of Microsoft® Exchange Server 2013 | 영어 | 2020년 2월 28일 |
+    | 20342 | B | Advanced Solutions of Microsoft Exchange Server 2013 | 영어 | 2020년 2월 28일 |
     | 20415 | B | Implementing a Desktop Infrastructure | 영어 | 2020년 02월 28일 | |
     | 20416 | B | Implementing Desktop Application Environments | 영어 | 2020년 2월 28일 |
-    | 20488 | B | Developing Microsoft SharePoint Server 2013 Core Solutions | 영어 | 2020년 02월 28일 |
+    | 20488 | B | Developing Microsoft SharePoint Server 2013 Core Solutions | 영어 | 2020년 2월 28일 |
     | 20687 | D | Configuring Windows® 8.1 | 영어 |2020년 02월 28일 |
     | 20688 | D | Supporting Windows® 8.1 | 영어 | 2020년 2월 28일 |
     | 23346 | C | Managing Office 365 Identities and Services | 일본어 | 2020년 2월 28일 |
-    | 40409 | A | Deploying Voice Workloads for Skype for Business Online and Server 2015 | 영어 | 2020년 02월 28일 |
-    | 40552 | A | Microsoft Security Workshop: Managing Identity | 영어 | 2020년 02월 28일 |
-    | 40553 | A | Microsoft Security Workshop: Planning for a Secure Enterprise - Improving Detection | 영어 | 2020년 02월 28일 |
-    | 40554 | A | Microsoft Security Workshop: Implementing Windows 10 Security Features | 영어 | 2020년 02월 28일 |
+    | 40409 | A | Deploying Voice Workloads for Skype for Business Online and Server 2015 | 영어 | 2020년 2월 28일 |
+    | 40552 | A | Microsoft Security Workshop: Managing Identity | 영어 | 2020년 2월 28일 |
+    | 40553 | A | Microsoft Security Workshop: Planning for a Secure Enterprise - Improving Detection | 영어 | 2020년 2월 28일 |
+    | 40554 | A | Microsoft Security Workshop: Implementing Windows 10 Security Features | 영어 | 2020년 2월 28일 |
     | 22697-1 | B | Installing and Configuring Windows 10 | 프랑스령 | 2020년 02월 28일 |
     | MB-900T01 | A | Dynamics 365 fundamentals | 프랑스령 | 2020년 02월 28일 |
 
@@ -210,7 +315,7 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | MB-200T02 | A | Dynamics 365: Power Platform automation | 영어 | 2020년 01월 31일 |
     | MB-200T03 | A | Dynamics 365: Power Platform integrations | 영어 | 2020년 01월 31일 |
     | MB-200T04 | A | Dynamics 365: Power Platform test and deploy | 영어 | 2020년 01월 31일 |
-    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | 영어 | 2020년 01월 31일 |
+    | MB-220T01 | A | Configure settings and core functionality in Dynamics 365 for Marketing | 영어 | 2020년 1월 31일 |
     | MB-220T02 | A | Set Up events and surveys in Dynamics 365 for Marketing | 영어 | 2020년 01월 31일 |
     | MB-240T01 | A | Configuring Dynamics 365 for Field Service | 영어 | 2020년 01월 31일 |
     | MB-240T02 | A | Work order and delivery execution for Dynamics 365 for Field Service | 영어 | 2020년 01월 31일 |
@@ -367,7 +472,7 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 20774 | A | Perform Cloud Data Science with Azure Machine Learning | 영어 | 2019년 6월 30일
     | 20775 | A | Perform Data Engineering on Microsoft HD Insight | 영어 | 2019년 6월 30일
     | 20776 | A | Engineering Data with Microsoft Cloud Services | 영어 | 2019년 6월 30일
-    | 32410 | B | Installing and Configuring Windows Server 2012 | 터키어 | 2019년 06월 30일
+    | 32410 | B | Installing and Configuring Windows Server 2012 | 터키어 | 2019년 6월 30일
     | 32411 | B | Administering Windows Server 2012 | 터키어 | 2019년 06월 30일
     | 40504 | G | Microsoft Cloud Workshop: Intelligent Vending Machines | 영어 | 2019년 6월 30일
     | 40506 | G | Microsoft Cloud Workshop: Lift and Shift / Azure Resource Manager | 영어 | 2019년 6월 30일
@@ -528,7 +633,7 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 2261 | C | Supporting Users Running the Microsoft® Windows® XP Operating System | 영어 | 2018년 06월 30일 |
     | 2272 | C | Implementing and Supporting Microsoft® Windows® XP Professional | 영어 | 2018년 06월 30일 |
     | 2285 | B | Installing, Configuring & Administering Microsoft® Windows® XP Professional | 영어 | 2018년 06월 30일 |
-    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET | 영어 | 2018년 06월 30일 |
+    | 2311 | A | Advanced Web Application Development using Microsoft® ASP.NET | 영어 | 2018년 6월 30일
     | 2335 | A | Assistance aux utilisateurs exécutant le système d'exploitation Microsoft® Windows® XP | 프랑스령 | 2018년 06월 30일 |
     | 2336 | A | Assistance aux utilisateurs exécutant des applications sous le système d'exploitation Microsoft® Windows® XP | 프랑스령 | 2018년 06월 30일 |
     | 2349 | B | Programming with the Microsoft® .NET Framework Microsoft Visual C#™ .NET) | 영어 | 2018년 06월 30일 |
@@ -552,11 +657,11 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 2572 | A | Supporting Users Running the Microsoft® Windows® XP Operating System | 포르투갈어 | 2018년 06월 30일 |
     | 2573 | A | Supporting Users Running Applications on a Microsoft® Windows® XP Operating System | 포르투갈어 | 2018년 06월 30일 |
     | 2576 | A | Implementing And Administering Microsoft® Internet Information Services IIS) 6.0 | 영어 | 2018년 06월 30일 |
-    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment | 러시아어 | 2018년 06월 30일 |
+    | 2605 | A | Managing a Microsoft® Windows Server™ 2003 Environment | 러시아어| 2018년 6월 30일
     | 2606 | A | Maintaining a Microsoft® Windows Server™ 2003 Environment | 러시아어 | 2018년 06월 30일 |
     | 2667 | A | Introduction to Programming | 영어 | 2018년 06월 30일 |
     | 2710 | B | Analyzing Requirements and Defining Microsoft® .NET Solution Architectures | 영어 | 2018년 06월 30일 |
-    | 2717 | C | Introduction to Microsoft® .NET Development | 영어 | 2018년 06월 30일 |
+    | 2717 | C | Introduction to Microsoft® .NET Development | 영어 | 2018년 6월 30일
     | 2730 | A | Building Microsoft® Content Management Server 2002 Solutions | 영어 | 2018년 06월 30일 |
     | 2810 | A | Fundamentals of Network Security | 영어 | 2018년 06월 30일 |
     | 2821 | A | Designing and Managing a Microsoft® Windows® Public Key Infrastructure | 영어 | 2018년 06월 30일 |
@@ -568,16 +673,16 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 2957 | B | Advanced Foundations of Microsoft® .NET 2.0 Development | 영어 | 2018년 06월 30일 |
     | 3938 | C | Updating Your Skills from Microsoft® Exchange Server 2000 or Microsoft Exchange Server 2003 to Microsoft Exchange Server 2007 SP1 | 영어 | 2018년 06월 30일 |
     | 4730 | A | Weiterführende Webanwendungstechnologien Mit Microsoft® Visual Studio® 2005 | 독일 | 2018년 06월 30일 |
-    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | 독일 | 2018년 06월 30일 |
+    | 4730 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | 독일어 | 2018년 6월 30일
     | 4994 | A | Introduction to Programming Microsoft .NET Applications with Microsoft Visual Studio 2005 | 영어 | 2018년 06월 30일 |
     | 4995 | A | Programming with the Microsoft® .NET Framework using Microsoft Visual Studio® 2005 | 영어 | 2018년 06월 30일 |
     | 5047 | B | Introduction to Installing and Managing Microsoft® Exchange Server 2007 SP1 | 영어 | 2018년 06월 30일 |
-    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | 영어 | 2018년 06월 30일 |
+    | 5049 | A | Managing Messaging Security Using Microsoft Exchange Server 2007 | 영어 | 2018년 6월 30일
     | 5050 | A | Recovering Messaging Servers and Databases Using Microsoft Exchange | 영어 | 2018년 06월 30일 |
     | 5051 | A | Monitoring and TroubleShooting Microsoft Exchange Server 2007 | 영어 | 2018년 06월 30일 |
     | 5053 | A | Designing a Messaging Infrastructure Using Microsoft Exchange Server 2007 | 영어 | 2018년 06월 30일 |
     | 5054 | A | Designing a High Availability Messaging Solution Using Microsoft Exchange Server 2007 | 영어 | 2018년 06월 30일 |
-    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition | 영어 | 2018년 06월 30일 |
+    | 5058 | A | Project Series: Deploying Microsoft Office 2007 Professional Edition | 영어 | 2018년 6월 30일
     | 5060 | A | Implementing Windows® SharePoint® Services 3.0 | 영어 | 2018년 06월 30일 |
     | 5061 | A | Implementing Microsoft Office SharePoint Server 2007 | 영어 | 2018년 06월 30일 |
     | 5105 | C | Deploying Windows Vista® Business Desktops | 영어 | 2018년 06월 30일 |
@@ -602,8 +707,8 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 5944 | A | Implementing Microsoft® Office SharePoint® Server 2007 | 프랑스령 | 2018년 06월 30일 |
     | 5945 | A | Implementing Microsoft® Office SharePoint® Server 2007 | 독일 | 2018년 06월 30일 |
     | 5947 | A | Deploying Microsoft® Windows Vista™ Business Desktops - German | 독일 | 2018년 06월 30일 |
-    | 5949 | A | Installing and Configuring the Windows Vista Operating System | 독일 | 2018년 06월 30일 |
-    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System | 독일 | 2018년 06월 30일 |
+    | 5949 | A | Installing and Configuring the Windows Vista Operating System | 독일어 | 2018년 6월 30일
+    | 5949 | A | Installing and Configuring the Windows Vista™ Operating System | 독일어 | 2018년 6월 30일
     | 5951 | A | Configuring Windows Vista™ Applications and Tools - | 독일 | 2018년 06월 30일 |
     | 5954 | A | Résolution des problèmes et maintenance des ordinateurs Windows Vista™ | 프랑스령 | 2018년 06월 30일 |
     | 5955 | A | Verwalten von Computern und Problembehandlung unter Windows Vista | 독일 | 2018년 06월 30일 |
@@ -611,19 +716,19 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 5957 | A | Unterstützung von Windows Vista und Windows Vista Anwendungen | 독일 | 2018년 06월 30일 |
     | 5970 | A | Installing and Configuring the Windows Vista Operating System - | 일본어 | 2018년 06월 30일 |
     | 5971 | A | Configuring Windows Vista Mobile Computing and Applications - | 일본어 | 2018년 06월 30일 |
-    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | 일본어 | 2018년 06월 30일 |
+    | 5981 | A | Maintaining and Troubleshooting Windows Vista Computers - | 일본어 | 2018년 6월 30일
     | 6066 | A | Developing Managed Applications for Microsoft Windows Mobile 6.0 | 영어 | 2018년 06월 30일 |
     | 6067 | A | Developing Native Applications for Microsoft Windows Mobile 6.0 | 영어 | 2018년 06월 30일 |
-    | 6111 | A | Core Data Access with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 06월 30일
-    | 6112 | A | Advanced Data Access with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 06월 30일
-    | 6113 | A | Core Web Application Technologies with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 06월 30일
-    | 6114 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 06월 30일
-    | 6115 | A | Core development with the Microsoft® .NET Framework 2.0 Foundation | 중국어 | 2018년 06월 30일
-    | 6116 | A | Advanced Development with the Microsoft® .NET Framework 2.0 Foundation | 중국어 | 2018년 06월 30일
+    | 6111 | A | Core Data Access with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 6월 30일
+    | 6112 | A | Advanced Data Access with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 6월 30일
+    | 6113 | A | Core Web Application Technologies with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 6월 30일
+    | 6114 | A | Advanced Web Application Technologies with Microsoft® Visual Studio® 2005 | 중국어 | 2018년 6월 30일
+    | 6115 | A | Core development with the Microsoft® .NET Framework 2.0 Foundation | 중국어 | 2018년 6월 30일
+    | 6116 | A | Advanced Development with the Microsoft® .NET Framework 2.0 Foundation | 중국어 | 2018년 6월 30일
     | 6142 | A | Implementing Microsoft Office SharePoint Server 2007 | 일본어 | 2018년 06월 30일 |
     | 6160 | A | Einführung in die Programmierung von Microsoft® .NET Framework- Anwendungen mit Microsoft Visual Studio® 2005 | 독일 | 2018년 06월 30일 |
-    | 6268 | A | Installing and Configuring the Windows Vista™ Operating System | 아랍어 | 2018년 06월 30일
-    | 6269 | A | Configuring Windows Vista Mobile Computing and Applications | 아랍어 | 2018년 06월 30일
+    | 6268 | A | Installing and Configuring the Windows Vista™ Operating System | 아랍어| 2018년 6월 30일
+    | 6269 | A | Configuring Windows Vista Mobile Computing and Applications | 아랍어| 2018년 6월 30일
     | 6438 | A | Implementing and Administering Windows® SharePoint® Services 3.0 in Windows Server® 2008 | 영어 | 2018년 06월 30일 |
     | 6461 | A | Visual Studio® 2008: Windows® Communication Foundation | 영어 | 2018년 06월 30일 |
     | 6462 | A | Visual Studio® 2008: Windows® Workflow Foundation | 영어 | 2018년 06월 30일 |
@@ -637,25 +742,25 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 6742 | A | Konfigurieren einer Netzwerkinfrastruktur und Problembehandlung unter Windows Server® 2008 | 독일 | 2018년 06월 30일 |
     | 6743 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (Japanese) | 일본어 | 2018년 06월 30일 |
     | 6747 | A | Planification et administration de serveurs Windows Server® 2008 | 프랑스령 | 2018년 06월 30일 |
-    | 6851 | A | Fundamentals of Windows Server® 2008 Active Directory® | 중국어 | 2018년 06월 30일
-    | 6853 | A | Deploying Windows Server® 2008 | 중국어 | 2018년 06월 30일
+    | 6851 | A | Fundamentals of Windows Server® 2008 Active Directory® | 중국어 | 2018년 6월 30일
+    | 6853 | A | Deploying Windows Server® 2008 | 중국어 | 2018년 6월 30일
     | 6855 | A | Configuring and Troubleshooting Windows Server® 2008 Terminal Services (중국어(간체)) | 중국어 | 2018년 06월 30일
     | 6856 | A | Fundamentals of Windows Server 2008 Active Directory | 독일 | 2018년 06월 30일 |
     | 6857 | A | Fundamentals of Windows Server 2008 Active Directory | 프랑스령 | 2018년 06월 30일 |
     | 6871 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® (Japanese) | 일본어 | 2018년 06월 30일 |
-    | 7193 | A | Developing Managed Applications for Windows Mobile 6 | 중국어 | 2018년 06월 30일
-    | 7196 | A | Developing Native Applications for Microsoft Windows Mobile 6 | 중국어 | 2018년 06월 30일
+    | 7193 | A | Developing Managed Applications for Windows Mobile 6 | 중국어 | 2018년 6월 30일
+    | 7196 | A | Developing Native Applications for Microsoft Windows Mobile 6 | 중국어 | 2018년 6월 30일
     | 10036 | A | Designing a Windows Server® 2008 Network Infrastructure - French | 프랑스령 | 2018년 06월 30일 |
     | 10079 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server (중국어(간체)) | 중국어 | 2018년 06월 30일
-    | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | 중국어 | 2018년 06월 30일
-    | 10081 | A | Maintaining a Microsoft® SQL Server® 2008 Database | 중국어 | 2018년 06월 30일
-    | 10082 | A | Implementing a Microsoft® SQL Server® 2008 Database | 중국어 | 2018년 06월 30일
-    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | 중국어 | 2018년 06월 30일
-    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | 중국어 | 2018년 06월 30일
-    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | 중국어 | 2018년 06월 30일
-    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | 중국어 | 2018년 06월 30일
-    | 10184 | A | Designing Windows Server 2008 Network Infrastructure | 중국어 | 2018년 06월 30일
-    | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | 중국어 | 2018년 06월 30일
+    | 10080 | A | Conceitos básicos da infraestrutura de rede e aplicativos do Windows Server® 2008 | 중국어 | 2018년 6월 30일
+    | 10081 | A | Maintaining a Microsoft® SQL Server® 2008 Database | 중국어 | 2018년 6월 30일
+    | 10082 | A | Implementing a Microsoft® SQL Server® 2008 Database | 중국어 | 2018년 6월 30일
+    | 10083 | A | Visual Studio 2008: Windows Presentation Foundation | 중국어 | 2018년 6월 30일
+    | 10085 | A | Visual Studio 2008: Windows Workflow Foundation | 중국어 | 2018년 6월 30일
+    | 10086 | A | Visual Studio® 2008: ASP.NET 3.5 | 중국어 | 2018년 6월 30일
+    | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | 중국어 | 2018년 6월 30일
+    | 10184 | A | Designing Windows Server 2008 Network Infrastructure | 중국어 | 2018년 6월 30일
+    | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | 중국어 | 2018년 6월 30일
     | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(Japanese) | 일본어 | 2018년 06월 30일 |
     | 10326 | A | Implementieren und Verwalten von Windows Small Business Server 2008 | 독일 | 2018년 06월 30일 |
     | 10562 | A | Developing Web Applications with Microsoft® Visual Studio® 2010(중국어(간체)) | 중국어 | 2018년 06월 30일
@@ -693,18 +798,18 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | 영어 | 2018년 06월 30일 |
     | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
     | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics® CRM 2013 | 독일 | 2018년 06월 30일 |
-    | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 06월 30일
+    | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 6월 30일
     | 80619 | A | Personnalisation et configuration dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
     | 80620 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
     | 80621 | A | Instalación e implementación de Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
     | 80622 | A | Installation und Bereitstellung in Microsoft Dynamics® CRM 2013 | 독일 | 2018년 06월 30일 |
     | 80623 | A | Installation et déploiement dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
-    | 80624 | A | Administración de ventas de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 06월 30일
+    | 80624 | A | Administración de ventas de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 6월 30일
     | 80625 | A | Vertriebsverwaltung in Microsoft Dynamics® CRM 2013 | 독일 | 2018년 06월 30일 |
     | 80626 | A | Gestion des ventes dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
     | 80627 | A | Sales Management in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
     | 80628 | A | Kundenservice in Microsoft Dynamics® CRM 2013 | 독일 | 2018년 06월 30일 |
-    | 80629 | A | Servicio al cliente de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 06월 30일
+    | 80629 | A | Servicio al cliente de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 6월 30일
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
     | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
 
@@ -737,24 +842,24 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
     | 80430 | A | Vendor Management and Collaboration in Microsoft Dynamics AX 2012 | 영어 | 2017년 06월 30일
     | 80476 | A | Stücklisten in Microsoft Dynamics AX 2012 | 독일 | 2017년 06월 30일
     | 80477 | A | Nomenclature dans Microsoft Dynamics AX 2012 | 프랑스령 | 2017년 06월 30일
-    | 80478 | A | Distinte base in Microsoft Dynamics AX 2012 | 이탈리아어 | 2017년 06월 30일
+    | 80478 | A | Distinte base in Microsoft Dynamics AX 2012 | 이탈리아어| 2017년 6월 30일
     | 80479 | A | Lista de materiales de Microsoft Dynamics AX 2012 | 스페인어 | 2017년 06월 30일
     | 80480 | A | LEAN Manufacturing in Microsoft Dynamics AX 2012 | 독일 | 2017년 06월 30일
     | 80481 | A | Production au plus juste dans Microsoft Dynamics AX 2012 | 프랑스령 | 2017년 06월 30일
     | 80482 | A | LEAN Manufacturing (Producción ajustada) de Microsoft Dynamics AX 2012 | 스페인어 | 2017년 06월 30일
-    | 80483 | A | Produzione snella in Microsoft Dynamics AX 2012 | 이탈리아어 | 2017년 06월 30일
+    | 80483 | A | Produzione snella in Microsoft Dynamics AX 2012 | 이탈리아어| 2017년 06월 30일
     | 80488 | A | Bases de fabrication distincte dans Microsoft Dynamics AX 2012 | 프랑스령 | 2017년 06월 30일
-    | 80490 | A | Produzione discreta di base in Microsoft Dynamics AX 2012 | 이탈리아어 | 2017년 06월 30일
+    | 80490 | A | Produzione discreta di base in Microsoft Dynamics AX 2012 | 이탈리아어| 2017년 06월 30일
     | 80491 | A | Conceptos básicos de la fabricación discreta de Microsoft Dynamics AX 2012 | 스페인어 | 2017년 06월 30일
     | 80493 | A | Fabrication distincte avancée dans Microsoft Dynamics AX 2012 | 프랑스령 | 2017년 06월 30일
-    | 80494 | A | Produzione discreta avanzata in Microsoft Dynamics AX 2012 | 이탈리아어 | 2017년 06월 30일
+    | 80494 | A | Produzione discreta avanzata in Microsoft Dynamics AX 2012 | 이탈리아어| 2017년 06월 30일
     | 80495 | A | Conceptos avanzados de la fabricación discreta de Microsoft Dynamics AX 2012 | 스페인어 | 2017년 06월 30일
     | 80496 | A | Secteur Public Microsoft Dynamics AX 2012 – Finances | 프랑스령 | 2017년 06월 30일
     | 80525 | A | Approvisionnement dans Microsoft Dynamics AX 2012 | 프랑스령 | 2017년 06월 30일
     | 80527 | A | Gestión de compras en Microsoft Dynamics AX 2012 | 스페인어 | 2017년 06월 30일
-    | 80528 | A | Approvvigionamento in Microsoft Dynamics AX 2012 | 이탈리아어 | 2017년 06월 30일
+    | 80528 | A | Approvvigionamento in Microsoft Dynamics AX 2012 | 이탈리아어| 2017년 06월 30일
     | 80529 | A | Gestion des services dans Microsoft Dynamics AX 2012 | 프랑스령 | 2017년 06월 30일
-    | 80531 | A | Gestione assistenza in Microsoft Dynamics AX 2012 | 이탈리아어 | 2017년 06월 30일
+    | 80531 | A | Gestione assistenza in Microsoft Dynamics AX 2012 | 이탈리아어| 2017년 06월 30일
     | 80532 | A | Gestión de servicios en Microsoft Dynamics AX 2012 | 스페인어 | 2017년 06월 30일
     | 80533 | A | Approvisionnement du secteur public et achats dans Microsoft Dynamics AX 2012 | 프랑스령 | 2017년 06월 30일
     | 80559 | A | Microsoft Dynamics AX 2012 中的物料清单| 중국어(간체) | 2017년 06월 30일
@@ -765,41 +870,41 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 10978 | A | Introduction to Azure for Developers | 영어 | 2017년 04월 15일
+    | 10978 | A | Introduction to Azure for Developers | 영어 | 2017년 4월 15일
 
 * 2017년 3월 31일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 80229 | A | Inventory Control in Microsoft Dynamics GP 2010 | 영어 | 2017년 03월 31일
-    | 80230 | A | Project Series in Microsoft Dynamics GP 2010 | 영어 | 2017년 03월 31일
-    | 80231 | A | Purchase Order Processing in Microsoft Dynamics GP 2010 | 영어 | 2017년 03월 31일
-    | 80232 | A | Sales Order Processing in Microsoft Dynamics GP 2010 | 영어 | 2017년 03월 31일
-    | 80239 | A | Extender for Microsoft Dynamics GP 2010 | 영어 | 2017년 03월 31일
-    | 80240 | A | Using Microsoft SharePoint Technology with Microsoft Dynamics GP 2010 | 영어 | 2017년 03월 31일
-    | 80334 | A | Control de inventarios en Microsoft Dynamics GP 2010 | 스페인어 | 2017년 03월 31일
-    | 80335 | A | Procesamiento de pedidos de compra en Microsoft Dynamics GP 2010 | 스페인어 | 2017년 03월 31일
-    | 80337 | A | Procesamiento de pedidos de venta en Microsoft Dynamics GP 2010 | 스페인어 | 2017년 03월 31일
-    | 80433 | A | Reporting in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80434 | A | Fixed Assets in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80435 | A | Application Setup in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80436 | A | C/Side Introduction in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80437 | A | C/Side Solution Development in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80438 | A | Installation and Configuration in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80439 | A | Introduction in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80440 | A | Trade in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80534 | A | Finance Essentials in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80535 | A | Finance Advanced in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80540 | A | Installation and Configuration in Microsoft Dynamics GP 2013 | 영어 | 2017년 03월 31일
-    | 80549 | A | Data Upgrade and Code Upgrade to Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80550 | A | Manufacturing in Microsoft Dynamics NAV 2013 | 영어 | 2017년 03월 31일
-    | 80571 | A | Introduction to Microsoft Dynamics GP 2013 | 영어 | 2017년 03월 31일
-    | 80572 | A | General Ledger in Microsoft Dynamics GP 2013 | 영어 | 2017년 03월 31일
-    | 80573 | A | Payables Management in Microsoft Dynamics GP 2013 | 영어 | 2017년 03월 31일
-    | 80574 | A | Receivables Management in Microsoft Dynamics GP 2013 | 영어 | 2017년 03월 31일
-    | 80575 | A | Bank Reconciliation in Microsoft Dynamics GP 2013 | 영어 | 2017년 03월 31일
-    | 80576 | A | Fixed Assets in Microsoft Dynamics GP 2013 | 영어 | 2017년 03월 31일
-    | 80450 | A | Delivering Microsoft Dynamics Solutions with Sure Step | 영어 | 2017년 03월 31일
+    | 80229 | A | Inventory Control in Microsoft Dynamics GP 2010 | 영어 | 2017년 3월 31일
+    | 80230 | A | Project Series in Microsoft Dynamics GP 2010 | 영어 | 2017년 3월 31일
+    | 80231 | A | Purchase Order Processing in Microsoft Dynamics GP 2010 | 영어 | 2017년 3월 31일
+    | 80232 | A | Sales Order Processing in Microsoft Dynamics GP 2010 | 영어 | 2017년 3월 31일
+    | 80239 | A | Extender for Microsoft Dynamics GP 2010 | 영어 | 2017년 3월 31일
+    | 80240 | A | Using Microsoft SharePoint Technology with Microsoft Dynamics GP 2010 | 영어 | 2017년 3월 31일
+    | 80334 | A | Control de inventarios en Microsoft Dynamics GP 2010 | 스페인어 | 2017년 3월 31일
+    | 80335 | A | Procesamiento de pedidos de compra en Microsoft Dynamics GP 2010 | 스페인어 | 2017년 3월 31일
+    | 80337 | A | Procesamiento de pedidos de venta en Microsoft Dynamics GP 2010 | 스페인어 | 2017년 3월 31일
+    | 80433 | A | Reporting in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80434 | A | Fixed Assets in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80435 | A | Application Setup in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80436 | A | C/Side Introduction in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80437 | A | C/Side Solution Development in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80438 | A | Installation and Configuration in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80439 | A | Introduction in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80440 | A | Trade in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80534 | A | Finance Essentials in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80535 | A | Finance Advanced in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80540 | A | Installation and Configuration in Microsoft Dynamics GP 2013 | 영어 | 2017년 3월 31일
+    | 80549 | A | Data Upgrade and Code Upgrade to Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80550 | A | Manufacturing in Microsoft Dynamics NAV 2013 | 영어 | 2017년 3월 31일
+    | 80571 | A | Introduction to Microsoft Dynamics GP 2013 | 영어 | 2017년 3월 31일
+    | 80572 | A | General Ledger in Microsoft Dynamics GP 2013 | 영어 | 2017년 3월 31일
+    | 80573 | A | Payables Management in Microsoft Dynamics GP 2013 | 영어 | 2017년 3월 31일
+    | 80574 | A | Receivables Management in Microsoft Dynamics GP 2013 | 영어 | 2017년 3월 31일
+    | 80575 | A | Bank Reconciliation in Microsoft Dynamics GP 2013 | 영어 | 2017년 3월 31일
+    | 80576 | A | Fixed Assets in Microsoft Dynamics GP 2013 | 영어 | 2017년 3월 31일
+    | 80450 | A | Delivering Microsoft Dynamics Solutions with Sure Step | 영어 | 2017년 3월 31일
 
 * 2016년 12월 31일 중단된 코스웨어
 
@@ -868,13 +973,13 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 10968 | B | Designing for Office 365 Infrastructure | 영어 | 8/15/2016
+    | 10968 | B | Designing for Office 365 Infrastructure | 영어 | 2016년 8월 15일
 
 * 2016년 8월 1일 중단된 코스웨어
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 10747 | D | Administering System Center 2012 Configuration Manager | 영어 | 2016년 08월 01일
+    | 10747 | D | Administering System Center 2012 Configuration Manager | 영어 | 2016년 8월 1일
 
 * 2016년 6월 24일 중단된 코스웨어
 
@@ -890,27 +995,27 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
     | 과정 번호 | 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 38 | Office 2013 and Office 365 Demonstration Sessions | 일본어 | 2016년 04월 18일
-    | 37 | Office 2013 and Office 365 Demonstration Sessions | 스페인어 | 2016년 04월 18일
-    | 36 | Office 2013 and Office 365 Demonstration Sessions | 독일 | 2016년 04월 18일
-    | 35 | Office 2013 and Office 365 Demonstration Sessions | 러시아어 | 2016년 04월 18일
+    | 38 | Office 2013 and Office 365 Demonstration Sessions | 일본어 | 2016년 4월 18일
+    | 37 | Office 2013 and Office 365 Demonstration Sessions | 스페인어 | 2016년 4월 18일
+    | 36 | Office 2013 and Office 365 Demonstration Sessions | 독일어 | 2016년 4월 18일
+    | 35 | Office 2013 and Office 365 Demonstration Sessions | 러시아어| 2016년 4월 18일
     | 34 | Office 2013 and Office 365 Demonstration Sessions | 포르투갈어(브라질) | 2016년 04월 18일
-    | 33 | Office 2013 and Office 365 Demonstration Sessions | 중국어(간체) | 2016년 04월 18일
+    | 33 | Office 2013 and Office 365 Demonstration Sessions | 중국어 (간체) | 2016년 4월 18일
     | 32 | Office 2013 and Office 365 Demonstration Sessions | 프랑스령 | 2016년 04월 18일
-    | 31 | Office 2013 and Office 365 Demonstration Sessions | 영어 | 2016년 04월 18일
-    | 23 | Windows 8 Demonstration Sessions | 영어 | 2016년 04월 18일
+    | 31 | Office 2013 and Office 365 Demonstration Sessions | 영어 | 2016년 4월 18일
+    | 23 | Windows 8 Demonstration Sessions | 영어 | 2016년 4월 18일
     | 22 | Office 2010 Running Start: Demonstration Sessions | 네덜란드어 | 2016년 4월 18일
-    | 21 | Office 2010 Running Start: Demonstration Sessions | 한국어 | 2016년 04월 18일
-    | 20 | Office 2010 Running Start: Demonstration Sessions | 러시아어 | 2016년 04월 18일
-    | 19 | Office 2010 Running Start: Demonstration Sessions | 중국어(번체) | 2016년 04월 18일
-    | 18 | Office 2010 Running Start: Demonstration Sessions | 중국어(간체) | 2016년 04월 18일
+    | 21 | Office 2010 Running Start: Demonstration Sessions | 한국어 | 2016년 4월 18일
+    | 20 | Office 2010 Running Start: Demonstration Sessions | 러시아어| 2016년 4월 18일
+    | 19 | Office 2010 Running Start: Demonstration Sessions | 중국어 (Traditional) | 2016년 4월 18일
+    | 18 | Office 2010 Running Start: Demonstration Sessions | 중국어 (간체) | 2016년 4월 18일
     | 17 | Office 2010 Running Start: Demonstration Sessions | 포르투갈어(브라질) | 2016년 04월 18일
     | 16 | Office 2010 Running Start: Demonstration Sessions | Chinese (Simplified), 이탈리아어 | 2016년 04월 18일
-    | 15 | Office 2010 Running Start: Demonstration Sessions | 스페인어 | 2016년 04월 18일
-    | 14 | Office 2010 Running Start: Demonstration Sessions | 일본어 | 2016년 04월 18일
+    | 15 | Office 2010 Running Start: Demonstration Sessions | 스페인어 | 2016년 4월 18일
+    | 14 | Office 2010 Running Start: Demonstration Sessions | 일본어 | 2016년 4월 18일
     | 13 | Office 2010 Running Start: Demonstration Sessions | 프랑스령 | 2016년 04월 18일
     | 12 | Office 2010 Running Start: Demonstration Sessions | 독일 | 2016년 04월 18일
-    | 11 | Office 2010 Running Start: Demonstration Sessions | 영어 | 2016년 04월 18일
+    | 11 | Office 2010 Running Start: Demonstration Sessions | 영어 | 2016년 4월 18일
 
 * 2015년 12월 31일 중단된 코스웨어
 
@@ -920,18 +1025,18 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 2148 | A | Microsoft Windows Server 2003 環境の管理 | 일본어 | 2015년 08월 31일
-    | 2166 | A | Microsoft Windows Server 2003 環境の保守 | 일본어 | 2015년 08월 31일
-    | 6194 | B | ネットワーク インフラストラクチャおよび Active Directory テクノロジ スキルの Windows Server 2008 へのアップデート | 일본어 | 2015년 08월 31일
-    | 6195 | B | アプリケーション インフラストラクチャ テクノロジ スキルの Windows Server 2008 へのアップデート | 일본어 | 2015년 08월 31일
-    | 6746 | A | Windows Server 2008 におけるインターネット インフォメーション サービスの構成およびトラブルシューティング | 일본어 | 2015년 08월 31일
-    | 6749 | A | Windows Server 2008 のサーバーの計画と管理 | 일본어 | 2015년 08월 31일
-    | 6858 | A | Windows Server 2008 Active Directory の基礎 | 일본어 | 2015년 08월 31일
-    | 10703 | A | Microsoft SharePoint 2010 の構成および管理 | 일본어 | 2015년 08월 31일
-    | 10713 | A | Microsoft Visual Studio 2010 による Web アプリケーションの開発 | 일본어 | 2015년 08월 31일
-    | 10775 | A | Administering Microsoft SQL Server 2012 Databases | 영어 | 2015년 08월 31일
-    | 50430 | B | Administering Team Foundation Server 2010 | 영어 | 2015년 08월 31일 |
-    | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | 영어 | 2015년 08월 31일
+    | 2148 | A | Microsoft Windows Server 2003 環境の管理 | 일본어 | 2015년 8월 31일
+    | 2166 | A | Microsoft Windows Server 2003 環境の保守 | 일본어 | 2015년 8월 31일
+    | 6194 | B | ネットワーク インフラストラクチャおよび Active Directory テクノロジ スキルの Windows Server 2008 へのアップデート | 일본어 | 2015년 8월 31일
+    | 6195 | B | アプリケーション インフラストラクチャ テクノロジ スキルの Windows Server 2008 へのアップデート | 일본어 | 2015년 8월 31일
+    | 6746 | A | Windows Server 2008 におけるインターネット インフォメーション サービスの構成およびトラブルシューティング | 일본어 | 2015년 8월 31일
+    | 6749 | A | Windows Server 2008 のサーバーの計画と管理 | 일본어 | 2015년 8월 31일
+    | 6858 | A | Windows Server 2008 Active Directory の基礎 | 일본어 | 2015년 8월 31일
+    | 10703 | A | Microsoft SharePoint 2010 の構成および管理 | 일본어 | 2015년 8월 31일
+    | 10713 | A | Microsoft Visual Studio 2010 による Web アプリケーションの開発 | 일본어 | 2015년 8월 31일
+    | 10775 | A | Administering Microsoft SQL Server 2012 Databases | 영어 | 2015년 8월 31일
+    | 50430 | B | Administering Team Foundation Server 2010 | 영어 | 2015년 8월 31일 |
+    | 50523 | A | Deploying the Optimized Desktop with Windows 7 and Office 2010 | 영어 | 2015년 8월 31일
 
 * 2015년 6월 30일 중단된 코스웨어
 
@@ -941,10 +1046,10 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 10774 | A | Querying Microsoft SQL Server 2012 | 영어 | 2015년 01월 31일
-    | 10776 | A | Developing Microsoft SQL Server 2012 Databases | 영어 | 2015년 01월 31일
-    | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | 영어 | 2015년 01월 31일
-    | 10778 | A | Implementing Data Models and Reports with Microsoft SQL Server 2012 | 영어 | 2015년 01월 31일
+    | 10774 | A | Querying Microsoft SQL Server 2012 | 영어 | 2015년 1월 31일
+    | 10776 | A | Developing Microsoft SQL Server 2012 Databases | 영어 | 2015년 1월 31일
+    | 10777 | A | Implementing a Data Warehouse with Microsoft SQL Server 2012 | 영어 | 2015년 1월 31일
+    | 10778 | A | Implementing Data Models and Reports with Microsoft SQL Server 2012 | 영어 | 2015년 1월 31일
 
 * 2014년 10월 31일 중단된 코스웨어
 
@@ -957,15 +1062,15 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 1303 | A | Mastering Microsoft Visual Basic 6 Fundamentals | 영어 | 2014년 08월 25일
+    | 1303 | A | Mastering Microsoft Visual Basic 6 Fundamentals | 영어 | 2014년 8월 25일
     | 2147 | B | Managing a Microsoft Windows Server 2003 Environment | 포르투갈어(브라질) | 2014년 08월 25일
     | 2165 | B | Maintaining a Microsoft Windows Server 2003 Environment | 포르투갈어(브라질) | 2014년 08월 25일
     | 2186 | A | Implementing, Managing, and Maintaining a Microsoft Windows Server 2003 Network Infrastructure: Network Services | 포르투갈어(브라질) | 2014년 08월 25일
-    | 2524 | C | Developing XML Web Services Using Microsoft ASP.NET | 영어 | 2014년 08월 25일
-    | 2934 | A | Deploying and Managing Business Process and Integration Solutions Using Microsoft BizTalk Server 2009 R2 | 영어 | 2014년 08월 25일
-    | 6463 | A | Visual Studio 2008: ASP.NET 3.5 | 영어 | 2014년 08월 25일
-    | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | 영어 | 2014년 08월 25일
-    | 10953 | A | HTML5 Programming | 영어 | 2014년 08월 25일
+    | 2524 | C | Developing XML Web Services Using Microsoft ASP.NET | 영어 | 2014년 8월 25일
+    | 2934 | A | Deploying and Managing Business Process and Integration Solutions Using Microsoft BizTalk Server 2009 R2 | 영어 | 2014년 8월 25일
+    | 6463 | A | Visual Studio 2008: ASP.NET 3.5 | 영어 | 2014년 8월 25일
+    | 6464 | A | Visual Studio 2008: ADO.NET 3.5 | 영어 | 2014년 8월 25일
+    | 10953 | A | HTML5 Programming | 영어 | 2014년 8월 25일
 
 * 2013년 12월 31일 중단된 코스웨어
 
@@ -1008,11 +1113,11 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 2282 | A | Designing a Microsoft Windows Server 2003 Active Directory and Network Infrastructure | 영어 | 9/30/2013
-    | 6434 | A | Automating Windows Server 2008 Administration with Windows PowerShell | 영어 | 9/30/2013
-    | 2273 | B | Managing and Maintaining a Microsoft Windows Server 2003 Environment | 영어 | 9/30/2013
-    | 2278 | B | Planning and Maintaining a Microsoft Windows Server 2003 Network Infrastructure | 영어 | 9/30/2013
-    | 2279 | B | Planning, Implementing, and Maintaining a Microsoft Windows Server 2003 Active Directory Infrastructure | 영어 | 9/30/2013
+    | 2282 | A | Designing a Microsoft Windows Server 2003 Active Directory and Network Infrastructure | 영어 | 2013년 9월 30일
+    | 6434 | A | Automating Windows Server 2008 Administration with Windows PowerShell | 영어 | 2013년 9월 30일
+    | 2273 | B | Managing and Maintaining a Microsoft Windows Server 2003 Environment | 영어 | 2013년 9월 30일
+    | 2278 | B | Planning and Maintaining a Microsoft Windows Server 2003 Network Infrastructure | 영어 | 2013년 9월 30일
+    | 2279 | B | Planning, Implementing, and Maintaining a Microsoft Windows Server 2003 Active Directory Infrastructure | 영어 | 2013년 9월 30일
 
 * 수정 및 관련 중단
 
@@ -1035,7 +1140,7 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
     | 과정 번호 | 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- |
-    | 47003 | Windows Server 2012 Jumpstart | 영어 | 8/15/2017 |
+    | 47003 | Windows Server 2012 Jumpstart | 영어 | 2017년 8월 15일 |
 
 * 2017년 6월 30일 중단된 코스웨어
 

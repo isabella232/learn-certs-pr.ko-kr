@@ -1,0 +1,147 @@
+### YamlMime:Course
+title: Azure Stack HCI
+metadata:
+  title: 'Course WS-013T00-A: Azure Stack HCI'
+  description: 'Course WS-013T00-A: Azure Stack HCI'
+uid: course.ws-013t00
+courseNumber: 'WS-013T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Stack HCI, Azure Stack Hub 및 Azure Stack Edge를 포함하여 Azure Stack 포트폴리오 설명
+- skill: Azure Stack HCI 핵심 기술 및 관리 도구 설명.
+- skill: 일반적인 Azure Stack HCI 구현 프로세스 설명.
+- skill: Azure Stack HCI 하이브리드 기능 식별.
+- skill: Azure Stack HCI에서 워크로드 구현, 관리 및 유지 관리.
+- skill: 스토리지 QoS 및 스토리지 복제본을 포함한 Azure Stack HCI 스토리지 계획 및 구현.
+- skill: Azure Stack HCI 네트워킹 계획.
+- skill: Azure Stack HCI에서 소프트웨어 방식 네트워킹 구현.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- windows-server
+summary: |-
+  3일간 진행하는 본 과정은 주로 이미 상당한 온-프레미스 Windows Server 환경 관리 경험이 있는 IT 전문가를 대상으로 합니다. 과정의 목적은 Window 서버 소프트웨어 방식 데이터센터 및 Azure Stack HCI와 관련된 고급 주제를 다루는 것입니다. 본 과정에서는 또한 Azure Stack 제품 정보를 제공하며 기존 System Center 제품을 사용하여 Windows Server 2019로 소프트웨어 방식 데이터센터 구현 및 관리 방법을 설명합니다. 본 과정은 고급 과정이며 중견기업 및 대기업에서 소프트웨어 방식 데이터센터 및 하이퍼 컨버지드 원리를 사용하여 Windows Server 2019에서 가상 워크로드를 실행하려는 사람들을 대상으로 합니다.
+
+  #### 대상 그룹 프로필
+  본 과정은 온-프레미스 Windows Server 환경을 관리하고 Azure를 사용하여 Windows Server 2019에서 서버 워크로드를 관리하고 가상 워크로드를 실행하려는 IT 전문가를 대상으로 합니다. 이들은 또한 기존 Microsoft System Center 제품을 사용하여 Windows Server 2019로 소프트웨어 방식 데이터센터를 구현하고 관리합니다.
+prerequisitesSection: |-
+  - 온-프레미스 시나리오에서 Windows Server 운영 체제 및 Windows Server 가상화 워크로드 관리 경험
+  - Microsoft Azure에서 서비스 제공 인프라(IaaS) 서비스 구현 및 관리 경험
+  - Azure AD(Azure Active Directory)에 대한 기본 지식
+  - PowerShell 스크립팅 및 PowerShell DSC(Desired State Configuration)에 대한 중급 지식
+  - 핵심 Microsoft 컴퓨팅, 스토리지, 네트워킹 및 가상화 기술에 대한 중급 지식
+  - Windows 서버 기반 컴퓨팅 및 스토리지 고가용성 기술에 대한 중급 지식
+  - Microsoft 가상화 보안 관련 기술에 대한 중급 지식
+outlineSection: |-
+  ### 모듈 1&#58; Azure Stack HCI 소개
+  본 모듈에서는 Azure Stack Hub 및 Azure Stack Edge를 포함한 Azure Stack 포트폴리오의 일부인 동등 제품과 함께 Azure Stack HCI의 기본 특성을 설명합니다. 본 모듈에서는 또한 Azure Stack 핵심 기술 및 관리 도구의 개요와 일반적인 구현 프로세스에 대한 자세한 설명을 제시합니다. 마지막으로 본 모듈에서는 Azure Stack HCI 하이브리드 기능을 요약하면서 마무리합니다. 이 기능의 대부분은 모듈 4에서 자세히 다룹니다.
+  #### 단원
+  - Azure Stack HCI 개요
+  - Azure Stack HCI 기술 개요
+  - Azure Stack HCI 관리 도구 개요
+  - Azure Stack HCI 구현 프로세스 개요
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Microsoft Azure Stack 포트폴리오의 기본 기능 및 사용 사례 설명.
+  - Azure Stack HCI 아키텍처의 핵심 구성 요소 식별.
+  - 하이퍼 컨버지드 인프라 배포 및 관리에 사용되는 일반적인 관리 도구 식별.
+  - Azure Arc 목적 및 기능 설명.
+  - 온-프레미스 환경에 통합할 수 있는 Azure 인프라 서비스 식별.
+  - 쿼럼 감시 유형으로 클라우드 감시 구성.
+  - Azure Network Adapter로 지점 및 사이트 간 VPN을 Azure 가상 네트워크에 연결하는 방법 설명.
+  - Azure File Sync 및 Azure Monitor 특징 및 사용 사례 설명
+  - Azure Backup 및 Azure Site Recovery를 사용하여 비즈니스 연속성 유지 방법 설명.
+  - Azure Update Management 사용 사례 및 아키텍처 설명.
+  - Azure Stack HCI 인프라 프로비저닝을 위한 고수준 프로세스 설명.
+
+
+  ### 모듈 2&#58; Azure Stack HCI 운영 및 유지 관리
+  본 모듈에서는 Azure Stack HCI에서 워크로드 구현, 관리 및 유지 관리 방법을 설명합니다. 첫 번째 모듈에서 설명한 대로, Azure Stack HCI는 특정 유형의 워크로드의 성능, 복원력 및 확장성을 최적화하도록 설계되었습니다. 이러한 워크로드 구현에는 초기 구성이 필요하며 Windows Server 2019 운영 체제에서 실행되는 Microsoft가 승인한 하드웨어 위에 가상화된 스토리지 및 네트워킹 계층을 프로비저닝이 수반됩니다. 본 모듈에서는 Windows Server 2019와 Azure의 통합을 활용하여 이러한 워크로드를 관리 및 유지 관리하는 데 사용되는 다양한 Azure 서비스 및 Windows Server 기능에 대한 개요를 제공합니다.
+  #### 단원
+  - Azure Stack HCI에서 워크로드 구현 및 관리
+  - Azure Stack HCI 유지 관리
+
+  #### 랩&#58; 랩 A&#58; 랩 환경 준비
+  - 랩 환경 준비
+
+  #### 랩&#58; 랩 B&#58; 하이브리드 시나리오에서 Windows Admin Center 사용
+  - 하이퍼 컨버지드 인프라를 Azure 서비스와 통합
+  - Azure 통합 기능 검토
+  - 하이퍼 컨버지드 인프라의 업데이트 관리
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - 공유 디스크로 공유 클러스터링 구현.
+  - 보호된 VM 배포에 필요한 구성 요소 설명.
+  - VDI(가상 데스크톱 인프라) 워크로드 구현.
+  - Azure Stack HCI에서 컨테이너 기반 배포 호스팅.
+  - Azure Network Adapter로 P2S(지점 및 사이트 간) VPN 연결 생성.
+  - Azure File Sync 아키텍처 설명.
+  - Azure File Sync 구현으로 온-프레미스 및 Azure 파일 공유 간 파일 복제.
+  - Azure Arc로 Azure Stack HCI 워크로드 관리.
+
+
+  ### 모듈 3&#58; Azure Stack HCI 스토리지 계획 및 구현
+  본 모듈에서는 Azure Stack HCI 스토리지 계획 및 구현 방법을 설명합니다. 본 모듈에서는 핵심 HCI 스토리지 기술을 자세히 다루고 (Azure Stack HCI의 맥락에서) 스토리지 QoS 및 스토리지 복제본의 특정 범위를 포함합니다. 본 모듈에서는 Azure Stack HCI 스토리지 계획, 구현 및 관리의 프로세스를 설명합니다
+  #### 단원
+  - Azure Stack HCI 스토리지 핵심 기술 개요
+  - Azure Stack HCI에서 스토리지 공간 다이렉트 계획
+  - 스토리지 공간 다이렉트 기반 하이퍼 컨버지드 인프라 구현
+  - Azure Stack HCI에서 스토리지 공간 다이렉트 관리
+  - 스토리지 QoS 계획 및 구현
+  - 스토리지 복제본 계획 및 구현
+
+  #### 랩&#58; 하이퍼 컨버지드 인프라에 스토리지 공간 다이렉트 구현
+  - S2D 클러스터 배포 준비
+  - Windows Admin Center를 사용하여 S2D 클러스터 구현
+  - Windows Admin Center를 사용하여 S2D 클러스터의 스토리지 구성
+  - Windows PowerShell를 사용하여 S2D 클러스터 구현 및 테스트
+  - S2D 클러스터에서 디스크 관리 및 모니터링
+  - S2D 클러스터에서 복원력 관리 및 모니터링
+  - S2D 클러스터의 메타데이터 식별 및 분석
+  - S2D 클러스터 계층 식별 및 구성
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Azure Stack HCI 스토리지 핵심 기술 설명.
+  - Azure Stack HCI에서 스토리지 공간 다이렉트 계획.
+  - 스토리지 공간 다이렉트 기반 하이퍼 컨버지드 인프라 구현.
+  - Azure Stack HCI에서 스토리지 공간 다이렉트 관리.
+  - 스토리지 QoS 계획 및 구현.
+  - 스토리지 복제본 계획 및 구현.
+
+
+  ### 모듈 4&#58; Azure Stack HCI 네트워킹 계획 및 구현
+  본 모듈에서는 Azure Stack HCI에서 소프트웨어 방식 네트워킹 계획 및 구현 방법을 설명합니다. 본 모듈에서는 주요 SDN 관리 도구인 Windows Admin Center를 강조하면서 본 기술과 기본 기능에 중점을 둡니다. 본 모듈에서는 또한 Azure Stack HCI에서 사용 가능한 SDN의 다음 네 가지 특정 구성 요소를 자세히 다룹니다. (SET(스위치 내장형 티밍), SLB(소프트웨어 부하 분산), 데이터센터 방화벽 및 RAS 게이트웨이)
+  #### 단원
+  - Azure Stack HCI 핵심 네트워크 기술 개요
+  - 네트워크 가상화 및 SDN 개요
+  - SET(스위치 내장 티밍) 계획 및 구현
+  - 소프트웨어 부하 분산 계획 및 구현
+  - 데이터센터 방화벽 계획 및 구현
+  - RAS 게이트웨이 계획 및 구현
+
+  #### 랩&#58; 랩 A&#58; 소프트웨어 방식 네트워킹 배포
+  - PowerShell을 사용하여 소프트웨어 방식 네트워킹 배포
+
+  #### 랩&#58; 랩 B&#58; 하이퍼 컨버지드 인프라에서 소프트웨어 방식 네트워킹 구현
+  - SDN 랩 환경을 위한 라우팅 및 관리 구성
+  - Windows Admin Center 및 PowerShell을 사용하여 가상 네트워크 관리
+  - Windows Admin Center를 사용하여 SDN 액세스 제어 목록 구현
+  - PowerShell을 사용하여 프라이빗 VIP로 SDN 소프트웨어 부하 분산 구현
+
+  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  - Azure Stack HCI의 핵심 소프트웨어 방식 네트워킹(SDN) 구성 요소 설명.
+  - Azure Stack HCI 맥락에서 소프트웨어 전용과 하드웨어 전용 기능 구분.
+  - 간소화된 SMB 다중 채널 및 Multi-NIC 클러스터 네트워크의 사용 사례 설명.
+  - Azure Stack HCI 맥락에서 네트워크 가상화 설명.
+  - Azure Stack HCI에서 SDN 배포 프로세스 설명.
+  - SET 계획 및 구현.
+  - SLB 기능 및 인프라 설명 및 SLB 구현.
+  - 데이터센터 방화벽 구현 및 구성.
+  - RAS 게이트웨이 구현, 구성 및 문제 해결.
+

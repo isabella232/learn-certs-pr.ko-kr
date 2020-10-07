@@ -3,7 +3,7 @@ title: Solutions Architect
 metadata: 
   title: Solutions Architect
   description: 솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다. 
-uid: role.solution-architect 
+uid: role.solution-architect  
 summary: | 
   솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
 subTitle: 솔루션 아키텍처는 컴퓨팅, 네트워크, 저장소, 보안 분야의 전문 지식을 갖추고 있습니다.
@@ -56,7 +56,7 @@ certificationPaths:
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
-    - uid: certification.d365-functional-consultant-marketing
+  - uid: certification.d365-functional-consultant-marketing
     levels:
     - intermediate
   - uid: certification.d365-functional-consultant-customer-service
@@ -71,21 +71,24 @@ certificationPaths:
 certifications:
 - uid: certification.azure-solutions-architect
   requiredExams:
-  - uid: exam.az-300
-  - uid: exam.az-301
+  - uid: exam.az-303
+  - uid: exam.az-304
 - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
   requiredExams:
   - uid: exam.mb-700
 - uid: certification.power-apps-and-d365-solution-architect-expert
   requiredExams:
   - uid: exam.mb-600
+- uid: certification.azure-for-sap-workloads-specialty
+  requiredExams:
+  - uid: exam.az-120
 resources:
 - title: Microsoft 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 교육 및 인증 포스터
   description: 이 교육 및 인증 포스터를 통해 성공을 위한 길을 선택합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: 인증 지원
   href: ../help.md
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.

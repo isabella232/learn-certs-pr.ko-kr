@@ -1,8 +1,8 @@
 ### YamlMime:Certification
-title: MCSE Productivity Solutions Expert
+title: 'MCSE: Productivity Solutions Expert'
 metadata:
-  title: MCSE Productivity Solutions Expert
-  description: MCSE Productivity Solutions Expert
+  title: 'MCSE: Productivity Solutions Expert'
+  description: 'MCSE: Productivity Solutions Expert'
 uid: certification.mcse-productivity-certification
 iconUrl: /media/learn/certification/badges/mcse-badge.svg
 summary: |-
@@ -11,13 +11,13 @@ summary: |-
   <div><strong>이 인증은 2021년 1월 31일 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 본 인증을 더 이상 취득할 수 없습니다. 다가오는 시험 <a href='/learn/certifications/retired-certifications'>종료에 대해 자세히 알아보십시오</a>.</strong><br/><br/></div>
   </div>
 
-  인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 [Microsoft 365 Certified Enterprise Administrator Expert](https://www.microsoft.com/learning/m365-enterprise-administrator.aspx)가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
+  인증을 획득하셔서 회사를 클라우드로 이동하고 사용자 생산성 및 유연성을 증가시키며 데이터 손실을 줄이고 데이터 보안성을 향상시킬 수 있는 귀하의 능력을 입증하십시오. 본 인증은 [Microsoft 365 Certified Enterprise Administrator Expert](/learn/certifications/m365-enterprise-administrator)가 되기 위한 요구 사항 중 하나를 충족하는 데 사용할 수 있습니다.
 
-  MCSE Productivity Solutions Expert가 되려면 다음 요구 사항을 충족해야 합니다&#58;
-  - 한 개의 필수 자격증 취득
-    - 필수 선택사항 1&#58; [MCSA Windows Server 2012](https://www.microsoft.com/learning/mcsa-windows-server-certification.aspx)
-    - 필수 선택사항 2&#58; [MCSA Windows Server 2016](https://www.microsoft.com/learning/mcsa-windows-server-2016-certification.aspx)
-  - 선택 시험 중 하나에 합격
+  MCSE Productivity Solutions Expert가 되려면 다음 요구 사항을 충족해야 합니다.
+  - 한 개의 필수 자격증 취득&#58;
+    - 필수 선택사항 1&#58; [MCSA&#58; Windows Server 2012](/learn/certifications/mcsa-windows-server-certification)
+    - 필수 선택사항 2&#58; [MCSA&#58; Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification)
+  - 선택 시험 중 하나에 합격&#58;
     - [70-333&#58; Deploying Enterprise Voice with Skype for Business 2015](/learn/certifications/exams/70-333)
     - [70-334&#58; Core Solutions of Microsoft Skype for Business](/learn/certifications/exams/70-334)
     - [70-339&#58; Managing Microsoft SharePoint Server 2016](/learn/certifications/exams/70-339)
@@ -43,9 +43,14 @@ exams:
 - uid: exam.70-345
 - uid: exam.70-339
 - uid: exam.70-333
+prerequisites:
+- uid: certification.mcsa-windows-server-certification
+  isOptional: false
+- uid: certification.mcsa-windows-server-2016-certification
+  isOptional: false
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
@@ -57,6 +62,6 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 
