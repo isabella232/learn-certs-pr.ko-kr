@@ -13,7 +13,6 @@ subTitle: 'Dynamics 365 Supply Chain Management 기능 컨설턴트는 고객을
 levels:
 - intermediate
 skills:
-- '참고: 아래 문서에서 측정된 각각의 기술 하단에 표시되는 글머리 기호는 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 철저하거나 완전하지 않습니다.'
 - 일반 기능 및 구현 도구 사용
 - 보안, 프로세스 및 선택 사항의 구성
 - 데이터 마이그레이션 수행
@@ -54,7 +53,7 @@ resources:
   description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjF
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증서 학습 경로
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
@@ -63,7 +62,7 @@ resources:
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 인증 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.

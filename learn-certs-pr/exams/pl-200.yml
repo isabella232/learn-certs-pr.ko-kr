@@ -14,8 +14,8 @@ summary: |-
 
   응시자는 품질 보증 팀원과의 적극적인 협업을 통해 솔루션이 기능 및 비기능적 요구 사항을 반드시 충족하도록 합니다. 응시자는 패키징 및 배포를 위한 아티팩트를 식별 및 생성하여 DevOps 엔지니어에게 제공하며 Power Platform 관리자에게는 운영 및 유지 관리 교육을 제공합니다.
 
-  <div><strong><br/>참고&#58; 본 시험은 2020년 9월 사용할 수 있습니다.</strong></div>
-subTitle: '본 시험은 2020년 9월 사용할 수 있습니다. 본 시험은 Common Data Service (CDS) 구성, Power Apps를 사용한 앱 생성, Power Automate 생성 및 관리, Power Visual Agents 챗봇 구현 및 Power Apps를 다른 앱 및 서비스와 통합과 같은 과제를 완료할 수 있는 능력을 측정합니다.'
+  <div><strong><br/>참고&#58; 본 시험은 2020년 9월 25일 금요일 또는 그 즈음에 사용할 수 있습니다.</strong></div>
+subTitle: '본 시험은 2020년 9월 25일 금요일 또는 그 즈음에 사용할 수 있습니다. 본 시험은 Common Data Service (CDS) 구성, Power Apps를 사용한 앱 생성, Power Automate 생성 및 관리, Power Visual Agents 챗봇 구현 및 Power Apps를 다른 앱 및 서비스와 통합과 같은 과제를 완료할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
 locales:
@@ -46,7 +46,7 @@ relatedCertifications:
     uid: certification.power-platform-functional-consultant-associate
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
@@ -58,7 +58,7 @@ resources:
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.

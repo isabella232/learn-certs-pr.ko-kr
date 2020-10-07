@@ -1,6 +1,6 @@
 ---
-title: Microsoft Certification 시험 정보 | Microsoft Docs
-description: Microsoft Certification 시험 정보 
+title: About Microsoft Certification exams | Microsoft Docs
+description: About Microsoft Certification exams 
 documentationcenter: NA 
 author: bipach
 ms.topic: article
@@ -9,26 +9,25 @@ ms.workload: NA
 ms.date: 08/22/2019
 ms.author: micsullivan
 ---
-# Microsoft Certification 시험 정보
+# About Microsoft Certification exams
 
 Microsoft Certification은 경력을 시작하여 정상에 도달할 수 있게 도와 줍니다. 인증으로 귀하를 눈에 띄게 하고, 동종업계 종사자들과 차별화하며 지식과 기술을 검증할 수 있습니다.
 
-
 ## Microsoft Certification 시험 등록
 
-교육 기관을 통해서 제공되는 Microsoft Office Specialist(MOS) 시험 및 기타 다른 시험의 경우 [Certiport에 등록](https://www.certiport.com/portal/Pages/Registration.aspx)하십시오.
+교육 기관을 통해서 제공되는 Microsoft Office Specialist(MOS) 시험 및 기타 다른 시험의 경우 [Certiport에 등록하십시오](https://www.certiport.com/portal/Pages/Registration.aspx).
 
 상업 기관에서 제공하는 시험의 경우 [시험을 선택하고 Microsoft로 로그인하며 안내에 따라 등록합니다](/learn/certifications/browse/?resource_type=examination).
 
 ## 시험 준비
 
-각 시험의 시험 세부 정보 페이지에는 시험에서 평가할 기술과 Microsoft에서 제공하는 준비 도구 및 자료를 나열한 "측정 능력" 섹션이 있습니다.
+각 시험의 시험 세부 정보 페이지에는 시험에서 평가할 기술과 Microsoft에서 제공하는 준비 도구 및 자료를 나열한 "측정된 기술" 섹션이 있습니다.
 
 ### 시작하는 데 도움이 되는 추가 자료:
 
 #### 강사 지도식 교육
 
-[Microsoft Certified Trainers로부터 제공되는 Microsoft 기술의 교실식 교육 및 수요 있는 과정을 받아보십시오.](https://www.microsoft.com/learning/find-partner.aspx)
+[Microsoft Certified Trainers로부터 제공되는 Microsoft 기술의 교실 교육 및 수요 있는 과정을 받아보십시오.](https://www.microsoft.com/learning/find-partner.aspx)
 
 #### 무료 온라인 교육 살펴보기
 
@@ -120,7 +119,7 @@ Microsoft Certification은 경력을 시작하여 정상에 도달할 수 있게
 </div>
 
 
-#### 랩 (2:58)
+#### 랩(2:58)
 
 <div>
 	<a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
@@ -183,11 +182,11 @@ Microsoft는 시험 수명 동안 시험의 심리측정학적 성능을 모니�
 
 ### 참여 방법
 
-Microsoft 베타 시험은 80% 할인된 가격으로 응시할 수 있습니다 (코드가 필요함). 여기 Microsoft 베타 시험 프로그램의 [업데이트](/learn/certifications/posts/updates-on-microsoft-beta-exam-program)에서 설명한 것처럼 재채점이 이루어진 이후 응사자는 다음 시험에 25%의 할인을 받습니다.
+Microsoft 베타 시험은 80% 할인된 가격으로 응시할 수 있습니다(코드가 필요함). 80% 할인을 사용하여 베타 시험을 응시한 응시자는 여기에 설명한 것처럼 재채점을 완료한 후 다음 시험에서 25% 할인을 받습니다. [Microsoft 베타 시험 프로그램 업데이트](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _이 할인은 일반적으로 모든 베타 참여자에게 제공되지 않습니다. 다른 방법으로 베타 시험 비용을 지불한 경우 25% 할인 쿠폰을 받을 수 없습니다._
 
 코드를 받으려면 SME 프로필 데이터베이스의 구성원이거나 [시험 정책 및 FAQ 페이지](/learn/certifications/certification-exam-policies) 왼쪽에 있는 공지 섹션에서 코드를 받을 수 있습니다. SME 프로필 데이터베이스 프로그램에 해당하는 응시자는 베타 시험 응시에 사용할 수 있는 고유 할인 코드를 받게 되며 이로부터 한정된 베타 시험 응시 기회를 최대한 제공받을 수 있습니다.
 
-SME Profile 데이터베이스 프로그램은 [Microsoft Collaborate](https://aka.ms/collaborate) 에서 운영합니다. 커뮤니티 블로그 를 참조하십시오 [시험 작성 도움말 및 학습 내용! 지금 SME 데이터베이스에 가입하세요!](/learn/certifications/posts/help-us-create-exams-and-learning-content) 을 참조하여 위 프로그램에 참가하는 방법을 안내받으세요.
+SME Profile 데이터베이스 프로그램은 이제 [Microsoft Collaborate](https://aka.ms/collaborate)에서 운영합니다. 커뮤니티 블로그 를 참조하십시오 [시험 작성 도움말 및 학습 내용! 지금 SME 데이터베이스에 가입하세요!](/learn/certifications/posts/help-us-create-exams-and-learning-content) 을 참조하여 위 프로그램에 참가하는 방법을 안내받으세요.
 
 일부 직무 역할의 경우 SME 프로필 데이터베이스에 자격을 갖춘 응시자가 사용 가능한 자리보다 훨씬 더 많습니다. 이러한 경우 자격을 갖춘 응시자 중에서 임의로 선택하여 초대권을 보냅니다. 만약 선택받지 못하신 경우에도, 알림 페이지에서 베타 시험 등록일에 게시되는 다른 할인 코드를 확인하실 수 있습니다.
 
@@ -209,15 +208,15 @@ SME Profile 데이터베이스 프로그램은 [Microsoft Collaborate](https://a
 
 베타 시험을 완료하면 시험의 점수 채점 모델이 아직 마무리되지 않았기 때문에 즉시 점수를 받을 수 없습니다.
 
-전 세계적으로 시험이 치러진 이후 2-3 주 이내에 시험 점수를 확인할 수 있습니다. 시험을 치른 시점에 따라 시험에 응시한 후 최대 16주까지 소요될 수 있습니다. 이 기간 동안 베타 시험 결과를 평가하기 위한 포괄적인 프로세스가 반영됩니다. 데이터를 통계적으로 분석하여 각 질문의 성과를 평가하고 베타 시험 중 제공된 모든 메모를 읽고 평가합니다. 재채점 절차는 시험이 시작되는 날에 개시되며, 최종 점수는 약 10일 후 발표됩니다.
+전 세계적으로 시험이 치러진 이후 2-3 주 이내에 시험 점수를 확인할 수 있습니다, 시험을 치른 시점에 따라 시험에 응시한 후 최대 16주까지 소요될 수 있습니다. 이 기간 동안 베타 시험 결과를 평가하기 위한 포괄적인 프로세스가 반영됩니다. 데이터를 통계적으로 분석하여 각 질문의 성과를 평가하고 베타 시험 중 제공된 모든 메모를 읽고 평가합니다. 재채점 절차는 시험이 시작되는 날에 개시되며, 최종 점수는 약 10일 후 발표됩니다.
 
 **참고** 베타 시험 참여는 자발적인 것이며 Microsoft는 베타 시험 프로세스, 점수 이용 또는 결과 시기와 관련하여 어떠한 약속 또는 보증도 하지 않습니다.
 
 ### 베타 시험 통과
 
-인증 경로에서 베타 시험에 통과하면 인증에 연계됩니다. 최종 버전으로 시험을 재응시할 필요가 없습니다. 베타 시험 응시 후 1년 이내에 다음 시험에 응시하면 25 % 할인 혜택을 누릴 수 있습니다.
+인증 경로에서 베타 시험에 통과하면 인증에 연계됩니다. 최종 버전으로 시험을 재응시할 필요가 없습니다. 베타 시험 할인 프로그램을 통해 베타 시험에 응시하여 얻은 25 % 할인 혜택을 누리려면 1년 이내에 다른 시험에 응시하십시오.
 
-베타 시험에 통과하지 못한 경우 베타 시험에 재응시할 수 없습니다. 해당 시험을 성공적으로 완료해야 획득할 수 있는 인증을 얻고자 하시는 경우, 정식 시험이 시작된 후 정상가로 시험에 응시하거나, 베타 시험에 참여하여 받게 된 25% 할인을 적용받아 시험에 응시할 수 있습니다.
+베타 시험에 통과하지 못한 경우 베타 시험에 재응시할 수 없습니다. 해당 시험을 성공적으로 완료해야 획득할 수 있는 인증을 얻으려는 경우, 정식 시험이 출시된 후 정상가로 시험 재응시를 기다리거나, 베타 시험 할인 프로그램을 통해 베타 시험에 응시하여 얻은 25% 할인을 적용할 수 있습니다.
 
 베타 시험를 확인하시려면(정식 시험이 시작되었거나, 이를 알리는 트윗을 본 후) 먼저 시험 제공업체가 점수를 온라인에 공개했는지 확인하십시오. 아니면 시험 제공업체에 문의하십시오. (베타 점수를 온라인에서 확인할 수 있을 때까지 최종 시험 버전이 공개된 후 최대 2주 걸릴 수 있습니다.) 시험 제공업체가 점수를 게시했으나 Microsoft 성적표에서 점수를 볼 수 없는 경우, [인증 지원](https://aka.ms/mcpforum)에 문의하십시오.
 

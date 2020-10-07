@@ -1,0 +1,52 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+metadata:
+  title: 'Course 40514-G: Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+  description: 'Course 40514-G: Microsoft Cloud Workshop: Migrating Oracle to Azure SQL or Postgre SQL'
+uid: course.40514
+courseNumber: '40514-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 본 워크숍이 끝날 즈음에는, 오라클에서 SQL 서버 혹은 PostgreSQL로 옮기기 위해 필요한 비용, 성능 및 노력의 수준을 비교하기위한 사이트 분석을 더 잘 수행할 수 있을 것입니다. 워크숍을 완료하는데 필요한 시간을 고려했을 때, 학생과 트레이너가 단일 마이그레이션 경로를 선택할 것을 권장합니다.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  본 워크숍에서는, 고객이 오라클에서 SQL 서버 혹은 PostgreSQL로 옮겨가는데 필요한 비용, 성능 및 노력의 수준을 비교하기위해 사이트 분석을 수행하는 방법을 더 잘 이해할 수 있습니다. 본 워크숍에는 두 가지 마이그레이션 경로가 포함되어 있으며 교육 파일명은 각 경로에 적절하게 이름 붙여졌습니다. 두 워크숍 모두 공통 고객 오라클 마이그레이션 시나리오를 공유합니다. 각 워크숍 경로는 본 교육 과정을 지원하기 위해 데이터베이스 플랫폼 마이그레이션 단계를 조정했습니다. 업데이트 해야하는 종속 응용 프로그램과 보고서를 평가하고 마이그레이션 계획을 수립 할 것입니다. 또한, 고객이 새로운 SQL 서버나 PostgreSQL 기능을 이용하여 성능과 복원력을 향상시킬 수 있도록 개념 증명(POC)을 설계하고 구축할 것입니다.
+  
+  SQL 서버 마이그레이션에 중점을 둔 학생들을 위해, SQL서버의 이전 버전에서 최신 버전으로 옮겨 가기위한 방법을 살펴보고 온프레미스에서 클라우드로 마이그레이션의 영향을 고려할 것입니다. 
+  
+  #### 시청자 프로파일
+  본 워크숍은 클라우드 기술의 인프라와 솔루션 설계에 대한 아키텍쳐 전문 지식을 가지고 있고 “이 코스에 대해서”와 “코스 완료”에서 설명된 대로 Azure 및 Azure 서비스에 대해 더 알아보고 싶은 클라우드 아키텍트 및 IT 전문가들을 위한 것입니다. 본 워크숍에 참가하는 분들은 마이크로소프트가 아닌 다른 클라우드 기술에 대한 경험이 있어야 하며, 코스 필수 조건을 충족하고, Azure에 대한 교차교육을 원해야 합니다. 
+outlineSection: |+
+  ### 모듈 1&#58; 화이트보드 설계 세션 – 오라클에서 Azure SQL 혹은 Postgre SQL로 마이그레이션
+  #### 레슨
+  - 고객 사례 연구 검토
+  - 개념 증명 솔루션 설계
+  - 솔루션 소개
+
+  ### 모듈 2&#58; 실습 랩 – 오라클에서 Azure SQL 혹은 Postgre SQL로 마이그레이션
+
+  #### 랩 &#58; 오라클에서 Azure SQL로 마이그레이션
+
+  - SQL 서버 인스턴스 구성
+  - DMS를 사용하여 SQL 서버를 Azure SQL 데이터베이스로 마이그레이션
+  - 포스트 업그레이드 강화
+  - 오라클 11g 익스프레스 에디션 설정
+  - 오라클 데이터베이스를 SQL 서버 2017로 마이그레이션
+  - 응용 프로그램 마이그레이션
+
+  #### 랩 &#58; 오라클을 Postgre SQL로 마이그레이션
+
+  - 오라클 11g 익스프레스 에디션 설정
+  - PostgreSQL로 마이그레이션 하기 전에 오라클 11g 데이터베이스 평가
+  - 오라클 데이터베이스를 PostgreSQL로 마이그레이션 준비
+  - 데이터베이스와 응용 프로그램 마이그레이션
+
