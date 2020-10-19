@@ -43,7 +43,7 @@ resources:
   href: https://www.microsoft.com/learning/dashboard.aspx
 - title: 편의 시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 설명합니다.
-  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+  href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: ../certification-exam-policies.md
