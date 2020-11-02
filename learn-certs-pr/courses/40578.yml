@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+metadata:
+  title: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+  description: 'Course 40578-G: Microsoft Cloud Workshop: Implementing Windows Virtual Desktop in the enterprise'
+uid: course.40578
+courseNumber: '40578-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Microsoft 365와 Azure 기술을 활용하여 Window Virtual Desktop 인프라를 구축
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: "본 워크숍에서는, Microsoft 365 및 Azure 기술을 활용하는 Window Virtual Desktop을 위한 솔루션을 설계를 경험할 수 있습니다. 솔루션의 일부로 다음 구성 요소를 결정해야 합니다. 첫 번째는 보안 요구 사항, Azure Active Directory, 애플리케이션 및 Window 라이센싱을 사용자에게 제공하기 위해 필요한 Microsoft 365 구독으로 구성됩니다. 다음으로, Window Virtual Desktop 환경을 지원하기위해 필요한 Azure 인프라를 구성해야 합니다. 마지막으로, 애플리케이션 서버를 위한 현재 온 프레미스 인프라에 대한 연결 및 높은 보안 및 제한된 지연으로 사용자 데스크톱 및 온 프레미스 네트워크에 적절하게 접근하기 위해 네트워크 요구 사항을 결정해야 합니다. \n\n\n#### 시청자 프로파일\n본 워크숍은 클라우드 기술의 인프라와 솔루션 설계에 대한 아키텍쳐 전문 지식을 가지고 있고 “이 코스에 대해서”와 “코스 완료”에서 설명된 대로 Azure 및 Azure 서비스에 대해 더 알아보고 싶은 클라우드 아키텍트 및 IT 전문가들을 위한 것입니다. 본 워크숍에 참가하는 분들은 마이크로소프트가 아닌 다른 클라우드 기술에 대한 경험이 있어야 하며, 코스 필수 조건을 충족하고, Azure에 대한 교차교육을 원해야 합니다. "
+prerequisitesSection: "워크숍 컨텐츠는 인프라와 솔루션 설계에 대한 아키텍쳐 전문지식의 300-단계로 추정됩니다. 이 워크숍에 참가하기 전에 학생들이 본 필수 조건을 충족하기를 제안합니다. \n  - 마이크로소프트 Azure 필수 코스, http&#58;//www.microsoft.com/en-US/azureessentials"
+outlineSection: |-
+  ### 모듈 1&#58; 화이트보드 설계 세션 - 기업에서 Window Virtual Desktop 구현
+  ####  레슨
+  - 고객 사례 연구 검토
+  - 개념 증명 솔루션 설계
+  - 솔루션 소개
+
+
+  ### 모듈 2&#58; 실습랩 - 기업에서 Windows Virtual Desktop 구현
+  #### 레슨
+  - AD DS를 이용하여 Azure AD Connect 구성
+  - WVD를 위한 Azure AD 그룹 생성
+  - FSLogix를 위한 Azure Files Share 생성
+  - WVD를 위한 마스터 이미지 생성
+  - 개인 데스크톱을 위한 호스트 풀 생성
+  - 호스트 풀 생성 및 풀링된 원격 앱 배치
+  - 웹 고객과 WVD를 연결
+  - WVD를 위한 모니터링 설정
+

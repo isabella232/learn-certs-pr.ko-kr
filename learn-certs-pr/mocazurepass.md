@@ -2,12 +2,13 @@
 title: Microsoft Learning Azure Passes | Microsoft Docs
 description: Microsoft Learning Azure Passes
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 04/01/2020
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 
 # 공인 Microsoft Learning Partners의 학생을 위한 Microsoft Learning Azure Pass 액세스
@@ -20,13 +21,11 @@ Microsoft는 Microsoft Official Courses을 통해 자격있는 Azure 관련 과�
 
 파트너에 대해서는 [여기](https://shop.courseware-marketplace.com/shop/en-GB/Content/TermsAndConditions) Courseware Marketplace에 배포된 Azure Pass 사용 약관을 참조하세요. Pass는 Courseware Marketplace에서 할당된 후 90일 동안 유효합니다. 만료된 Pass는 재발행할 수 없습니다.
 
-현재 Learning Partner에 가입되어 있지 않은 non-Learning Partner 또는 MCT에서 실시하는 과정 또는 교육에 대해서는 Pass를 받거나 사용할 수 없습니다. Community Courseware와 같은 부적격 과정에는 Pass를 받거나 사용할 수 없습니다.
-
 MCT는 적격있는 Azure 과정 준비에 1개의 Pass를 요청할 수 있습니다. 요청은 계속 적용되며, MCT는 해당 [여기](https://vouchers.cloudapp.net/AzurePass/)에서 Azure 과정 준비 Pass를 요청할 수 있지만, 이 제안은 언제든지 종료될 수 있습니다.
 
 Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습니다. 제공되는 기간에만 그리고 Microsoft Azure가 지원되는 [국가](https://www.windowsazure.com/pricing/faq/)에서만 사용할 수 있습니다.
 
-**적격성**: 학생 Azure Pass를 받을 수 있는 과정이 아래에 나열되어 있으며, 지역화된 동등한 버전도 사용할 수 있습니다.
+**적격성** : 학생 Azure Pass를 받을 수 있는 과정이 아래에 나열되어 있으며, 지역화된 동등한 버전도 사용할 수 있습니다.
 
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017

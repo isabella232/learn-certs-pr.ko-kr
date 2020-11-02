@@ -14,10 +14,11 @@ summary: |-
 
   응시자는 품질 보증 팀원과의 적극적인 협업을 통해 솔루션이 기능 및 비기능적 요구 사항을 반드시 충족하도록 합니다. 응시자는 패키징 및 배포를 위한 아티팩트를 식별 및 생성하여 DevOps 엔지니어에게 제공하며 Power Platform 관리자에게는 운영 및 유지 관리 교육을 제공합니다.
 
-  <div><strong><br/>참고&#58; 본 시험은 2020년 9월 25일 금요일 또는 그 즈음에 사용할 수 있습니다.</strong></div>
-subTitle: '본 시험은 2020년 9월 25일 금요일 또는 그 즈음에 사용할 수 있습니다. 본 시험은 Common Data Service (CDS) 구성, Power Apps를 사용한 앱 생성, Power Automate 생성 및 관리, Power Visual Agents 챗봇 구현 및 Power Apps를 다른 앱 및 서비스와 통합과 같은 과제를 완료할 수 있는 능력을 측정합니다.'
+  <div><strong><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">베타 시험의 유용성과 중요성에 대해</a></strong></div>자세히 알아보십시오.
+subTitle: '본 시험은 Common Data Service (CDS) 구성, Power Apps를 사용한 앱 생성, Power Automate 생성 및 관리, Power Visual Agents 챗봇 구현 및 Power Apps를 다른 앱 및 서비스와 통합과 같은 과제를 완료할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=PL-200&examname=Exam%20PL-200:%20Microsoft%20Power%20Platform%20Functional%20Consultant&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fpl-200
 locales:
 - en
 levels:
@@ -27,7 +28,7 @@ skills:
 - Power Apps을 사용한 앱 생성 (20-25%)
 - Power Automate 생성 및 관리 (15-20%)
 - Power Virtual Agents 챗봇 구현 (10-15%)
-- Power Apps를 다른 앱 및 서비스와 통합 (15-20%)
+- Power Apps를 다른 앱 및 서비스와 통합 (15 -20%)
 roles:
 - business-analyst
 - developer
@@ -41,6 +42,20 @@ products:
 - power-platform
 - office-teams
 - power-virtual-agents
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 relatedCertifications:
 - related:
     uid: certification.power-platform-functional-consultant-associate
@@ -51,7 +66,7 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -60,7 +75,7 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문

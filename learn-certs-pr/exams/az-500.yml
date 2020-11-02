@@ -6,19 +6,17 @@ metadata:
 uid: exam.az-500
 displayName: AZ-500
 summary: |-
-  <div>
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong> 본 시험의 내용은 2020년 9월 24일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드해 주십시오.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>본 시험 내용은 2020년 9월 24일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
   본 시험의 응시자는 엔드투엔드 인프라의 일부로 클라우드 및 하이브리드 환경에서 보안 제어 및 위협 보호, ID 및 액세스 관리, 데이터, 애플리케이션 및 네트워크 보호 등을 구현하는 실무 전문 지식을 갖추어야 합니다.
 
   Azure Security Engineer는 다양한 보안 도구을 사용하여 보안 상태를 유지하고, 취약점을 식별하고, 해결하며, 위협 보호를 구현하고, 보안 사고 에스컬레이션에 대응하는 업무를 담당합니다.
 
-  Azure Security Engineers는 종종 엔드투엔드 인프라의 일부로 클라우드 기반 관리 및 보안 또는 하이브리드 환경을 전담하는 대규모 팀의 일원으로 활동합니다.
+  Azure Security Engineer는 종종 엔드투엔드 인프라의 일부로 클라우드 기반 관리 및 보안 또는 하이브리드 환경을 전담하는 대규모 팀의 일원으로 활동합니다.
 
-  이 시험의 응시자는 스크립팅 및 자동화에 익숙해야하며 네트워킹 및 가상화에 대해 깊이 이해해야합니다. 또한 후보자는 클라우드 기능, Azure 제품 및 서비스, 기타 Microsoft 제품 및 서비스에 대해 잘 알고 있어야합니다.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다. ID 및 액세스 관리, 플랫폼 보호 구현, 보안 운영 관리, 데이터 및 애플리케이션 보안.'
+  이 시험의 응시자는 스크립팅 및 자동화에 익숙해야 하며 네트워킹 및 가상화에 대해 깊이 이해해야 합니다. 또한 후보자는 클라우드 기능, Azure 제품 및 서비스, 기타 Microsoft 제품 및 서비스에 대해 잘 알고 있어야 합니다.
+subTitle: '본 시험은 ID 및 액세스 관리, 플랫폼 보호 구현, 보안 운영 관리, 데이터 및 애플리케이션 보안에 대한 귀하의 수행 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC70
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -35,7 +33,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 내용은 2020년 9월 24일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 본 시험 내용은 2020년 9월 24일 목요일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
 - ID 및 액세스 관리 (30-35%)
 - 플랫폼 보호 구현 (15-20%)
 - 보안 운영 관리 (25-30%)
@@ -62,26 +60,26 @@ relatedCertifications:
 - related:
     uid: certification.azure-security-engineer
 resources:
-- title: 인증서로의 여정
-  description: Azure Security Engineer Associate 인증서를 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+- title: 인증으로의 여정
+  description: Azure Security Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AJyG
-- title: 교육 및 인증서 가이드
-  description: 간결한 교육 및 인증서 가이드에서 모든 인증서를 탐색하십시오.
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 인증서 포스터
-  description: 기초, 역할 기반 및 전문 인증서에 대한 개요를 확인합니다.
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
-- title: 인증서 시험 지원
+- title: 인증 시험 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
-- title: 인증서 대시보드
+- title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
-  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅시다.
+- title: 편의시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문
   description: 시험 정책과 자주 묻는 질문을 확인합니다.

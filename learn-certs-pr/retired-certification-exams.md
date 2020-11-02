@@ -2,19 +2,20 @@
 title: Microsoft Retired Exam | Microsoft Docs
 description: Microsoft Retired Exam
 documentationcenter: NA
-author: bipach
+author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 07/30/2019
-ms.author: micsullivan
+ms.author: msulliv
+ms.prod: non-product-specific
 ---
 # 중단 예정 시험
 
 향후 12개월 내에 중단될 예정인 시험이 기술 별로 등재된 목록입니다. (추후 변동될 수 있습니다.)
 
-| 2021년 1월 31일 일요일 중단 예정 |
-| --- |
+| 2021년 1월 31일 일요일 중단 예정 | |
+| --- | --- |
 | [70-333](/learn/certifications/exams/70-333): Deploying Enterprise Voice with Skype for Business 2015 |
 | [70-334](/learn/certifications/exams/70-334): Core Solutions of Microsoft Skype for Business 2015 |
 | [70-339](/learn/certifications/exams/70-339): Managing Microsoft SharePoint Server 2016 |
@@ -59,22 +60,17 @@ ms.author: micsullivan
 | [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
 | [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
 
-| 2020년 12월 31일 목요일 중단 예정 |
-| --- |
+| 2020년 12월 31일 목요일 중단 예정 | |
+| --- | --- |
 | [MB-200](/learn/certifications/exams/mb-200): Microsoft Power Platform + Dynamics 365 Core |
 | [MB-400](/learn/certifications/exams/mb-400): Microsoft Power Apps + Dynamics 365 Developer |
-
-| 2020년 9월 30일 수요일 중단 예정 |
-| --- |
-| [AZ-300](/learn/certifications/exams/AZ-300): Microsoft Azure Architect Technologies |
-| [AZ-301](/learn/certifications/exams/AZ-301): Microsoft Azure Architect Design |
 
 
 ## 최근 중단된 시험
 
 참고로 지난 한 해동안 중단된 시험에는 12개월 동안 시험 세부 정보 페이지로 연결되는 링크가 포함됩니다.
 
-| 역할 기반 | |
+| 역할 기반| | |
 | --- | --- | --- |
 | [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019년 5월 1일
 | [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019년 5월 1일
@@ -84,6 +80,8 @@ ms.author: micsullivan
 | AZ-201 | Microsoft Azure Developer Advanced Solutions (2018년 9월 24일에 릴리스) | 2019년 1월 3일
 | AZ-202 | Microsoft Azure Developer Certification Transition (2018년 9월 24일에 릴리스) | 2019년 3월 31일
 | [AZ-203](/learn/certifications/exams/AZ-203) | Microsoft Azure 용 솔루션 개발 | 2020년 8월 31일
+| [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 2020년 9월 30일
+| [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect 설계 | 2020년 9월 30일
 | [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019년 6월 30일
 | [MS-200](/learn/certifications/exams/ms-200) | 메시징 플랫폼 계획 및 구성’ | 2020년 8월 31일
 | [MS-201](/learn/certifications/exams/ms-201) | 하이브리드 및 보안 메시징 플랫폼 구현 | 2020년 8월 31일
@@ -116,7 +114,7 @@ ms.author: micsullivan
 | 70-532 | Developing Microsoft Azure Solutions | 2018년 12월 31일
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 2018년 12월 31일
 | 70-534 | Architecting Microsoft Azure Solutions | 2017년 12월 31일
-| 70-535 | Architecting Microsoft Azure Solutions | 2018년 12월 31일 
+| 70-535 | Architecting Microsoft Azure Solutions | 2018년 12월 31일
 | 70-680 | Windows 7, Configuring | 2018년 7월 31일
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 2018년 7월 31일
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 2018년 7월 31일

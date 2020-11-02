@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-400
 displayName: MB-400
 summary: |-
-  <div>
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong>본 시험은 2020년 12월 31일 중단됩니다. 새로운 시험인 <a href="/learn/certifications/exams/pl-400">PL-400</a>은 2020년 9월에 사용할 수 있습니다. 자세한 내용을 보려면, <a href="https://aka.ms/microsoftlearncommunity">블로그를 방문하여</a> 시험 중단에 관한 게시물을 검토하세요. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>본 시험 내용은 2020년 12월 31일 만료됩니다. 새로운 시험인 <a href="/learn/certifications/exams/pl-400">PL-400</a>은 2020년 9월에 사용할 수 있습니다. 참고&#58; 시험은 중부 표준시(CST) 기준으로 오후 11시 59분에 중단됩니다.</strong><br/><br/></div>
   </div>
 
   본 시험의 응시자는 Dynamics 365에서 Microsoft Power Apps 모델 기반 애플리케이션을 사용하여 Dynamics 365 구현을 설계, 개발, 보안 및 확장하는 개발자입니다. 응시자는 애플리케이션 향상, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성 요소를 구현해야 합니다.
@@ -16,7 +14,7 @@ summary: |-
   응시자는 사용자 지정, 구성, 통합 및 확장성뿐 아니라 경계와 제약에 대한 심층적인 이해를 포함하여 Dynamics 365의 Power Apps 모델 기반 앱에 대한 강력한 지식을 갖추고 있어야 합니다. 응시자는 Dynamics 365의 Power Apps 모델 기반 앱에 대한 DevOps 관행을 기본적으로 이해하고 있어야 합니다. 또한 응시자는 데이터를 공개, 저장 및 보고해야 합니다.
 
   응시자는 JavaScript, TypeScript, C#, HTML, .NET, Microsoft Azure, Office 365, RESTful Web Services, ASP.NET 및 Power BI를 포함하는 개발 경험이 있어야 합니다.
-subTitle: '본 시험은 기술 디자인 작성, Common Data Service (CDS) 구성, Power Apps 작성 및 구성, 비즈니스 프로세스 자동화 구성, 사용자 경험 확장, 플랫홈 확장, 및 통합 개발과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다.'
+subTitle: '이 시험은 기술 디자인 작성, Common Data Service (CDS) 구성, Power Apps 작성 및 구성, 비즈니스 프로세스 자동화 구성, 사용자 경험 확장, 플랫홈 확장, 및 통합 개발과 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
@@ -25,7 +23,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험 내용은 2020년 5년 22월 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
+- 본 시험 내용은 2020년 5월 22일 금요일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
 - 기술 디자인 작성 (10-15%)
 - Common Data Service 구성 (15-20%)
 - Power Apps 작성 및 배포 (10-15%)
@@ -53,7 +51,7 @@ relatedCertifications:
     uid: certification.power-apps-and-d365-developer-associate
 resources:
 - title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  description: 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rO
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
@@ -61,7 +59,7 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -70,7 +68,7 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문
