@@ -6,8 +6,7 @@ metadata:
 uid: exam.az-120
 displayName: AZ-120
 summary: |-
-  <div>
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>본 시험 내용은 2020년 7월 21일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>본 시험 내용은 2020년 9월 17일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
   본 시험의 응시자는 Microsoft Azure에서 SAP 솔루션의 장기간 운영과 관련된 SAP 시스템 환경 및 업계 표준에 대한 폭넓은 경험과 지식을 갖춘 설계자 또는 엔지니어입니다.
@@ -31,7 +30,7 @@ locales:
 levels:
 - advanced
 skills:
-- 본 시험 내용은 2020년 7년 21월 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 본 시험 내용은 2020년 9월 17일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
 - SAP 워크로드를 Azure로 마이그레이션 (10-15%)
 - SAP 워크로드를 지원하는 Azure 솔루션 설계 (20-25%)
 - SAP 워크로드용 Azure 구축 및 배포 (35-40%)
@@ -57,21 +56,21 @@ resources:
   description: Azure for SAP Workloads Specialty 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문

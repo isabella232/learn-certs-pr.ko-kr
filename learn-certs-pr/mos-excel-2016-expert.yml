@@ -5,12 +5,18 @@ metadata:
   description: 'Microsoft Office Specialist: Microsoft Excel 2016 Expert'
 uid: certification.mos-excel-2016-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: 이 인증서 Microsoft Office Specialist Expert 인증을 통해 핵심 Office 프로그램의 고급 기술을 입증 할 수 있습니다.
-subTitle: 이 인증서 Microsoft Office Specialist Expert 인증을 통해 핵심 Office 프로그램의 고급 기술을 입증 할 수 있습니다.
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+
+  Microsoft Office Specialist Expert 인증을 획득하여 Excel 2016에서 고급 기술을 보유하고 있음을 입증합니다. 본 인증을 위한 전문가 수준의 응시자는 Excel 환경에 대한 고급 지식을 보유하고 있으며 다른 사람들이 프로그램 기능을 올바르게 사용할 수 있도록 지원합니다.
+subTitle: 이 인증서 Microsoft Office Specialist Expert 인증을 통해 핵심 Office 프로그램의 고급 기술을 입증할 수 있습니다.
 levels:
 - advanced
 skills:
-- 없음
+- 통합 문서 옵션 및 설정 관리
+- 맞춤 데이터 형식 및 레이아웃 적용
+- 고급 수식 만들기
+- 고급 차트 및 표 만들기
 roles:
 - business-user
 type: mos
@@ -20,14 +26,15 @@ exams:
 - uid: exam.77-728
 resources:
 - title: 교육 및 인증 가이드
-  description: 간략 교육 및 인증 가이드에서 모든 인증을 설명합니다.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: 재응시하기
-  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+- title: 시험 재응시
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 지원
-  description: Microsoft 인증 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루만에 응답할 것입니다.
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+
