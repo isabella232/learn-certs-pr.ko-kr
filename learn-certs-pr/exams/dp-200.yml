@@ -6,17 +6,15 @@ metadata:
 uid: exam.dp-200
 displayName: DP-200
 summary: |-
-  <div>
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong> 본 시험의 내용은 2020년 9월 24일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>본 시험 내용은 2020년 9월 24일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
-  이 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 구현하기 위해 필요한 데이터 요구사항을 식별하고 충족하는 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.
+  본 시험은 비즈니스 이해관계자와 협력하여 Azure 데이터 서비스를 사용하는 데이터 솔루션을 구현하기 위해 필요한 데이터 요구사항을 식별하고 충족하는 Microsoft Azure 데이터 엔지니어를 대상 응시자로 하여 시행됩니다.
 
   Azure 데이터 엔지니어는 데이터 저장소 서비스 프로비저닝, 스트리밍 및 일괄 작업 데이터 수집, 데이터 변환, 보안 요구 사항 구현, 데이터 보존 정책 구현, 성능 병목 현상 확인, 외부 데이터 소스 액세스 등의 데이터 관련 구현 과제들을 담당합니다.
 
   본 시험 응시자는 다음의 Azure 서비스를 사용하는 데이터 솔루션을 구현할 수 있어야 합니다&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics (이전의 Azure SQL DW), Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks, 및 Azure Blob 저장소.
-subTitle: '본 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다: 데이터 저장소 솔루션 구현; 데이터 처리 관리 및 개발, 데이터 솔루션 모니터링 및 최적화.'
+subTitle: '이 시험은 다음과 같은 기술적 과제를 수행하는 능력을 측정합니다: 데이터 저장소 솔루션 구현; 데이터 처리 관리 및 개발, 데이터 솔루션 모니터링 및 최적화.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://us.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -29,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 내용은 2020년 9월 24일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
+- 본 시험 내용은 2020년 9월 24일 목요일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
 - 데이터 저장소 솔루션 구현 (40-45%)
 - 데이터 처리 관리 및 개발 (25-30%)
 - 데이터 솔루션 모니터링 및 최적화 (30-35%)
@@ -72,7 +70,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -81,7 +79,7 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문

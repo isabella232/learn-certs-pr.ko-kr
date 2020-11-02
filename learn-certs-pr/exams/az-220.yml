@@ -6,9 +6,8 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
-  <div>
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong> 본 시험의 내용은 2020년 9월 24일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong>본 시험 내용은 2020년 9월 24일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
   본 시험의 응시자는 Azure IoT 솔루션의 클라우드 및 에지 구성요소를 개발하는 실무 전문 지식을 갖추어야 합니다.
@@ -18,7 +17,7 @@ summary: |-
   IoT 개발자는 데이터 엔지니어 및 다른 이해 관계자와 협업하여 성공적인 비즈니스 통합을 보장합니다.
 
   본 시험의 응시자는 데이터 스토리지 옵션, 데이터 분석, 데이터 처리 및 서비스로서의 플랫폼(Platform-as-a-Service) 옵션을 포함하여 IoT 솔루션을 구성하는 Azure 서비스를 구현한 경험이 있어야 합니다. 또한 본 역할은 IoT 솔루션의 코드 부분 내에서 Azure IoT 서비스 구성 설정을 인식하고 C#, Node, C 또는 Python을 비롯한 하나 이상의 Azure 지원 언어로 특정 IoT 코딩 작업을 수행할 수 있어야 합니다.
-subTitle: '본 시험은 다음과 같은 IoT 솔루션 인프라 구현 능력을 측정합니다. 장치 프로비저닝 및 관리, Azure IoT Edge 장치에 솔루션 구현, 데이터 처리 및 관리, IoT 솔루션 모니터링, 문제 해결 및 최적화, 보안 구현.'
+subTitle: '본 시험은 장치 프로비저닝 및 관리, Azure IoT Edge 장치에 솔루션 구현, 데이터 처리 및 관리, IoT 솔루션 모니터링, 문제 해결 및 최적화, 보안 구현과 같은 IoT 솔루션 인프라 구현 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 practiceTestUrl: https://www.mindhub.com/p/MU-AZ-220?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -31,7 +30,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 내용은 2020년 9월 24일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
+- 본 시험 내용은 2020년 9월 24일 목요일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
 - IoT 솔루션 인프라 구현 (15-20%)
 - 장치 프로비저닝 및 관리 (20-25%)
 - Edge 구현 (15-20%)
@@ -64,7 +63,7 @@ resources:
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
@@ -73,7 +72,7 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문

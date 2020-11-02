@@ -6,20 +6,16 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div>
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong> 본 시험의 내용은 2020년 10월 2일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>본 시험 내용은 2020년 10월 2일 금요일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
-  본 시험은 고객 서비스 전문 Dynamics 365 기능 컨설턴트를 대상으로 합니다. 응시자는 서비스, 품질, 신뢰성, 효율성 및 고객 만족에 초점을 맞춘 옴니채널 솔루션을 구현해야 합니다.
+  Dynamics 365 Customer Service Functional Consultant는 서비스, 품질, 신뢰성, 효율성 및 고객 만족에 중점을 두는 옴니채널 솔루션 구현을 담당합니다.
   <br/>
 
-  응시자는 솔루션 설계자와 협력하여 제공하는 서비스 관리 시각화 및 보고서를 설계 및 구현하게 됩니다. 응시자는 Dynamics 365 관리자와 협력하여 기술 자료 및 Forms Pro와 같은 Power Platform 구성 요소를 구현하고 업그레이드하게 됩니다.
+  Dynamics 365 Customer Service Functional Consultant는 솔루션 설계자가 협업으로 제공하는 서비스 관리 시각화 및 보고서를 구현하고 설계합니다. Functional Consultant는 고객 참여 관리자와 협력하여 참조 자료 관리, 고객 피드백 및 연결된 서비스를 포함한 Power Platform 구성 요소를 구현하고 업그레이드합니다.
 
-  응시자는 사례, 참조 자료, 큐, 권리 유형, 서비스 수준 계약(SLA), 시각화 및 Unified Service Desk를 심층적으로 이해하고 Dynamics 365 Customer Service를 통해 사용자 요구를 충족시키는 데 충분한 지식 응용 능력을 보유하고 있어야 합니다.
-
-  응시자는 업계에서 사용되는 용어, 우선 순위, 표준, 방법론, 고객 서비스 운영, 모범 사례를 이해해야 합니다. 응시자는 솔루션 아키텍처 및 품질 보증에 관해 기본적인 수준으로 이해하고 있어야 하며, Dynamics 365 제품군과의 관계에서 고객 서비스 애플리케이션의 역할을 종합적으로 이해하고 있어야 합니다.
-subTitle: '본 시험은 구성 수행, 사례 및 기술 자료 관리, 큐, 권리 유형 및 SLA 관리, Forms Pro 구성과 같은 기술적 과제를 수행하는 능력을 측정합니다.'
+  Dynamics 365 Customer Service Functional Consultant는 산업 용어, 우선 순위, 표준, 방법론, 고객 서비스 운영 및 모범 사례 이해를 포함하여 고객 서비스에 대한 확실한 응용 지식이 있어야 합니다. 고객 서비스 전문 지식이 있는 Functional Consultant는 서비스 케이스, 참조 자료 관리, 큐, 권리 유형, 리소스 일정 관리, SLA(서비스 수준 계약), 시각화, 연결된 서비스, 고객 서비스 인사이트, Power Virtual Agent 및 고객 서비스를 위한 옴니채널을 포함하여 Dynamics 365 고객 서비스를 통해 사용자 니즈를 충족시키는 확실한 응용 지식이 있어야 합니다. Functional Consultant의 지식은 솔루션 아키텍처 및 품질 보증에 관해 기본적인 수준으로 이해하고 있어야 하며, Dynamics 365 제품군과의 관계에서 고객 서비스 애플리케이션의 역할의 종합적인 이해를 포함합니다.
+subTitle: '본 시험은 서비스 케이스 및 참조 자료 관리, 큐, 권리 유형 및 서비스 수준 계약 관리, 일정 관리 구현, 고객 서비스를 위한 옴니채널 구현 및 분석 관리 등의 기술 작업에 대한 수행 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVu
 practiceTestUrl: https://in.mindhub.com/mb-230-microsoft-dynamics-365-customer-service-microsoft-official-practice-test/p/MU-MB-230?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -29,11 +25,12 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 내용은 2020년 10월 2일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
-- 구성 수행 (25-30%)
-- 사례 및 기술 자료 관리 (30-35%)
-- 큐, 권리 유형 및 SLA(서비스 수준 계약) 관리 (25-30%)
-- Forms Pro 구성 (15-20%)
+- 본 시험 내용은 2020년 10월 2일 금요일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
+- 서비스 케이스 및 참조 자료 관리 (20-25%)
+- 큐, 권리 유형 및 SLA(서비스 수준 계약) 관리 (15-20%)
+- 일정 관리 구현 (10-15%)
+- 고객 서비스를 위한 옴니채널 구현 (30-35%)
+- 분석 관리 (10-15%)
 roles:
 - functional-consultant
 products:
@@ -53,24 +50,24 @@ relatedCertifications:
     uid: certification.d365-functional-consultant-customer-service
 resources:
 - title: 인증서 학습 경로
-  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  description: 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문

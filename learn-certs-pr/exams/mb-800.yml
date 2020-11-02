@@ -8,7 +8,7 @@ displayName: MB-800
 summary: |-
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
-  본 시험의 응시자는 중소기업의 핵심 애플리케이션 설정 프로세스를 구현하는 기능 컨설턴트입니다. 응시자는 핵심 앱 기능 및 모듈 설정과 Business Central로의 데이터 마이그레이션 을 포함하여 Dynamics 365 Business Central 앱을 구현하고 구성합니다.
+  본 시험의 응시자는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당하는 기능 컨설턴트입니다. 응시자는 핵심 앱 기능 및 모듈 설정과 Business Central로의 데이터 마이그레이션 을 포함하여 Dynamics 365 Business Central 앱을 구현하고 구성합니다.
 
   응시자는 구현 팀과 협업하여 사용자 인터페이스를 운영함으로써 관리 및 탐색 용이성을 기업에게 제공합니다. 기능 컨설턴트는 Power Platform 구성 요소를 사용하여 통찰력, 단서, 작업 타일, 보고서, 차트 조정 및 Business Central 확장을 포함하여 역할 센터를 구성합니다.
 
@@ -16,8 +16,8 @@ summary: |-
 
   본 시험의 응시자는 일반적으로 하나 이상의 Business Central 기능을 전문적으로 다룹니다. 응시자는 Dynamics 365 애플리케이션 제품군과 관련지어 Business Central의 역할을 이해합니다
 
-  <div><strong><br/>참고&#58; 본 시험은 2020년 10월 사용할 수 있습니다.</strong></div>
-subTitle: '본 시험은 2020년 10월 사용할 수 있습니다. 본 시험은 Business Central 설정, Financials 구성, Sales and Purchasing 구성 및 Business Central Operations 수행과 같은 작업 완성 능력을 측정합니다.'
+  <div><strong><br/>참고&#58; 본 시험은 2020년 10월 6일 또는 그 즈음에 사용할 수 있습니다.</strong></div>
+subTitle: '본 시험은 2020년 10월 6일 또는 그 즈음에 사용할 수 있습니다. 본 시험은 Business Central 설정, Financials 구성, Sales and Purchasing 구성 및 Business Central Operations 수행과 같은 작업 완성 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSE
 locales:
@@ -26,34 +26,47 @@ levels:
 - intermediate
 skills:
 - Business Central 설정 (20-25%)
-- Financials 구성 (25-30%)
-- Sales and Purchasing 구성 (10-15%)
+- 재무 구성 (25-30%)
+- 판매 및 구매 구성 (10-15%)
 - Business Central Operations 수행 (30-35%)
 roles:
 - functional-consultant
 products:
 - dynamics-business-central
 - power-platform
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
 relatedCertifications:
 - related:
     uid: certification.d365-business-central-functional-consultant-associate
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
 - title: 인증 시험 지원
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
   href: ../help.md
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문

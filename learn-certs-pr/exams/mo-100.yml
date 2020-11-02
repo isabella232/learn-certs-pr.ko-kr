@@ -9,7 +9,7 @@ summary: |-
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
   이 시험은 전문가 수준의 보고서, 여러 열로 된 뉴스 레터, 이력서 및 비즈니스 서신을 작성하고 유지하는 능력을 다룹니다. 응시자는 Word의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
-subTitle: 이 시험은 다양한 목적과 상황에 맞게 문서를 작성하고 편집하여 Word의 주요 기능을 올바르게 적용하는 능력을 측정 합니다. 그 시험은 전문적으로 보이는 보고서, 다단기 뉴스레터, 이력서, 그리고 사업상의 서신들을 만들고 유지하는 능력을 다룹니다.
+subTitle: 이 시험은 다양한 목적과 상황에 맞게 문서를 작성하고 편집하여 Word의 주요 기능을 올바르게 적용하는 능력을 측정합니다. 시험은 전문적으로 보이는 보고서, 다단 뉴스레터, 이력서, 그리고 사업상의 서신들을 만들고 유지하는 능력을 다룹니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
 providers:
@@ -42,7 +42,7 @@ skills:
 - 그래픽 요소 삽입 및 설정 (15-20%)
 - 문서 협업 관리 (5-10%)
 roles:
-- developer
+- business-user
 products:
 - office
 - office-word
@@ -56,7 +56,7 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문

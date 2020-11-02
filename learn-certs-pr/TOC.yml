@@ -1,10 +1,10 @@
-- name: Microsoft 인증
+- name: Microsoft Certifications
   href: index.yml
 - name: Offers
   href: deals.md
 - name: 볼륨 라이선싱
   href: volume-licensing-program.md
-- name: Microsoft Learning Partners
+- name: Microsoft 학습 파트너
   href: partners.md
 - name: 중단된 인증, 시험 및 과정
   expanded: false
@@ -15,19 +15,44 @@
     href: retired-certification-exams.md 
   - name: 중단된 과정
     href: retired-courses.md
-- name: Microsoft Certified Trainer 소개
+- name: Microsoft Certified Trainer 되기
   href: mct-certification.md
 - name: Microsoft Certification 시험 정보
   href: certification-exams.md
 - name: Microsoft Exam and Certification Badges
   href: badges.md
-- name: About online exams
+- name: Pearson VUE 관련 온라인 시험 정보
   href: online-exams.md
+- name: PSI 관련 온라인 시험 정보
+  href: online-exams-psi.md
 - name: 시험 정책 및 자주 묻는 질문
-  href: certification-exam-policies.md
+  expanded: false
+  items:
+  - name: 시험 프로세스 개요
+    href: exam-process-overview.md  
+  - name: 시험 보안 정책 및 시험 재응시 정책
+    href: exam-security-policy-and-exam-retake-policy.md
+  - name: 시험 일정 변경 및 취소 정책
+    href: exam-reschedule-and-cancellation-policy.md
+  - name: Microsoft 인증 프로그램 계약
+    href: microsoft-certification-program-agreement.md
+  - name: Microsoft 시험 비밀 유지 계약
+    href: microsoft-exam-non-disclosure-agreement.md
+  - name: 편의 시설 요청
+    href: request-accommodations.md
+  - name: 시험 문항 이의 제기 절차
+    href: exam-item-challenge-process.md
+  - name: 베타 시험
+    href: beta-exams.md
+  - name: 인증 시험 대학교 학점으로 인정
+    href: college-credit-for-certification-exams.md
+  - name: 학생 할인
+    href: student-discounts.md
 - name: 인증 도움말
   href: help.md
-- name: Microsoft Certification program 규약 
+- name: Microsoft Official Courseware (MOC) 도움말
+  href: certification-and-training-help.md
+- name: Microsoft Certification 프로그램 자주 묻는 질문(FAQ) 
   href: microsoft-certification-program-faqs.md
 - name: Microsoft Learning을 이전 중 ...
   href: learnfaq.md

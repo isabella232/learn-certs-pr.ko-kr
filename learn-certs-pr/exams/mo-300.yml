@@ -30,6 +30,8 @@ locales:
 - pl
 - el-gr
 - zh-cn
+- zh-tw
+- ja
 levels:
 - intermediate
 skills:
@@ -39,7 +41,7 @@ skills:
 - 표, 차트, SmartArt, 3D 모델, 미디어 삽입
 - 전환 및 애니메이션 적용
 roles:
-- developer
+- business-user
 products:
 - office
 - office-powerpoint
@@ -48,12 +50,12 @@ relatedCertifications:
     uid: certification.mos-powerpoint-2019
 resources:
 - title: 교육 및 인증 가이드
-  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: 인증 대시보드
-  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: 편의 시설 요청
+- title: 편의시설 요청
   description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
   href: ../request-accommodations.md
 - title: 시험 정책 및 자주 묻는 질문

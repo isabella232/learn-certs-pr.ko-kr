@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Power Platform Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Platform Developer Associate'
-  description: 본 인증은 2020년 9월 25일 금요일 또는 그 즈음에 사용할 수 있습니다. Microsoft Power Platform Developer Associate 인증의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 합니다.
+  description: Microsoft Power Platform Developer Associate 인증의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 합니다.
 uid: certification.power-platform-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
@@ -13,9 +13,7 @@ summary: |-
   Power Platform 서비스에 대한 확실한 응용 지식이 있어야 합니다. 응시자는 기능, 경계 및 제약 조건에 대해 심층적으로 이해해야 합니다. Power Platform에 대한 DevOps 관행을 기본적으로 이해하고 있어야 합니다.
 
   해당 역할을 위한 개발 경험에는 Power Platform 서비스, JavaScript, TypeScript, C#, HTML, JSON, .NET, Microsoft Azure, Microsoft 365, RESTful Web Services, ASP.NET 및 Power BI를 포함하여야 합니다.
-
-  <div><br/><strong>참고&#58; 본 인증은 2020년 9월 25일 금요일 또는 그 즈음에 사용할 수 있습니다.</strong></div>
-subTitle: 본 인증은 2020년 9월 25일 금요일 또는 그 즈음에 사용할 수 있습니다. Microsoft Power Platform Developer Associate 인증의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 합니다.
+subTitle: Microsoft Power Platform Developer Associate 인증의 응시자는 Power Platform 솔루션 설계, 개발, 보안 및 문제 해결을 합니다.
 levels:
 - intermediate
 skills:
@@ -33,6 +31,16 @@ products:
 - power-platform
 - power-apps
 - common-data-service
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.integrate-power-platform
+- uid: learn-dynamics.use-power-apps-component-framework
+- uid: learn-bizapps.administer-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhzw
 exams:
 - uid: exam.pl-400
@@ -46,7 +54,7 @@ resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Replay
+- title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: deals.md
 - title: 인증 대시보드
