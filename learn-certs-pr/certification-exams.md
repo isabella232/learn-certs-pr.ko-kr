@@ -1,7 +1,7 @@
 ---
 title: About Microsoft Certification exams | Microsoft Docs
-description: About Microsoft Certification exams 
-documentationcenter: NA 
+description: About Microsoft Certification exams
+documentationcenter: NA
 author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -27,11 +27,11 @@ Microsoft Certification은 경력을 시작하여 정상에 도달할 수 있게
 
 #### 강사 지도식 교육
 
-[Microsoft Certified Trainers로부터 제공되는 Microsoft 기술의 교실 교육 및 수요 있는 과정을 받아보십시오.](https://www.microsoft.com/learning/find-partner.aspx)
+[Microsoft Certified Trainers로부터 제공되는 Microsoft 기술의 교실 교육 및 수요 있는 과정을 받아보십시오.](/learn/certifications/partners)
 
 #### 무료 온라인 교육 살펴보기
 
-단계별 안내를 통해 새로운 기술 능력을 익히고 Microsoft 제품의 강력한 기능을 확인할 수 있습니다.  
+단계별 안내를 통해 새로운 기술 능력을 익히고 Microsoft 제품의 강력한 기능을 확인할 수 있습니다.
 [지금 바로 학습 경로와 모듈을 살펴보면서 여러분의 여정을 시작하세요.](/learn/browse/)
 
 #### Microsoft 공식 연습 시험
@@ -86,14 +86,12 @@ Microsoft Certification은 경력을 시작하여 정상에 도달할 수 있게
 	<br/>
 </div>
 
-
 #### 중요 영역(0:17)
 
 <div>
 	<a href="https://youtu.be/vWyzLlyi4oY" target="_blank"><img width="450px" src="images/hot-area.jpg" alt="Hot area"/></a>
 	<br/>
 </div>
-
 
 #### 다지선다형(0:37)
 
@@ -102,14 +100,12 @@ Microsoft Certification은 경력을 시작하여 정상에 도달할 수 있게
 	<br/>
 </div>
 
-
 #### 반복 답변 선택(0:20)
 
 <div>
 	<a href="https://youtu.be/fb4KSwY_dxo" target="_blank"><img width="450px" src="images/repeated-answer-choices.jpg" alt="Repeated answer choices"/></a>
 	<br/>
 </div>
-
 
 #### 단답형(0:29)
 
@@ -118,14 +114,12 @@ Microsoft Certification은 경력을 시작하여 정상에 도달할 수 있게
 	<br/>
 </div>
 
-
 #### 랩(2:58)
 
 <div>
 	<a href="https://www.microsoft.com/en-us/videoplayer/embed/RE4ppkp" target="_blank"><img width="450px" src="images/labs.jpg" alt="Labs"/></a>
 	<br/>
 </div>
-
 
 #### 표시 검토(0:33)
 
@@ -175,7 +169,6 @@ Microsoft 인증 시험은 Microsoft 제품이 전세계 조직에서 사용되�
 9. 시험의 수명 유지/관리.
 Microsoft는 시험 수명 동안 시험의 심리측정학적 성능을 모니터링하여 기술 도메인에서 유효하고 신뢰할 수 있는 척도로 계속 사용되도록 합니다. 심리측정학적 분석을 위해 더 이상 쓸 수 없는 문제는 제거되고 새로운 기능이 업데이트되거나 심리측정학적 이유로 또는 기술 변경으로 인해 제거된 항목을 대체하기 위한 새 문제가 추가됩니다.
 
-
 ## 베타 시험 참여
 
 베타 시험은 시험 개발 프로세스의 중요한 부분입니다. 점수를 산정하기 전에 베타 형식의 시험을 통해 문항의 기술 정확성, 타당성 및 심리측정학적 특성을 평가할 수 있는 유용한 정보를 얻을 수 있습니다.
@@ -184,7 +177,7 @@ Microsoft는 시험 수명 동안 시험의 심리측정학적 성능을 모니�
 
 Microsoft 베타 시험은 80% 할인된 가격으로 응시할 수 있습니다(코드가 필요함). 80% 할인을 사용하여 베타 시험을 응시한 응시자는 여기에 설명한 것처럼 재채점을 완료한 후 다음 시험에서 25% 할인을 받습니다. [Microsoft 베타 시험 프로그램 업데이트](/learn/certifications/posts/updates-on-microsoft-beta-exam-program). _이 할인은 일반적으로 모든 베타 참여자에게 제공되지 않습니다. 다른 방법으로 베타 시험 비용을 지불한 경우 25% 할인 쿠폰을 받을 수 없습니다._
 
-코드를 받으려면 SME 프로필 데이터베이스의 구성원이거나 [시험 정책 및 FAQ 페이지](/learn/certifications/certification-exam-policies) 왼쪽에 있는 공지 섹션에서 코드를 받을 수 있습니다. SME 프로필 데이터베이스 프로그램에 해당하는 응시자는 베타 시험 응시에 사용할 수 있는 고유 할인 코드를 받게 되며 이로부터 한정된 베타 시험 응시 기회를 최대한 제공받을 수 있습니다.
+코드를 얻으려면, SME Profile 데이터베이스의 구성원이거나, [Microsoft Learn Blog](https://aka.ms/learningblog)의 공지 사항에서 얻을 수 있습니다. SME 프로필 데이터베이스 프로그램에 해당하는 응시자는 베타 시험 응시에 사용할 수 있는 고유 할인 코드를 받게 되며 이로부터 한정된 베타 시험 응시 기회를 최대한 제공받을 수 있습니다.
 
 SME Profile 데이터베이스 프로그램은 이제 [Microsoft Collaborate](https://aka.ms/collaborate)에서 운영합니다. 커뮤니티 블로그 를 참조하십시오 [시험 작성 도움말 및 학습 내용! 지금 SME 데이터베이스에 가입하세요!](/learn/certifications/posts/help-us-create-exams-and-learning-content) 을 참조하여 위 프로그램에 참가하는 방법을 안내받으세요.
 
@@ -220,9 +213,5 @@ SME Profile 데이터베이스 프로그램은 이제 [Microsoft Collaborate](ht
 
 베타 시험를 확인하시려면(정식 시험이 시작되었거나, 이를 알리는 트윗을 본 후) 먼저 시험 제공업체가 점수를 온라인에 공개했는지 확인하십시오. 아니면 시험 제공업체에 문의하십시오. (베타 점수를 온라인에서 확인할 수 있을 때까지 최종 시험 버전이 공개된 후 최대 2주 걸릴 수 있습니다.) 시험 제공업체가 점수를 게시했으나 Microsoft 성적표에서 점수를 볼 수 없는 경우, [인증 지원](https://aka.ms/mcpforum)에 문의하십시오.
 
-## 귀하의 지식과 기술 능력을 차별화하십시오. 
+## 귀하의 지식과 기술 능력을 차별화하십시오.
 [모든 인증 시험을 찾아보십시오.](/learn/certifications/browse/?resource_type=examination)
-
-
-
-

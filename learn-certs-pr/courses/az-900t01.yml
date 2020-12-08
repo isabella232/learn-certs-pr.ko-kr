@@ -11,7 +11,7 @@ iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 일반 클라우드 컴퓨팅 개념 이해
 - skill: Microsoft Azure에서 사용할 수 있는 핵심 서비스 이해
-- skill: Microsoft Azure를 통한 보안, 개인정보보호, 규정 준수 및 신뢰 이해
+- skill: Microsoft Azure를 통한 보안, 개인정보 보호, 규정 준수 및 신뢰 이해
 - skill: Microsoft에서 사용할 수 있는 가격 및 지원 모델 이해
 learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
@@ -39,7 +39,7 @@ summary: |-
   #### 대상 그룹 프로필
   본 과정은 프로그램 관리자 및 IT에 대한 일반적인 지식을 가진 기술 영업 담당자에 적합합니다. 학생들은 당사의 제안에 대해 학습하고, 구성 요소가 구현되는 방법을 확인하며, 제품 및 기능에 대해 질문하려고 합니다. 본 과정에서는 학생들이 실습 활동에 참여할 수 있는 Azure Pass나 수업 시간은 제공하지 않습니다. 학생들은 무료 평가판을 얻을 수 있고 교실 밖에서 실습을 할 수 있습니다. 본 과정은 주로 강의와 데모로 구성되어 있습니다. 본 과정은 AZ-900 exam&#58; security, privacy, compliance and trust with Microsoft Azure을
 prerequisitesSection: |-
-  본 과정을 수강하기 위한 필수 요구 사항은 없습니다. 기술적인 IT 경험은 요구되지 않지만, 일반적인 IT 지식 또는 경험은 이점이 될 것입니다.
+  이 과정을 수강하기 위한 전제 조건은 없습니다. 기술적 IT 경험은 필요하지 않지만 일반적인 IT 지식이나 경험이 있으면 도움이 될 것입니다.
 outlineSection: |-
   ### 모듈 1&#58; 클라우드 개념
   본 모듈에서는 기본적인 클라우드 개념을 설명합니다.
@@ -62,8 +62,7 @@ outlineSection: |-
   - Azure 관리 도구
 
   이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다&#58;
-  - 에서 사용할 수 있는 핵심 서비스 이해
-  Microsoft Azure
+  - 에서 사용할 수 있는 핵심 서비스 이해 Microsoft Azure
 
   ### 모듈 3&#58; 보안, 개인 정보 보호, 규정 준수 및 신뢰
   이 모듈에서는 Microsoft Azure의 보안, 개인 정보 보호, 규정 준수 및 신뢰에 대해 설명합니다.
@@ -87,4 +86,3 @@ outlineSection: |-
 
   이 모듈을 완료하면 학생들은 다음을 습득할 수 있습니다&#58;
   - Microsoft에서 사용할 수 있는 서비스 수명 주기 모델 이해
-

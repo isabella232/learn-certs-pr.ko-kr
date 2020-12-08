@@ -30,22 +30,25 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft Volume Licensing [M
 
 * Microsoft Imagine Academy (유자격 기관용)
 
-  Microsoft Imagine Academy 프로그램은 최신 Microsoft 기술을 최신 상태로 유지하기 위한 21세기 기술 교육 과정을 제공합니다. 교육자는 기술 교육 계획, e-러닝, 학생 프로젝트 및 평가를 모든 연령 및 경험 수준에 따라 학생을 위한 새 교육 과정 또는 기존 교육 과정에 쉽게 통합할 수 있습니다. 또한, Imagine Academy 프로그램은 교육자와 직원들에게 전문적인 개발 기회를 제공합니다.
+  Microsoft Imagine Academy (MSIA) 프로그램은 기술 과정, 교육 리소스 및 기술 혜택과 수요가 많은 인력/경력 기술에 맞춘 관련 혜택 입니다. 포괄적인 학습 경로와 커리큘럼은 학생들이 업계에서 인정하는 인증 및 취업을 성공적으로 달성할 수 있게 해줍니다. 교육 자료에는 Microsoft Office Specialist, Microsoft Technology Associate, 및 Microsoft Fundamentals 인증 준비를 위한 커리큘럼이 포함됩니다.
 
-  Imagine Academy는 다음 기능을 제공합니다:
+  Microsoft Imagine Academy는 다음을 제공합니다:
 
-  * Microsoft 온라인 학습 과정에 대한 액세스
-  * 학생 진행 상황을 추적하고 모니터링하는 강사 학습관리 시스템 (LMS)
-  * 공식 코스웨어 할인 (학술기관에서만 가능)
-  * Microsoft 브랜드 및 공식 인증과의 연관성을 홍보하기 위한 마케팅 리소스
+  * 교육자/ 직원 전문성 개발을 위한 30개의 무료 인증 시험 바우처 (MOS, MTA, Fundamentals, and MCE) VL 계약 당 (학교에서 공유)
+  * 생산성(MOS) 과정 및 초급 IT (MTA) 과정을 위한 과정 콘텐츠 패키지 – MOAC
+  * MOS 2016 및 MOS 2019/O365 시험 학습 가이드
+  * MCT (Microsoft Certified Trainer) 프로그램 50% 할인
+  * Microsoft Official Courseware (MOC) 콘텐츠에 대한 액세스
+  * 사용자 정의 가능한 과정 수료 증명서
+  * Microsoft Press Books 40% 할인
 
-  대학 및 경력 준비 교육 프로그램은 모든 인가된 교육 기관에서 구독 기반 회원 자격으로서 이용할 수 있습니다. [Microsoft Imagine Academy 프로그램](https://www.microsoft.com/en-us/education/imagine-academy/default.aspx)에 참여하려면 특정 [표준 및 요구 사항](https://edudownloads.azureedge.net/msdownloads/Imagine_Academy_Program_Guide_10_languages.zip)을 유지해야 합니다.
+  Microsoft Imagine Academy (MSIA) 액세스는 EES (Enrollment for Education Solutions), School, 및 OVS-ES (Open Value Subscription – Education Enrollment subscriptions) 볼륨 라이선스 구독을 새로 구매하거나 갱신할 때 프로그램 기술 혜택으로 추가비용 없이 사용할 수 있습니다.
 
 * 교육 기관용 Microsoft 인증 시험 팩
 
-  Microsoft 인증을 통해 학생들의 기술 능력을 검증하고 차별화하며 교육 및 경력 전망을 향상시킬 수 있습니다. 또한 Microsoft 인증을 통해 교직원 및 직원의 전문적인 개발 목표를 지원할 수 있습니다. Microsoft 학술 볼륨 라이선싱 계약에 Microsoft Imagine Academy 구독을 추가하여 완벽한 기술 교육 솔루션을 얻을 수 있습니다.
+  Microsoft 인증을 통해 학생들의 기술 능력을 검증하고 차별화하며 교육 및 경력 전망을 향상시킬 수 있습니다. 또한 Microsoft 인증을 통해 교직원 및 직원의 전문적인 개발 목표를 지원할 수 있습니다.
 
-  Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA), Microsoft Certified Professional (MCP)을 포함하여 Microsoft 인증을 획득할 수 있는 시험 클래스 및 사이트 팩을 주문할 수 있습니다. 인증 시험 클래스 및 사이트 팩에는 1년 과정에 사용할 수 있는 특정 수의 시험 쿠폰이 포함되어 있습니다. 고등학교든, 2년제 대학이든, 4년제 대학이든 각자의 필요에 맞게 다양한 인증을 조정할 수 있습니다.
+  Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA), Fundamentals, 및 Microsoft Certified Professional 인증을 포함하여 학생들이 Misrosoft Certification을 취득하는 길로 안내하는 시험 및 사이트 팩을 주문할 수 있습니다. 인증 시험 클래스 및 사이트 팩에는 1년 과정에 사용할 수 있는 특정 수의 시험 쿠폰이 포함되어 있습니다. 고등학교든, 2년제 대학이든, 4년제 대학이든 각자의 필요에 맞게 다양한 인증을 조정할 수 있습니다.
 
   | 인증 제품 | 설명 | 사이트/클래스 팩당 시험 쿠폰 수 |
   | --- | --- | --- |
@@ -53,32 +56,28 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft Volume Licensing [M
   | MTA/MCE 및 MOS/MCE 사이트 팩| MTA/MCE 또는 MOS/MCE 시험의 조합으로 사용할 수 있는 125개의 시험 패키지. MOS 시험은 학생들이 고등 교육을 받거나 직장에 들어갈 때 차별화되고 성공 가능성을 향상시키면서, 기업이 필요로 하는 Office 기술에 대한 전반적인 이해와 깊은 전문 지식을 검증합니다. MTA 시험은 학생들이 고급 기술 교육 및/또는 인증을 준비하는 데 도움이 되도록 인프라, 데이터베이스 및 개발의 핵심 기술 개념을 검증합니다. MTA 인증은 한 학기에 취득할 수 있으며, 초급 수준 IT 직책을 수행할 수 있는 능력과 책임을 입증하는 데 사용할 수 있습니다. Microsoft Certified Educator (MCE) 프로그램은 교육자가 ICT (정보 및 통신 기술)과 강의실 교육에 대한 동급 최고의 통합을 지원하는 강력한 도구를 제공합니다. 교육자를 위한 유네스코 ICT 역량 프레임워크에 매핑됩니다. | 125 |
   | Microsoft Certified Professional 클래스 팩 | Microsoft Certified Professional 시험 쿠폰은 MCSA(Microsoft Certified Solutions Associate), MCSE(Microsoft Certified Solutions Expert) 또는 MCSD(Microsoft Certified Solutions Developer) 인증을 획득하는 데 사용할 수 있습니다. 이러한 인증은 오늘날의 IT 경력에 필수적인 기술을 검증합니다. MCSA 인증은 핵심 플랫폼 기술을 검증하고, MCSD 및 MCSE는 솔루션을 설계, 구축 및 구현하는 데 필요한 기술 전문 지식을 검증합니다. | 30 |
 
-  다음의 Microsoft 학술 볼륨 라이선싱 프로그램을 통해 연간 Microsoft Imagine Academy 멤버십 및 Microsoft 인증 시험 팩을 주문할 수 있습니다.
+  다음 Microsoft Academic Volume Licensing 프로그램을 통해서 Microsoft Certification 시험 팩을 주문할 수 있습니다:
 
-  * 교육 솔루션 등록 (EES)
-  * 학교 등록 (캠퍼스 및 학교 계약에 따름)
-  * 교육 기관용 추가 기능 선택
-
-  자세한 내용은 교육 기관 라이선싱 재판매인에게 문의하거나 [산업을 위한 Microsoft 라이선싱 프로그램](http://www.microsoft.com/licensing/licensing-options/for-industries.aspx) 페이지를 방문하십시오.
+  EES (Enrollment for Education Solutions), School, 및 OVS-ES (Open Value Subscription – Education Enrollment subscriptions) 볼륨 라이선스 구독. 자세한 내용은 Academic Licensing Reseller에 문의하거나 [산업용 Microsoft Licensing 프로그램](https://www.microsoft.com/licensing/licensing-options/for-industries.aspx) 페이지를 방문하십시오.
 
   **추가 볼륨 라이선싱 교육 기관 인증 리소스**
 
-  * [Microsoft Imagine Academy 프로그램 혜택 가이드](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft Imagine Academy Program](https://www.microsoft.com/en-us/education/imagine-academy)
   * [교육 기관 데이터시트 용 Microsoft 인증](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
   * [Microsoft Imagine Academy 인증 로드맵](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
   * [교육 기관 볼륨 라이선싱 데이터 시트용 Microsoft 인증 시험 팩](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 추가 볼륨 라이선싱 학술 e-러닝 리소스
 
-  Microsoft 인증을 통해 학생들의 기술 능력을 검증하고 차별화하며 교육 및 경력 전망을 향상시킬 수 있습니다. 또한 Microsoft 인증을 통해 교직원 및 직원의 전문적인 개발 목표를 지원할 수 있습니다. Microsoft 학술 볼륨 라이선싱 계약에 Microsoft Imagine Academy 구독을 추가하여 완벽한 기술 교육 솔루션을 얻을 수 있습니다.
+  Microsoft 인증을 통해 학생들의 기술 능력을 검증하고 차별화하며 교육 및 경력 전망을 향상시킬 수 있습니다. 또한 Microsoft 인증을 통해 교직원 및 직원의 전문적인 개발 목표를 지원할 수 있습니다.
 
-  Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA), Microsoft Certified Professional (MCP)을 포함하여 Microsoft 인증을 획득할 수 있는 시험 클래스 및 사이트 팩을 주문할 수 있습니다. 인증 시험 클래스 및 사이트 팩에는 1년 과정에 사용할 수 있는 특정 수의 시험 쿠폰이 포함되어 있습니다. 고등학교든, 2년제 대학이든, 4년제 대학이든 각자의 필요에 맞게 다양한 인증을 조정할 수 있습니다.
+  Microsoft Office Specialist (MOS), Microsoft Technology Associate (MTA), Fundamentals, 및 Microsoft Certified Professional 인증을 포함하여 학생들이 Microsoft Certification을 취득하는 길로 안내하는 시험 수업 및 사이트 팩을 주문할 수 있습니다. 인증 시험 클래스 및 사이트 팩에는 1년 과정에 사용할 수 있는 특정 수의 시험 쿠폰이 포함되어 있습니다. 고등학교든, 2년제 대학이든, 4년제 대학이든 각자의 필요에 맞게 다양한 인증을 조정할 수 있습니다.
 
   Microsoft는 더 이상 볼륨 라이선싱에서 e-러닝을 판매하지 않습니다. 다음 리소스는 기존 계약에 따라 여전히 당사의 e-러닝 콘텐츠를 소비하는 고객을 위한 것입니다. 볼륨 라이선싱 e-러닝 구매를 배포, 구성 및 관리하는 데 도움이 됩니다.
 
   * [온라인 사용을 위한 볼륨 라이선싱 온라인 서비스 관리자 가이드](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
   * [온라인 사용을 위한 볼륨 라이선싱 최종 사용자/학생 가이드](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Microsoft Imagine Academy 프로그램](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Imagine_Academy_FactSheet.pdf)
+  * [Microsoft Imagine Academy program](https://www.microsoft.com/en-us/education/imagine-academy)
   * [교육 기관 용 Microsoft 인증](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
   * [Microsoft Imagine Academy 인증 로드맵](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
   * [교육 기관 볼륨 라이선싱 Microsoft 인증 시험 팩](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
@@ -169,10 +168,6 @@ Microsoft 교육 및 인증 솔루션은 1계층의 단일 패키지 가격 책�
 **질문: MCP (Microsoft Certified Professional) 클래스 팩, MOS (Microsoft Office Specialist) 사이트 팩 및 MTA (Microsoft Technology Associate) 사이트 팩에 포함된 시험을 준비하는 데 사용할 수 있는 교육 과정 옵션은 무엇입니까?**
 
 각 시험에는 사용 가능한 준비 자료가 있습니다. [새 시험 목록](/learn/certifications/browse/?resource_type=examination)에서 시험을 선택한 다음 시험에 사용할 수 있는 준비 옵션을 찾으십시오.
-
-**질문: 볼륨 라이선싱을 통해 Microsoft 인증 시험 클래스 또는 사이트 팩을 주문하려면 기관이 Microsoft Imagine Academy 자격이 있어야 합니까?**
-  
-아니요. 볼룸 라이선싱을 통해 구매할 수 있는 클래스 또는 사이트 팩 내의 모든 Microsoft 인증 시험은 인가된 기관에서 구매하며 상환할 수 있습니다.
 
 **질문: MCP 클래스 팩은 어떻게 처리됩니까?**
 

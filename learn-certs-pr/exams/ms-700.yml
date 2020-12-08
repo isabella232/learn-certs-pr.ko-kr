@@ -6,8 +6,8 @@ metadata:
 uid: exam.ms-700
 displayName: MS-700
 summary: |-
-  <div><div style='color&#58; red;'>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5년 28월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong>이 시험의 내용은 2020년 11월 24일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
   본 시험의 응시자는 조직의 Microsoft Teams 관리자입니다. Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리합니다.
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험 내용은 2020년 5년 28월에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 이 시험의 내용은 2020년 11월 24일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 시험 기술 개요를 다운로드하십시오.
 - Microsoft Teams 환경 계획 및 구성 (45-50%)
 - 채팅, 통화, 및 회의 관리 (30-35%)
 - Teams 및 앱 정책 관리 (20-25%)

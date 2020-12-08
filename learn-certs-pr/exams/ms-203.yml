@@ -6,7 +6,10 @@ metadata:
 uid: exam.ms-203
 displayName: MS-203
 summary: |-
+  <div>
   <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
+  <div><strong>이 시험의 내용은 2020년 11월 24일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  </div>
 
   본 시험은 하이브리드 및 클라우드 엔터프라이즈 환경에서 메일, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 메시징 관리자를 대상 응시자로 합니다.
 
@@ -18,12 +21,14 @@ summary: |-
 subTitle: '본 시험은 조직 설정 및 리소스 관리, 메일 아키텍처 계획 및 관리, 하이브리드 구성 및 마이그레이션 계획 및 구현, 메시징 환경 보호 등의 기술적 작업을 수행할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4xqnc
+practiceTestUrl: https://in.mindhub.com/ms-203-microsoft-365-messaging-microsoft-official-practice-test/p/MU-MS-203?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MS-203&examname=Exam%20MS-203:%20Microsoft%20365%20Messaging&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-203
 locales:
 - en
 levels:
 - intermediate
 skills:
+- 이 시험의 내용은 2020년 11월 24일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 시험 기술 개요를 다운로드하십시오.
 - 최적화 설정 및 리소스 관리(30-35%)
 - 메일 아키텍처 계획 및 관리(20-25%)
 - 하이브리드 구성 및 마이그레이션 계획 및 구현 (20-25%)

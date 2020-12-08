@@ -1,7 +1,7 @@
 ---
 title: 'Microsoft Certification Program Agreement | Microsoft Docs'
 description: 'Microsoft 인증 프로그램 계약'
-documentationcenter: NA 
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -11,8 +11,6 @@ ms.author: msulliv
 ms.prod: non-product-specific
 ---
 # Microsoft 인증 프로그램 계약
-
-## 정책 및 계약
 
 Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"** 또는 **"사용자의"**)와 Microsoft(**"Microsoft"**) 사이의 Microsoft Certification Program(**“프로그램”**)에 관한 법적 효력이 있는 문서입니다. 본 규약의 약관은 (a) 사용자가 획득한 모든 Microsoft 인증 및 (b) Microsoft Certification Program 혜택, 및 Microsoft가 프로그램의 일부로 사용자에게 제공하는 모든 Microsoft 인증 자격 증명의 액세스 및 사용을 비롯하여 모든 해당 프로그램 참여에 적용됩니다. 본 약관을 주의 깊게 읽으십시오. Microsoft Certification Program 혜택, 또는 Microsoft 인증 자격증명에 액세스하거나 사용하면 본 규약의 약관에 동의한 것으로 간주됩니다. 본 규약에 동의하지 않는 경우 Microsoft Certification Program 혜택, 또는 Microsoft 인증 자격 증명에 액세스하거나 사용하지 마십시오.
 
@@ -24,7 +22,6 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
    4. "***Microsoft 인증***"이란 시험 필수 조건을 통과하거나 관련 자격 증명 또는 로고를 사용할 수 있는 모든 인증 또는 재인증 요건의 규정 준수를 충족 및 유지하는 상태를 의미합니다. 최신 Microsoft 인증 목록은 에서 검토할 수 있습니다 [Microsoft Certifications](https://docs.microsoft.com/learn/certifications/browse/?type=role-based).
    5. "***Microsoft 인증 자격 증명***" 또는"***자격 증명***"이란 특정 Microsoft 인증에 대해 개인이 요건을 준수한다는 것을 나타내는 데 사용되는 Microsoft 인증의 전체 또는 약식 제목을 의미합니다.
    6. "***Microsoft 인증 시험***" 또는 "***시험***"이란 해당 시험과 관련된 특정 Microsoft 기술에 대한 개인의 능력을 검증하는 데 도움이 되도록 설계된 Microsoft 인증 시험을 의미합니다.
-
 
 2. Microsoft 인증
    1. *Microsoft 인증 획득 및 유지 관리*. Microsoft 인증을 획득하고 유지 관리하려면 다음 요건을 충족해야 합니다.
@@ -85,7 +82,6 @@ Microsoft 인증 프로그램 규약은(**"규약"**) 사용자( **"사용자"**
 9. 책임의 제한
 
    관련 법률에 의해 허용된 최대 범위에서 어떠한 경우에도 Microsoft 또는 계열사는 프로그램(프로그램 혜택, 종료 또는 기타의 경우), Microsoft 인증, Microsoft 인증 획득의 실패, 자격 증명의 사용 또는 불능으로 인해 발생하는 모든 직접, 간접, 특수한, 부수적, 결과적, 처벌적, 특수한 또는 예시적인 손상에 대해서 책임을 지지 않습니다. 본 예외 조항은 당사자가 이러한 손상 가능성에 대한 충고를 받았어도 손상에 기반한 모든 주장에 대한 법률적 이론에 상관 없이 적용됩니다.
-
 
 10. 손해보전
 
