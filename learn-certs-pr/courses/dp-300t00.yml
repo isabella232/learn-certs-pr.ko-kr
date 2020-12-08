@@ -35,12 +35,19 @@ summary: |-
   #### 대상 그룹 프로필
   본 과정은 Microsoft Azure에서 제공하는 데이터 플랫폼 기술 관리에 대해 학습하려는 데이터 및 데이터베이스 관리 전문가를 대상으로 합니다. 또한 본 과정은 Azure를 사용하는 데이터 플랫폼에서 어떤 기술을 사용할 수 있는지, 애플리케이션을 통해 이러한 기술을 어떻게 사용하는지 알아야 하는 데이터 설계자 및 애플리케이션 개발자에게도 가치가 있습니다.
 prerequisitesSection: |-
-  본 교육을 수강하는 학생들은 전문적인 경험 외에도 다음 과정에 해당하는 기술 지식을 갖추어야 합니다.
-  - Azure Fundamentals
-  - Azure Data Fundamentals
+  성공적인 Azure 데이터베이스 관리자는 데이터베이스 관리에 대한 전문적인 경험과 클라우드 기술에 대한 기술 지식을 바탕으로 이 역할을 시작합니다.
+  
+  구체적으로&#58;
+  - SQL Server로 작업, 유지관리 및 개발 
+  - 리소스 배포 및 관리와 같은 Azure 경험
+  
+  최소한, 과정에 참석하기 전에 다음 온라인 교육에 대한 정보를 알고 있어야 합니다&#58;
+  - [Azure SQL 소개](/learn/modules/azure-sql-intro/)
+  - [Azure Fundamentals](/learn/certifications/azure-fundamentals)
+  - [Azure Data Fundamentals](/learn/certifications/azure-data-fundamentals)
 outlineSection: |-
   ### 모듈 1&#58; Azure Database Administrator 역할
-  본 모듈에서는 Azure 분야에서 데이터베이스 관리자의 역할을 살펴봅니다. 또한 전체 콘텐츠와 관련된 기본적인 정보도 제공합니다. 여기에는 다양한 SQL 서버 기반 옵션(VM에서 SQL Server, 관리 인스턴스 및 Azure SQL Database)에 대한 검토를 포함합니다. 학생들은 Azure에서 SQL 데이터베이스로 작업할 때 호환성 수준이 왜 중요한 지에 대해 학습하게 됩니다. 학생들은 SQL Server를 기반으로 하는 플랫폼외에 Azure에서 사용할 수 있는 다른 데이터베이스 플랫폼, 특히 PostgreSQL 및 MySQL도 학습하게 됩니다. 
+  본 모듈에서는 Azure 분야에서 데이터베이스 관리자의 역할을 살펴봅니다. 또한 전체 콘텐츠와 관련된 기본적인 정보도 제공합니다. 여기에는 다양한 SQL 서버 기반 옵션(VM에서 SQL Server, 관리 인스턴스 및 Azure SQL Database)에 대한 검토를 포함합니다. 학생들은 Azure에서 SQL 데이터베이스로 작업할 때 호환성 수준이 왜 중요한 지에 대해 학습하게 됩니다. 학생들은 SQL Server를 기반으로 하는 플랫폼외에 Azure에서 사용할 수 있는 다른 데이터베이스 플랫폼, 특히 PostgreSQL 및 MySQL도 학습하게 됩니다.
   #### 단원
   - Azure Data Platform 역할
   - Azure Database Platforms 및 옵션
@@ -56,7 +63,7 @@ outlineSection: |-
   - 다른 데이터 플랫폼 역할에 적합한 Azure Database Administrator의 역할 이해
   - SQL Server 기반 데이터베이스 옵션 간의 주요 차이점 설명 가능
   - 버전과 호환성 수준 간의 차이 설명 가능
-  - 미리보기 기능을 활성화 및 비활성화하는 방법 이해 
+  - 미리보기 기능을 활성화 및 비활성화하는 방법 이해
 
 
   ### 모듈 2&#58; 데이터 플랫폼 리소스 계획 및 구현 

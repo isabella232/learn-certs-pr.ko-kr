@@ -29,18 +29,28 @@ summary: |-
   #### 대상 그룹 프로필
   본 과정은 Cloud Solution Architect, Azure 인공지능 설계자, AI 개발자를 대상으로 합니다.
 prerequisitesSection: |-
-  이 과정에 참석하기 전에 학생들은 다음을 숙지해야 합니다&#58;
-  - Azure Fundamentals
-  - Azure 저장소 기술 이해
-  - C# 지식
+  성공적인 Azure AI 엔지니어들은 클라우드 기술에 대한 전문 경험과 소프트웨어 개발 키트에 대한 경험으로 이 역할을 시작합니다.
+  
+  구체적으로&#58;
+  - C# 또는 Python에서 솔루션 구현
+  - 클라우드에서 애플리케이션 개발
+  - Azure 저장 기술 이해
+
+  이러한 필수 기술을 습득하려면, 과정에 참석하기 전에 다음 무료 온라인 교육을 수강하십시오&#58;
+  - [Microsoft Azure cloud 개념 탐색](/learn/paths/explore-microsoft-azure-cloud-concepts/)
+  - [C# 첫걸음](/learn/paths/csharp-first-steps/) ou [Python 첫걸음](/learn/paths/python-first-steps/)
+  - [Core Cloud Services –  Azure 소개](/learn/modules/welcome-to-azure/)
+  - [Core Cloud Services – Azure 컴퓨팅 옵션](/learn/modules/intro-to-azure-compute/)
+  
+  AI 서비스를 완전히 처음 사용하는 경우, [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)를 먼저 완료하십시오.
 outlineSection: |-
-  ### 모듈  1&#58; Azure Cognitive Services 소개
+  ### 모듈 1&#58; Azure Cognitive Services 소개
   Microsoft Azure에서 사용할 수 있는 Cognitive Service와 AI 솔루션 아키텍트 역할에 대해 설명합니다.
   #### 단원
   - Azure Cognitive Services 개요
   - Azure Portal에서 Cognitive Services 생성
   - Cognitive Services 액세스 및 테스트
-  ### 모듈  2&#58; 봇 생성
+  ### 모듈 2&#58; 봇 생성
   Microsoft Bot Framework 및 Bot Services에 대해 설명합니다.
   #### 단원
   - Bot Service 소개
@@ -48,7 +58,7 @@ outlineSection: |-
   - Bot 에뮬레이터에 의한 테스트
 
 
-  ### 모듈  3&#58; QnA Maker를 통한 봇 강화
+  ### 모듈 3&#58; QnA Maker를 통한 봇 강화
   QnA Maker와 봇 및 QnA Maker를 통합하여 사용자 상호 작용을 위한 유용한 지식 기반을 구축하는 방법을 설명합니다.
   #### 단원
   - QnA Maker 소개
@@ -56,7 +66,7 @@ outlineSection: |-
   - QnA를 봇과 통합
 
 
-  ### 모듈  4&#58;  LUIS로 Language Understanding 기능을 만드는 방법 설명
+  ### 모듈 4&#58; LUIS로 Language Understanding 기능을 만드는 방법 설명
   LUIS(Language Understance with Intents and Utterance) 및 자연스러운 언어 처리 솔루션을 지원하기 위한 의도와 발언 작성 방법에 대해 설명합니다.
   #### 단원
   - Language Understanding 소개
@@ -64,18 +74,17 @@ outlineSection: |-
   - LUIS 구성
 
 
-  ### 모듈  5&#58; LUIS로 봇 강화
+  ### 모듈 5&#58; LUIS로 봇 강화
   LUIS와 봇을 통합하여 봇과 상호작용할 때 사용자의 의도를 더 잘 이해할 수 있는 방법을 설명합니다.
   #### 단원
   - AI 애플리케이션에 대한 language understanding 개요
   - LUIS과 봇을 통합하여 AI 기반 솔루션 생성
 
 
-  ### 모듈  6&#58; Cognitive Services를 봇 및 에이전트와 통합
+  ### 모듈 6&#58; Cognitive Services를 봇 및 에이전트와 통합
   감성 분석, 이미지 및 텍스트 분석, OCR 및 대상 검색과 같은 고급 기능을 위해 봇과 에이전트를 Azure Cognitive Services 와 통합하는 방법을 설명합니다.
   #### 단원
   - Bot Interaction를 위한 Cognitive Services 이해
   - 텍스트 분석을 통해 봇에 대한 감정 분석 수행
   - Language Cognitive Services을 통한 봇에서의 언어 검색
   - 봇과 Computer Vision 통합
-

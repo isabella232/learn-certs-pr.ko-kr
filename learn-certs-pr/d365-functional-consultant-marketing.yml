@@ -24,11 +24,11 @@ skills:
 - 마케팅 애플리케이션 구성
 - 세그먼트 및 리스트 관리
 - 마케팅 양식 및 페이지 생성 및 관리
-- 잠재 고객 관리
+- 리드, 연락처 및 계정 관리
 - 마케팅 이메일 생성 및 관리
 - 고객 여정 관리
 - 이벤트 및 웨비나 관리
-- 고객 응답 구성 및 분석
+- Dynamics 365 Customer Voice 구성
 roles:
 - functional-consultant
 type: role-based

@@ -1,7 +1,7 @@
 ---
 title: Offers | Microsoft Docs
-description: Offers 
-documentationcenter: NA 
+description: Offers
+documentationcenter: NA
 author: bipach
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -40,13 +40,7 @@ ms.author: micsullivan
     </table>
 </div>
 
-
-## 학생 할인으로 비용 절약
-시험 등록 전 학생 신분을 증명하시면 Microsoft Certified Professional(MCP) 시험을 학생 할인가로 응시할 수 있습니다. *참고 인도 또는 중국에서는 Microsoft Certified 시험에 대한 할인 혜택을 이용할 수 없다는 점을 참고하십시오.*
-
-[**자세히 알아보기**](/learn/certifications/certification-exam-policies)
-
-## 자주 하는 질문
+## <a name="frequently-asked-questions"></a>자주 하는 질문
 
 **질문. Exam Replay란 무엇입니까?**
 
@@ -87,6 +81,3 @@ ms.author: micsullivan
 **질문. Exam Replay 또는 연습 시험을 통한 Exam Replay를 구매 또는 교환하는 데 문제가 있는 경우 누구에게 연락해야 합니까?**
 
 **답변.** Exam Replay 또는 연습 시험을 통한 Exam Replay 프로모션에 문제가 있는 경우 [Pearson VUE 팀에 이메일](mailto:mindhub@pearson.com)을 보내세요.
-
-
-

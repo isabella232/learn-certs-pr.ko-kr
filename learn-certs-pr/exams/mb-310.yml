@@ -8,19 +8,14 @@ displayName: MB-310
 summary: |-
   <div>
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong> 본 시험의 내용은 2020년 10월 16일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><strong>이 시험의 내용은 2020년 10월 16일에 업데이트되었습니다. 변경된 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
-  본 시험의 응시자는 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 모범 사례를 구현하는 완전히 현실화된 비즈니스 프로세스 및 솔루션으로 변환하는 기능 컨설턴트입니다. 응시자는 애플리케이션을 구현하고 구성하여 비즈니스 요구 사항을 충족시키는 핵심 자원으로 됩니다.
+  이 시험의 응시자들은 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 모범 사례를 구현하는 완전히 실현 된 비즈니스 프로세스 및 솔루션으로 변환하는 Functional Consultants입니다. 응시자들은 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 구성함에 있어서 핵심 리소스 역할을 합니다.
   <br/>
 
-  본 시험의 응시자는 비즈니스의 회계 원칙 및 재무 운영, 고객 서비스, 현장 서비스, 제조, 소매 및 공급망 관리 개념에 관한 기초적인 수준의 이해를 갖추어야 합니다.
-  <br/>
-
-  본 시험의 응시자는 일반적으로 재무, 제조 및 공급망 관리를 포함하여 하나 이상의 Microsoft Dynamics 365 Finance 기능을 전문적으로 담당합니다.
-
-  응시자는 기본 회계 원칙 및 관행에 대한 지식을 가지고 있어야 합니다.
-subTitle: '본 시험은 재무 관리의 설정 및 구성, 일반 프로세스 관리 및 적용, 채무 및 채권 구현 및 관리, 예산 및 고정 자산 관리와 같은 기술적 과제를 수행할 수 있는 능력을 측정합니다.'
+  이 시험의 응시자들은 미지급금 및 미수금, 세금, 원가 계산 원칙, 고정 자산 및 예산 책정을 포함하는 비지니스의 회계 원칙 및 재무 운영에 대한 기본적인 이해가 있어야 합니다.
+subTitle: '이 시험은 다음과 같은 기술적 작업을 수행하는 능력을 측정합니다: 재무관리 설정 및 구성; 미지급금, 비용 구현 및 관리; 미수금, 신용, 수금 및 수익 인식 구현; 예산 책정 및 고정 자산 관리'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHU
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-310&examname=Exam%20MB-310:%20Microsoft%20Dynamics%20365%20for%20Finance%20and%20Operations,%20Financials&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-310
@@ -29,11 +24,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 본 시험의 내용은 2020년 10월 16일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
-- 재무 관리의 설정 및 구성 (35-40%)
-- 일반 프로세스 관리 및 적용 (20-25%)
-- 채무 및 채권 구현 및 관리 (20-25%)
-- 예산 및 고정 자산 관리 (15-20%)
+- 이 시험의 내용은 2020년 10월 26일에 업데이트되었습니다. 변경된 사항을 확인하려면 아래의 시험 기술 개요를 다운로드하십시오.
+- 재무 관리 설정 및 구성 (50-55%)
+- 미지급금 및 비용 구현 및 관리 (10-15%)
+- 미수금, 신용, 수금 및 수익 인식 구현 (20-25%)
+- 예산 책정 및 고정 자산 관리 (10-15%)
 roles:
 - functional-consultant
 products:
@@ -57,7 +52,7 @@ relatedCertifications:
 resources:
 - title: 인증서 학습 경로
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

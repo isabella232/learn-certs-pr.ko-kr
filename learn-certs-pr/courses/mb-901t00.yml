@@ -31,8 +31,8 @@ exams:
 summary: |-
   본 과정에서는 학습자에게 Dynamics 365 애플리케이션에 대한 전반적인 개요를 제공합니다. 각 애플리케이션을 소개하고, 비즈니스 가치를 명확하게 설명하고, 핵심 기능에 대해 논의하고 시연합니다. Dynamics 365 보안, 보고를 자세히 알아보고 사용 가능한 데이터 및 제품 통합에 대해 숙지해 드립니다.
 
-  #### 대상 그룹 프로필
-  본 과정은 Dynamics 365 기본 원칙에 대한 탄탄한 기초 지식을 습득하려는 학습자를 대상으로 합니다.
+  #### 시청자 프로파일
+  이 과정은 Dynamics 365 기본에 대한 확실한 기초를 습득하려는 학습자를 대상으로 합니다.
 prerequisitesSection: |-
   없음
 outlineSection: |-
@@ -83,7 +83,7 @@ outlineSection: |-
   - 판매 프로세스 및 파이프라인 관리
   - Microsoft Relationship Sales Solution(MRSS) 혜택
   - Dynamics 365 Sales Insights
-  - Microsoft Forms Pro
+  - Dynamics 365 Customer Voice
   - Dynamics 365 Product Visualize
   - 개요
 
@@ -97,7 +97,7 @@ outlineSection: |-
   - Dynamics 365 Sales에서 판매 프로세스를 관리하는 방법 설명
   - Microsoft Relationship Sales 솔루션(MRSS) 검색
   - Dynamiocs 365 Sales Insights의 비즈니스 가치 설명
-  - Microsoft Forms Pro의 비즈니스 가치 설명
+  - Dynamics 365 Customer Voice의 비즈니스 가치 설명
 
 
   ### 모듈 4&#58; Dynamics 365 Marketing 소개
@@ -112,7 +112,7 @@ outlineSection: |-
   - 이벤트 관리
   - 개요
 
-  #### 랩 &#58; Dynamics 365 Marketing을 탐색합니다
+  #### 랩&#58; Dynamics 365 Marketing을 탐색합니다
   - 연결 이메일 생성
   - 청중 파악
   - 캠페인 구축
@@ -136,7 +136,7 @@ outlineSection: |-
   - Dynamics 365 Customer Service Insights
   - 개요
 
-  #### 랩 &#58; Dynamics 365 Customer Service를 살펴봅니다
+  #### 랩&#58; Dynamics 365 Customer Service를 살펴봅니다
   - 사례 생성 및 관리
 
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다.
@@ -166,14 +166,14 @@ outlineSection: |-
 
 
   ### 모듈 7&#58; Dynamics 365 Finance 소개
-  오늘날의 비즈니스 환경에서 성공하려면 기술을 활용하여 전 세계 재무 관리, 실시간 성능 모니터링, 기능 자동화 및 단순화, 미래의 비즈니스 결과 보호, 생산성 극대화 등이 필요합니다. 본 모듈에서는 중견기업과 대기업이 글로벌 금융 운영의 성과를 실시간으로 모니터링하고, 향후 결과를 예측하고, 데이터 중심의 의사 결정을 통해 성장을 촉진할 수 있는 Microsoft의 재무 관리 비즈니스 애플리케이션인 Dynamics 365 Finance를 소개합니다. 
+  오늘날의 비즈니스 환경에서 성공하려면 기술을 활용하여 전 세계 재무 관리, 실시간 성능 모니터링, 기능 자동화 및 단순화, 미래의 비즈니스 결과 보호, 생산성 극대화 등이 필요합니다. 본 모듈에서는 중견기업과 대기업이 글로벌 금융 운영의 성과를 실시간으로 모니터링하고, 향후 결과를 예측하고, 데이터 중심의 의사 결정을 통해 성장을 촉진할 수 있는 Microsoft의 재무 관리 비즈니스 애플리케이션인 Dynamics 365 Finance를 소개합니다.
   #### 단원
   - 소개
   - Dynamics 365 Finance 개요
   - Dynamics 365 Finance 핵심 기능
   - 개요
 
-  #### 랩 &#58; Dynamics 365 Finance를 탐색합니다
+  #### 랩&#58; Dynamics 365 Finance를 탐색합니다
 
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다.
   - Dynamics 365 Finance 혜택 설명
@@ -190,7 +190,7 @@ outlineSection: |-
   - Dynamics 365 레이아웃
   - 개요
 
-  #### 랩 &#58; Dynamics 365 Supply Chain Management를 살펴봅니다
+  #### 랩&#58; Dynamics 365 Supply Chain Management를 살펴봅니다
   - 제품 생산
   - 제품 마스터 생성
   - 구매 주문 생성
@@ -230,7 +230,7 @@ outlineSection: |-
   - 직원 관리
   - 개요
 
-  #### 랩 &#58; Dynamics 365 Human Resources 를 살펴봅니다
+  #### 랩&#58; Dynamics 365 Human Resources 를 살펴봅니다
   - 직업 생성
 
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다.
@@ -268,11 +268,11 @@ outlineSection: |-
   - Finance and Operations 앱 보안
   - 개요
 
-  #### 랩 &#58; Dynamics 365 모델 기반 앱에서 보안 역할을 살펴봅니다
+  #### 랩&#58; Dynamics 365 모델 기반 앱에서 보안 역할을 살펴봅니다
 
-  #### 랩 &#58; Finance and Operations 앱의 보안 역할을 살펴봅니다
+  #### 랩&#58; Finance and Operations 앱의 보안 역할을 살펴봅니다
 
-  #### 랩 &#58; 데이터를 암호화하여 보안을 강화합니다
+  #### 랩&#58; 데이터를 암호화하여 보안을 강화합니다
 
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다.
   - Dynamics 365 클라우드 보안 설명
@@ -288,7 +288,7 @@ outlineSection: |-
   - Dynamics 365 보고
   - 개요
 
-  #### 랩 &#58; Power Platform  관리 센터를  탐색합니다
+  #### 랩&#58; Power Platform 관리 센터를 탐색합니다
 
   본 모듈을 마친 후에는 다음을 수행할 수 있습니다.
   - Dynamics 365에서 Power Platform의 사용 설명
@@ -315,7 +315,7 @@ outlineSection: |-
 
 
   ### 모듈 15&#58; Finance and Operations 크로스앱 통합을 살펴봅니다
-  본 모듈에서는 Microsoft Dynamics 365 Finance 및 Supply Chain Management에서 통합 시나리오를 구현할 때 올바른 설계 결정을 내릴 수 있도록 도와드립니다. 
+  본 모듈에서는 Microsoft Dynamics 365 Finance 및 Supply Chain Management에서 통합 시나리오를 구현할 때 올바른 설계 결정을 내릴 수 있도록 도와드립니다.
   #### 단원
   - 소개
   - Dynamics 365 애플리케이션 간 통합
@@ -329,4 +329,3 @@ outlineSection: |-
   - 데이터 관리 프레임워크 설명
   - Office 365 통합 설명
   - 외부 시스템 통합 기능 살펴보기
-

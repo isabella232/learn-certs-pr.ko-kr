@@ -1,7 +1,7 @@
 ---
 title: 'Beta exams | Microsoft Docs'
-description: '베타 시험' 
-documentationcenter: NA 
+description: '베타 시험'
+documentationcenter: NA
 author: micsullivan
 ms.topic: article
 ms.tgt_pltfrm: NA
@@ -12,12 +12,10 @@ ms.prod: non-product-specific
 ---
 # 베타 시험
 
-## 프로그램 정보
-
 약 400명에게 베타 시험을 할인가로 응시할 수 있는 자격이 부여됩니다. 할인 혜택을 받으시려면, 시험 등록 결제 시 베타 코드를 입력해야 합니다. 다음 순서를 따라 베타 코드를 얻으세요.
 
 1. SME Profile 데이터베이스에 가입합니다. 기술이 시험 콘텐츠 영역과 일치하는 회원에게 베타 코드가 포함된 이메일을 보내드립니다. 이 베타 코드는 해당 그룹 전용입니다. SME 데이터베이스에 가입한 경우, 베타 시험에 조기에 액세스하려면 프로필을 최신으로 유지해야 합니다. 새로운 시험과 관련된 기술을 가진 사람들에게 코드를 배포하기 때문입니다. (SME Profile 데이터베이스 프로그램은 [Microsoft Collaborate](https://aka.ms/collaborate)에서 운영합니다. 블로그 게시물 [Help Us Create Exams and Learning Content!](/learn/certifications/posts/help-us-create-exams-and-learning-content)을 참조하세요. 지금 SME 데이터베이스에 가입하세요!)
-2. 곧 제공되는 베타 시험에 관한 정보는 Microsoft Learn 또는 [커뮤니티 블로그](https://www.microsoft.com/en-us/learning/community-blog.aspx)의 알림을 참조하시기 바랍니다. 해당 블로그 게시물에는 시험 할인을 받을 수 있는 코드가 포함되어 있습니다. 해당 게시물은 보통 베타 시험 등록 개시일에 게시됩니다. 해당 코드는 당사 데이터베이스에 속한 SME에 발송된 코드와 다릅니다.
+2. 예정된 베타 시험에 대한 정보는 [Microsoft Learn Blog](https://aka.ms/learningblog)에서 공지 사항을 확인하십시오. 해당 블로그 게시물에는 시험 할인을 받을 수 있는 코드가 포함되어 있습니다. 해당 게시물은 보통 베타 시험 등록 개시일에 게시됩니다. 해당 코드는 당사 데이터베이스에 속한 SME에 발송된 코드와 다릅니다.
 
 베타 시험 할인 응시 코드는 선착순으로 제한된 수량으로 제공되며 중국, 인도, 파키스탄 또는 터키에는 보안상의 이유로 베타 시험을 제공하지 않습니다.
 
