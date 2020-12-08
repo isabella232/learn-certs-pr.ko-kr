@@ -33,13 +33,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4vHl
 exams:
 - uid: exam.62-193
 resources:
-- title: ITL(혁신적인 교육 및 학습) 연구 프로젝트
-  description: ITL(혁신적인 교육 및 학습) 연구 프로젝트
-  href: https://education.microsoft.com/GetTrained/ITL-Research
+- title: Microsoft 교육자 센터
+  description: 교육자를 위한 교육, 프로그램 및 자원
+  href: https://education.microsoft.com/ko-kr
 - title: 학습 안내서
   description: 시험 준비용 자료 검색
-  href: http://aka.ms/MCEStudyGuide
+  href: https://aka.ms/MCEStudyGuide
 - title: Exam Replay
   description: Teach the Future Now 캠페인용 디지털 키트(포스터, 데이터 시트 및 MCE 시험 범위)
-  href: http://aka.ms/MCEAssets
+  href: https://aka.ms/MCEAssets
 

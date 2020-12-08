@@ -28,8 +28,8 @@
 - name: 시험 정책 및 자주 묻는 질문
   expanded: false
   items:
-  - name: 시험 프로세스 개요
-    href: exam-process-overview.md  
+  - name: 자주 묻는 질문
+    href: frequently-asked-questions.md  
   - name: 시험 보안 정책 및 시험 재응시 정책
     href: exam-security-policy-and-exam-retake-policy.md
   - name: 시험 일정 변경 및 취소 정책

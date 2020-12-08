@@ -6,7 +6,8 @@ metadata:
 uid: exam.az-300
 displayName: AZ-300
 summary: |-
-  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>본 시험의 영문 버전은 2020년 9월 30일에 중단되었습니다. 새로운 시험인 <a href="/learn/certifications/exams/az-303">AZ-303</a>사용할 수 있습니다. 지역 언어 버전 시험은 2020년 10월 30일부터 실시됩니다.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong>이 시험은 만료되었습니다. 대체 시험인 AZ-303이 가능합니다. 자세한 내용은 <a href="/learn/certifications/exams/az-303">AZ-303 시험 세부 정보 페이지</a>을 참조하세요.</strong><br/><br/></div>
   </div>
 
   본 시험의 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 전문 실무 지식을 갖추고 있어야 합니다.
@@ -27,7 +28,6 @@ subTitle: '이 시험은 인프라 배포 및 구성, 워크로드 및 보안 �
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VzwB
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-300&examname=Exam%20AZ-300:%20Microsoft%20Azure%20Architect%20Technologies&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-300
 locales:
 - ja
 - zh-cn
@@ -35,12 +35,12 @@ locales:
 levels:
 - advanced
 skills:
-- 본 시험의 영문 버전은 2020년 9월 30일에 중단되었습니다. 새로운 시험인 AZ-303사용할 수 있습니다. 지역 언어 버전 시험은 2020년 10월 30일부터 실시됩니다. 변경 사항에 대한 자세한 정보를 보려면 아래의 실력 측정 문서를 다운로드하십시오.
 - 인프라 배포 및 구성 (40-45%)
 - 워크로드 및 보안 구현 (25-30%)
 - 앱 작성 및 배포 (5-10%)
 - 인증 및 보안 데이터 구현 (5-10%)
 - 클라우드 및 Azure 스토리지 개발 (15-20%)
+retirementDate: 09/30/2020
 roles:
 - solution-architect
 products:

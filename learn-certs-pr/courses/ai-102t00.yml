@@ -1,0 +1,215 @@
+### YamlMime:Course
+title: Designing and Implementing a Microsoft Azure AI Solution
+metadata:
+  title: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
+  description: 'Course AI-102T00-A: Designing and Implementing a Microsoft Azure AI Solution'
+  iltScheduling: false
+uid: course.ai-102t00
+courseNumber: 'AI-102T00-A'
+hoursToComplete: 120
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Cognitive Service 생성, 구성, 배포 및 보안
+- skill: 음성 서비스 통합
+- skill: 텍스트 분석 통합
+- skill: LUIS로 언어 이해 능력 생성
+- skill: Azure Cognitive Search 솔루션 생성 및 관리
+- skill: Bot Framework를 사용하여 지능형 에이전트 생성
+- skill: Implment Computer Vision 솔루션
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- ai-engineer
+products:
+- azure
+- azure-cognitive-services
+- azure-bot-service
+- azure-machine-learning-service
+- azure-machine-learning-studio
+- azure-search
+exams:
+- uid: exam.ai-100
+summary: |-
+  Azure AI Solution AI-102 설계 및 구현은 Azure Cognitive Services, Azure Cognitive Search 및 Microsoft Bot Framework를 활용하는 AI 주입 애플리케이션을 구축하려는 소프트웨어 개발자들 위한 것입니다. 본 과정은 프로그래밍 언어로 C#, Python, 또는 JavaScript 을 사용합니다. 
+
+  #### 대상 그룹 프로필
+  소프트웨어 엔지니어들을 Azure Cognitive Services, Azure Cognitive Search 및 Microsoft Bot Framework를 활용하는 AI 솔루션 구축, 관리 및 배포에 관심이 있습니다. C#, Python 또는 JavaScript에 익숙하고 REST 기반 APIs를 사용하여 Azure에서 컴퓨터 비전, 언어 분석, 지식 마이닝, 지능형 검색 및 대화형 AI 솔루션을 구축하는데 대한 지식이 있습니다. 
+prerequisitesSection: |-
+  Microsoft Azure에 대한 지식 및 Azure 포털을 다루는 능력
+
+  C#, Python 이나 JavaScript에 대한 지식
+outlineSection: |-
+  ### 모듈 1&#58; Azure Cognitive Services 생성 및 관리
+  Azure에서 Cognitive Service의 모든 기능에 액세스 하기 전에 Cognitive Service 리소스를 생성해야 합니다. 다양한 서비스(Speech, Computer Vision 등.)를 사용하여 최소한 액세스 키와 서비스 엔드포인트 URL을 요구합니다. 이 정보는 이러한 서비스에 액세스 할 애플리케이션 승인을 위해 필요합니다. 액세스하는 서비스에 따라 단일 서비스 리소스 혹은 다중 서비스 리소스를 생성합니다. 
+  #### 레슨
+  - Cognitive Service 계정 생성 및 관리
+  - Cognitive Services 보안
+  - Cognitive Services 컨테이너 배포 및 사용
+
+  #### 랩 &#58; Azure Cognitive Services 리소스 생성
+  - Azure Cognitive Service 리소스 생성
+  - 액세스 키
+  - 진단 모니터링 사용
+
+  #### 랩 &#58; Azure Cognitive Services 보안
+  - Azure Key Vault를 사용한 보안 키
+
+  #### 랩 &#58; Azure Cognitive Services 컨테이너화
+  - 재사용을 위한 컨테이너 생성
+  - 컨테이너에 배포
+  - 컨테이너로부터 Cognitive Services 사용
+
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - Azure Cognitive Service 리소스 생성 및 액세스
+  - Azure Cognitive 리소스 보안
+  - 컨테이너를 사용하여 Azure Cognitive Service 배포 및 사용
+
+
+  ### 모듈 2&#58; Computer Vision 솔루션 구현
+  Azure Computer Vision을 사용하여 애플리케이션에 시각적 AI를 통합하는 방법을 배웁니다. 이미지와 비디오에서 얼굴이나 물체를 감지 및 식별하고, 물체를 감지하고, 이미지를 분류하고, 맞춤형 비전 솔루션을 구현합니다. 
+  #### 레슨
+  - Computer Vision API를 사용하여 얼굴 및 표정 식별
+  - Computer Vision Service로 이미지 처리
+  - Custom Vision APIs를 구현하기 위한 요구사항 평가
+  - Microsoft Custom Vision Service로 이미지 분류
+  - Video Indexer Service로 비디오로부터 인사이트 얻기
+
+  #### 랩 &#58; 얼굴 감지
+  - 구독 키 받기
+  - 얼굴 감지 테스트
+
+  #### 랩 &#58; Custom Vision Service 생성
+  - 서비스 생성
+  - 태그 된 이미지 업로드
+  - 모델 훈련
+  - 모델 테스트
+  - 예측 엔드포인트 소집
+ 
+  #### 랩 &#58; Video Indexer로 비디오로부터 인사이트 얻기
+  - Video Indexer API 구독
+  - 이미지 업로드 및 색인 만들기
+  - 출력 검토
+  - 비디오에서 순간 찾기
+  - 인사이트 보기 및 편집
+
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - 얼굴 및 물체 감지를 위한 Computer Vision 솔루션 구현
+  - Computer Vision 서비스로 이미지 처리
+  - Custom Vision 솔루션 구현
+  - Video Indexer 서비스로 비디오 파일에서 인사이트 얻기
+
+
+  ### 모듈 3&#58; 언어 분석 솔루션 구현
+  Language Understanding 서비스의 통합을 통해 애플리케이션에 자연스러운 언어 기능을 구현하는 방법을 배웁니다. 감정 분석 및 언어 감지와 같은 텍스트 분석 기능을 통해 사용자의 의도에 대한 인사이트를 얻습니다. 엔티티 및 키 문구 추출 기능으로 텍스트 파일에서 중요한 정보를 식별합니다. 
+  #### 레슨
+  - Language Understanding을 사용하여 앱에 기본 대화 지능 추가
+  - Language Understanding 서비스 관리
+  - Language Understanding 서비스에 컨테이너 사용
+  - Text Analytics API로 텍스트 상의 감정 찾기
+  - Text Analytics API로 텍스트 상의 엔티티 인식
+  - Test Analytics API로 텍스트에서 핵심 문구 추출
+  - Text Analytics API로 언어 감지
+
+  #### 랩 &#58; Language Understanding Service 구현
+  - Language Understanding Service 생성
+  - 인텐트로 작업
+  - Utterances 작업
+  - 엔티티로 작업
+  - 모델 훈련 및 게시
+  
+  #### 랩 &#58; Language Understanding Service 관리
+  - 키 관리
+  - 버전 관리
+  - 스크립팅 자동화
+  
+  #### 랩 &#58; Language Understanding 컨테이너화
+  - 컨테이너 설치 및 실행
+  
+  #### 랩 &#58; 감정 분석 수행
+  - API Testing Console로 감정 분석 테스트 
+  - 함수 앱 생성
+  - 함수에서 감정 분석 API 부르기
+  - 메시지 정렬
+  
+  #### 랩 &#58; 엔티티 인식 수행
+  - 텍스트에서 엔티티 얻기
+  
+  #### 랩 &#58; 핵심 문구 추출 수행
+  - 텍스트에서 핵심 문구 추출
+  
+  #### 랩 &#58; 언어 감지 수행
+  - 텍스트에서 언어 감지
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - Language Understanding Service 구현 및 관리
+  - 컨테이너 환경에서 Language Understanding 구현
+  - 테스트에서 감정 감지
+  - 테스트에서 엔티티 인식 및 핵심 문구 추출
+  - 텍스트에서 언어 감지
+  
+  
+  ### 모듈 4&#58; Knowledge Mining 솔루션 구현
+  Azure Cognitive Search는 광범위한 데이터 소스를 인덱싱 및 쿼리하고, 포괄적이고 대규모인 검색 솔루션을 생성하기위한 클라우드 기반 솔루션을 제공합니다. 문서가 인덱스 되고 검색하기 쉬운 솔루션 구현을 배웁니다.
+  #### 레슨
+  - Azure Cognitive Search 솔루션 생성
+  - Azure Cognitive Search로 강화 파이프라인 생성
+  - Azure Cognitive Search로 Knowledge Store 생성
+  
+  #### 랩 &#58; Azure Cognitive Search 솔루션 생성
+  - 검색을 위한 Azure 리소스 생성
+  - 데이터 리소스 생성
+  - 인덱스 생성
+  - 인덱서 생성 및 실행 
+  - 검색 및 인덱스
+  - 필터링 및 정렬 적용
+  - 인덱스 강화
+  
+  #### 랩 &#58; 강화 파이프라인 생성
+  - Azure 리소스 생성
+  - 데이터 소스 생성
+  - 스킬셋 생성
+  - 인덱스 생성x
+  - 인덱서 생성 및 실행
+  - 강화된 인덱스 검색
+  - 사용자 지정 기술 만들기
+  - 인덱스 업데이트
+  - 업데이트 된 인덱스 검색
+  
+  #### 랩 &#58; Knowledge Store 생성
+  - Azure 리소스 생성
+  - 데이터 소스 생성
+  - 스킬셋 생성
+  - 인덱스 생성
+  - 인덱서 생성 및 실행
+  - Knowledge Store 탐색
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - Azure Cognitive Search 솔루션 생성
+  - Azure Cognitive Search로 강화 파이프라인 생성
+  - Azure Cognitive Search로 Knowledge Store 생성
+  
+  
+  ### 모듈 5&#58; 대화형 AI 솔루션 구현
+  Microsoft Bot Framework와 Bot Framework Composer를 사용하여 대화형 AI 솔루션을 설계하고 생성합니다.
+  #### 레슨
+  - Azure Portal에 챗봇 만들기
+  - Bot 대화 흐름 설계
+  - Bot Framework Composer로 봇 만들기
+  
+  #### 랩 &#58; Azure Portal로 봇 만들기
+  - Azure portal로 기본 봇 만들기
+  
+  #### 랩 &#58; Bot Framework Composer로 봇 만들기
+  - Bot Framework Composer으로 봇 만들기
+  - 도움말 추가 및 기능 취소 Add Help and Cancel Functionality
+  - 언어 생성 통합
+  - 카드 사용
+  - Language Understanding 통합
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - Azure Portal에서 기본 봇 만들기
+  - 봇을 위한 대화 흐름 설계 
+  - Bot Framework Composer을 사용하여 봇 만들기

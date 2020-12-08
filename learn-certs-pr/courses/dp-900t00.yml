@@ -29,6 +29,13 @@ summary: |-
 
   #### 대상 그룹 프로필
   본 과정의 대상 그룹은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Microsoft Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓으려는 개인입니다.
+prerequisitesSection: |-
+  이 과정을 수강하기 전에 필수 조건 인증은 필요하지 않습니다. 성공적인 Azure Data Fundamentals 학생들은컴퓨팅 및 인터넷 개념에 대한 기본적인 인식과 데이터에서 인사이트 추출에 대한 관심으로 시작합니다.
+  
+  구체적으로&#58;
+  - [Microsoft Edge](https://support.microsoft.com/microsoft-edge?ocid=DMC-End-User-Support&ui)와 같은 웹 브라우저 사용 경험.
+  - 스프레드시트에서 데이터 테이블 작업 및 차트를 사용하여 데이터 시각화와 같은 기본 데이터 관련 개념에 익숙함.
+  -실제 탐구를 통해 배우려는 의지.
 outlineSection: |-
   ### 모듈 1&#58; 핵심 데이터 개념 탐색
   학생들은 클라우드 환경에서 데이터베이스 개념의 기초를 학습하고, 클라우드 데이터 서비스 기본 기술을 습득하고 Microsoft Azure에서 클라우드 데이터 서비스에 대한 기초 지식을 쌓습니다. 학생들은 관계형, 비관계형, 빅 데이터 및 분석 등 핵심 데이터 개념을 식별 및 설명하고 Azure로 이러한 기술을 구현하는 방법을 살펴봅니다. 학생들은 데이터의 세계에서 역할, 작업 및 책임을 살펴봅니다.
@@ -83,4 +90,3 @@ outlineSection: |-
   - Azure에서 데이터 분석 솔루션 구축 시 사용 가능한 처리 옵션 설명
   - Azure Synapse Analytics, Azure Databricks 및 Azure HDInsight 설명
   - 구성 요소 및 호상 작동 방법을 포함한 Microsoft Power BI 개념 설명
-

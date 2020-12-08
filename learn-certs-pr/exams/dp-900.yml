@@ -6,7 +6,8 @@ metadata:
 uid: exam.dp-900
 displayName: DP-900
 summary: |-
-  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>본 시험 내용은 2020년 10월 22일 업데이트됩니다. 변경될 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/>
+  </div><div><strong>이 시험의 내용은 2020년 10월 22일 업데이트되었습니다. 변경된 사항을 확인하려면 아래의 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
   본 시험의 응시자는 핵심 데이터 개념과 관련 Microsoft Azure 데이터 서비스를 사용하여 구현하는 방법에 대한 기초 지식이 있어야 합니다.
@@ -38,7 +39,7 @@ locales:
 levels:
 - beginner
 skills:
-- 본 시험의 내용은 2020년 10월 22일 업데이트 됩니다. 변경될 내용을 보시려면 아래의 시험 기능 개요를 다운로드하십시오.
+- 이 시험의 내용은 2020년 10월 22일에 업데이트되었습니다. 변경된 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 핵심 데이터 개념 설명 (15-20%)
 - Azure에서 관계형 데이터로 작업하는 방법 설명 (25-30%)
 - Azure에서 비관계형 데이터로 작업하는 방법 설명 (25-30%)

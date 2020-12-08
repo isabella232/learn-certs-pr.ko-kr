@@ -25,13 +25,21 @@ summary: |-
   #### 대상 그룹 프로필
   본 과정은 데이터 과학자와 기계 학습 모델을 교육하고 배포하는 데 있어 중요한 책임이 있는 사람들을 대상으로 합니다.
 prerequisitesSection: |-
-  이 과정에 참석하기 전에 학생들은 다음을 숙지해야 합니다&#58;
-  - Earned [Azure Fundamentals certification](https://docs.microsoft.com/learn/certifications/azure-fundamentals).
-  - 데이터를 준비하고, 모델을 교육하고, 경쟁 모델을 평가하여 최적의 모델을 선택하는 방법을 포함한 데이터 과학 이해.
-  - Python 프로그래밍 언어로 프로그래밍하는 방법 및 pandas, scikit-learn, matplotlib, 및 seaborn 등의 Python 라이브러리를 사용하는 방법.
+  성공적인 Azure 데이터 과학자들은 클라우드 컴퓨팅 개념에 대한 기본 지식과 일반 데이터 과학 및 기계 학습 도구와 기술에 대한 경험을 바탕으로 이 역할을 시작합니다.
+  
+  구체적으로&#58;
+  - Microsoft Azure에서 클라우드 리소스 만들기.
+  - 데이터를 탐색하고 시각화하기 위해 Python 사용.
+  - Scikit-Learn, PyTorch, 및 TensorFlow와 같은 공통 프레임 워크를 사용하여 기계 학습 모델 훈련 및 검증.
+  
+  이러한 필수 기술을 습득하려면, 과정에 참석하기 전에 다음 무료 온라인 교육을 수강하십시오&#58;
+  - [Microsoft cloud 개념 탐색](/learn/paths/explore-microsoft-azure-cloud-concepts/).
+  - [기계 학습 모델 생성](/learn/paths/create-machine-learn-models/).
+  
+  데이터 과학 및 기계 학습을 완전히 처음 접하는 경우, [Microsoft Azure AI Fundamentals](/learn/certifications/azure-ai-fundamentals)를 먼저 완료하십시오.
 outlineSection: |-
   ### 모듈 1&#58; Azure에서 Data Science 수행
-  데이터 과학 프로세스와 데이터 과학자의 역할에 대해 설명합니다.  그런 다음 Azure 서비스가 데이터 과학 프로세스를 어떻게 지원하고 증대할 수 있는지 파악하기 위해 적용되는 방법을 설명합니다
+  데이터 과학 프로세스와 데이터 과학자의 역할에 대해 설명합니다. 그런 다음 Azure 서비스가 데이터 과학 프로세스를 어떻게 지원하고 증대할 수 있는지 파악하기 위해 적용되는 방법을 설명합니다
   #### 단원
   - 데이터 과학 프로세스 소개
   - Azure Data Science 옵션 개요
@@ -55,4 +63,3 @@ outlineSection: |-
   본 모듈에서는 AML 서비스에서 기계 학습 모델을 자동으로 관리하고 모니터링하는 방법을 설명합니다.
   #### 단원
   - Machine Learning 모델 관리 및 모니터링
-
