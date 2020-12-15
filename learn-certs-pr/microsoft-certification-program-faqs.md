@@ -34,8 +34,11 @@ ms.author: micsullivan
 ### Microsoft Certification 프로그램에 대하여
 1. [Microsoft Certification 프로그램이란 무엇입니까?](#c1)
 
+### 인증 갱신 정보
+1. [Microsoft 인증을 갱신하거나 최신 상태로 유지하려면 어떻게 해야 합니까?](#d1)
+
 ### 지원 문의
-1. [Microsoft Certification 프로그램 지원팀에 문의하려면 어떻게 해야 합니까?](#d1)
+1. [Microsoft Certification 프로그램 지원팀에 문의하려면 어떻게 해야 합니까?](#e1)
 
 <br/>
 
@@ -147,8 +150,16 @@ ms.author: micsullivan
 
 <br/>
 
+## 인증 갱신 정보
+
+**질문: Microsoft 인증을 갱신하거나 최신 상태로 유지하려면 어떻게 해야 합니까?**<a name="d1"></a>
+
+**답변:** Microsoft 인증을 유지하고 최신 상태로 유지하는 방법에 대한 정보를 보려면, [Microsoft 인증 갱신 페이지](/learn/certifications/renew-your-microsoft-certification)를 방문하십시오.
+
+<br/>
+
 ## 지원 문의
 
-**질문: Microsoft Certification 지원팀에 문의하려면 어떻게 해야 합니까?**<a name="d1"></a>
+**질문: Microsoft Certification 지원팀에 문의하려면 어떻게 해야 합니까?**<a name="e1"></a>
 
 **답변:** Microsoft Certification 프로필, 성적표 보기, 성과 액세스에 대한 도움이 필요하거나 또는 프로그램에 대한 기타 도움이 필요한 경우 [Certification Support](https://aka.ms/mcpforum)에 문의하시기 바랍니다. 포럼 중재자가 업무 시간 기준 24시간 이내에 회신하여 도움을 드립니다.
