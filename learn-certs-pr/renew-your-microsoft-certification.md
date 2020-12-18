@@ -30,7 +30,7 @@ Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무�
 | Microsoft Certified: Azure Developer Associate |
 | Microsoft Certified: Azure Security Engineer Associate |
 | Microsoft Certified: DevOps Engineer Expert |
-| Microsoft Certified: Azure Solutions Architect Associate |
+| Microsoft Certified: Azure Solutions Architect Expert |
 | Microsoft Certified: Azure for SAP Workloads Specialty |
 | Microsoft Certified: Azure IoT Developer Specialty |
 | Microsoft Certified: Azure Data Scientist Associate |
