@@ -44,12 +44,12 @@
     href: exam-item-challenge-process.md
   - name: 베타 시험
     href: beta-exams.md
-  - name: 인증 시험 대학교 학점으로 인정
+  - name: 인증 시험에 대한 ACE대학 학점
+    href: ace-credit-for-certification-exams.md
+  - name: 인증 시험에 대한 NCCRS대학 학점
     href: college-credit-for-certification-exams.md
   - name: 학생 할인
     href: student-discounts.md
-- name: Microsoft 인증 갱신
-  href: renew-your-microsoft-certification.md
 - name: 인증 도움말
   href: help.md
 - name: Microsoft Official Courseware (MOC) 도움말

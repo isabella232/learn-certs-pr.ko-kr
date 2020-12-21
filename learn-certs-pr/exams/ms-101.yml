@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-101
 displayName: MS-101
 summary: |-
-  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>이 시험의 내용은 2020년 11월 24일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
   </div>
 
   본 시험은 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리에 참여하는 Microsoft 365 Enterprise Administrator를 대상으로 실시됩니다. 응시자는 ID, 보안, 규제 준수 및 지원 기술을 포함해 기업용 Microsoft 365 테넌트 관리 작업을 수행하게 됩니다.
@@ -23,7 +23,7 @@ locales:
 levels:
 - advanced
 skills:
-- 이 시험의 내용은 2020년 11월 24일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 시험 기술 개요를 다운로드 받으세요.
 - 최신 장치 서비스 구현 (30-35%)
 - Microsoft 365 보안 및 위협 관리 구현 (30-35%)
 - Microsoft 365 거버넌스 및 준수 관리 (35-40%)
@@ -37,6 +37,17 @@ exams:
 - uid: exam.ms-100
 courses:
 - uid: course.ms-101t00
+paths:
+- uid: learn-m365.manage-enterprise-deployment-m365
+- uid: learn-m365.identity-and-access
+- uid: learn-m365.m365-cloud-security
+- uid: learn-m365.m365-security-threat-protection
+- uid: learn-m365.m365-security-management
+- uid: learn.security.manage-security-operations
+- uid: learn-m365.m365-messaging-secure-environment
+- uid: learn-m365.m365-compliance-information
+- uid: learn-m365.audit-safeguard-customer-data
+- uid: learn-m365.compliance-discover
 relatedCertifications:
 - related:
     uid: certification.m365-enterprise-administrator
