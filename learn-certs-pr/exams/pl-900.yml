@@ -11,6 +11,8 @@ summary: |-
   </div>
 
   본 시험의 응시자는 Power Platform 기능 이해, Power Automatic으로 기본 비즈니스 프로세스 자동화, Power BI를 통한 기본 데이터 분석을 수행하고, 단순한 Power Apps 경험을 생성하여 보다 효과적으로 작업, Power Virtual Agents를 사용하여 강력한 챗봇 작성을 통하여 생산성 향상을 열망합니다.
+
+  이 인증 시험을 통과하면 ACE 대학 학점으로 인정 받을 수도 있습니다. 자세한 사항은 [인증 시험에 대한 ACE 대학 학점](/learn/certifications/ace-credit-for-certification-exams)을 참고하세요.
 subTitle: 본 시험에서는 Power Platform의 비즈니스 가치 설명, Power Platform의 핵심 구성 요소 식별, Power BI의 기능 입증, Power Apps 기능 설명, Power Automate 기능 입증 및 Power Virtual Agents의 비즈니스 가치 입증 능력을 측정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -41,7 +43,9 @@ skills:
 - Power Automate의 기능 입증 (15-20%)
 - Power Virtual Agents의 비즈니스 가치 입증 (10-15%)
 roles:
-- developer
+- business-user
+- functional-consultant
+- student
 products:
 - power-platform
 courses:

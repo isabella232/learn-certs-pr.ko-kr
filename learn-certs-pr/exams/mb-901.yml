@@ -16,6 +16,10 @@ summary: |-
   응시자는 Dynamics 365 기능과 Microsoft 클라우드 컴퓨팅에 대한 기능적인 측면을 이해해야합니다.
 
   응시자는 IT 환경에 관한 일반적인 수준의 지식 및 관련 작업 경험이 있어야 합니다. 응시자는 또한 기본적인 수준의 비즈니스 시나리오 및 비즈니스, 법률, IT 프로젝트에 필요한 보안 요구사항을 처리한 경험을 갖추고 있어야 합니다.
+
+  이 인증 시험을 통과하면 ACE 대학 학점으로 인정 받을 수도 있습니다. 자세한 사항은 [인증 시험에 대한 ACE 대학 학점](/learn/certifications/ace-credit-for-certification-exams)을 참고하세요.
+
+  <div><br/><strong>참고&#58; Microsoft 는 현재 “Common Data Service”에 대한 참조를 “Microsoft Dataverse”에 업데이트 하지 않습니다.</strong></div>
 subTitle: 본 시험은 다음과 같은 Microsoft Dynamics 365 이해 능력을 측정합니다. 인공 지능, 혼합 현실, Power Platform, 클라우드 개념, 클라우드 보안, Dynamics 365 역할 기반 보안, 일반 데이터 서비스(CDS), 데이터 관리 프레임워크, Dynamics 365 리포팅, Dynamics 365 통합 및 클라우드 배포.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -41,7 +45,10 @@ skills:
 - 모델 기반 앱 설명 (25-30%)
 - Finance and Operations 앱 설명 (25-30%)
 roles:
+- business-owner
+- business-user
 - functional-consultant
+- student
 products:
 - dynamics-365
 courses:

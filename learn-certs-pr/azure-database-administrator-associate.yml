@@ -9,6 +9,10 @@ summary: |-
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
 
   Azure Database 관리자는 Microsoft SQL Server 및 Microsoft Azure Data Services에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다. Azure Database 관리자는 다양한 방법과 도구를 사용하여 관리 목적의 T-SQL 사용 지식 활용 등 일상적인 작업을 수행합니다.
+  
+  <div></br>
+  이 역할의 응시자들은 <a href='/learn/certifications/exams/dp-900'>Exam DP-900&#58; Microsoft Azure Data Fundamentals</a>에서 다루는 모든 개념을 이해해야 합니다.</a>.
+  </div>
 subTitle: Azure Database 관리자는 Microsoft Azure Data Services 및 Microsoft SQL Server에 구축된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영 측면을 구현 및 관리합니다.
 levels:
 - intermediate

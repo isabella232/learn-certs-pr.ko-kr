@@ -32,277 +32,281 @@ summary: |-
   #### 대상 그룹 프로필
   본 과정은 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현할 수 있는 전문 지식을 갖춘 IT 전문가를 대상으로 합니다. 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼, 예산 및 관리와 같은 IT 운영에 대한 폭넓은 지식을 갖추고 있어야 합니다. Azure Solution 설계자는 Azure Portal을 사용하며, 점점 더 능숙해지면서 명령줄 인터페이스를 사용합니다. 응시자는 전문가 수준의 Azure 관리 기술이 있어야 하며 Azure 개발 프로세스 및 DevOps 프로세스에 대한 경험이 있어야 합니다.
 prerequisitesSection: |-
-  성공적인 Azure Solution 설계자는 운영 체제, 가상화, 클라우드 인프라, 스토리지 구조 및 네트워킹에 대한 경험을 바탕으로 해당 역할을 시작합니다.
-  - VM, 가상 네트워킹 및 가상 하드 디스크를 포함한 온-프레미스 가상화 기술 이해.
-  - TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽 및 암호화 기술을 포함한 네트워크 구성 이해.
-  - 도메인, 포리스트, 도메인 컨트롤러, 복제, Kerberos 프로토콜 및 LDAP(Lightweight Directory Access Protocol)을 포함한 Active Directory 개념 이해.
-  - 백업 및 복원 작업을 포함한 회복력과 재해 복구 이해.
+  성공적인 Azure 아키텍처 수강생은 운영체제, 가상화, cloud 인프라, 스토리지 구조 및 네트워킹에 대한 사전 경험이 있습니다&#58;
+  - VMs 및 가상 네트워킹을 포함한 온-프레미스 가상화 기술에 대한 이해
+  - TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), 방화벽 및 암호화 기술을 포함한 네트워크 구성에 대한 이해
+  - 도메인, 포레스트 및 도메인 컨트롤러를 포함한 Active Directory 개념에 대한 이해
+  
+  Azure와 cloud 컴퓨팅을 처음 접하는 경우, 아래 리소스 중 하나를 고려하십시오&#58;
+  - 무료 온라인&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - 강사 주도 과정&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
 outlineSection: |-
-  ### 모듈 1&#58; 가상 네트워킹 구현
-  본 모듈에서는 가상 네트워크 및 서브네팅, IP 주소 지정, 네트워크 보안 그룹, Azure Firewall 및 Azure DNS와 같은 기본 가상 네트워킹 개념을 학습합니다.
-  #### 단원
-  - 가상 네트워크 피어링
-  - VNet 피어링 구현
+  ### 모듈 1&#58; Azure Active Directory 구현
+  이 모듈에서는, Azure Active Directory로 ID를 보안하고, 사용자와 그룹을 구현하는 방법을 학습합니다. 이 모듈은 다음을 포함합니다&#58;
+  #### 레슨
+  - Azure Active Directory 개요
+  - 사용자 및 그룹
+  - 도메인 및 사용자 지정 도메인
+  - Azure AD 신분 보호
+  - Conditional Access 구현
+  - MFA를 위한 Fraud Alerts 구성
+  - Bypass Options 구현
+  - Azure AD에서 방문 사용자 구성
+  - 신뢰할 수 있는 IPs 구성
+  - 다수의 디렉토리 관리
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - 다수의 AAD 조직이 상호작용하는 방법 이해
+  - Azure AD에 방문 사용자 추가
+  - 위치 조건 배치 구성
+  - Azure MFA 설정 구성
+  - Conditional Access Azure MFA 구현
+  - 청사진 생성
 
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - 가상 네트워크 피어링을 사용한 서비스 연결
-  - VNet 피어링 구성
-  - 서비스 체이닝 이해
-  - VNet 피어링 수정 또는 삭제
-
-
-  ### 모듈 2&#58; Windows 및 Linux용 VM 구현
-  본 모듈에서는 계획, 생성, 가용성 및 확장을 비롯한 Azure 가상 머신 기능을 학습합니다. 본 모듈에는 다음이 포함됩니다&#58;
-  #### 단원
-  - 가상 머신 크기 선택
-  - 고가용성 구성
+  
+  ### 모듈 2&#58; 하이브리드 ID 구현 및 관리
+  이 모듈에서는, Azure AD Connect를 설치하고 구성하는 방법 및 Azure AD Connect Health을 구현하는 방법을 학습합니다. 이 모듈은 다음을 포함합니다&#58;
+  #### 레슨
+  - Azure AD Connect 설치 및 구성
+  - Password Sync 및 Password Writeback 구성
+  - Azure AD Connect Health 구성
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  - Azure AD 원활한 싱글 사인-온 구현
+  - Azure AD Connect 설치 수행
+  - Azure AD Connect Health 구현
+  
+  
+  ### 모듈 3&#58; 가상 네트워킹 구현
+  이 모듈에서는, 가상 네트워크 및 서브넷, IP 주소 지정, 네트워크 보안 그룹, Azure Firewall 및 Azure DNS과 같은 기본 가상 네트워킹 개념에 대해 학습합니다. 이 모듈은 다음을 포함합니다&#58;
+  #### 레슨
+  - Virtual Network Peering
+  - VNet Peering 구현
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  - Virtual Network Peering으로 서비스 연결
+  - VNet Peering 구성
+  - Service Chaining 이해
+  - VNet Peering 수정 또는 삭제
+  
+  
+  ### 모듈 4&#58; Windows 및 Linux용 VMs 구현
+  이 모듈에서는, 계획하기, 생성하기, 가용성 및 확장을 포함한 Azure 가상 머신에 대해 학습합니다.
+  #### 레슨
+  - Virtual Machine Size 선택
+  - 고 가용성 구성
   - Azure Dedicated Hosts 구현
-  - 확장 집합 배포 및 구성
+  - 확장 집합 배포 및 구성 
   - Azure Disk Encryption 구성
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
   - 가상 머신 구현 계획
   - 가상 머신 생성
-  - 확장 집합을 포함한 가상 머신 가용성 구성
-  - Azure에서 VM에 대한 고가용성 옵션 이해
-
-
-  ### 모듈 3&#58; 리소스 배포 및 구성 자동화
-  본 모듈에서는 Azure Administration이 인프라를 관리하는 데 사용하는 도구를 학습합니다. 여기에는 Azure Portal, Cloud Shell, Azure PowerShell, CLI, 및 Resource Manager 템플릿이 포함됩니다. 본 모듈에는 다음이 포함됩니다&#58;
-  #### 단원
-  - Azure Resource Manager 템플릿
-  - VM용 템플릿 저장
-  - 새 자원의 위치 평가
-  - 가상 하드 디스크 템플릿 구성
-  - 템플릿에서 배포
-  - Automation Runbook 생성 및 실행
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
-  - Azure Resource Manager를 활용하여 리소스 구성
-  - ARM 템플릿을 사용하여 리소스 배포
-  - Automation Runbook 생성 및 실행
-  - VHD에서 Azure VM 배포
-  - Azure 암호화 기술 이해
-
-
-  ### 모듈 4&#58; 부하 분산 및 네트워크 보안 구현
-  본 모듈에서는 네트워크 라우팅 및 서비스 엔드포인트, Azure Load Balancer, Azure Application Gateway 및 Traffic Manager를 비롯한 네트워크 트래픽 전략을 학습합니다.
-  #### 단원
+  - 확장 집합을 포함한 가상 머신 가용성 구성 
+  - Azure에서 VMs에 대한 고 가용성 옵션 이해
+  
+  
+  ### 모듈 5&#58; 부하 분산 및 네트워크 보안 구현
+  이 모듈에서는, 네트워크 라우팅 및 서비스 엔드 포인트, Azure Load Balancer, Azure Application Gateway, 그리고 Traffic Manager를 포함한 네트워크 트래픽 전략에 대해 학습합니다. 
+  #### 레슨
   - Azure Load Balancer 구현
-  - Application Gateway 구현
+  - 애플리케이션 게이트웨이 구현
   - 웹 애플리케이션 방화벽 이해
   - Azure Firewall 구현
   - Azure Front Door 구현
-  - Azure Traffic Manager 구현
-  - 네트워크 보안 그룹 및 애플리케이션 보안 그룹 구현
+  - Azure Traffic Manager 구현하기
+  - Network Security Groups 및 Application Security Groups 구현
   - Azure Bastion 구현
-
-  #### 랩&#58; 고가용성 Azure IaaS 컴퓨팅 아키텍처 구현
-  - 같은 가용성 집합에 속하는 고가용성 Azure VM 특징 설명
-  - 다른 가용성 영역에 속하는 고가용성 Azure VM 특징 설명
-  - Azure VM 확장 집합의 자동 수평 확장 특징 설명
-  - Azure VM 장 집합의 수동 수직 확장 특징 설명
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
+  
+  #### 랩 &#58; 고 가용성 Azure IaaS 컴퓨팅 아키텍처 구현 
+  - 동일한 가용성 집합에 상주하는 고 가용성 Azure VMs의 특성 설명
+  - 다른 가용성 영역에 상주하는 고 가용성 Azure VMs의 특성 설명 
+  - Azure VM Scale Sets의 자동 수평 확장에 대한 특성 설명
+  - Azure VM Scale Sets의 수동 수직 확장에 대한 특성 설명
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
   - Load Balancer 솔루션 선택
   - Application Gateway 구성
   - Azure Firewall 구현
   - Azure Front Door 생성
-  - Traffic Manager 라우팅 방법 이해
-  - NSG(네트워크 보안 그룹) 구성
-
-
-  ### 모듈 5&#58; 스토리지 계정
-  본 모듈에서는 스토리지 계정, Blob 스토리지, Azure Files 및 파일 동기화, 스토리지 보안 및 스토리지 도구를 포함한 기본 스토리지 기능을 학습합니다.
-  #### 단원
+  - 트래픽 관리자 라우팅 방법 이해 
+  - Network Security Groups (NSGs) 구성
+  
+  
+  ### 모듈 6&#58; 스토리지 계정 구현
+  이 모듈에서는, 스토리지 계정, 블랍 스토리지, Azure 파일 및File Sync, 스토리지 보안 및 스토리지 도구를 포함한 기본 스토리지 기능에 대해 학습합니다.
+  #### 레슨
   - 스토리지 계정
   - Blob Storage
-  - Storage Security
-  - 스토리지 관리
-  - AAD를 사용하여 Blob 및 큐 액세스
-  - Azure Storage 방화벽 및 가상 네트워크 구성
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
+  - 스토리지 보안
+  - 스토리지 관리하기
+  - AAD 사용하여 Blobs 및 Queues 액세스하기
+  
+  #### 랩 &#58; Azure Storage File 및 Blob Services 구현하기 및 구성하기
+  - 공유 액세스 서명을 활용하여 Azure Storage 블랍의 권한 부여 구현
+  - Azure Active Directory를 활용하여 Azure Storage 블랍의 권한 부여 구현
+  - 액세스 키를 활용하여 Azure Storage 파일 공유 권한 부여 구현
+  - Azure Storage Firewalls 및 Virtual Networks 구성
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
   - 스토리지 계정 서비스 및 유형 이해
   - Blob 스토리지, 계정, 컨테이너 및 액세스 계층 구성
-  - 공유 액세스 서명 구현
-  - Azure Storage 방화벽 및 가상 네트워크 이해
-
-
-  ### 모듈 6&#58; Azure Active Directory 구현
-  본 모듈에서는 Azure Active Directory를 사용하여 ID를 보호하고 사용자와 그룹을 구현하는 방법을 학습합니다.
-  #### 단원
-  - Azure Active Directory 개요
-  - 사용자 및 그룹
-  - 도메인 및 사용자 지정 도메인
-  - Azure AD ID 보호
-  - 조건부 액세스 구현
-  - MFA에 대한 사기 행위 경고 구성
-  - 바이패스 옵션 구현
-  - 신뢰할 수 있는 IP 구성
-  - Azure AD에서 게스트 사용자 구성
-  - 다중 디렉터리 관리
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
-  - 여러 AAD 조직이 상호 작용하는 방식 이해
-  - Azure AD에 게스트 사용자 추가
-  - 위치 조건 설정 구성
-  - Azure MFA 설정 구성
-  - 조건부 액세스 Azure MFA 구현
-
-
-  ### 모듈 7&#58; Azure 거버넌스 구현 및 관리
-  본 모듈에서는 구독 및 계정 관리, Azure 정책 구현 및 역할 기반 액세스 제어 사용 방법을 학습합니다.
-  #### 단원
-  - 관리 그룹, 구독 및 리소스 그룹 만들기
-  - 역할 기반 액세스 제어 (RBAC) 개요
-  - 역할 기반 액세스 제어 (RBAC) 역할
-  - Azure AD 액세스 리뷰
-  - Azure Policy 구현 및 구성
-  - Azure Blueprints
-
-  #### 랩&#58; Azure Storage 파일 및 Blob 서비스 구현 및 구성
-  - 공유 액세스 서명을 활용하여 Azure Storage Blob 권한 부여 구현
-  - Azure Active Directory를 활용하여 Azure Storage Blob 권한 부여 구현
+  - Shared Access Signatures (SAS) 구현
+  - Azure Storage 방화벽 및 가상 네트쿼크 이해
+  
+  
+  ### 모듈 7&#58; NoSQL 데이터베이스 구현
+  이 모듈에서는, Azure Table Storage 및 CosmsoDB APIs을 위해 권장되는 옵션에 대해 학습합니다.
+  #### 레슨
+  - Storage Account Tables 구성
+  - 적절한 CosmosDB APIs 선택
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  - Table Service Data Model 개요
+  - Azure Cosmos DB에 대한 옵션 이해
+  - CosmosDB를 사용하는 고 가용성 이해
+  
+  
+  ### 모듈 8&#58; Azure SQL 데이터베이스 구현
+  이 모듈에서는, Azure SQL 데이터베이스 단일 데이터베이스를 만들고, Azure SQL 데이터베이스 Managed Instance를 만들고, 고 가용성 및 Azure SQL 데이터베이스를 검토합니다.
+  #### 레슨
+  - Azure SQL 데이터베이스 설정 구성
+  - Azure SQL 데이터베이스 Managed Instances 구현
+  - 고 가용성 및 Azure SQL 데이터베이스
+  - 이 모듈에서는 다음의 방법을 학습합니다 
+  - Azure SQL 데이터베이스 (단일 데이터베이스) 생성
+  - Azure SQL 데이터베이스 Managed Instance 생성
+  - Azure SQL 데이터베이스에 사용되는 고 가용성 아키텍처 모델 권장
+  
+  
+  ### 모듈 9&#58; 리소스의 자동 배포 및 구성 
+  이 모듈에서는, 인프라 관리를 위해 Azure 관리자들이 사용하는 도구에 대해 학습합니다. 여기에는 Azure Portal, Cloud Shell, Azure PowerShell, CLI, 그리고 Resource Manager Templates을 포함합니다.
+  #### 레슨
+  - Azure Resource Manager Templates
+  - VM용 대한 템플릿 저장
+  - 신규 리소스의 위치 평가 
+  - Virtual Hard Disk Template 구성
+  - 템플릿에서 배포
+  - Automation Runbook 생성 및 실행
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  - Azure Resource Manager를 활용하여 리소스 구조화
+  - ARM 리소스를 배포하기위한 ARM 템플릿 사용
+  - Automation Runbook 생성 및 실행
+  - VHD로부터 Azure VM 배포
+  - Azure 암호화 기술 이해
+  
+  
+  ### 모듈 10&#58; Azure Governance 구현 및 관리
+  이 모듈에서는, 구독 및 계정 관리하기, Azure 정책 구현하기 및 Role-Based Access Control 사용하기에 대해서 학습합니다.
+  #### 레슨
+  - 관리 그룹, 구독 및 리소스 그룹 생성 
+  - Role-Based Access Control (RBAC) 개요
+  - Role-Based Access Control (RBAC) 역할
+  - Azure AD 액세스 검토
+  - Azure 정책 구현 및 구성
+  - Azure 청사진
+  
+  #### 랩 &#58; Azure Storage File and Blob Services 구현하기 및 구성하기
+  - 공유 액세스 서명을 활용하여 Azure Storage 블랍의 권한 부여 구현
+  - Azure Active Directory를 활용하여 Azure Storage 블랍의 권한 부여 구현
   - 액세스 키를 활용하여 Azure Storage 파일 공유 권한 부여 구현
 
-  #### 랩&#58; 역할 기반 액세스 제어 관리
+  #### 랩 &#58; Azure Role-Based Access Control 관리하기
   - 사용자 지정 RBAC 역할 정의
   - 사용자 지정 RBAC 역할 할당
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
   - 리소스 그룹 조직 이해
   - RBAC 작동 방식 이해
-  - Azure AD 액세스 리뷰 만들기
-  - 규정 준수를 강제하기 위한 정책 작성 및 관리
-  - 청사진 만들기
+  - Azure AD 액세스 검토 생성
+  - 규정 준수를 위한 정책 생성 및 관리
 
-
-  ### 모듈 8&#58; 하이브리드 ID 구현 및 관리
-  본 모듈에서는 Azure AD Connect를 설치 및 구성하고 Azure AD Connect Health를 구현하는 방법에 대해 학습합니다.
-  #### 단원
-  - Azure AD Connect 설치 및 구성
-  - 비밀번호 동기화 및 비밀번호 쓰기 저장 구현
-  - Azure AD Connect Health 구성
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
-  - Azure AD의 원활한 Single Sign-On 구현
-  - Azure AD Connect 설치 수행
-  - Azure AD Connect Health 구현
-
-
-  ### 모듈 9&#58; Azure에서 워크로드 관리
-  본 모듈에서는 Azure Migrate을 사용하여 워크로드를 마이그레이션하고 에이전트 기반 및 에이전트 없는 VMware 마이그레이션을 수행하며 Azure Backup 및 Azure Site Recovery를 수행하는 방법에 대해 학습합니다.
-  #### 단원
-  - Azure Migrate를 사용하여 워크로드 마이그레이션
-  - VMware - 에이전트 없는 마이그레이션
-  - VMware - 에이전트 기반 마이그레이션
+  ### 모듈 11&#58; 애플리케이션에 대한 보안 관리
+  이 모듈에서는, Azure Key Vault 및 Azure Managed Identities를 사용하여 인증을 구현하는 것에 대해 학습합니다. 
+  #### 레슨
+  - Azure Key Vault
+  - Azure Managed Identity
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - 비밀, 키 그리고 인증서 관리와 같은 Key Vault 사용 설명
+  - Azure 리소스와 함께 Managed Identities 사용
+  
+  
+  ### 모듈 12&#58; Azure에서 워크로드 관리
+  이 모듈에서는, Azure Migrate를 사용하여 워크로드를 마이그레이션하고, VMware 에이전트 기반 및 에이전트가 없는 마이그레이션을 수행하고, Azure Backup 및 Azure Site Recovery를 수행하는 방법을 학습합니다.
+  #### 레슨
+  - Azure Migrate 사용하여 워크로드 마이그레이션
+  - VMware – 에이전트 없는 마이그레이션
+  - VMware – 에이전트 기반 마이그레이션
   - Azure Backup 구현
-  - Azure 대 Azure Site Recovery
-  - Azure 업데이트 관리 구현
-
-  #### 랩&#58; Azure Site Recovery를 사용하여 Hyper-V VM 보호
+  - Azure에서 Azure Site Recovery로
+  - Azure Update Management 구현
+  
+  #### 랩 &#58; Azure Site Recovery를 사용하여 Hyper-V VMs 보호하기
   - Azure Site Recovery 구성
-  - 테스트 장애 조치 수행
-  - 계획된 장애 조치 수행
-  - 계획되지 않은 장애 조치 수행
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
+  - 테스트 페일오버 수행
+  - 계획된 페일오버 수행
+  - 계획되지 않은 페일오버 수행
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - 에이전트 기반 마이그레이션 아키텍처 이해
-  - 마이그레이션을 위한 Azure 준비
+  - 마이그레이션을 위해 Azure 준비
   - 온-프레미스 VMware 환경 준비
   - Azure VM 백업 아키텍처 이해
-  - Azure VM의 업데이트 및 패치 관리
+  - Azure VMs에 대한 업데이트 및 패치 관리
+  
+  
+  ### 모듈 13&#58; 컨테이너 기반 애플리케이션 구현
+  이 모듈에서는, Azure Container 인스턴스를 실행하는 방법과 AKS로 Kubernete를 배포하는 방법을 학습합니다. 
+  #### 레슨
+  - Azure Container 인스턴스
+  - Azure Kubernetes Service 구성
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - Azure Container 인스턴스 실행
+  - AKS으로 Kubernetes 배포
 
-
-  ### 모듈 10&#58; 클라우드 인프라 모니터링 구현
-  본 모듈에서는 Azure Monitor, Azure Workbooks, Azure Alerts, Network Watcher, Azure Service Health, Azure Application Insights에 대해 학습합니다.
-  #### 단원
+  ### 모듈 14&#58; 애플리케이션 인프라 구현 
+  이 모듈에서는, 컨테이너용 앱 서비스 웹 앱 생성, 앱 서비스 계획 생성 및 구성 그리고 배포 슬롯 생성 및 관리 방법에 대해 학습합니다.
+  #### 레슨
+  - Azure App Service 생성 및 구성
+  - 컨테이너용 앱 서비스 웹 앱 생성
+  - 앱 서비스 계획 생성 및 구성
+  - 앱 서비스를 위한 네트워킹 구성
+  - 배포 슬롯 생성 및 관리
+  - 로직 앱 구현
+  - Azure 기능 구현
+  
+  #### 랩 &#58; 메시지 기반 통합 아키텍처 구성하기
+  - Azure Function App Storage Blob 트리거 구성 및 유효성 확인
+  - Azure Event Grid 구독 기반 큐 통신 구성 및 유효성 확인 
+  
+  #### 랩 &#58; Staging Slot으로 Azure App Service 웹 앱 구현하기
+  - Azure App Service 웹 앱의 배포 슬롯을 사용하여 블루/그린 배포 패턴 구현
+  - Azure App Service 웹 앱의 배포 슬롯을 사용하여 A/B 테스트 수행
+  
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
+  - Azure App Service 구성
+  - App Service Plan 생성
+  - Azure Logic Apps을 사용하여 워크플로우 생성
+  - Function App 생성
+  
+  
+  ### 모듈 15&#58; Cloud Infrastructure Monitoring 구현
+  이 모듈에서는, Azure 모니터, Azure 작업 일지, Azure 경고, Network Watcher, Azure 서비스 상태, Azure 애플리케이션 인사이트에 대해 학습합니다.
+  #### 레슨
   - Azure 인프라 보안 모니터링
-  - Azure Monitor
-  - Azure Workbooks
-  - Azure Alerts
+  - Azure 모니터
+  - Azure 작업 일지
+  - Azure 경고
   - Log Analytics
   - Network Watcher
   - Azure Service Health
-  - Azure Costs 모니터
-  - Azure Application Insights
-  - Azure에서의 통합 모니터링
-
-  본 모듈에서는 다음을 학습합니다. 
-  - Azure 로그 분석 이해
+  - 모니터 Azure 비용
+  - Azure 애플리케이션 인사이트
+  - Azure의 통합 모니터링
+  
+  이 모듈에서는, 다음의 방법을 학습합니다
+  - Azure Log Analytics 이해
   - Azure Service Health 이해
-
-
-  ### 모듈 11&#58; 애플리케이션 보안 관리
-  본 모듈에서는 Azure Key Vault에 대해서와 Azure Managed Identity를 사용한 인증 구현에 대해 학습합니다.
-  #### 단원
-  - Azure Key Vault
-  - Azure Managed Identity
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
-  - 비밀, 키 및 인증서 관리 등의 Key Vault 사용 설명
-  - Azure 리소스로 관리 ID 사용
-
-
-  ### 모듈 12&#58; 애플리케이션 인프라 구현
-  본 모듈에서는 컨테이너용 App Service 웹 앱을 작성하고, App Service Plan을 작성 및 구성하며, 배포 슬롯을 만들고 관리하는 방법에 대해 학습합니다.
-  #### 단원
-  - Azure App Service 작성 및 구성
-  - 컨테이너용 App Service Web App 작성
-  - App Service Plan 작성 및 구성
-  - App Service 용 네트워킹 구성
-  - 배포 슬롯 생성 및 관리
-  - 논리 앱 구현
-  - Azure Functions 구현
-
-  #### 랩&#58; 메시지 기반 통합 아키텍처 구성
-  - Azure 함수 앱 Storage Blob 트리거 구성 및 유효성 검사
-  - Azure Event Grid 구독 기반 큐 메시지 구성 및 유효성 검사
-
-  #### 랩&#58; 스테이징 슬롯으로 Azure App Service Web App 구현
-  - Azure App Service 웹 앱의 배포 슬롯을 사용하여 Blue/Green 배포 패턴 구현
-  - Azure App Service 웹 앱의 배포 슬롯을 사용하여 A/B 테스트 수행
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58; 
-  - Azure App Service 구성
-  - App Service 계획 생성
-  - Azure Logic Apps을 사용한 워크플로 생성
-  - 함수 앱 생성
-
-
-  ### 모듈 13&#58; 컨테이너 기반 애플리케이션 구현
-  본 모듈에서는 Azure Container 인스턴스를 실행하는 방법과 AKS를 사용하여 Kubernetes를 배포하는 방법에 대해 학습합니다.
-  #### 단원
-  - Azure Container Instances
-  - Azure Kubernetes Service 구현
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure Container 인스턴스 실행
-  - AKS를 사용하여 Kubernetes 배포
-
-
-  ### 모듈 14&#58; NoSQL 데이터베이스 구현
-  본 모듈에서는 Azure Table Storage에 대해서와 CosmosDB API를 위한 권장 옵션을 학습합니다.
-  #### 단원
-  - 스토리지 계정 테이블 구성
-  - 적절한 Cosmos DB API 선택
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Table Service 데이터 모델 개요 설명
-  - Azure Cosmos DB에 대한 옵션 이해
-  - CosmosDB를 사용하여 고가용성 이해
-
-
-  ### 모듈 15&#58; Azure SQL 데이터베이스 구현
-  본 모듈에서는 Azure SQL Database의 단일 데이터베이스를 작성하고, Azure SQL Database 관리 인스턴스를 만들며 고가용성 및 Azure SQL 데이터베이스를 검토합니다.
-  #### 단원
-  - Azure SQL 데이터베이스 설정 구성
-  - Azure SQL 데이터베이스 관리 인스턴스 구현
-  - 고가용성 및 Azure SQL Database
-
-  본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
-  - Azure SQL Database 단일 데이터베이스 만들기
-  - Azure SQL Database 관리 인스턴스 만들기
-  - Azure SQL Database에 사용되는 고가용성 아키텍처 모델 권장
-

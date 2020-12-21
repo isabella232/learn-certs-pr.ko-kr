@@ -12,7 +12,7 @@ ms.prod: non-product-specific
 ---
 # 지원: Learn에서 Learning Partner 과정 예약
 
-## 강사 지도식 교육 
+## 강사 지도식 교육
 
 Microsoft는 [Microsoft Learn](/learn/)에 실시간 강사 지도식 교육 예약 기능을 제공함으로써 단순하고 간소화된 학습자 환경을 제공하고 있습니다. Microsoft Learn에서의 과정 예약 통합을 통해 학습자는 자격을 갖춘 Learning Partners가 제공하는 강사 지도식 교육 과정을 미리 볼 수 있습니다. 과정을 선택하면 Learning Partner 사이트로 직접 연결되고 여기서 등록 및 결제를 완료합니다.  
 
@@ -52,18 +52,9 @@ Microsoft는 [Microsoft Learn](/learn/)에 실시간 강사 지도식 교육 예
 			<td>
 				<ul>
 					<li><a href="/learn/certifications/training-faq">FAQ</a>를 검토하십시오.</li>
-					<li>질문에 대한 답을 찾지 못한 경우 Learn 지원 포럼의 <a href="https://trainingsupport.microsoft.com/iltvilt/forum">Learning Partner 강사 지도식 과정 예약에 질문을 게시하십시오</a>.
+					<li>질문에 대한 답을 찾지 못한 경우 Learn 지원 포럼의 <a href="https://trainingsupport.microsoft.com/en-us/iltvilt/forum">Learning Partner 강사 지도식 과정 예약에 질문을 게시하십시오</a>.
 </li>
 				</ul>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <p><strong><em>경험이나</em></strong> 서비스를 개선하기 위한 일반적인 피드백 </p>
-            </td>
-            <td>
-                <p>이 <a href="/learn/support/troubleshooting#report-feedback">양식으로 피드백을 제출하고</a> ‘제품 또는 기능’을 선택한 후 ‘강사 지도식 교육’을 선택하여 자세한 피드백을 제공해 주십시오.</p>
-				<p>피드백은 처리되지만, 피드백에 대한 답변은 받지 못할 것입니다.</p>
             </td>
         </tr>
         <tr>

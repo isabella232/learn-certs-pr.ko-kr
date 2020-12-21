@@ -11,7 +11,11 @@ ms.author: micsullivan
 ---
 # Pearson VUE 관련 온라인 시험 정보
 
-Pearson VUE 온라인에서, 그리고 가정이나 사무실에서 편안하게 Microsoft 인증 역할 기반 또는 기본 시험을 볼 수 있습니다. 온라인 감독 시험 제공은 웹캠과 마이크를 통해 시험 감독관이 시험 상태를 모니터링하여 시험 결과의 무결성을 유지합니다. Pearson VUE을 통한 온라인 감독 시험 응시에 관심이 있고 등록전 예상되는 일을 이해하려는  응시자의 이해를 돕기 위해 본 페이지에서는 중요한 세부 사항을 포함합니다. Pearson VUE의 [YouTube 비디오](https://youtu.be/Gm1PqdbwBP0)를 보고 온라인 감독 시험 응시 방법에 대해 자세히 학습하십시오. (본 섹션에서는 Certiport에서 제공하는 시험을 다루지 않습니다.)
+집이나 사무실에서 편안하게 Pearson VUE 온라인으로 모든 Microsoft Certification 역할 기반 혹은 기본 시험을 볼 수 있습니다. 온라인 감독 시험 제공은 웹캠과 마이크를 통하여 감독이 시험 경험을 모니터링 함으로써, 시험 결과의 무결성을 유지합니다. Pearson VUE를 통한 온라인 감독 시험을 보는 것에 관심이 있고 등록 전에 기대하는 것을 더 알고 싶다면 이 페이지에 중요한 정보가 있습니다. 온라인 감독 시험에 대해서 더 알고 싶다면 아래 비디오를 시청하십시오. (이 섹션은 Certiport에서 제공하는 시험을 다루지 않습니다.).
+<br/>
+
+> [!VIDEO https://www.microsoft.com/en-us/videoplayer/embed/RE4IFBp]
+
 
 ## <a name="take-a-system-test"></a> 시스템 테스트 응시
 

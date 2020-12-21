@@ -57,6 +57,8 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 	- Microsoft 핵심 트레이닝 기술
     - New Horizons Instructional Skills Certification
     - PrepMasters USA
+    - Modern Classroom Certified Trainer (MCCT®)
+    - Certified Virtual Educator
   
   또는<br/><br/>
 

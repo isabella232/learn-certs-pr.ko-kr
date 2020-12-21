@@ -1,6 +1,6 @@
 ---
-title: 'College credit for certification exams | Microsoft Docs'
-description: '인증 시험 대학교 학점으로 인정'
+title: 'NCCRS College credit for certification exams | Microsoft Docs'
+description: '인증 시험에 대한 NCCRS대학 학점'
 documentationcenter: NA 
 author: micsullivan
 ms.topic: article
@@ -10,7 +10,7 @@ ms.date: 08/11/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# 인증 시험 대학교 학점으로 인정
+# 인증 시험에 대한 NCCRS대학 학점
 
 ## 학생 인증
 
