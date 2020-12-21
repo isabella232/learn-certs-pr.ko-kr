@@ -8,7 +8,7 @@ displayName: MB-240
 summary: |-
   <div>
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong>이 시험의 내용은 2020년 11월 10일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><strong>이 시험의 내용은 2020년 11월 10일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
   </div>
 
   이 시험의 응시자들은 현장 서비스 전문성을 갖춘 Dynamics 365 Customer Engagement Functional Consultants 입니다. 응시자들은 현장 서비스 수명 주기를 완료하는 리소스를 관리하는 솔루션을 구현할 책임이 있습니다.
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2020년 11월 10일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2020년 11월 10일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 시험 기술 개요를 다운로드 받으세요.
 - 현장 서비스 애플리케이션 구성 (15-20%)
 - 작업 주문 관리하기 (15-20%)
 - 작업 오더 일정잡기 및 발송 (25-30%)

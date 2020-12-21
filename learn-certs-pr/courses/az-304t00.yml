@@ -38,11 +38,19 @@ summary: |-
   #### 대상 그룹 프로필
   본 과정은 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현할 수 있는 전문 지식을 갖춘 IT 전문가를 대상으로 합니다. 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼, 예산 및 관리와 같은 IT 운영에 대한 폭넓은 지식을 갖추고 있어야 합니다. Azure Solution 설계자는 Azure Portal을 사용하며, 점점 더 능숙해지면서 명령줄 인터페이스를 사용합니다. 응시자는 전문가 수준의 Azure 관리 기술이 있어야 하며 Azure 개발 프로세스 및 DevOps 프로세스에 대한 경험이 있어야 합니다.
 prerequisitesSection: |-
-  성공적인 Azure Solution 설계자는 운영 체제, 가상화, 클라우드 인프라, 스토리지 구조 및 네트워킹에 대한 경험을 바탕으로 해당 역할을 시작합니다.
+  성공적인 Azure 아키텍처는 운영체제, 가상화, cloud 인프라, 스토리지 구조, 네트워킹, 애플리케이션 및Architects 데이터베이스에 대한 경험과 함께 이 역할을 시작합니다.
   - VM, 가상 네트워킹 및 가상 하드 디스크를 포함한 온-프레미스 가상화 기술 이해.
   - TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽 및 암호화 기술을 포함한 네트워크 구성 이해.
   - 도메인, 포리스트, 도메인 컨트롤러, 복제, Kerberos 프로토콜 및 LDAP(Lightweight Directory Access Protocol)을 포함한 Active Directory 개념 이해.
   - 백업 및 복원 작업을 포함한 회복력과 재해 복구 이해.
+  - 애플리케이션 개발 및 APIs 이해.
+  - MS SQL, MySQL 혹은 Postgres와 같은 SQL 및 MongoDB 데이터베이스같은 비-SQL 데이터베이스 모두에 대한 이해
+  - 예를 들어 큐, 테이블, 캐시 같은 애플리케이션 및 서비스 탈동조화 이해.
+  - 휴먼 암호화, 전송중 암호화, SSL, TLS와 같이 환경을 보호하기 위한 보안 개념 이해.
+  
+  필수 과정 (혹은 이에 상응하는 지식)&#58;
+  - AZ-900 Azure Fundamentals
+  - AZ-303 Azure Solution Architect Technologies
 outlineSection: |-
   ### 모듈 1&#58; 컴퓨팅 솔루션 설계
   본 모듈에서는 가상 머신, App Services, Service Fabric, Azure Functions, Windows 가상 데스크톱 및 컨테이너를 비롯한 적절한 컴퓨팅 기술에 대해 학습합니다.
