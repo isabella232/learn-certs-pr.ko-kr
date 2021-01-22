@@ -15,7 +15,7 @@ Microsoft Certified Professional 프로그램을 최신 상태로 유지하기 �
 
 ## 중단 예정 인증
 
-향후 12개월 내에 중단될 예정인 인증을 확인하세요. (추후 변동될 수 있습니다.)  
+향후 12개월 내에 중단될 예정인 인증을 확인하세요. (추후 변동될 수 있습니다.)
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
@@ -35,6 +35,7 @@ Microsoft Certified Professional 프로그램을 최신 상태로 유지하기 �
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 2021년 1월 31일 중단예정 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | 2021년 1월 31일 중단예정 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020년 12월 31일 중단예정 |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021년 6월 30일 중단 |
 
 ## 중단된 인증
 

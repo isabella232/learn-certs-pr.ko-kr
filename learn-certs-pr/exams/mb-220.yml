@@ -8,13 +8,13 @@ displayName: MB-220
 summary: |-
   <div>
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong>이 시험의 내용은 2020년 11월 10일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
+  <div><strong>이 시험의 내용은 2021년 1월 15일 업데이트 됩니다. 변경되는 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오. </strong><br/><br/></div>
   </div>
-
+  
   이 시험의 응시자들은 Dynamics 365 Marketing Functional Consultants입니다. 응시자들은 리드를 유치 및 전환하고, 브랜드 인지도를 구축하고, 옴니 채널 메세징을 표준화하고, 마케팅 인사이트를 제공하는 솔루션을 구현하는데 대한 책임이 있습니다.
-
+  
   응시자는 이메일 마케팅, 설정, 대화형 고객 여정, 개인화된 경험으로 잠재 고객 교육, LinkedIn 통합, 이벤트, 고객의 목소리, 방문 페이지, 세분화 및 채점 등을 포함하는 핵심 마케팅 애플리케이션을 구성 및 확장하며 일반 데이터 보호 규제(GDPR) 준수를 유지 관리해야 합니다.
-
+  
   응시자들은 Dynamics 365 및 Microsoft 365 애플리케이션과의 통합을 포함하여 Dynamics 365 애플리케이션 제품군과 관련된 마케팅 원칙 및 마케팅 애플리케이션의 역할에 대한 지식이 있어야합니다.
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 마케팅 애플리케이션 구성; 세그먼트 및 목록 관리; 마케팅 양식 및 페이지 생성 및 관리; 리드, 연락처 및 계정 관리; 마케팅 이메일 생성 및 관리; 고객 여정 관리; 이벤트 및 웨비나 관리; 그리고 Dynamics 365 Customer Voice 구성.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2020년 11월 10일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 시험 기술 개요를 다운로드 받으세요.
+- 이 시험의 내용은 2021년 1월 15일 업데이트 됩니다. 변경되는 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 마케팅 애플리케이션 구성 (20-25%)
 - 세그먼트 및 리스트 관리 (5-10%)
 - 마케팅 양식 및 페이지 생성 및 관리 (10-15%)

@@ -1,0 +1,57 @@
+### YamlMime:Course
+title: Microsoft Dynamics 365 Business Central Functional Consultant
+metadata:
+  title: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+  description: 'Course MB-800T00-A: Microsoft Dynamics 365 Business Central Functional Consultant'
+uid: course.mb-800t00
+courseNumber: 'MB-800T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Business Central 모듈에 대한 사용 사례 이해
+- skill: Business Central 설정
+- skill: 재무 구성
+- skill: 판매 및 구매 구성
+- skill: 운영 구성
+- skill: 통합 및 자동화 시나리오 이해
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- functional-consultant
+products:
+- dynamics-business-central
+- power-platform
+exams:
+- uid: exam.mb-800
+summary: |-
+  중소기업용으로 구축되고 최적화된, Dynamics 365 Business Central은 초급 기업 애플리케이션을 능가하는 기업을 위한 애플리케이션입니다. 성장하는 기업은 증가된 재고와 거래를 처리할 수 없고, 다른 사업 분야 시스템과 통합이 어렵고, 보고에 제한이 있는 기본 회계 소프트웨어나 레거시 전사적 자원관리(ERP) 시스템을 능가하는 경우가 많습니다. 기업은 또한 cloud 에서 더 확장성이 크고, 증가 된 이동성 및 가용성이 있는 서비스 제공에 대한 물류 문제에 직면해 있습니다. Business Central으로, 재정을 관리하고, 공급망을 자동화 및 보안하며, 더 스마트하게 판매하고, 고객 서비스 및 프로젝트 수행을 향상시키고, 운영을 최적화할 수 있습니다.
+  
+  #### 대상 그룹 프로필
+  Dynamics 365 Business Central core Functional Consultant는 중소기업에 핵심 애플리케이션 설정 프로세스를 구현하는 것을 담당합니다.
+prerequisitesSection: |-
+  이 과정은 Dynamics 365 Business Central으로 작업하는 기능 컨설턴트나 Business Central에 대한 지식을 확장하려는 다른 Dynamics 365 앱으로 작업하는 기능 컨설턴트를 위해 디자인 되었습니다.
+outlineSection: |-
+  ### 모듈 1&#58; Business Central 소개
+  Business Central 모듈 소개
+  #### 레슨
+  
+  
+  ### 모듈 2&#58; 애플리케이션 설정
+  
+  
+  ### 모듈 3&#58; 재무 구성
+  
+  
+  ### 모듈 4&#58; 판매 및 구매 구성
+  
+  
+  ### 모듈 5&#58; 운영
+  
+  
+  ### 모듈 6&#58; 통합 및 자동화
+  
+  #### 추가 자료
+  Microsoft.com/learn

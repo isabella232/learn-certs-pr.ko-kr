@@ -6,15 +6,17 @@ metadata:
 uid: exam.77-883
 displayName: 77-883
 summary: |-
+  <div>
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-
+  <div><strong>이 시험은 폐지되었습니다. 현재 가능한 옵션은, <a href="/learn/certifications/browse/">인증 및 시험 찾아보기 페이지를 참고하세요</a>.</strong><br/><br/></div>
+  </div>
+  
   본 시험의 일반적인 응시자는 특징 및 기능 수준에서 PowerPoint 2010을 탐색하는 학생, 회사원 또는 강사입니다.
-
+  
   핵심 PowerPoint 2010 사용자는 생산성 도구에 익숙하며 프로젝트에서 다른 사람들과 자주 공동 작업을 하고 효율성을 위해 작업 환경을 개인적으로 조정합니다. 응시자는 효과적인 슬라이드 쇼를 생성하거나 제작하는 방법을 알고 있어야 합니다.
 subTitle: 본 시험의 일반적인 응시자는 특징 및 기능 수준에서 PowerPoint 2010을 탐색하는 학생, 회사원 또는 강사입니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tkyU
-scheduleExamUrl: https://www.certiport.com/locator
 locales:
 - en
 - ar-sa
@@ -39,6 +41,7 @@ skills:
 - 프레젠테이션 공동 작업
 - 전달을 위한 프레젠테이션 준비
 - 프레젠테이션 제공
+retirementDate: none
 roles:
 - business-user
 products:
