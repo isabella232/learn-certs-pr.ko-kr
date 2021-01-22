@@ -8,19 +8,18 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong>MB-200은 2020년 9월 새로운 시험인 <a href="/learn/certifications/exams/pl-200">PL-200</a>으로 대체됩니다. MB-200이 2020년 12월 31일 중단될 때까지 MB-200에 합격하거나 PL-200 및 MB-220에 합격하여 이 인증을 획득할 수 있습니다. MB-200이 중단된 후, 이 인증을 획득하려면 PL-200 및 MB-220에 합격하여야 합니다.</strong><br/><br/></div></div>
+  <div><strong>시험 <a href="/learn/certifications/exams/mb-200">MB-200</a> 이 새로운 시험인, <a href="/learn/certifications/exams/pl-200">PL-200</a>으로 대체됩니다. 2020년 12월 31일 MB-200이 만료될 때까지, MB-200 또는 PL-200과 MB-220을 통과하면 이 인증을 획득할 수 있습니다. MB-200 이 만료된 후, 이 인증을 획득하기 위해 PL-200 과 MB-220 을 통과해야합니다. 참고&#58; 시헙은 중부 표준시 오후 11:59 만료됩니다.</strong><br/><br/></div></div>
 
   Microsoft Dynamics 365 Marketing 기능 컨설턴트는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니 채널 메시징을 표준화하며 마케팅 통찰력을 제공하는 솔루션을 구현합니다.
 subTitle: Microsoft Dynamics 365 Marketing 기능 컨설턴트는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니 채널 메시징을 표준화하며 마케팅 통찰력을 제공하는 솔루션을 구현합니다.
 levels:
 - intermediate
 skills:
-- 검색, 계획, 및 분석 수행
-- 사용자 환경 디자인 관리
-- 엔터티 및 데이터 관리
-- 보안 구현
-- 통합 구현
-- 솔루션 배포 및 테스트 수행
+- Common Data Service 구성
+- Power Apps 사용하여 앱 만들기 
+- Power Automate 생성 및 관리
+- Power Virtual Agents 챗봇 구현
+- Power Apps 를 다른 앱 및 서비스와 통합
 - 마케팅 애플리케이션 구성
 - 세그먼트 및 리스트 관리
 - 마케팅 양식 및 페이지 생성 및 관리
@@ -36,23 +35,29 @@ products:
 - dynamics-365
 - dynamics-marketing
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-220t00
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-dynamics.set-up-dynamics-365-marketing
 - uid: learn-dynamics.work-core-features-marketing
 - uid: learn-dynamics.manage-events-dynamics-marketing
 - uid: learn-dynamics.analyze-marketing-insights
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUj1
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-220
 resources:
 - title: 인증 포스터

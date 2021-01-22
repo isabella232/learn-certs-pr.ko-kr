@@ -36,15 +36,15 @@ MCT 프로그램은 전세계 곳곳에서 Microsoft 기술에 대한 교육을 
 
 MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [신청 절차](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-4) 섹션의 MCT 프로그램 가이드 및 MCT 프로그램 계약을 참조하시기 바랍니다.
 
-
 ### MCT 프로그램 참여 요건
-- 현재 MCT 프로그램에 적격한 Microsoft 인증 또는 자격을 보유해야 합니다. 
+
+- 현재 MCT 프로그램에 적격한 Microsoft 인증 또는 자격을 보유해야 합니다.
 (자격 인증 목록은 아래를 참조하십시오)
 - 다음 중 한 가지 인증을 통해 강의 기술을 입증해야 합니다.
   - 강의 기술 인증
     - CompTIA CTT+
     - Essential Educate Trainer (내부 Microsoft - 인증)
-	- Fourth Dimension Technologies, Inc.
+  - Fourth Dimension Technologies, Inc.
     - Friesen Kaye and Associates
     - Global Knowledge Instructional Skills Certification
     - IAMCT Approved Technical Trainer(IAMCT ATT)
@@ -53,16 +53,16 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
     - Learning Tree Train the Trainer Program
     - Marcom Deli
     - Microsoft Certified Trainer Instructional Skills Certification(MCT-ISC)
-	- Microsoft 고객 서비스 & 지원 (CSS) 트레이너 인증
-	- Microsoft 핵심 트레이닝 기술
+  - Microsoft 고객 서비스 & 지원 (CSS) 트레이너 인증
+  - Microsoft 핵심 트레이닝 기술
     - New Horizons Instructional Skills Certification
     - PrepMasters USA
-    - Modern Classroom Certified Trainer (MCCT®)
-    - Certified Virtual Educator
+    - Modern Classroom Certified Trainer (MCCT®)[대학 직원 또는 교수 전용]
+    - Certified Virtual Educator[대학 직원 또는 교수 전용]
   
   또는<br/><br/>
 
-  - 최소 1년의 강의 경력에 대한 증빙 서류 제공 
+  - 최소 1년의 강의 경력에 대한 증빙 서류 제공
 
 **참고** MCT 인증을 갱신하시려면 인증 획득일까지 MCT 프로그램 갱신 요건을 충족하셔야 합니다.
 
@@ -96,7 +96,9 @@ MCT 프로그램 요구 사항에 대한 자세한 정보는 본 페이지의 [�
 - [Microsoft 365 Certified: Messaging Administrator Associate](https://www.microsoft.com/learning/m365-messaging-administrator.aspx)
 - [Microsoft 365 Certified: Developer Associate](/learn/certifications/m365-developer-associate)
 - [Microsoft 365 Certified: Teams Administrator Associate](/learn/certifications/m365-teams-administrator-associate)
+- [Microsoft Certified: Power Platform Functional Consultant Associate](/learn/certifications/power-platform-functional-consultant-associate)
 - [Microsoft Certified: Power Platform App Maker Associate](/learn/certifications/power-platform-app-maker)
+- [Microsoft Certified: Power Platform Developer Associate](/learn/certifications/power-platform-developer-associate)
 - [Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-sales.aspx)
 - [Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-customer-service.aspx)
 - [Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate](https://www.microsoft.com/learning/d365-functional-consultant-marketing.aspx)
@@ -142,9 +144,9 @@ Microsoft Office Specialist이지만 Microsoft Certification ID (MCID)가 없는
 MCT 등록 도구의 용도:
 
 - **MCT 프로그램 요건 검토 및 MCT 프로그램 가이드와 계약 서명.** 응시자가 제공하는 전자 서명은 MCT 이용 약관에 대한 응시자의 동의를 의미합니다.
--**프로필 정보 업데이트.** 프로필에 기입하신 정보는 MCT 관련 커뮤니케이션을 위해 사용됩니다.
--**고용 상태 명시.** Learning Partner 또는 Microsoft Imagine Academy에 재직 중이신 경우에는 해당 ID 번호를 명시해주시기 바랍니다.
--**결제 방법 선택.** 프로그램 수수료는 귀하의 소속 국가/지역 및 고용 상태에 따라 상이합니다. 귀하의 소속 국가/지역의 MCT 및 MCT Alumni 멤버십 수수료에 대한 정보는 페이지 하단의 검색 툴을 사용하여 확인하실 수 있습니다.
+- **프로필 정보 업데이트.** 프로필에 기입하신 정보는 MCT 관련 커뮤니케이션을 위해 사용됩니다.
+- **고용 상태 명시.** Learning Partner 또는 Microsoft Imagine Academy에 재직 중이신 경우에는 해당 ID 번호를 명시해주시기 바랍니다.
+- **결제 방법 선택.** 프로그램 수수료는 귀하의 소속 국가/지역 및 고용 상태에 따라 상이합니다. 귀하의 소속 국가/지역의 MCT 및 MCT Alumni 멤버십 수수료에 대한 정보는 페이지 하단의 검색 툴을 사용하여 확인하실 수 있습니다.
 
 ## MCT Alumni 프로그램
 
@@ -170,7 +172,6 @@ MCT Alumni 혜택 사항:
 
 MCT Alumni 멤버가 되길 희망하시는 경우, MCT Alumni 프로그램 계약을 살펴보시고 멤버십 약관에 대해 숙지하시기 바랍니다.<br/>
 
-
 [MCT Alumni 프로그램 약관](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2XP6W)
 
 **참고** 별도로 명시된 경우를 제외하고 모든 내용은 영어로 제공됩니다.
@@ -186,6 +187,7 @@ MCT Alumni 소속인 경우, MCT 프로그램 교육 실무로 복귀하시면 �
 MCT 복귀 요건:
 
 **본 페이지의 [요구 사항](https://www.microsoft.com/learning/mct-certification.aspx#mctinfoheading-3) 란에 설명된 MCT 프로그램 요구 사항을 충족하셔야 합니다. MCT 프로그램에 적격한 현재 Microsoft 인증 및 자격 충족여부 확인.
+
 - **MCT 프로그램 참여 신청.** MCT Alumni 멤버인 경우, 기존의 MCT 프로그램 참가 신청을 증명하는 교육기술 인증 증빙서류를 제출하시거나 최소 1년의 교육 경력을 증명하는 증빙서류를 제출하시기 바랍니다. 관련 증빙서류는 과거 고객, 매니저 또는 동료 직원으로부터 발급 받으셔도 무방합니다.
 
 ## MCT 및 MCT 동문 프로그램 비용

@@ -107,21 +107,22 @@ resourcesSection:
       url: /learn/certifications/browse
 
 statisticsSection:
-  title: 인증이 필요한 이유
-  summary: 인증은 업계에서 인정되는 역할 기반 기술에 대한 증거로써 전문적인 우위를 제공합니다.
+  title: Microsoft 인증
+  summary: Microsoft 인증은 디지털 및 cloud 비즈니스에서 기술 습득에 대해 전 세계적으로 인정받고 업계 보증된 증거를 제공하여 전문적인 이점을 제공합니다.
   video:
-    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    pdfDownloadUrl: https://home.pearsonvue.com/voc
     iframeTitle: Microsoft Certifications
     iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Microsoft 인증의 혜택
-    summary: 인증을 획득한 Microsoft 공인 기술자 중 23%는 최대 20%의 급여 인상을 받는 것으로 보고되었습니다. 또한, 인증을 획득한 직원은 종종 동료를 감독하는 일을 맡기에 더 빨리 승진할 가능성도 있습니다. - 2017 Pearson VUE 인증 가치 백서.
+    title: 인증의 혜택
+    summary: 인증을 취득하면, 기술 전문가의 67%가 직업 수행 능력에 있어 높은 자신감을 가진다고 말했고, 41%는 직업 만족를 높였다고 보고했으며, 35%는 급여 또는 임금인상을 보았습니다. - 2018 Pearson VUE IT 인증 의 가치.
   items:
-    - title: 38%
-      summary: 2021년에 IT 직업 중 클라우드와 관련된 비율입니다.
-      note: IDC/Microsoft, 클라우드 기술 및 조직에 주는 영향* 클라우드 기술이 IT 전문가의 경력을 가속화하는 이유, 2017년 5월
-    - title: 35%
-      summary: 위 비율의 IT전문가들은 다른 기술을 배포할 때보다 클라우드를 배포할 때 영향력이 크다고 말합니다.
-      note: IDC/Microsoft, 클라우드 기술 및 조직에 주는 영향* 클라우드 기술이 IT 전문가의 경력을 가속화하는 이유, 2017년 5월
-    - title: 36.9%
-      summary: 위 비율의 IT 전문가들은 인증 취득으로 복잡한 업무를 수행하는 데 더욱 자신감을 가질 수 있게 되었다고 말합니다.
-      note: Pearson VUE, IT 인증 조사의 가치, 2017년 1월
+    - title: 91%
+      summary: 인증 된 IT 전문가들은 인증이 더 전문적인 신뢰성을 제공한다고 말했습니다.
+      note: 2018 Pearson VUE 인증의 가치
+    - title: 52%
+      summary: 인증 된 IT 전문가들은 그들의 전문성이 조직 내에서 더 많이 요구된다고 말했습니다.
+      note: Global Knowledge 2019 IT 기술과 급여 보고서
+    - title: 93%
+      summary: 의사 결정권자들은 인증 된 직원들이 부가 가치를 제공한다는 것에 동의합니다.
+      note: Global Knowledge 2019 IT Decision Makers Insights
+

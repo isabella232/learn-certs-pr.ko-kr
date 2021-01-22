@@ -119,7 +119,7 @@ Apple 컴퓨터에서 로컬 관리자 권한 설정 지원이 필요하면 [App
                 <p><strong>인터넷 브라우저</strong></p>
             </td>
             <td>
-                <p>웹 등록 및 보안 브라우저 다운로드를 위한 Microsoft <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong> 및 <strong>Firefox</strong> 최신 버전, 또는 <strong>Internet Explorer 11</strong>.</p>
+                <p>Microsoft의 최신 버전 <strong>Edge</strong>, <strong>Safari</strong>, <strong>Chrome</strong>, 및 <strong>Firefox</strong>.</p>
             </td>
         </tr>
         <tr>

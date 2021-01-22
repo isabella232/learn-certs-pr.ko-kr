@@ -7,7 +7,7 @@ uid: exam.dp-100
 displayName: DP-100
 summary: |-
   <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong>이 시험의 내용은 2020년 12월 8일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><strong>이 시험의 내용은 2020년 12월 8일 업데이트 되었습니다. 변경된 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
 
   Azure Data 과학자는 데이터 과학 및 기계 학습 지식을 적용하여 특히, Azure Machine Learning Service를 사용하여 Azure의 기계 학습 워크로드를 구현하고 실행합니다. Azure의 데이터 과학 워크로드에 적합한 작업 환경 계획 및 생성, 데이터 실험 실행 및 예측 모델 훈련, 모델 관리 및 최적화 및 기계 학습 모델 제품에 배포를 수반합니다.
@@ -26,7 +26,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2020년 12월 8일에 업데이트됩니다. 변경되는 사항을 확인하려면 아래의 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2020년 12월 8일 업데이트 되었습니다. 변경된 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Azure Machine Learning 작업 영역 설정 (30-35%)
 - 실험 실행 및 모델 훈련 (25-30%)
 - 모델 최적화 및 관리 (20-25%)
