@@ -6,11 +6,15 @@ metadata:
 uid: certification.d365-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
+  <div>
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-
+  
+  <div><strong>이 인증은 2021년 6월 30일 만료됩니다. 이 날짜 이후에는 더이상 이 인증을 받을 수 없습니다. 만료날짜 이전에 획득한 모든 인증은 <a href="https://aka.ms/certdashboard">인증 대시보드</a>의 성적 증명서에 계속 표시됩니다.</strong><br/><br/></div>
+  </div>
+  
   Microsoft Dynamics 365, 인공 지능, 혼합 현실, Power Platform, 클라우드 개념, 클라우드 보안, Dynamics 365 보안, 일반 데이터 서비스(CDS), Dynamics 365 보고, Dynamics 365 통합 및 클라우드 배포를 이해하고 있음을 입증하십시오.
-
-  <div><br/><strong>참고&#58; Microsoft 는 현재 “Common Data Service”에 대한 참조를 “Microsoft Dataverse”에 업데이트 하지 않습니다.</strong></div>
+  
+  <div><br/><strong>이 시험은 2021년 6월 30일에 완료되기 때문에, Microsoft 는 “Microsoft Dataverse" 에 “Common Data Service” 에 대한 참조를 업데이트하지 않습니다.</strong></div>
 subTitle: 'Microsoft Dynamics 365, 인공 지능(AI), 혼합 현실(MR), Power Platform, 클라우드 개념, 클라우드 보안, Dynamics 365 보안, 일반 데이터 서비스(CDS), Dynamics 365 보고, Dynamics 365 통합 및 클라우드 배포를 이해하고 있음을 입증하십시오.'
 levels:
 - beginner

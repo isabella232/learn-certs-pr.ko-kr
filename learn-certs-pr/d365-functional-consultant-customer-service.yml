@@ -6,19 +6,19 @@ metadata:
 uid: certification.d365-functional-consultant-customer-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div><div><strong>MB-200은 2020년 9월 새로운 시험인 <a href="/learn/certifications/exams/pl-200">Pl-200</a>으로 대체됩니다. MB-200이 2020년 12월 31일 중단될 때까지 MB-200에 합격하거나 PL-200 및 MB-230에 합격하여 이 인증을 획득할 수 있습니다. MB-200이 중단된 후, 이 인증을 획득하려면 PL-200 및 MB-230에 합격하여야 합니다.</strong><br/><br/></div></div>
-
+  <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong>시험 <a href="/learn/certifications/exams/mb-200">MB-200</a> 이 새로운 시험인, <a href="/learn/certifications/exams/pl-200">PL-200</a>으로 대체됩니다. 2020년 12월 31일 MB-200이 만료될 때까지, MB-200 또는 PL-200과 MB-230을 통과하면 이 인증을 획득할 수 있습니다. MB-200 이 만료된 후, 이 인증을 획득하기 위해 PL-200 과 MB-230 을 통과해야합니다. 참고: 시헙은 중부 표준시 오후 11:59 만료됩니다.</strong><br/><br/></div></div>
+  
   Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 요구를 예측하는 실용적인 통찰력을 얻습니다.
 subTitle: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 요구를 예측하는 실용적인 통찰력을 얻습니다.
 levels:
 - intermediate
 skills:
-- 검색, 계획, 및 분석 수행
-- 사용자 환경 디자인 관리
-- 엔터티 및 데이터 관리
-- 보안 구현
-- 통합 구현
-- 솔루션 배포 및 테스트 수행
+- Common Data Service 구성
+- Power Apps 사용하여 앱 만들기 
+- Power Automate 생성 및 관리
+- Power Virtual Agents 챗봇 구현
+- Power Apps 를 다른 앱 및 서비스와 통합
 - 서비스 케이스 및 참조 자료 관리
 - 큐, 권리 유형 및 SLA (서비스 수준 계약) 관리
 - 일정 관리 구현
@@ -31,23 +31,29 @@ products:
 - dynamics-365
 - dynamics-customer-service
 courses:
-- uid: course.mb-200t00
+- uid: course.pl-200t00
 - uid: course.mb-230t01
 paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
-- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.create-business-process-flow
 - uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
 - uid: learn-bizapps.create-use-analytics-reports-power-bi
-- uid: learn-bizapps.get-started-power-apps-portals
-- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
 - uid: learn-bizapps.customer-service-hub-cases-slas
 - uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
 - uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
 - uid: learn-dynamics.create-surveys
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 - uid: exam.mb-230
 resources:
 - title: 인증 포스터

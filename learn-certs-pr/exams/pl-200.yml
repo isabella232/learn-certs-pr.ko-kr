@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Functional Consultant (beta)'
+title: 'Microsoft Power Platform Functional Consultant'
 metadata:
-  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
-  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant (beta)'
+  title: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
+  description: 'Exam PL-200: Microsoft Power Platform Functional Consultant'
 uid: exam.pl-200
 displayName: PL-200
 summary: |-
@@ -14,9 +14,7 @@ summary: |-
   
   응시자는 품질 보증 팀원과의 적극적인 협업을 통해 솔루션이 기능 및 비기능적 요구 사항을 반드시 충족하도록 합니다. 응시자는 패키징 및 배포를 위한 아티팩트를 식별 및 생성하여 DevOps 엔지니어에게 제공하며 Power Platform 관리자에게는 운영 및 유지 관리 교육을 제공합니다.
   
-  Power Platform Functional Consultants는 Dynamics 365 모델 기반 애플리케이션에 익숙해야하며 Dynamics 365 모델 기반 애플리케이션을 확장하고 사용자 지정을 위해 Power Platform 구성 요소를 사용한 경험이 있어야합니다. 
-  
-  <div><strong><br/>베타 시험은 문제의 질과 시험에 대한 데이터를 수집하고 있어서 바로 채점되지 않습니다. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">베타 시험의 유용성과 중요성에 대해</a></strong></div>자세히 알아보십시오.
+  Power Platform Functional Consultants는 Dynamics 365 모델 기반 애플리케이션에 익숙해야하며 Dynamics 365 모델 기반 애플리케이션을 확장하고 사용자 지정을 위해 Power Platform 구성 요소를 사용한 경험이 있어야합니다.
 subTitle: '본 시험은 Common Data Service (CDS) 구성, Power Apps를 사용한 앱 생성, Power Automate 생성 및 관리, Power Visual Agents 챗봇 구현 및 Power Apps를 다른 앱 및 서비스와 통합과 같은 과제를 완료할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CQVs
