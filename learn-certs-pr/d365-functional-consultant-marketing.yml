@@ -8,15 +8,15 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   <div>
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong>시험 <a href="/learn/certifications/exams/mb-200">MB-200</a> 이 새로운 시험인, <a href="/learn/certifications/exams/pl-200">PL-200</a>으로 대체됩니다. 2020년 12월 31일 MB-200이 만료될 때까지, MB-200 또는 PL-200과 MB-220을 통과하면 이 인증을 획득할 수 있습니다. MB-200 이 만료된 후, 이 인증을 획득하기 위해 PL-200 과 MB-220 을 통과해야합니다. 참고&#58; 시헙은 중부 표준시 오후 11:59 만료됩니다.</strong><br/><br/></div></div>
-
+  </div>
+  
   Microsoft Dynamics 365 Marketing 기능 컨설턴트는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니 채널 메시징을 표준화하며 마케팅 통찰력을 제공하는 솔루션을 구현합니다.
 subTitle: Microsoft Dynamics 365 Marketing 기능 컨설턴트는 잠재 고객을 유치하고 변환하며, 브랜드 인지도를 구성하고 옴니 채널 메시징을 표준화하며 마케팅 통찰력을 제공하는 솔루션을 구현합니다.
 levels:
 - intermediate
 skills:
 - Common Data Service 구성
-- Power Apps 사용하여 앱 만들기 
+- Power Apps 사용하여 앱 만들기
 - Power Automate 생성 및 관리
 - Power Virtual Agents 챗봇 구현
 - Power Apps 를 다른 앱 및 서비스와 통합
