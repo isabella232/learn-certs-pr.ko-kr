@@ -34,7 +34,6 @@ Microsoft Certified Professional 프로그램을 최신 상태로 유지하기 �
 | [MCSE: Core Infrastructure](/learn/certifications/mcse-core-infrastructure) | 2021년 1월 31일 중단예정 |
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 2021년 1월 31일 중단예정 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | 2021년 1월 31일 중단예정 |
-| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020년 12월 31일 중단예정 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021년 6월 30일 중단 |
 
 ## 중단된 인증
@@ -45,6 +44,7 @@ Microsoft Certified Professional 프로그램을 최신 상태로 유지하기 �
 
 | 역할 기반                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020년 12월 31일 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 2020년 8월 31일 |
 
 | Microsoft Certified Solutions Developer                                            |

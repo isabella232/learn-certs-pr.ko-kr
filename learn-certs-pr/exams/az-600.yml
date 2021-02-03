@@ -1,0 +1,67 @@
+### YamlMime:Examination
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)
+metadata:
+  title: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+  description: 'Exam AZ-600: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub (beta)'
+uid: exam.az-600
+displayName: AZ-600
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  
+  AZ-600 시험 응시자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure administrators 이거나 Azure Stack Hub 운영자들 입니다.
+  
+  이 시험의 응시자들은 Azure Stack Hub 환경을 관리하고 운영하는데 상당한 경험이 있어야합니다. 가상화, 네트워킹 및 신원 관리에 대한 어느 정도의 지식 외에도, Azure에 대한 상당한 이해가 있어야합니다. Azure Stack Hub가 DevOps 프로세스와 하이브리드 개발 모델을 가능하게하는 방법도 이해하고 있어야합니다.
+  
+  <div><strong><br/>베타 시험은 문제와 시험의 품질에 대한 데이터를 수집하기 때문에 즉시 채점되지 않습니다. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">베타 시험의 가치와 중요성</a>에 대해서 더 자세히 알아보십시오.</strong></div>
+subTitle: '이 시험은 다음과 같은 기술 작업을 완수하는 능력을 측정합니다: 서비스 제공; 데이터 센터 통합 구현; 신원 및 접근 관리; 인프라 관리.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Lwq9
+providers:
+  - providerType: pearson-vue
+    examUrl: https://examregistration.microsoft.com/?locale=en-us&examcode=AZ-600&examname=Exam%20AZ-600:%20Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub%20(beta)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-600
+locales:
+- en
+levels:
+- advanced
+skills:
+- 서비스 제공 (30-35%)
+- 데이터 센터 통합 구현 (15-20%)
+- 신원 및 접근 관리 (10-15%)
+- 인프라 관리(30-35%)
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+relatedCertifications:
+- related:
+    uid: certification.azure-stack-hub-operator
+resources:
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: 시험 재응시
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 시험 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 편의시설 요청
+  description: 시험을 위한 편의시설 요청에 대해 더 자세히 알아봅니다.
+  href: ../request-accommodations.md
+- title: 시험 정책 및 자주 묻는 질문
+  description: 시험 정책과 자주 묻는 질문을 확인합니다.
+  href: ../certification-exam-policies.md
+

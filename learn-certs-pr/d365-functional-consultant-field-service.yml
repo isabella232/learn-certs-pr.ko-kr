@@ -4,12 +4,13 @@ metadata:
   title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
   description: 'Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.'
 uid: certification.d365-functional-consultant-field-service
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div>
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong>MB-200은 2020년 9월 새로운 시험인 <a href="/learn/certifications/exams/pl-200">PL-200</a>으로 대체됩니다. MB-200이 2020년 12월 31일 중단될 때까지 MB-200에 합격하거나 PL-200 및 MB-240에 합격하여 이 인증을 획득할 수 있습니다. MB-200이 중단된 후, 이 인증을 획득하려면 PL-200 및 MB-240에 합격하여야 합니다.</strong><br/><br/></div></div>
-
+  </div>
+  
   Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
 subTitle: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
 levels:
