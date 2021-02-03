@@ -7,15 +7,15 @@ uid: exam.dp-300
 displayName: DP-300
 summary: |-
   <div><div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  <div><strong>이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
+  <div><strong>이 시험의 내용은 2021년 1월 27일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
-
+  
   본 시험의 응시자는 Microsoft SQL Server 및 Microsoft Azure 데이터 서비스에 구축된 온-프레미스 및 클라우드 관계형 데이터베이스를 관리하는 데이터베이스 관리자 및 데이터 관리 전문가입니다.
-
+  
   Azure Database Administrator는 Azure Data Services와 SQL Server에 구축 된 클라우드 네이티브 및 하이브리드 데이터 플랫폼 솔루션의 운영적인 측면을 구현하고 관리합니다. Azure Database Administrator는 행정 관리 목적으로 T-SQL 사용에 대한 지식을 적용하는 것을 포함하여 일상 업무를 수행하기 위해 다양한 방법과 도구를 사용합니다.
-
+  
   이 역할은 최신 관계형 데이터베이스 솔루션의 관리, 가용성, 보안 및 성능 모니터링 및 최적화를 담당합니다. Azure 데이터 기술자와 협업하여 데이터 플랫폼 솔루션의 운영 측면을 관리합니다.
-
+  
   <div></br>
   이 역할의 응시자들은 <a href='/learn/certifications/exams/dp-900'>Exam DP-900: Microsoft Azure Data Fundamentals</a>에서 다루는 모든 개념을 이해해야 합니다.
   </div>
@@ -31,7 +31,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 시험 기술 개요를 다운로드 받으세요.
+- 이 시험의 내용은 2021년 1월 27일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 개요를 다운로드하십시오.
 - 데이터 플랫폼 리소스 계획 및 구현 (15-20%)
 - 안전한 환경 구현 (15-20%)
 - 운영 리소스 모니터링 및 최적화 (15-20%)

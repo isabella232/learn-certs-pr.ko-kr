@@ -7,16 +7,16 @@ uid: exam.ms-203
 displayName: MS-203
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
-  <div><strong>이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong>이 시험의 내용은 2021년 1월 27일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
-
+  
   본 시험은 하이브리드 및 클라우드 엔터프라이즈 환경에서 메일, 사용 권한, 메일 보호, 메일 흐름, 공용 폴더를 배포, 구성, 관리, 문제 해결 및 모니터링하는 메시징 관리자를 대상 응시자로 합니다.
-
+  
   메시징 관리자는 예방 조치, 메시징 인프라, 하이브리드 구성, 마이그레이션, 전송, 사서함, 클라이언트 액세스를 관리하는 업무를 수행할 수 있어야 합니다.
-
+  
   메시징 관리자는 Security Administrator 및 Microsoft 365 Enterprise Administrator와 협력하여 요즘 조직의 비즈니스 니즈를 충족시키는 보안 하이브리드 또는 클라우드 전용 토폴로지를 구현할 수 있어야 합니다.
-
+  
   메시징 관리자는 인증 유형, 라이선스 및 Microsoft 365 애플리케이션과의 통합에 관한 실무 지식을 갖추어야 합니다.
 subTitle: '본 시험은 조직 설정 및 리소스 관리, 메일 아키텍처 계획 및 관리, 하이브리드 구성 및 마이그레이션 계획 및 구현, 메시징 환경 보호 등의 기술적 작업을 수행할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -28,7 +28,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 시험 기술 개요를 다운로드 받으세요.
+- 이 시험의 내용은 2021년 1월 27일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 개요를 다운로드하십시오.
 - 최적화 설정 및 리소스 관리(30-35%)
 - 메일 아키텍처 계획 및 관리(20-25%)
 - 하이브리드 구성 및 마이그레이션 계획 및 구현 (20-25%)

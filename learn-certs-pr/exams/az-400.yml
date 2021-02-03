@@ -6,14 +6,14 @@ metadata:
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
-  <div><div style='color&#58; red;'>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
-  <div><strong>이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  <div><strong>이 시험의 내용은 2021년 1월 27일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
-
+  
   이 시험 응시자는 비즈니스 가치를 지속적으로 제공하기 위해 인력, 프로세스 및 기술과 관련된 주제 전문 지식을 갖추어야합니다.
-
+  
   이 역할의 책임에는 협업, 코드, 인프라, 소스 제어, 보안, 컴플라이언스, 지속적인 통합, 테스트, 제공, 모니터링 및 피드백을위한 전략 설계 및 구현이 포함됩니다.
-
+  
   이 시험의 응시자는 Azure 관리 및 개발 모두에 익숙해야하며 이러한 영역 중 하나 이상에서 전문가 여야합니다.
 subTitle: '이 시험은 다음과 같은 기술적 작업을 수행 할 수있는 능력을 측정합니다. 계측 전략 개발; SRE (Site Reliability Engineering) 전략 개발; 보안 및 준수 계획을 개발합니다. 소스 제어 관리 커뮤니케이션 및 협업 촉진 지속적인 통합을 정의하고 구현합니다. 지속적인 전달 및 릴리스 관리 전략을 정의하고 구현합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -28,7 +28,7 @@ locales:
 levels:
 - advanced
 skills:
-- '이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 시험 기술 개요를 다운로드 받으세요.'
+- 이 시험의 내용은 2021년 1월 27일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 개요를 다운로드하십시오.
 - 계측 전략 개발 (5-10%)
 - SRE (Site Reliability Engineering) 전략 개발 (5-10%)
 - 보안 및 규정 준수 계획 개발 (10-15%)

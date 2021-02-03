@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+metadata:
+  title: 'Microsoft Certified: Azure Stack Hub Operator Associate'
+  description: 'Azure Stack Hub Operator Associate 인증의 후보자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure 관리자들이나 Azure Stack Hub 운영자들 입니다.'
+uid: certification.azure-stack-hub-operator
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
+  
+  Azure Stack Hub Operator Associate 인증의 후보자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure 관리자들이나 Azure Stack Hub 운영자들 입니다.
+  
+  그들의 책무는 Azure Stack Hub 인프라를 계획, 배포, 포장 및 유지하는 것입니다. 이들은 또한 하이브리드 cloud 리소스와 요청된 서비스를 제공하고 서비스형 인프라 (IaaS) 및 서비스형 인프라 (PaaS)를 관리합니다.
+  
+  그들은 클라우드-기반 관리 및 보안이나 전반적인 인프라의 부분과 같은 하이브리드 환경을 전담하는 더 큰 팀의 일부로 종사합니다.
+  
+  이 인증의 응시자들은 Azure Stack Hub 환경을 관리하고 운영하는데 상당한 경험이 있어야합니다. 가상화, 네트워킹 및 신원 관리에 대한 어느 정도의 지식 외에도, Azure에 대한 상당한 이해가 있어야합니다. Azure Stack Hub가 DevOps 프로세스와 하이브리드 개발 모델을 가능하게하는 방법도 이해하고 있어야합니다.
+subTitle: 'Azure Stack Hub Operator Associate 인증의 후보자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure 관리자들이나 Azure Stack Hub 운영자들 입니다.'
+levels:
+- advanced
+skills:
+- 서비스 제공 
+- 데이터 센터 통합 구현
+- 신원 및 접근 관리 
+- 인프라 관리
+roles:
+- administrator
+type: role-based
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4LyWu
+exams:
+- uid: exam.az-600
+resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx

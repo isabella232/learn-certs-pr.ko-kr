@@ -7,8 +7,18 @@ uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
   <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></font></div>
-
-  앱 개발자는 자기 자신과 솔루션 도메인에 대한 깊은 전문 지식을 보유한 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하는 솔루션을 구축합니다. 응시자들은 데이터 모델링, 기본 UX 설계, 요구사항 분석, 및 프로세스 분석 등과 같은 주요 기술 비즈니스 분석 업무에 숙련되어 있어야 합니다.
+  
+  솔루션 도메인에 대한 심도 있는 전문 지식을 갖춘 비즈니스 전문가이고 Microsoft Power Platform 솔루션 구축에 대한 열정을 활용하여 팀의 작업과 프로세스를 단순화, 자동화 및 변환하기를 원한다면, 이 인증은 귀하를 위해 디자인 되었습니다. 데이터 모델링, 기본 UX 디자인, 요구사항 분석 및 프로세스 분석과 같은 주요 기술 비즈니스 분석가 작업을 해내기 위한 기술이 있어야만 합니다.
+  
+  자기 주도적이고 해결 중심적이라면, 앱 제작자 프로필에 적합하고, Microsoft Power Platform의 제작 도구로 작업하여 비즈니스 문제를 해결합니다. Visual Basic for Applications, Excel PivotTables, Teams 및 기타 도구에 대한 경험이 있을 수 있습니다. 공식적인 IT 교육을 받지 않았더라도, 비즈니스 문제를 해결하기 위해 기술을 사용하여 IT 관리자들과 Microsoft Power Platform 개발자들과 편안하게 작업합니다. 귀하는 다음의 책무가 있습니다&#58;
+  - 앱 디자인 및 생성 그리고 업무 흐름 자동화.
+  - 앱 또는 자동화된 업무 흐름의 맥락에서 데이터 분석 및 시각화.
+  - 앱과 자동화된 업무 흐름 구현 및 관리.
+  
+  더 자세한 내용을 알아보려면, 게시물&#58; [당신은 Power Platform 앱 제작자입니까? 지금이 인증을 받을 때 입니다](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/are-you-a-power-platform-app-maker-now-s-the-time-to-get/ba-p/1512993)를 읽으십시오. 이 인증을 시도하기 전에 더 많은 경험이 필요하다면, 다음을 할 수 있습니다&#58;
+  - 데이터 모델링, 기본 UX 디자인, 요구사항 분석 또는 프로세스 분석에 대한 실제경험을 얻기 위한 프로젝트에 자원합니다.
+  - Microsoft Learn의 학습 경로를 선택합니다.
+  - 강사-주도 교육 과정에 등록합니다.
 subTitle: 앱 개발자는 자기 자신과 솔루션 도메인에 대한 깊은 전문 지식을 보유한 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하는 솔루션을 구축합니다. 응시자들은 데이터 모델링, 기본 UX 설계, 요구사항 분석, 및 프로세스 분석 등과 같은 주요 기술 비즈니스 분석 업무에 숙련되어 있어야 합니다.
 levels:
 - intermediate
