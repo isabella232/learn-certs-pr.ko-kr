@@ -11,7 +11,7 @@ skillsGained:
 - skill: Cosmos DB를 사용하여 전 세계에 분산된 애플리케이션 구축
 - skill: MongoDB 워크로드를 Cosmos DB로 마이그레이션
 - skill: Cassandra DB 워크로드를 Cosmos DB로 마이그레이션
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

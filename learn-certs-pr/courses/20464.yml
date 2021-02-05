@@ -26,7 +26,7 @@ skillsGained:
 - skill: SQL CLR 통합의 적절한 용도에 대해 알아보고 SQL Server 내에서 기존 .NET 어셈블리 구현.
 - skill: SQL Server에 XML 데이터 및 스키마 저장.
 - skill: SQL Server의 XML 데이터에 대한 기본 쿼리 수행.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

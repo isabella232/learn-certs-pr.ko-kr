@@ -15,7 +15,7 @@ skillsGained:
 - skill: Resource Manager, Azure Portal, Cloud Shell 및 CLI를 사용하여 Azure 관리.
 - skill: VNet 피어링과 같은 사이트 간 연결 솔루션 및 가상 네트워크 게이트웨이 구성.
 - skill: Azure App Service, Azure ontainer Instances 및 Kubernetes 관리.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

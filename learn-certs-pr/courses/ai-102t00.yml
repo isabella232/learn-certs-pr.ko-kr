@@ -16,7 +16,7 @@ skillsGained:
 - skill: Azure Cognitive Search 솔루션 생성 및 관리
 - skill: Bot Framework를 사용하여 지능형 에이전트 생성
 - skill: Implment Computer Vision 솔루션
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

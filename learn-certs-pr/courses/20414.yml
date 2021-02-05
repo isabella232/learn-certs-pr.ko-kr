@@ -21,7 +21,7 @@ skillsGained:
 - skill: AD FS 서버 배포 및 클레임 기반 애플리케이션 액세스 계획 및 구현.
 - skill: 동적 액세스 제어, Workplace Join 및 작업 폴더 계획 및 구현.
 - skill: AD RMS 배포 계획 및 구현, AD RMS 템플릿 계획 및 관리, AD RMS 서비스에 외부 액세스 엑세스, 계획 및 구현.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

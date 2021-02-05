@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-
   Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
 subTitle: Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
 levels:

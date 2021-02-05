@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-stack-hub-operator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-  
   Azure Stack Hub Operator Associate 인증의 후보자들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자 또는 고객에게 cloud 서비스를 제공하는 Azure 관리자들이나 Azure Stack Hub 운영자들 입니다.
   
   그들의 책무는 Azure Stack Hub 인프라를 계획, 배포, 포장 및 유지하는 것입니다. 이들은 또한 하이브리드 cloud 리소스와 요청된 서비스를 제공하고 서비스형 인프라 (IaaS) 및 서비스형 인프라 (PaaS)를 관리합니다.

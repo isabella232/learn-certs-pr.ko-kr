@@ -21,7 +21,7 @@ skillsGained:
 - skill: 사용자 지정 스크립트 및 구성 요소를 사용하여 SSIS 확장
 - skill: SSIS 패키지 배포 및 구성
 - skill: BI 솔루션에서 데이터 웨어하우스의 데이터를 사용하는 방법 설명
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

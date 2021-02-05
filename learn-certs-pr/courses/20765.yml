@@ -13,7 +13,7 @@ skillsGained:
 - skill: SQL Server 구성
 - skill: 데이터베이스 및 파일(공유) 관리
 - skill: 클라우드에서 데이터베이스 프로비저닝, 마이그레이션 및 관리
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

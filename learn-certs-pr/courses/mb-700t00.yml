@@ -20,7 +20,7 @@ skillsGained:
 - skill: ALM 애플리케이션 수명 주기 관리가 무엇인지 이해
 - skill: 자동화된 테스트 및 RSAT 사용에 대한 기회 확인
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

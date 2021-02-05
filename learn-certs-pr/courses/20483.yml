@@ -21,7 +21,7 @@ skillsGained:
 - skill: 비관리형 라이브러리 및 동적 구성요소를 Visual C# 애플리케이션에 통합.
 - skill: 리플렉션을 사용한 유형의 메타데이터 검사, 사용자 지정 특성 생성 및 사용, 런타임시 코드 생성, 어셈블리 버전 관리.
 - skill: 대칭 및 비대칭 암호화를 사용한 데이터 암호화 및 암호 해독.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

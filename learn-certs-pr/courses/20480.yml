@@ -24,7 +24,7 @@ skillsGained:
 - skill: 웹 소켓을 사용하여 웹 애플리케이션과 서버 간에 데이터 주고 받기.
 - skill: Web Worker 프로세스를 사용하여 장기간 실행되는 작업을 수행하는 웹 애플리케이션의 응답성 향상.
 - skill: WebPack을 사용하여 프로덕션용 웹 응용 프로그램 패키징.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

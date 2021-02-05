@@ -32,57 +32,26 @@ summary: |-
   #### 대상 그룹 프로필
   Dynamics 365 Business Central core Functional Consultant는 중소기업에 핵심 애플리케이션 설정 프로세스를 구현하는 것을 담당합니다.
 prerequisitesSection: |-
-  이 과정은 Dynamics 365 Business Central으로 작업하는 기능 컨설턴트나 Business Central에 대한 지식을 확장하려는 다른 Dynamics 365 앱으로 작업하는 기능 컨설턴트를 위해 디자인 되었습니다
+  이 과정은 Dynamics 365 Business Central으로 작업하는 기능 컨설턴트나 Business Central에 대한 지식을 확장하려는 다른 Dynamics 365 앱으로 작업하는 기능 컨설턴트를 위해 디자인 되었습니다.
 outlineSection: |-
   ### 모듈 1&#58; Business Central 소개
   Business Central 모듈 소개
   #### 레슨
-  - Business Central 소개
-  - 기술 개요
-  - 사용자 인터페이스 탐색
-  - 판매 및 구매 프로세스에 대한 마스터 데이터
   
   
   ### 모듈 2&#58; 애플리케이션 설정
-  #### 레슨
-  - 신규 회사 생성 및 구성
-  - Business Central로 데이터 마이그레이션
-  - 보안 관리
-  - 핵심 앱 기능 설정
-  - 규모 설정
   
   
   ### 모듈 3&#58; 재무 구성
-  #### 레슨
-  - 재무 관리 설정
-  - 계정 차트 설정
-  - 게시 그룹 설정
-  - 일반분개장
-  - 현금 관리 설정
-  - 미지급 계정 설정
-  - 미수금 계정 설정 
   
   
-  ### 모듈 4&#58; 판매 및 구매 구성 
-  #### 레슨
-  - 재고 설정
-  - 가격 및 할인 구성
+  ### 모듈 4&#58; 판매 및 구매 구성
   
   
   ### 모듈 5&#58; 운영
-  #### 레슨
-  - 아이템 구매
-  - 아이템 판매
-  - 금융 거래 처리
-  - 재고자산원가계정
   
   
   ### 모듈 6&#58; 통합 및 자동화
-  #### 레슨
-  - 업무 흐름으로 승인 설정 및 사용 
-  - Power Apps 연결
-  - Power Automate 연결
-  - Power BI 연결
   
   #### 추가 자료
   Microsoft.com/learn
