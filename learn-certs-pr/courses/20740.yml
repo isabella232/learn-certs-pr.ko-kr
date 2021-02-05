@@ -20,7 +20,7 @@ skillsGained:
 - skill: NLB(Network Load Balancing) 클러스터 구성 및 NLB 구현용 계획.
 - skill: 배포 이미지 생성 및 관리.
 - skill: 가상 머신 설치 관리, 모니터 및 유지 관리.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

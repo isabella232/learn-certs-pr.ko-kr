@@ -18,7 +18,7 @@ skillsGained:
 - skill: Azure Information Protection을 사용을 포함한 데이터 보호 설명.
 - skill: 전반적인 규정 준수 및 Microsoft 365에서 규정 준수 기능 설명.
 - skill: Microsoft 365 구독, 라이선스, 청구 및 지원 설명.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

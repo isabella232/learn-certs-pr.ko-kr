@@ -20,7 +20,7 @@ skillsGained:
 - skill: Active Directory® Domain Services (AD DS) 구현.
 - skill: AD FS (Active Directory Federation Services) 구현.
 - skill: Windows Server 2012 모니터링 및 유지 관리.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

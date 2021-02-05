@@ -21,7 +21,7 @@ skillsGained:
 - skill: 지속적인 데이터베이스 유지 관리 수행.
 - skill: SQL Server 에이전트 작업으로 SQL Server 유지 관리 자동화.
 - skill: 데이터베이스 메일, 경고 및 알림 구성.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

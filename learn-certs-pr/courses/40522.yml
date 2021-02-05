@@ -14,7 +14,7 @@ skillsGained:
 - skill: Azure Stack의 분류 이해 (테넌트, 지역, 구독, 제공, 계획, 서비스 및 쿼터)
 - skill: Azure Stack과 사용할 수 있는 리소스 공급자 설명
 - skill: Azure 퍼블릭 클라우드와 Azure Stack 간의 하이브리드 연결 설계 및 배포
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

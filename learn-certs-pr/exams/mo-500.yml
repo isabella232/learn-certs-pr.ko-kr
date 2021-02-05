@@ -6,8 +6,6 @@ metadata:
 uid: exam.mo-500
 displayName: MO-500
 summary: |-
-  <div style='color&#58; red;'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong><br/><br/></div>
-
   본 시험에서는 테이블, 관계, 데이터 입력 양식, 다중 수준 보고서 및 다중 테이블 쿼리를 포함한 Access 데이터베이스 개체를 만들고 유지하는 능력을 다룹니다. 응시자는 Access의 기본 기능을 올바르게 적용하고 작업을 독립적으로 완료해야 합니다.
 subTitle: 본 시험은 데이터베이스 설계 원칙의 역량을 측정합니다. 시험에서는 테이블, 관계, 데이터 입력 양식, 다중 수준 보고서 및 다중 테이블 쿼리를 포함한 Access 데이터베이스 개체를 만들고 유지하는 능력을 다룹니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg

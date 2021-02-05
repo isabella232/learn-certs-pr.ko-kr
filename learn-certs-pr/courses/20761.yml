@@ -24,7 +24,7 @@ skillsGained:
 - skill: PIVOT, UNPIVOT, ROLLUP 및 CUBE 구현을 통한 데이터 변환.
 - skill: 저장된 프로시저 생성 및 구현.
 - skill: 변수, 조건 및 루프 등 프로그래밍 구문을 T-SQL 코드에 추가.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

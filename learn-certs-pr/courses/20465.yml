@@ -12,7 +12,7 @@ skillsGained:
 - skill: Policy-Based Management 계획 및 구현.
 - skill: 워크로드와 SQL Server 2014 통합의 고려 사항 설명.
 - skill: SQL Server 2014를 사설 클라우드에 포함하기 위한 고려 사항 설명.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

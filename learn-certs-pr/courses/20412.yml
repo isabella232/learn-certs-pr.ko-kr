@@ -22,7 +22,7 @@ skillsGained:
 - skill: 장애 조치(failover) 클러스터 구현, 고가용성 네트워크 서비스 유효성 구현.
 - skill: 장애 조치(failover) 클러스터에서 Hyper-V 가상 컴퓨터 배포 및 관리.
 - skill: 비즈니스 및 기술 요구 사항에 따른 백업 및 재해 복구 솔루션 구현.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

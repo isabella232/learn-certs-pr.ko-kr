@@ -16,7 +16,7 @@ skillsGained:
 - skill: 일반 보안 및 네트워크 보안 기능과 다양한 Azure 서비스를 사용하여 cloud 리소스가 안전하고, 보안이 되며, 신뢰할 수 있는지 확인하는 방법 설명.
 - skill: ID, 거버넌스, 개인 정보 보호 및 규정 준수 기능과 Azure가 cloud 리소스에 보안 액세스 하는데 어떻게 도움을 주는지, cloud 거버넌스 전략을 구축하는 것이 무엇을 의미하는지, Azure가 일반 규정 및 규정 준수 기준을 준수하는 방법에 대한 논의.
 - skill: 비용에 영향을 미치는 요인들, cloud 소비를 추정하고 관리하는데 도움을 주기 위해 사용할 수 있는 도구, 그리고 Azure의 service-level agreements (SLAs)가 어떻게 애플리케이션 디자인 결정에 영향을 주는지에 대해 논의.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -6,8 +6,6 @@ metadata:
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  <div><font color='red'><strong>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경을 시행하고 있습니다. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>자세히 알아보기</a>.</strong></font><br/><br/></div>
-
   Azure IoT Developer Specialty 인증을 위한 응시자는 Azure IoT 솔루션의 클라우드 및 에지 구성요소를 개발하는 실무 전문 지식을 갖추어야 합니다.
 
   본 역할은 클라우드 서비스 및 기타 도구을 사용하여 설정, 구성 및 유지 보수와 같은 디바이스 수명 주기를 관리하는 업무를 담당합니다. 디바이스 토폴로지, 연결, 디버깅, 보안 등의 Azure IoT 솔루션과 IoT 관련 데이터 파이프라인을 관리, 모니터 및 변환하는 솔루션을 구현합니다. 또한 Azure IoT Edge 구성 요소를 배포하고 Edge에 디바이스 네트워킹을 구성합니다.

@@ -12,8 +12,6 @@ ms.prod: non-product-specific
 ---
 # Microsoft Certification help
 
-<div style='color&#58; red;'><strong><font color="red"><br/>코로나바이러스(COVID-19) 상황에 대응하여 Microsoft는 교육 및 인증 프로그램에 대한 몇 가지 임시 변경 조치를 시행하고 있습니다. <a href='/learn/certifications/posts/an-important-update-on-microsoft-training-and-certification'>자세히 알아보기</a>.</font></strong><br/><br/></div>
-
 Microsoft Certification 제품 지원이 필요하십니까? 아래 지원 옵션을 참조하세요.
 
 ## 지원 문의 방법

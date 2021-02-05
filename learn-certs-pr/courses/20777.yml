@@ -15,7 +15,7 @@ skillsGained:
 - skill: Cosmos DB를 사용한 효율적인 그래프 데이터베이스 모델 작성 방법 설명.
 - skill: Cosmos DB와 함께 Azure Search, HDInsight, Azure Databricks, Power BI를 사용하여 빅데이터를 쿼리 및 분석하는 방법 설명.
 - skill: 스트리밍 데이터 원본과 싱크로 Cosmos DB를 사용하는 방법 설명.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
