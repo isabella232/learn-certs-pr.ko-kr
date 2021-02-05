@@ -20,7 +20,7 @@ skillsGained:
 - skill: 원격 액세스 및 웹 서비스 구현.
 - skill: 서비스 모니터링 및 성능 모니터링 구현 및 문제 해결 적용.
 - skill: AD DS 및 스토리지와 관련된 업그레이드 수행 및 마이그레이션.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

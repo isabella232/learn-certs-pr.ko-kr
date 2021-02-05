@@ -13,7 +13,7 @@ skillsGained:
 - skill: Azure에서 Computer Vision 워크로드의 특징 설명
 - skill: Azure에서 NLP(자연 언어 처리) 워크로드의 특징 설명
 - skill: Azure에서 대화형 AI 워크로드의 특징 설명
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

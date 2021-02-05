@@ -21,7 +21,7 @@ skillsGained:
 - skill: 파일 서비스 최적화 및 보안.
 - skill: 방화벽 및 암호화를 통한 네트워크 트래픽 보호.
 - skill: DNSSEC 및 Message Analyzer를 사용한 네트워크 트래픽 보호.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -20,7 +20,7 @@ skillsGained:
 - skill: System Center Operations Manager를 사용하여 가상화 인프라 모니터링.
 - skill: Microsoft Hyper-V Replica 및 Microsoft Azure Site Recovery 구현 및 관리.
 - skill: Data Protection Manager를 사용하여 가상화 인프라 보호.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

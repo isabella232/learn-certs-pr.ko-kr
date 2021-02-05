@@ -14,7 +14,7 @@ skillsGained:
 - skill: 애플리케이션을 관리 및 배포하고 모바일 애플리케이션 관리 전략을 계획합니다.
 - skill: Azure AD 및 Active Directory DS를 사용하여 사용자 및 인증을 관리합니다.
 - skill: 장치 및 데이터를 보호하는 데 사용되는 방법을 설명하고 구현합니다.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

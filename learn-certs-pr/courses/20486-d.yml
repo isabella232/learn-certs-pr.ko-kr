@@ -26,7 +26,7 @@ skillsGained:
 - skill: SignalR을 사용한 클라이언트와 서버 간 양방향 통신 활성화.
 - skill: 웹 API 개념 및 개발자가 애플리케이션에 웹 API를 추가하는 이유 설명.
 - skill: ASP.NET Core MVC 웹 애플리케이션 패키지 및 개발 컴퓨터에서 웹 서버로 배포하는 방법 설명.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

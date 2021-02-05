@@ -21,7 +21,7 @@ skillsGained:
 - skill: 그룹 정책 구현.
 - skill: 그룹 정책 개체(GPO)를 사용한 Windows 서버 보안.
 - skill: Hyper-V를 사용한 서버 가상화 구현.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

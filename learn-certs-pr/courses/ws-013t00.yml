@@ -16,7 +16,7 @@ skillsGained:
 - skill: Storage QoS 및 Storage Replica를 포함하여, Azure Stack HCI Storage대한 계획 및 구현
 - skill: Azure Stack HCI Networking에 대한 계획
 - skill: Azure Stack HCI에서 Software Defined Networks 구현
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

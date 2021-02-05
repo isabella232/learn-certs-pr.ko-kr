@@ -21,7 +21,7 @@ skillsGained:
 - skill: AD FS 구현 및 관리.
 - skill: AD DS와 Azure AD 간의 동기화 구현.
 - skill: AD DS 서비스에 대한 비즈니스 연속성 모니터링, 문제 해결 및 설정.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

@@ -24,7 +24,7 @@ skillsGained:
 - skill: 연결된 소스, 로그 분석 및 경고를 포함한 Azure Monitor 구현.
 - skill: 정책, 권장 사항 및 JIT(Just In Time) 가상 머신 액세스를 포함한 Azure Security Center 구현.
 - skill: 워크북, 인시던트 및 플레이북을 포함한 Azure Sentinel 구현.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

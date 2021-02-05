@@ -19,7 +19,7 @@ skillsGained:
 - skill: 서비스 모니터, 로그 및 문제 해결.
 - skill: 클레임 기반의 ID 개념 및 표준을 설명하고, Azure Active Directory를 통한 권한 부여 및 인증 구현.
 - skill: 확장 가능한 서비스 애플리케이션 작성.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:

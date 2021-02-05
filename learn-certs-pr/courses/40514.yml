@@ -9,7 +9,7 @@ hoursToComplete: 24
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 본 워크숍이 끝날 즈음에는, 오라클에서 SQL 서버 혹은 PostgreSQL로 옮기기 위해 필요한 비용, 성능 및 노력의 수준을 비교하기위한 사이트 분석을 더 잘 수행할 수 있을 것입니다. 워크숍을 완료하는데 필요한 시간을 고려했을 때, 학생과 트레이너가 단일 마이그레이션 경로를 선택할 것을 권장합니다.
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
