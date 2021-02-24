@@ -35,6 +35,7 @@ Microsoft Certified Professional 프로그램을 최신 상태로 유지하기 �
 | [MCSE: Data Management & Analytics](/learn/certifications/mcse-data-management-analytics) | 2021년 1월 31일 중단예정 |
 | [MCSE: Productivity](/learn/certifications/mcse-productivity-certification) | 2021년 1월 31일 중단예정 |
 | [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021년 6월 30일 중단 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021년 6월 30일 중단 |
 
 ## 중단된 인증
 

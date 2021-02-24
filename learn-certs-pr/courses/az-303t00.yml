@@ -28,7 +28,7 @@ exams:
 - uid: exam.az-303
 summary: |-
   본 과정에서는 솔루션 설계자에게 비즈니스 요구사항을 안전하고 확장 가능하며 안정적인 솔루션으로 전환하는 방법에 대해 설명합니다. 단원에는 가상화, 자동화, 네트워킹, 스토리지, ID, 보안, 데이터 플랫폼 및 애플리케이션 인프라가 포함됩니다. 본 과정에서는 각 영역의 결정이 전체 솔루션에 미치는 영향에 대한 개요를 설명합니다.
-
+  
   #### 대상 그룹 프로필
   본 과정은 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현할 수 있는 전문 지식을 갖춘 IT 전문가를 대상으로 합니다. 응시자는 네트워킹, 가상화, ID, 보안, 비즈니스 연속성, 재해 복구, 데이터 플랫폼, 예산 및 관리와 같은 IT 운영에 대한 폭넓은 지식을 갖추고 있어야 합니다. Azure Solution 설계자는 Azure Portal을 사용하며, 점점 더 능숙해지면서 명령줄 인터페이스를 사용합니다. 응시자는 전문가 수준의 Azure 관리 기술이 있어야 하며 Azure 개발 프로세스 및 DevOps 프로세스에 대한 경험이 있어야 합니다.
 prerequisitesSection: |-
@@ -40,6 +40,7 @@ prerequisitesSection: |-
   Azure와 cloud 컴퓨팅을 처음 접하는 경우, 아래 리소스 중 하나를 고려하십시오&#58;
   - 무료 온라인&#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
   - 강사 주도 과정&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Azure 관리자를 위한 필수 조건 (https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### 모듈 1&#58; Azure Active Directory 구현
   이 모듈에서는, Azure Active Directory로 ID를 보안하고, 사용자와 그룹을 구현하는 방법을 학습합니다. 이 모듈은 다음을 포함합니다&#58;
@@ -62,7 +63,7 @@ outlineSection: |-
   - Azure MFA 설정 구성
   - Conditional Access Azure MFA 구현
   - 청사진 생성
-
+  
   
   ### 모듈 2&#58; 하이브리드 ID 구현 및 관리
   이 모듈에서는, Azure AD Connect를 설치하고 구성하는 방법 및 Azure AD Connect Health을 구현하는 방법을 학습합니다. 이 모듈은 다음을 포함합니다&#58;
@@ -83,7 +84,7 @@ outlineSection: |-
   - Virtual Network Peering
   - VNet Peering 구현
   
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - Virtual Network Peering으로 서비스 연결
   - VNet Peering 구성
   - Service Chaining 이해
@@ -99,7 +100,7 @@ outlineSection: |-
   - 확장 집합 배포 및 구성 
   - Azure Disk Encryption 구성
   
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - 가상 머신 구현 계획
   - 가상 머신 생성
   - 확장 집합을 포함한 가상 머신 가용성 구성 
@@ -107,7 +108,7 @@ outlineSection: |-
   
   
   ### 모듈 5&#58; 부하 분산 및 네트워크 보안 구현
-  이 모듈에서는, 네트워크 라우팅 및 서비스 엔드 포인트, Azure Load Balancer, Azure Application Gateway, 그리고 Traffic Manager를 포함한 네트워크 트래픽 전략에 대해 학습합니다. 
+  이 모듈에서는, 네트워크 라우팅 및 서비스 엔드 포인트, Azure Load Balancer, Azure Application Gateway, 그리고 Traffic Manager를 포함한 네트워크 트래픽 전략에 대해 학습합니다.
   #### 레슨
   - Azure Load Balancer 구현
   - 애플리케이션 게이트웨이 구현
@@ -124,7 +125,7 @@ outlineSection: |-
   - Azure VM Scale Sets의 자동 수평 확장에 대한 특성 설명
   - Azure VM Scale Sets의 수동 수직 확장에 대한 특성 설명
   
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - Load Balancer 솔루션 선택
   - Application Gateway 구성
   - Azure Firewall 구현
@@ -148,7 +149,7 @@ outlineSection: |-
   - 액세스 키를 활용하여 Azure Storage 파일 공유 권한 부여 구현
   - Azure Storage Firewalls 및 Virtual Networks 구성
   
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - 스토리지 계정 서비스 및 유형 이해
   - Blob 스토리지, 계정, 컨테이너 및 액세스 계층 구성
   - Shared Access Signatures (SAS) 구현
@@ -161,7 +162,7 @@ outlineSection: |-
   - Storage Account Tables 구성
   - 적절한 CosmosDB APIs 선택
   
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - Table Service Data Model 개요
   - Azure Cosmos DB에 대한 옵션 이해
   - CosmosDB를 사용하는 고 가용성 이해
@@ -189,7 +190,7 @@ outlineSection: |-
   - 템플릿에서 배포
   - Automation Runbook 생성 및 실행
   
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - Azure Resource Manager를 활용하여 리소스 구조화
   - ARM 리소스를 배포하기위한 ARM 템플릿 사용
   - Automation Runbook 생성 및 실행
@@ -211,19 +212,20 @@ outlineSection: |-
   - 공유 액세스 서명을 활용하여 Azure Storage 블랍의 권한 부여 구현
   - Azure Active Directory를 활용하여 Azure Storage 블랍의 권한 부여 구현
   - 액세스 키를 활용하여 Azure Storage 파일 공유 권한 부여 구현
-
+  
   #### 랩 &#58; Azure Role-Based Access Control 관리하기
   - 사용자 지정 RBAC 역할 정의
   - 사용자 지정 RBAC 역할 할당
   
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58; 
+  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - 리소스 그룹 조직 이해
   - RBAC 작동 방식 이해
   - Azure AD 액세스 검토 생성
   - 규정 준수를 위한 정책 생성 및 관리
-
+  
+  
   ### 모듈 11&#58; 애플리케이션에 대한 보안 관리
-  이 모듈에서는, Azure Key Vault 및 Azure Managed Identities를 사용하여 인증을 구현하는 것에 대해 학습합니다. 
+  이 모듈에서는, Azure Key Vault 및 Azure Managed Identities를 사용하여 인증을 구현하는 것에 대해 학습합니다.
   #### 레슨
   - Azure Key Vault
   - Azure Managed Identity
@@ -266,8 +268,9 @@ outlineSection: |-
   이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - Azure Container 인스턴스 실행
   - AKS으로 Kubernetes 배포
-
-  ### 모듈 14&#58; 애플리케이션 인프라 구현 
+  
+  
+  ### 모듈 14&#58; 애플리케이션 인프라 구현
   이 모듈에서는, 컨테이너용 앱 서비스 웹 앱 생성, 앱 서비스 계획 생성 및 구성 그리고 배포 슬롯 생성 및 관리 방법에 대해 학습합니다.
   #### 레슨
   - Azure App Service 생성 및 구성

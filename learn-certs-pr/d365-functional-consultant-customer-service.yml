@@ -12,16 +12,16 @@ subTitle: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르�
 levels:
 - intermediate
 skills:
-- Common Data Service 구성
-- Power Apps 사용하여 앱 만들기 
-- Power Automate 생성 및 관리
-- Power Virtual Agents 챗봇 구현
-- Power Apps 를 다른 앱 및 서비스와 통합
 - 서비스 케이스 및 참조 자료 관리
 - 큐, 권리 유형 및 SLA (서비스 수준 계약) 관리
 - 일정 관리 구현
 - 고객 서비스를 위한 옴니채널 구현
 - 분석 관리
+- Common Data Service 구성
+- Power Apps 사용하여 앱 만들기
+- Power Automate 생성 및 관리
+- Power Virtual Agents 챗봇 구현
+- Power Apps 를 다른 앱 및 서비스와 통합
 roles:
 - functional-consultant
 type: role-based

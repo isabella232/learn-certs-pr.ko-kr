@@ -7,7 +7,8 @@ uid: exam.ai-100
 displayName: AI-100
 summary: |-
   <div>
-  <div style='font-weight&#58; bold;'>본 시험 내용은 2020년 5월 20일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.<br/><br/></div>
+  <div><font color='red'><strong>이 시험의 새 버전이, <a href='/learn/certifications/exams/ai-102'>AI-102</a>, 2021년 2월 23일 가능합니다. 이 시험이 중지되는 2021년 6월 30일까지 시험에 응시할 수 있습니다. 참고&#58; 시험은 중부 표준시 오후 11시 50분 중지됩니다.</strong></font><br/><br/></div>
+  <div><strong>본 시험 내용은 2020년 5월 20일에 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
   
   본 시험의 응시자는 자연어 처리, 음성, Computer Vision, 대화형 AI와 관련된 Microsoft AI 솔루션을 설계 및 구현하기 위해 Cognitive 서비스, Machine Learning, 지식 마이닝 등을 활용한 과목별 전문지식이 있어야 합니다.
