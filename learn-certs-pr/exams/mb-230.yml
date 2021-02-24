@@ -6,14 +6,15 @@ metadata:
 uid: exam.mb-230
 displayName: MB-230
 summary: |-
-  <div><div><strong>본 시험 내용은 2020년 10월 2일 금요일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div>
+  <div><strong>본 시험 내용은 2020년 10월 2일 금요일 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
-
+  
   Dynamics 365 Customer Service Functional Consultant는 서비스, 품질, 신뢰성, 효율성 및 고객 만족에 중점을 두는 옴니채널 솔루션 구현을 담당합니다.
   <br/>
-
+  
   Dynamics 365 Customer Service Functional Consultant는 솔루션 설계자가 협업으로 제공하는 서비스 관리 시각화 및 보고서를 구현하고 설계합니다. Functional Consultant는 고객 참여 관리자와 협력하여 참조 자료 관리, 고객 피드백 및 연결된 서비스를 포함한 Power Platform 구성 요소를 구현하고 업그레이드합니다.
-
+  
   Dynamics 365 Customer Service Functional Consultant는 산업 용어, 우선 순위, 표준, 방법론, 고객 서비스 운영 및 모범 사례 이해를 포함하여 고객 서비스에 대한 확실한 응용 지식이 있어야 합니다. 고객 서비스 전문 지식이 있는 Functional Consultant는 서비스 케이스, 참조 자료 관리, 큐, 권리 유형, 리소스 일정 관리, SLA(서비스 수준 계약), 시각화, 연결된 서비스, 고객 서비스 인사이트, Power Virtual Agent 및 고객 서비스를 위한 옴니채널을 포함하여 Dynamics 365 고객 서비스를 통해 사용자 니즈를 충족시키는 확실한 응용 지식이 있어야 합니다. Functional Consultant의 지식은 솔루션 아키텍처 및 품질 보증에 관해 기본적인 수준으로 이해하고 있어야 하며, Dynamics 365 제품군과의 관계에서 고객 서비스 애플리케이션의 역할의 종합적인 이해를 포함합니다.
 subTitle: '본 시험은 서비스 케이스 및 참조 자료 관리, 큐, 권리 유형 및 서비스 수준 계약 관리, 일정 관리 구현, 고객 서비스를 위한 옴니채널 구현 및 분석 관리 등의 기술 작업에 대한 수행 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
@@ -37,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-customer-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-230t01
 paths:

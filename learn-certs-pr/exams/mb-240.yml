@@ -7,14 +7,14 @@ uid: exam.mb-240
 displayName: MB-240
 summary: |-
   <div>
-  <div><strong>이 시험의 내용은 2021년 1월 15일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 측정문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><strong>이 시험의 내용은 2021년 1월 15일 업데이트 되었습니다. 변경된 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
   </div>
   
-  이 시험의 응시자들은 현장 서비스 전문성을 갖춘 Dynamics 365 Customer Engagement Functional Consultants 입니다. 응시자들은 현장 서비스 수명 주기를 완료하는 리소스를 관리하는 솔루션을 구현할 책임이 있습니다.
+  이 시험의 응시자들은 현장 서비스 전문지식을 갖춘 Microsoft Dynamics 365 Customer Engagement 기능 컨설턴트입니다. 응시자들은 현장 서비스 수명주기를 완료하는 리스소를 관리하는 솔루션을 구현 할 책임이 있습니다.
   
   응시자들은 내부 및 외부 팀과 협력하여 설계된 현장 서비스 프로세스를 구현합니다. 이 공동 작업에는 Field Service 애플리케이션의 기본 관리 영역 구성, Connected Field Service (IoT) 솔루션 및 모바일 애플리케이션 배포, 필요한 추가 사용자 지정 구현이 포함됩니다. 응시자들이 핵심 고객 서비스 애플리케이션과 함께 Field Service 애플리케이션의 구성 및 배포에 책임이 있습니다.
   
-  응시자는 서비스, 리소스, 특성, 사고, 재고 통합, 서비스 계약, 리소스 예약, 작업 오더, 서비스 과제, 현장 서비스 사용자 역할, 현장 서비스 설정, IoT (연결된 현장 서비스) 솔루션 및 현장 서비스 모바일 앱의 구성 등을 포함하여 현장 서비스 애플리케이션의 구성 요소를 구성하고 사용자 정의하는 방법을 알고 있어야 합니다.
+  응시자들은 서비스, 리소스, 특성, 사건, 재고 통합, 서비스 계약, 리소스 일정 관리, 작업 지시, 서비스 업무, 현장 서비스 사용자 역할, 현장 서비스 설정, 연결된 현장 서비스(IoT) 솔루션을 구성하고 현장 서비스 모바일 애플리케이션의 구성을 포함하는 현장 서비스 애플리케이션의 구성요소들을 구성하고 사용자 지정하는 방법에 대한 지식을 반드시 갖추어야 합니다. 응시자들은 반드시 Microsoft Power Apps-기반 모바일 애플리케이션에 익숙해야합니다. Xamarin-기반 모바일 애플리케이션은 이 시험에서 다루지 않습니다.
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 현장 서비스 애플리케이션 구성; 작업 오더 관리; 작업 오더 일정잡기 및 발송; 현장 서비스 이동성 관리; 재고 및 구매 관리; Connected Field Service 구현.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
@@ -25,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 1월 15일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 1월 15일 업데이트 되었습니다. 변경된 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 현장 서비스 애플리케이션 구성 (15-20%)
 - 작업 주문 관리하기 (15-20%)
 - 작업 오더 일정잡기 및 발송 (25-30%)
@@ -38,7 +38,7 @@ products:
 - dynamics-365
 - dynamics-field-service
 exams:
-- uid: exam.mb-200
+- uid: exam.pl-200
 courses:
 - uid: course.mb-240t00
 paths:

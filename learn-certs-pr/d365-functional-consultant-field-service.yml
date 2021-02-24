@@ -12,18 +12,17 @@ subTitle: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서
 levels:
 - intermediate
 skills:
-- 검색, 계획, 및 분석 수행
-- 사용자 환경 디자인 관리
-- 엔터티 및 데이터 관리
-- 보안 구현
-- 통합 구현
-- 솔루션 배포 및 테스트 수행
 - 현장 서비스 애플리케이션 구성하기
 - 작업 주문 관리하기
 - 작업 주문 일정 설정 및 배포하기
 - 현장 서비스 모빌리티 관리
 - 재고 및 구매 관리
 - Connected Field Service 구현
+- Common Data Service 구성
+- Power Apps 사용하여 앱 만들기
+- Power Automate 생성 및 관리
+- Power Virtual Agents 챗봇 구현
+- Power Apps 를 다른 앱 및 서비스와 통합
 roles:
 - functional-consultant
 type: role-based

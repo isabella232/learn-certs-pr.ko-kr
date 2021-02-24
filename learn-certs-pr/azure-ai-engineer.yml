@@ -2,10 +2,12 @@
 title: 'Microsoft Certified: Azure AI Engineer Associate'
 metadata:
   title: 'Microsoft Certified: Azure AI Engineer Associate'
-  description: 'Azure AI Engineer는 Cognitive Services, Machine Learning 및 지식 마이닝을 사용하여 자연어 처리, 음성, Computer Vision, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.'
+  description: 'Azure AI 엔지니어들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임 워크를 활용하는 AI 솔루션을 구축, 관리 및 배포합니다.'
 uid: certification.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
+  <div><font color='red'><strong>시험 AI-100은 <a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a> 로 2021년 2월 23일 대체됩니다. 이 시험이 중지되는 2021년 6월 30일까지 AI-100을 통과하면 이 인증을 획득할 수 있습니다.</strong></font><br/><br/></div>
+  
   Azure AI Engineer Associate 인증의 응시자는 자연어 처리, 음성, Computer Vision, 대화형 AI와 관련된 Microsoft AI 솔루션을 설계 및 구현하기 위해 Cognitive Services, Machine Learning, 지식 마이닝 등을 활용한 과목별 전문지식이 있어야 합니다.
   
   이 역할에는 AI 솔루션의 요구 사항 분석, 적절한 도구 및 기술 추천 및 확장성과 성능 요구 사항을 충족하는 AI 솔루션 구현 업무를 포함합니다.
@@ -13,7 +15,7 @@ summary: |-
   Azure AI Engineer는 솔루션 설계자의 관점을 해석하고 데이터 과학자, 데이터 엔지니어, IoT 전문가, 소프트웨어 개발자들과 협력하여 완벽한 엔드투엔드 솔루션을 구축합니다.
   
   본 인증의 응시자는 Microsoft Azure Cognition Services, Azure Bot Service, Azure Cognition Search 및 Azure의 데이터 스토리지를 사용하는 AI 앱 및 에이전트를 설계하고 구현할 수 있는 지식과 경험이 있어야 합니다. 응시자는 또한 오픈 소스 기술을 사용하는 솔루션을 추천하고, Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 스토리지 옵션을 이해하고, 특정한 요구 사항을 충족하기 위한 맞춤형 API를 개발해야 할 시기를 이해할 수 있어야 합니다.
-subTitle: Azure AI Engineer는 Cognitive Services, Machine Learning 및 지식 마이닝을 사용하여 자연어 처리, 음성, Computer Vision, 봇과 에이전트를 포함한 Microsoft AI 솔루션을 설계하고 구현합니다.
+subTitle: Azure AI 엔지니어들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임 워크를 활용하는 AI 솔루션을 구축, 관리 및 배포합니다.
 levels:
 - intermediate
 skills:
