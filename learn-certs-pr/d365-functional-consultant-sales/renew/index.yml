@@ -1,0 +1,24 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate 인증 갱신'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate 인증 갱신'
+  description: '본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다.'
+uid: renewal.d365-functional-consultant-sales
+certificationUid: certification.d365-functional-consultant-sales
+assessmentId: 77790b05-d9dc-40d9-a754-61322b6ab014
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Dynamics 365 Customer Insights 및 Sales Insights 업데이트 내용을 파악하고 있음을 입증하십시오. 선별된 학습 모듈 모음으로 갱신을 준비할 수도 있습니다.
+skills:
+- Dynamics 365 Customer Insights에서 통합 고객 프로필 생성
+- Dynamics 365 Customer Insights 작업
+- Sales Insights 구성
+- Dynamics 365 Sales Insights 작업
+examsPassed:
+- pl-200, mb-210
+studyGuideDescription: '본 학습 모듈을 사용하면 Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'
+resources:
+- title: 인증 갱신 정보
+  summary: 온라인 인증 갱신 절차와 요구 사항 이해
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification

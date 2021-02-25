@@ -1,0 +1,27 @@
+### YamlMime:Certification
+title: 'Microsoft 365 Certified: Messaging Administrator Associate 인증 갱신'
+metadata:
+  title: 'Microsoft 365 Certified: Messaging Administrator Associate 인증 갱신'
+  description: '본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다.'
+uid: renewal.m365-messaging-administrator
+certificationUid: certification.m365-messaging-administrator
+assessmentId: d87d7bd1-2890-481f-9ec4-9ba03d75719a
+durationInMinutes: 45
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다. 갱신 평가를 통과하여 최신 Exchange 및 Microsoft 365 업데이트 내용을 파악하고 있음을 입증하십시오. 선별된 학습 모듈 모음으로 갱신을 준비할 수도 있습니다.
+skills:
+- Exchange Online으로 조직 설정 계획 및 관리
+- Exchange로 클라이언트 액세스 계획 및 관리
+- Microsoft 365 Messaging에서 역할 기반 권한 관리
+- 커넥터를 사용한 Microsoft 365 외부 사서함으로 메일 전달
+- Exchange Online 및 Microsoft 365 Advanced Threat Protection을 사용한 메시지 보안 관리
+- Microsoft 365 및 Exchange Online에서 규정 준수 관리
+- Exchange로 메일 흐름 문제 해결
+examsPassed:
+- ms-203
+studyGuideDescription: '본 학습 모듈을 사용하면 Microsoft 365 Certified: Messaging Administrator Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'
+resources:
+- title: 인증 갱신 정보
+  summary: 온라인 인증 갱신 절차와 요구 사항 이해
+  url: https://docs.microsoft.com/learn/certifications/renew-your-microsoft-certification
