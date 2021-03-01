@@ -1,0 +1,68 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: 비즈니스 가치 및 핵심 제품 기능으로 단순한 Power Apps 캔버스 앱 구축, 데이터 소스 연결, Power Automation을 통한 기본 비즈니스 프로세스 자동화, Power BI 대시보드 생성, Power Virtual Agent를 통한 강력한 챗봇 생성에 이르기까지 Power Platform의 핵심 기능을 이해했음을 입증합니다.
+uid: certification.power-platform-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  학생, 비즈니스 사용자, 또는 초기 기술 전문가라면, 이 인증은 귀하의 Microsoft Power Platform 기술을 사용하여 팀의 생산성을 향상시킴으로 귀하의 과정을 가속화하고 경력을 향상시킬 수 있습니다. 교육에 필요한 경험은 없습니다—컴퓨터 기술, 데이터 분석, cloud 컴퓨팅 및 인터넷에 대한 기본 지식만 있으면 됩니다. 기본 인증은 다양한 기술을 늘리고 Microsoft Power Platform Functional Consultant 와 같은 다른 인증으로 발전하기위한 첫 단계라고 생각하십시오.
+  
+  Microsoft Power Platform Fundamentals 인증은 다음의 내용을 원하는 경우 적합할 수 있습니다&#58;
+  - Microsoft Power Platform으로 솔루션 구축하기.
+  - Power Automate으로 기본 비즈니스 프로세스 자동화하기
+  - Power BI으로 데이터 분석 수행하기.
+  - 간단한 Power Apps 경험 만들기.
+  - Power Virtual Agents.으로 실용적인 챗봇 만들기.
+  
+  이 인증은 전제조건이 없습니다. 그러나 좀 더 많은 경험을 얻고 싶다면 &#58;
+  - Microsoft Power Platform 으로 작업하는 팀원 쉐도우하기.
+  - Microsoft Learn 에서 가능한 학습경로 알아보기.
+  - 강사 주도 강의 과정에 등록하기.
+subTitle: 비즈니스 가치 및 핵심 제품 기능으로 단순한 Power Apps 캔버스 앱 구축, 데이터 소스 연결, Power Automation을 통한 기본 비즈니스 프로세스 자동화, Power BI 대시보드 생성, Power Virtual Agent를 통한 강력한 챗봇 생성에 이르기까지 Power Platform의 핵심 기능을 이해했음을 입증합니다.
+levels:
+- beginner
+skills:
+- Power Platform의 비즈니스 가치 설명
+- Power Platform의 핵심 구성요소 식별
+- Power BI의 기능 입증
+- Power Apps의 기능 설명
+- Power Automate의 기능 입증
+- Power Virtual Agents의 비즈니스 가치 입증
+roles:
+- business-user
+- functional-consultant
+- student
+type: fundamentals
+products:
+- power-platform
+courses:
+- uid: course.pl-900t00
+paths:
+- uid: learn-bizapps.wwl.power-plat-fundamentals
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43KLw
+exams:
+- uid: exam.pl-900
+resources:
+- title: 인증 포스터
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 인증으로의 여정
+  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4HabX
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증서 학습 경로
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+

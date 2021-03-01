@@ -1,0 +1,46 @@
+### YamlMime:Certification
+title: 'MCSA: SQL 2016 Database Development'
+metadata:
+  title: 'MCSA: SQL 2016 Database Development'
+  description: 'MCSA: SQL 2016 Database Development'
+uid: certification.mcsa-sql2016-database-development-certification
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  <div>
+  <div><strong>본 인증은 2021년 1월 31일에 중단됩니다. 해당일 이후부터는 본 인증을 더 이상 취득할 수 없습니다. 중단 일자 전에 취득한 모든 자격증은 에 있는 성적표에 계속 표시됩니다. <a href='https://www.microsoft.com/learning/dashboard.aspx'>인증 대시보드</a>. 만료된 모든 인증서도 <a href='/learn/certifications/retired-certifications'>찾아볼 수 있습니다</a>.</strong><br/><br/></div>
+  </div>
+
+  인증으로써 온-프레미스 데이터베이스와 클라우드 기반 데이터베이스 두 분야에서 모두 데이터베이스 전문가 수준의 능력을 가지고 있음을 입증하십시오.
+subTitle: 인증으로써 온-프레미스 데이터베이스와 클라우드 기반 데이터베이스 두 분야에서 모두 데이터베이스 전문가 수준의 능력을 가지고 있음을 입증하십시오.
+levels:
+- advanced
+skills:
+- none
+roles:
+- developer
+type: mcsa
+products:
+- sql-server
+courses:
+- uid: course.20761
+- uid: course.20762
+exams:
+- uid: exam.70-761
+- uid: exam.70-762
+resources:
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

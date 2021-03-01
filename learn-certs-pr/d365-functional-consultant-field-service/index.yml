@@ -1,0 +1,71 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.'
+uid: certification.d365-functional-consultant-field-service
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
+subTitle: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
+levels:
+- intermediate
+skills:
+- 현장 서비스 애플리케이션 구성하기
+- 작업 주문 관리하기
+- 작업 주문 일정 설정 및 배포하기
+- 현장 서비스 모빌리티 관리
+- 재고 및 구매 관리
+- Connected Field Service 구현
+- Common Data Service 구성
+- Power Apps 사용하여 앱 만들기
+- Power Automate 생성 및 관리
+- Power Virtual Agents 챗봇 구현
+- Power Apps 를 다른 앱 및 서비스와 통합
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-field-service
+courses:
+- uid: course.mb-200t00
+- uid: course.mb-240t00
+paths:
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-dynamics.implementing-customer-engagement-online
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-bizapps.get-started-power-apps-portals
+- uid: learn-bizapps.extend-power-apps-portals
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUiZ
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-240
+resources:
+- title: 인증 포스터
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 인증으로의 여정
+  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증서 학습 경로
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+

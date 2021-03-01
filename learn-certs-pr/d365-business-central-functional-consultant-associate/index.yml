@@ -1,0 +1,63 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Business Central Functional Consultant Associate'
+  description: 본 인증은 2020년 10월 6일 경에 사용할 수 있습니다. Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
+uid: certification.d365-business-central-functional-consultant-associate
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
+
+  <div><br/><strong>참고&#58; 본 인증은 2020년 10월 6일 경에 사용할 수 있습니다.</strong></div>
+subTitle: 본 인증은 2020년 10월 6일 경에 사용할 수 있습니다. Dynamics 365 Business Central 기능 컨설턴트는 중소기업의 핵심 애플리케이션 설정 프로세스 구현을 담당합니다.
+levels:
+- intermediate
+skills:
+- Business Central 설정
+- 재무 구성
+- 판매 및 구매 구성
+- Business Central Operations 수행
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-business-central
+- power-platform
+courses:
+- uid: course.mb-800t00
+paths:
+- uid: learn-dynamics.get-started-dynamics-365-business-central
+- uid: learn-dynamics.deploy-configure-dynamics-365-business-central
+- uid: learn-dynamics.work-with-user-interface-dynamics-365-business-central
+- uid: learn-dynamics.setup-reporting-dynamics-365-business-central
+- uid: learn-dynamics.set-up-financial-management-dynamics-365-business-central
+- uid: learn-dynamics.use-journals-dynamics-365-business-central
+- uid: learn-dynamics.trade-get-started-dynamics-365-business-central
+- uid: learn-dynamics.purchase-items-services-dynamics-365-business-central
+- uid: learn-dynamics.sell-items-services-dynamics-365-business-central
+- uid: learn-dynamics.return-items-dynamics-365-business-central
+- uid: learn-dynamics.process-customer-vendor-payments-dynamics-365-business-central
+- uid: learn-dynamics.reconcile-bank-accounts-dynamics-365-business-central
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CxSG
+exams:
+- uid: exam.mb-800
+resources:
+- title: 인증 포스터
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 인증으로의 여정
+  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Ft
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 시험 재응시
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+

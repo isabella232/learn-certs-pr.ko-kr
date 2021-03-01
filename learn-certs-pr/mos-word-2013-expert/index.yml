@@ -1,0 +1,40 @@
+### YamlMime:Certification
+title: 'Microsoft Office Specialist: Word 2013 Expert'
+metadata:
+  title: 'Microsoft Office Specialist: Word 2013 Expert'
+  description: 'Microsoft Office Specialist: Word 2013 Expert'
+uid: certification.mos-word-2013-expert
+iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
+summary: |-
+  본 인증을 통해 Microsoft Office Specialist Expert 인증을 통해 Microsoft Word 2013의 고급 기술을 보유하고 있음을 입증합니다. 응시자는 애플리케이션 내에서 고급 기능과 특수 기능의 사용을 알고 입증해야 합니다. 응시자는 다양한 특수 목적과 상황을 위해 전문적인 문서를 작성, 관리 및 배포 할 수 있어야 합니다.
+subTitle: 본 인증을 통해 Microsoft Office Specialist Expert 인증을 통해 Microsoft Word 2013의 고급 기술을 보유하고 있음을 입증합니다.
+levels:
+- intermediate
+skills:
+- 문서 관리 및 공유
+- 고급 문서 설계
+- 고급 참고 문서 만들기
+- 사용자 정의 Word 요소 만들기
+roles:
+- business-user
+type: mos
+products:
+- office
+- office-word
+exams:
+- uid: exam.77-425
+- uid: exam.77-426
+resources:
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 시험 재응시
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

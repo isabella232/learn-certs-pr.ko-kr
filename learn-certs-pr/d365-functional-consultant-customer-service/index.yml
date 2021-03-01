@@ -1,0 +1,78 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate'
+  description: 'Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 요구를 예측하는 실용적인 통찰력을 얻습니다.'
+uid: certification.d365-functional-consultant-customer-service
+certificationRenewalUid: renewal.d365-functional-consultant-customer-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 요구를 예측하는 실용적인 통찰력을 얻습니다.
+subTitle: Microsoft Dynamics 365 고객 서비스 기능 컨설턴트는 빠르고 민첩한 고객 경험(CX) 솔루션을 구축하고 AI를 활용하여 고객의 요구를 예측하는 실용적인 통찰력을 얻습니다.
+levels:
+- intermediate
+skills:
+- 서비스 케이스 및 참조 자료 관리
+- 큐, 권리 유형 및 SLA (서비스 수준 계약) 관리
+- 일정 관리 구현
+- 고객 서비스를 위한 옴니채널 구현
+- 분석 관리
+- Common Data Service 구성
+- Power Apps 사용하여 앱 만들기
+- Power Automate 생성 및 관리
+- Power Virtual Agents 챗봇 구현
+- Power Apps 를 다른 앱 및 서비스와 통합
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-customer-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-230t01
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.customer-service-hub-cases-slas
+- uid: learn-bizapps.work-with-entitlements-and-slas-dyn365-customer-service
+- uid: learn-bizapps.work-with-knowledge-management-solutions-dyn365-customer-service
+- uid: learn-dynamics.create-surveys
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VC6G
+exams:
+- uid: exam.pl-200
+- uid: exam.mb-230
+resources:
+- title: 인증 포스터
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 인증으로의 여정
+  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Ci0e
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증서 학습 경로
+  description: 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cd87
+- title: 시험 재응시
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+

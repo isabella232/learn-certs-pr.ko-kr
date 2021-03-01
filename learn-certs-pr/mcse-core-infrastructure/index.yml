@@ -1,0 +1,67 @@
+### YamlMime:Certification
+title: 'MCSE: Core Infrastructure'
+metadata:
+  title: 'MCSE: Core Infrastructure'
+  description: 'MCSE: Core Infrastructure'
+uid: certification.mcse-core-infrastructure
+iconUrl: /media/learn/certification/badges/mcse-badge.svg
+summary: |-
+  <div>
+  <div><strong>본 인증은 2021년 1월 31일 중단됩니다. 해당일 이후부터는 본 인증을 더 이상 취득할 수 없습니다. 중단 일자 전에 취득한 모든 자격증은 <a href='https://www.microsoft.com/learning/dashboard.aspx'>인증 대시보드</a>에 있는 성적표에 계속 표시됩니다. 만료된 모든 인증서도 <a href='/learn/certifications/retired-certifications'>에서 찾아볼 수 있습니다</a>.</strong><br/><br/></div>
+  </div>
+
+  해당 인증은 응시자가 매우 효율적이고 현대적인 데이터 센터, ID 관리, 시스템 관리, 가상화, 스토리지 및 네트워킹을 운영하는 데 필요한 기술을 갖추고 있음을 입증합니다.
+
+  MCSE&#58; Core Infrastructure 인증을 받으려면, 다음 요구 사항을 충족해야 합니다&#58;
+  - 한 개의 필수 자격증 취득&#58;
+    - 필수 선택사항 1&#58; [MCSA&#58; Windows Server 2012](/learn/certifications/mcsa-windows-server-certification)
+    - 필수 선택사항 2&#58; [MCSA&#58; Windows Server 2016](/learn/certifications/mcsa-windows-server-2016-certification)
+  - 선택 시험 중 하나에 합격&#58;
+    - [70-744&#58; Securing Windows Server 2016](/learn/certifications/exams/70-744)
+    - [70-745&#58; Implementing a Software-Defined Datacenter](/learn/certifications/exams/70-745)
+    - [70-413&#58; Designing and Implementing a Server Infrastructure](/learn/certifications/exams/70-413)
+    - [70-414&#58; Implementing an Advanced Server Infrastructure](/learn/certifications/exams/70-414)
+    - [70-537&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub](/learn/certifications/exams/70-537)
+subTitle: 해당 인증은 응시자가 매우 효율적이고 현대적인 데이터 센터, ID 관리, 시스템 관리, 가상화, 스토리지 및 네트워킹을 운영하는 데 필요한 기술을 갖추고 있음을 입증합니다.
+levels:
+- advanced
+skills:
+- none
+roles:
+- administrator
+type: mcse
+products:
+- windows-server
+- windows-system-center
+courses:
+- uid: course.20744
+- uid: course.20745
+- uid: course.20413
+- uid: course.20414
+- uid: course.20537
+exams:
+- uid: exam.70-744
+- uid: exam.70-745
+- uid: exam.70-413
+prerequisites:
+- uid: certification.mcsa-windows-server-certification
+  isOptional: false
+- uid: certification.mcsa-windows-server-2016-certification
+  isOptional: false
+resources:
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+
