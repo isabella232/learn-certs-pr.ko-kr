@@ -7,19 +7,28 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>시험 DP-200 및 DP-201 은 <a href='/learn/certifications/exams/dp-203'>EXAM DP-203</a> 으로 2021년 2월 23일 대체됩니다. 이 시험들이 중지되는 2021년 6월 30일까지 DP-200 및 DP-201을 통과하면 이 인증을 획득할 수 있습니다.</strong></font><br/><br/></div>
+  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>시험 DP-203</a>은 DP-200 및 DP-201을 대체하는 시험입니다. DP-200 및 DP-201은 2021년 6월 30일 종료됩니다.</strong></font><br/><br/></div>
   
-  Azure 데이터 기술자는 Azure 데이터 서비스의 전체 스택을 사용하여 데이터 괸리, 모니터링, 보안과 개인 정보 보호 기능을 설계하고 구현함으로써 비즈니스 니즈를 충족시킵니다.
+  Azure Data Engineer Associate 인증에 대한 응시자는 다양한 정형 및 비정형 데이터 시스템의 데이터를 분석 솔루션 구축에 적합한 구조로 통합하고, 변환하고, 강화하는 주제 전문 지식을 가지고 있어야 합니다. 
+  
+  이 역할에 대한 책임에는 다양한 도구와 기술을 사용하여 이해관계자들이 탐색을 통해 데이터를 이해하게 돕고, 보안 및 규정 준수 데이터 처리 파이프라인을 구축하고 유지하는 것을 포함합니다. 이 전문가는 다양한  Azure 데이터 서비스와 언어를 사용하여 분석을 위한 정리되고 향상된 데이터 세트를 저장하고 생산합니다. 
+  
+  또한 Azure 데이터 엔지니어는 특정 비즈니스 요구 사항 및 제약 조건을 고려할 때,  데이터 파이프라인 및 데이터 저장소가 고-성능이며, 효율적이고, 조직적이고, 믿을 수 있다는 것을 보장하도록 도와줍니다. 이 전문가는 예상치 못한 문제를 신속하게 처리하고 데이터 손실을 최소화 합니다. 또한 Azure 데이터 엔지니어는 데이터 파이프라인 요구에 맞춰 데이터 플랫폼을 디자인, 구현, 모니터링 및 최적화합니다. 
+  
+  이 인증에 대한 응시자는 SQL, Python, 혹은 Scala와 같은 데이터 처리 언어에 대한 확실한 지식이 있어야 하며 병렬 처리 및 데이터 아키텍처 패턴을 이해해야합니다. 
+  
+  <div><br/><strong>다음 옵션 중 하나를 완료하면 이 인증을 받게 됩니다&#58;</strong><br/>
+  <ul>
+  <li>통과<a href="/learn/certifications/exams/dp-200">DP-200</a> 및 <a href="/learn/certifications/exams/dp-201">DP-201</a> (2021년 6월 30일 종료) <strong>혹은</strong></li>
+  <li>통과 <a href="/learn/certifications/exams/dp-203">DP-203</a> (2021년 2월 23일 베타 출시)</li></ul></div>
 subTitle: Azure 데이터 엔지니어들은 다양한 정형 및 비정형 데이터 시스템에서 분석 솔루션 구축에 적합한 구조로 데이터를 통합, 변환 및 강화합니다.
 levels:
 - intermediate
 skills:
-- 데이터 저장소 솔루션 구현
-- 데이터 처리 관리 및 개발
-- 데이터 솔루션 모니터링 및 최적화
-- Azure 데이터 저장소 솔루션 설계
-- 데이터 처리 솔루션 설계
-- 데이터 보안 및 규정 준수 설계
+- 데이터 저장소 디자인 및 구현 
+- 데이터 처리 디자인 및 개발 
+- 데이터 보안 디자인 및 구현 
+- 데이터 저장소 및 데이터 처리 모니터링 및 최적화
 roles:
 - data-engineer
 type: role-based
@@ -30,29 +39,27 @@ products:
 - azure-event-hubs
 - azure-data-lake
 - azure-databricks
-courses:
-- uid: course.dp-200t01
-- uid: course.dp-201t01
 paths:
 - uid: learn.data-ai.azure-for-the-data-engineer
 - uid: learn.store-data-in-azure
-- uid: learn.work-with-relational-data-in-azure
-- uid: learn.work-with-nosql-data-in-azure-cosmos-db
+- uid: learn.wwl.data-integration-scale-azure-data-factory
+- uid: learn.wwl.realize-integrated-analytical-solutions-with-azure-synapse-analytics
+- uid: learn.wwl.work-with-data-warehouses-using-azure-synapse-analytics
+- uid: learn.wwl.perform-data-engineering-with-azure-synapse-apache-spark-pools
+- uid: learn.wwl.work-with-hybrid-transactional-analytical-processing-solutions
+- uid: learn.wwl.data-engineer-azure-databricks
 - uid: learn.data-ai.data-processing-with-azure-adls
 - uid: learn.data-ai.implement-data-streaming-with-asa
-- uid: learn.data-ai.implement-sql-data-warehouse
-- uid: learn.wwl.data-engineer-azure-databricks
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUG
 exams:
-- uid: exam.dp-200
-- uid: exam.dp-201
+- uid: exam.dp-203
 resources:
+- title: 인증으로의 여정
+  description: Azure Data Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxODZ
 - title: Azure 인증 포스터
   description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 인증으로의 여정
-  description: Azure Data Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ARli
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
