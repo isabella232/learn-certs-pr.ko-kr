@@ -7,48 +7,70 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong>시험 AI-100은 <a href='/learn/certifications/exams/ai-102'>EXAM AI-102</a> 로 2021년 2월 23일 대체됩니다. 이 시험이 중지되는 2021년 6월 30일까지 AI-100을 통과하면 이 인증을 획득할 수 있습니다.</strong></font><br/><br/></div>
+  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>시험 AI-102</a>은 AI-100을 대체하는 시험입니다. AI-100은 2021년 6월 30일 종료됩니다.</strong></font><br/><br/></div>
   
-  Azure AI Engineer Associate 인증의 응시자는 자연어 처리, 음성, Computer Vision, 대화형 AI와 관련된 Microsoft AI 솔루션을 설계 및 구현하기 위해 Cognitive Services, Machine Learning, 지식 마이닝 등을 활용한 과목별 전문지식이 있어야 합니다.
+  Azure AI Engineer Associate 인증에 대한 응시자들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임워크를 활용하는 AI 솔루션을 구축하고, 관리하고, 배포하는 주제 전문 지식을 갖추어야 합니다.  
+ 
+  그들의 책임에는 요구 사항 정의 및 디자인부터 개발, 배포, 유지, 성능 조정 및 모니터링까지 AI 솔루션 개발의 모든 단계에 참여하는 것을 포함합니다. 
   
-  이 역할에는 AI 솔루션의 요구 사항 분석, 적절한 도구 및 기술 추천 및 확장성과 성능 요구 사항을 충족하는 AI 솔루션 구현 업무를 포함합니다.
+  Azure AI 엔지니어들은 그들의 비전을 실행하기 위해 솔루션 아키텍처와 협력하고 완전한 종단 간 AI 솔루션을 구축하기 위해 데이터 과학자들, 데이터 엔지니어들, IoT 전문가들 및 AI 개발자들과 협력합니다. 
   
-  Azure AI Engineer는 솔루션 설계자의 관점을 해석하고 데이터 과학자, 데이터 엔지니어, IoT 전문가, 소프트웨어 개발자들과 협력하여 완벽한 엔드투엔드 솔루션을 구축합니다.
+  이 인증에 대한 응시자들은 C#, Python, 또는 JavaScript에 능숙해야 하고 REST-기반 API 및 SDK를 사용하여 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝 및 대화형 AI 솔루션을 구출할 수 있어야 합니다. 또한 Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 저장소 옵션을 이해해야 합니다. 추가로, 응시자들은 책임 있는 AI 원칙을 이해하고 적용할 수 있어야합니다.  
   
-  본 인증의 응시자는 Microsoft Azure Cognition Services, Azure Bot Service, Azure Cognition Search 및 Azure의 데이터 스토리지를 사용하는 AI 앱 및 에이전트를 설계하고 구현할 수 있는 지식과 경험이 있어야 합니다. 응시자는 또한 오픈 소스 기술을 사용하는 솔루션을 추천하고, Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 스토리지 옵션을 이해하고, 특정한 요구 사항을 충족하기 위한 맞춤형 API를 개발해야 할 시기를 이해할 수 있어야 합니다.
+  <div><br/><strong>다음 시험 중 하나를 통과하면 이 인증을 받게 됩니다&#58;</strong><br/>
+  <ul>
+  <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (2021년 6월 30일 종료) <strong>혹은</strong></li>
+  <li><a href="/learn/certifications/exams/ai-102">AI-102</a> (2021년 2월 23일 베타 출시)</li></ul></div>
 subTitle: Azure AI 엔지니어들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임 워크를 활용하는 AI 솔루션을 구축, 관리 및 배포합니다.
 levels:
 - intermediate
 skills:
-- 솔루션 요구 사항 분석
-- AI 솔루션 설계
-- AI 솔루션 구현 및 모니터링
+- Azure Cognitive Services 솔루션 계획 및 관리
+- 컴퓨터 비전 솔루션 구현
+- 자연어 처리 솔루션 구현 
+- 지식 마이닝 솔루션 구현 
+- 대화형 AI 솔루션 구현
 roles:
 - ai-engineer
 type: role-based
-products:
-- azure
-- azure-cognitive-services
+products:						  
 - azure-bot-service
-- azure-machine-learning-studio
-- azure-search
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-custom-vision
+- azure-face
+- azure-form-recognizer
+- azure-language-understanding
+- azure-qna-maker
+- azure-speech
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator
+- azure-translator-speech
+- azure-translator-text
+- azure-video-indexer
 courses:
-- uid: course.ai-100t01
+- uid: course.ai-102t00
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.data-ai.create-bots-with-the-azure-bot-service
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services														   
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
+- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-conversational-ai-solutions
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
-- uid: exam.ai-100
+- uid: exam.ai-102
 resources:
+- title: 인증으로의 여정
+  description: Azure AI Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: Azure 인증 포스터
   description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
-- title: 인증으로의 여정
-  description: Azure AI Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ww2u
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ

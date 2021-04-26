@@ -2,7 +2,7 @@
 title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Fundamentals Finance and Operations Apps (ERP)'
-  description: '이 인증은 2021년 2월에 가능합니다. Dynamics 365의 기업 리소스 계획(ERP) 기능에 대한 광범위한 노출을 가지고 있고 재무 및 운영 앱이 어떻게 전반적으로 Microsoft 에코시스템에 적용되는지에 대한 기본 사항을 이해하고 있다면- 이 인증이 적합합니다.'
+  description: 'Dynamics 365의 기업 리소스 계획(ERP) 기능에 대한 광범위한 노출을 가지고 있고 재무 및 운영 앱이 어떻게 전반적으로 Microsoft 에코시스템에 적용되는지에 대한 기본 사항을 이해하고 있다면- 이 인증이 적합합니다.'
 uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
@@ -17,8 +17,7 @@ summary: |-
   - 비즈니스 운영, 재무 및 ERP에 대해 더 깊은 이해를 보여주고 싶은 개발자들
   - Dynamics 365 재무 및 운영 앱을 활용하여 다음 단계로 가고 싶은 학생, 최근 졸업생 및 경력을 변경하는 사람들
   
-  <div><br/><strong>참고&#58; 이 인증은 2021년 2월에 가능합니다.</strong></div>
-subTitle: '이 인증은 2021년 2월에 가능합니다. Dynamics 365의 기업 리소스 계획(ERP) 기능에 대한 광범위한 노출을 가지고 있고 재무 및 운영 앱이 어떻게 전반적으로 Microsoft 에코시스템에 적용되는지에 대한 기본 사항을 이해하고 있다면- 이 인증이 적합합니다.'
+subTitle: 'Dynamics 365의 기업 리소스 계획(ERP) 기능에 대한 광범위한 노출을 가지고 있고 재무 및 운영 앱이 어떻게 전반적으로 Microsoft 에코시스템에 적용되는지에 대한 기본 사항을 이해하고 있다면- 이 인증이 적합합니다.'
 levels:
 - beginner
 skills:
@@ -27,7 +26,6 @@ skills:
 - Dynamics 365 Commerce 설명
 - Dynamics 365 Human Resources 설명
 - Project Operations 설명
-- Dynamics 365 Business Central 설명
 - 공유 기능 설명
 roles:
 - business-owner
@@ -38,6 +36,12 @@ type: fundamentals
 products: 
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JKOU
 exams:
 - uid: exam.mb-920
@@ -45,9 +49,15 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 인증 과정
+  description: 인증을 받기 위한 단계와 준비에 도움을 주는 리소스를 살펴보십시오.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAWQX
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: 인증 학습 경로
+  description: 필수 시험을 준비하고 인증을 획득하는 데 도움을 주는 권장 훈련 리소스 입니다. 
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
