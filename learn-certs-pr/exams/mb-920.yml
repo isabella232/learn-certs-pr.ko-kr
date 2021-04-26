@@ -10,21 +10,21 @@ summary: |-
   
   이 시험의 응시자들은 정보 기술 (IT) 환경에 대한 일반적인 지식이나 관련 업무 경험이 있어야 합니다. 또한 재무 원칙 및 비즈니스 운영에 대한 기본적인 이해가 있어야 합니다.
   
-  <div><br/><strong>참고&#58; 이 시험은 2021년 2월에 가능합니다.</strong></div>
-subTitle: '이 시험은 2021년 2월 가능합니다. 이 시험은 다음을 설명하는 능력을 측정합니다: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; 프로젝트 운영; Dynamics 365 Business Central; 및 공유 기능.'
+  <div><br/><font color='red'><strong>베타 시험은 문제와 시험의 품질에 대한 데이터를 수집하고 있기 때문에 즉시 채점되지 않습니다. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">베타 시험에 대한 가치와 중요성에 대해 더 알아보세요</a>.</strong></font></div>
+subTitle: '이 시험은 다음을 설명하는 귀하의 능력을 측정합니다: Dynamics 365 Supply Chain Management; Dynamics Finance; Dynamics 365 Commerce; Dynamics 365 Human Resources; 프로젝트 운영; 및 공유 기능.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JFBT
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-920&examname=Exam%20MB-920:%20Microsoft%20Dynamics%20365%20Fundamentals%20Finance%20and%20Operations%20Apps%20(ERP)&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-920
 locales:
 - en
 levels:
 - beginner
 skills:
 - Dynamics 365 Supply Chain Management 설명 (25-30%)
-- Dynamics Finance 설명 (25-30%)
+- Dynamics Finance 설명 (20-25%)
 - Dynamics 365 Commerce 설명 (10-15%)
 - Dynamics 365 Human Resources 설명 (5-10%)
 - Project Operations 설명 (10-15%)
-- Dynamics 365 Business Central 설명 (5-10%)
 - 공유 기능 설명 (10-15%)
 roles:
 - business-owner
@@ -34,10 +34,19 @@ roles:
 products: 
 - dynamics-365
 - dynamics-finance-operations
+paths:
+- uid: learn.wwl.explore-microsoft-dynamics-365-supply-chain-management
+- uid: learn.wwl.explore-microsoft-dynamics-365-finance
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-commerce
+- uid: learn.wwl.learn-fundamentals-microsoft-dynamics-365-human-resources
+- uid: learn.wwl.explore-microsoft-dynamics-365-project-operations-erp
 relatedCertifications:
 - related:
     uid: certification.d365-fundamentals-finance-and-operations-apps-erp
 resources:
+- title: 인증 학습 경로
+  description: 필수 시험을 준비하고 인증을 획득하는 데 도움을 주는 권장 훈련 리소스 입니다. 
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWAFfQ
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
