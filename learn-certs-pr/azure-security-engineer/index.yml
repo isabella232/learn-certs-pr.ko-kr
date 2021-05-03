@@ -66,4 +66,7 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 배지 공유
+  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  href: ../badges.md
 

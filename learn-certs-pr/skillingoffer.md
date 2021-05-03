@@ -44,22 +44,22 @@ Microsoft 인증으로 신뢰도를 높이고 Microsoft 기술을 사용한 역�
 Microsoft 인증 시험을 준비하고 등록하고 응시하려면, 아래 단계를 따르십시오. **참고.** 자격이 있는 참가자는 2021년 12월 30일 전 할인된 시험을 예약해야 합니다.
 
 1. 다음의 주요 Microsoft 인증 리소스를 검토하십시오:
-	1. [PSI를 사용한 온라인 시험 정보](/learn/certifications/online-exams-psi)에는 참여 국가, 시스템 요구 사항, 테스트 프로토콜 요구 사항, 온라인 시험 절차 등이 포함됩니다.  
-	2. 테스트 시 동일한 컴퓨터와 장소에서 [시스템 검사를 실행하십시오](https://syscheck.bridge.psiexams.com/).
+	1. [PSI를 사용한 온라인 시험 정보](/learn/certifications/online-exams-psi) 에는 참여 국가, 시스템 요구 사항, 테스트 프로토콜 요구 사항, 온라인 시험 절차 등이 포함됩니다.  
+	2. 테스트 시 동일한 컴퓨터와 장소에서 [시스템 검사를 실행하십시오.](https://syscheck.bridge.psiexams.com/)
 2. Microsoft 계정이 있는지 확인하십시오.
 	1. Microsoft 인증이 이미 있거나 Microsoft 인증 시험을 응시해 본 경우 동일한 Microsoft 계정을 사용하십시오.  
-	2. Microsoft 계정이 필요한 경우, [하나를 생성하십시오](https://account.microsoft.com/account/manage-my-account).
+	2. Microsoft 계정이 필요한 경우, [하나를 생성하십시오.](https://account.microsoft.com/account/manage-my-account)
 3. Microsoft 인증 프로필이 없는 경우, 시험 일정을 예약 시 하나를 생성하라는 메시지가 표시됩니다. <br/>**알림:** 인증 프로필 생성 시 이름이 시험에 응시할 때, 사용할 정부 발급 ID와 정확하게 일치하는지 확인하십시오. 감독관은 신원 확인 과정의 일환으로 ID의 이름과 인증 프로필의 이름을 비교합니다. [신원 확인 요구 사항](/learn/certifications/online-exams-psi#identity-verification-requirements)에 대해 자세히 알아보십시오.
 
-도움이 필요한 경우, [Microsoft 인증 지원 포럼](https://aka.ms/mcpforum)을 방문하십시오. 고객 지원 담당자에게 연락하려면, 페이지 상단의 *질문하기*를 클릭하고 양식을 작성하십시오. 지원 담당자는 업무일 1일 이내에 응답할 것입니다.
+도움이 필요한 경우, [Microsoft 인증 지원 포럼](https://aka.ms/mcpforum) 을 방문하십시오. 고객 지원 담당자에게 연락하려면, 페이지 상단의 *질문하기*를 클릭하고 양식을 작성하십시오. 지원 담당자는 업무일 1일 이내에 응답할 것입니다.
 
 ## FAQ
 
-PSI를 사용한 온라인 시험에 대한 일반적인 질문과 대답은, [PSI를 사용한 온라인 시험 정보 페이지의 자주 묻는 질문](/learn/certifications/online-exams-psi#frequently-asked-questions)을 참조하십시오. 기술 이니셔티브에 대한 일반적인 질문과 대답은 [기술 이니셔티브 자주 묻는 질문](https://aka.ms/JobSeekerFAQ)을 참조하십시오.
+PSI를 사용한 온라인 시험에 대한 일반적인 질문과 대답은, [PSI를 사용한 온라인 시험 정보 페이지의 자주 묻는 질문](/learn/certifications/online-exams-psi#frequently-asked-questions)을 참조하십시오. 기술 이니셔티브에 대한 일반적인 질문과 대답은 [기술 이니셔티브 자주 묻는 질문](https://aka.ms/JobSeekerFAQ) 을 참조하십시오.
 
 ## <a name="terms-conditions"></a> 사용 약관
 
-- 본 시험 제안은 COVID-19로 인해 실직했거나 해고 당한 것을 입증할 수 있는 구직자에게 제공됩니다.
+- 본 시험 제안은 COVID-19 로 인한 실업자 또는 강제 휴가자임을 증명할 수 있는 구직자와 고등학교, 대학교 또는 기타 전문적인 기술 교육 프로그램에 적극적으로 등록한 학생들에게 제공됩니다.
 - 본 시험 제안에 액세스하고 사용하려면 18세 이상이어야 합니다.
 - 본 시험 제안은 제한된 수의 자격이 있는 개인과 시험 약속에 사용 가능합니다.
 - 본 시험 제안으로 특별히 제한된 시간에 15달러의 할인된 가격으로 1개의 유효한 Microsoft 인증 시험에 등록하고 응시할 수 있는 권한을 부여합니다. 제공은 2021년 12월 31일 종료됩니다.
