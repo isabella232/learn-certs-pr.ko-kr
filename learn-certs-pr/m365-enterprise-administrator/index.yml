@@ -8,8 +8,6 @@ certificationRenewalUid: renewal.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
   Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
-
-  <div><br/><strong>MCSE&#58; Productivity Solutions Expert 인증은 2021년 1월 31일에 중지됩니다. (인증 만료 1년 후) 2022년 1월 31일까지 본 인증의 필수 조건 옵션의 자격을 계속 부여합니다.</strong></div>
 subTitle: Microsoft 365 Enterprise Administrator는 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리합니다.
 levels:
 - advanced
@@ -48,10 +46,10 @@ prerequisites:
 - uid: certification.m365-security-administrator
   isOptional: false
 - uid: certification.m365-messaging-administrator
-  isOptional: false
-- uid: certification.mcse-productivity-certification
-  isOptional: false
+  isOptional: false												   
 - uid: certification.m365-teams-administrator-associate
+  isOptional: false
+- uid: certification.identity-and-access-administrator
   isOptional: false
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUi7
 exams:
@@ -73,4 +71,7 @@ resources:
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 성적표를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 배지 공유
+  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  href: ../badges.md
 
