@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Information Protection Administrator (Security exam beta)'
+title: 'Microsoft Information Protection Administrator'
 metadata:
-  title: 'Exam SC-400: Microsoft Information Protection Administrator (Security exam beta)'
-  description: 'Exam SC-400: Microsoft Information Protection Administrator (Security exam beta)'
+  title: 'Exam SC-400: Microsoft Information Protection Administrator'
+  description: 'Exam SC-400: Microsoft Information Protection Administrator'
 uid: exam.sc-400
 displayName: SC-400
 summary: |-
@@ -12,7 +12,6 @@ summary: |-
   
   이 사람은 이러한 정책 및 제어에 대한 적용 가능한 요구 사항을 정의하고 IT 프로세스 및 운영을 테스트합니다. 그들은 콘텐츠 분류, 데이터 손실 방지, 거버넌스 및 보호에 대한 정책 및 규칙을 만드는 것을 담당합니다. 
   
-  <div><br/><font color='red'><strong>베타 시험은 문제와 시험의 품질에 대한 데이터를 수집하고 있기 때문에 즉시 채점되지 않습니다. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">베타 시험에 대한 가치와 중요성에 대해 더 알아보세요</a>.</strong></font></div>
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 귀하의 능력을 측정합니다: 정보 보호 구현; 데이터 손실 방지 구현; 정보 거버넌스 구현.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr80
@@ -47,10 +46,10 @@ relatedCertifications:
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md

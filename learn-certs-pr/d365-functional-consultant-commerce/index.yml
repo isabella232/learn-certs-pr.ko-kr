@@ -1,0 +1,59 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Commerce Functional Consultant Associate'
+  description: 'Dynamics 365 Commerce 기능 컨설턴트는 Dynamics 365 Commerce에서 애플리케이션 기능을 설정 및 사용하고 애플리케이션에 대한 지원을 제공합니다.'
+uid: certification.d365-functional-consultant-commerce
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  팀과 조직을 지원하기 위해 Dynamics 365 Commerce를 사용하는 기능 컨설턴트, 개발자, 정보 근로자 혹은 IT 나 비즈니스 전문가라면, 이 인증은 경력을 향상시키는 데 도움이 될 수 있습니다. 이 인증의 응시자로서, Dynamics 365 Commerce 애플리케이션을 구성하고, 배포하며 유지합니다. 
+  
+  응시자들은 통합 상거래 비즈니스 운영에 대해 반드시 잘 알고 있어야 합니다. Dynamics 365 Commerce 본사를 구성합니다; 커머스 콜 센터를 구성 및 관리하고, 상거래에서 판매 시점(POS)을  관리하고, 전자 상거래를 관리하고, 제품, 가격, 할인, 충성도 및 제휴를 구성합니다.
+  
+  이 인증을 획득하기 전에 더 많은 경험이 필요한 경우, 여기 몇 가지 제안이 있습니다&#58;
+  
+  - 몇몇 Dynamics 365 Commerce 프로젝트에서 기능 컨설턴트와 협력합니다.
+  - Microsoft Learn에서 자기-주도형 학습 경로에 참가하십시오. 
+  - 강사-주도 교육 과정에 등록하십시오.
+  
+subTitle: 'Dynamics 365 Commerce 기능 컨설턴트는 Dynamics 365 Commerce에서 애플리케이션 기능을 설정 및 사용하고 애플리케이션에 대한 지원을 제공합니다.'
+levels:
+- intermediate
+skills:
+- Dynamics 365 Commerce 본사 구성
+- 제품, 가격, 할인, 충성도 및 제휴 구성 
+- Dynamics 365 Commerce에서 판매 시점 (POS) 관리
+- Dynamics 365 Commerce 콜 센터 구성 및 관리
+- 전자상거래 관리
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-commerce
+- dynamics-cust-svc-insights
+- dynamics-retail
+- dynamics-sales
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKp
+exams:
+- uid: exam.mb-300
+- uid: exam.mb-340
+resources:
+- title: 인증 포스터
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://aka.ms/TrainingCertDeck
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: ../deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: ../help.md
+- title: 인증 배지 공유
+  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  href: ../badges.md

@@ -1,16 +1,14 @@
 ### YamlMime:Examination
-title: Designing and Implementing a Microsoft Azure AI Solution (beta)
+title: Designing and Implementing a Microsoft Azure AI Solution
 metadata:
-  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
-  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution (beta)'
+  title: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution'
+  description: 'Exam AI-102: Designing and Implementing a Microsoft Azure AI Solution'
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
   AI-102 시험 응시자들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임워크를 활용하는 AI 솔루션을 구축하고, 관리하고, 배포하는 주제별 전문지식을 보유해야합니다.
   
   이 시험의 응시자들은 C#, Python, 혹은 JavaScript 에 능숙해야하며 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝 및 대화형 AI 솔루션을 구축하기 위해 REST-기반 APIs 및 SDKs 를 사용할 수 있어야 합니다. 또한 Azure AI 포트폴리오를 구성하는 구성요소와 사용 가능한 데이터 스토리지 옵션을 이해해야합니다. 뿐만 아니라, 응시자들은 책임있는 AI 원칙을 이해하고 적용할 수 있어야합니다.
-  
-  <div><br/><font color='red'><strong>베타 시험은 문제와 시험의 품질에 대한 데이터를 수집하고 있기 때문에 즉시 채점되지 않습니다. <a href="/learn/certifications/certification-exams#participating-in-beta-exams">베타 시험에 대한 가치와 중요성에 대해 더 알아보세요</a>.</strong></font></div>
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 귀하의 능력을 측정합니다: Azure Cognitive Services 솔루션 계획 및 관리; 컴퓨터 비전 솔루션 구현; 자연어 처리 솔루션 구현; 지식 마이닝 솔루션 구현; 대화형 AI 솔루션 구현.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbYD
@@ -64,10 +62,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWy1S2
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md
