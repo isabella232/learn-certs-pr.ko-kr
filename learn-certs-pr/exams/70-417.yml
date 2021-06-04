@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-417
 displayName: 70-417
 summary: |+
-  <div>
-  <div><strong>본 시험은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 해당 시험을 치를 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   본 시험은 Windows Server 2012 핵심 인프라 서비스를 구현하는 데 필요한 기술 및 지식을 입증하려는 IT 전문가를 대상으로 합니다. 응시자는 다음 Windows Server 2008, Windows Server 2003, Windows Server 2000 또는 Windows XP 인증을 획득한 상태여야 합니다&#58;
   - MCSA&#58; Windows Server 2008
@@ -38,7 +36,6 @@ subTitle: '본 시험은 Windows Server 2012 핵심 인프라 서비스를 구�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixY
 practiceTestUrl: https://www.mindhub.com/70-417-Upgrading-Your-Skills-to-MCSA-Windows-Srvr-p/mu-70-417_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=417&examname=Upgrading%20Your%20Skills%20to%20MCSA%20Windows%20Server%202012&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-417
 locales:
 - en
 - zh-cn
@@ -63,6 +60,7 @@ skills:
 - 비즈니스 연속성 및 재해 복구 구현
 - 네트워크 서비스 구성
 - 액세스 및 정보 보호 솔루션 구성
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-767
 displayName: 70-767
 summary: |-
-  <div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   이 시험은 BI(Business Intelligence) 솔루션을 만드는 ETL(데이터 추출, 변환 및 로드) 및 데이터 웨어하우스 개발자를 대상으로 합니다. 이러한 개발자들의 업무에는 ETL과 데이터 웨어하우스를 구현하는 것 외에 데이터 정리도 포함되어 있습니다.
 
@@ -17,7 +15,6 @@ subTitle: 이 시험은 BI(Business Intelligence) 솔루션을 만드는 ETL(데
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trnq
 practiceTestUrl: http://www.mindhub.com/70-767-Developing-Implementing-a-Data-Warehouse-p/mu-70-767_p.htm
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=767&examname=Implementing%20a%20Data%20Warehouse%20using%20SQL&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-767
 locales:
 - en
 levels:
@@ -26,6 +23,7 @@ skills:
 - 데이터 웨어하우스 설계, 구현, 유지(35-40%)
 - 데이터 추출, 변환 및 로드(40-45%)
 - 데이터 품질 솔루션 작성(15-20%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

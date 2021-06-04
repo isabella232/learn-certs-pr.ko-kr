@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-463
 displayName: 70-463
 summary: |-
-  <div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   본 시험은 주로 BI(비즈니스 인텔리전스) 솔루션을 만들고 데이터 정리, 추출/변환/로드 및 데이터 웨어하우스 구현을 담당하는 ETL 및 데이터 웨어하우스 개발자를 대상으로 합니다.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: 본 시험은 주로 BI(비즈니스 인텔리전스) 솔루션을 만들고 데이터 정리, 추출/변환/로드 및 데이터 웨어하우스 구현을 담당하는 ETL 및 데이터 웨어하우스 개발자를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toVI
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=463&examname=Implementing%20a%20Data%20Warehouse%20with%20Microsoft%20SQL%20Server%202012/2014&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-463
 locales:
 - en
 - zh-cn
@@ -32,6 +29,7 @@ skills:
 - 데이터 로드 (25-30%)
 - SSIS 솔루션 구성 및 배치(20-25%)
 - 데이터 품질 솔루션 작성(15–20%)
+retirementDate: 01/31/2021
 roles:
 - database-administrator
 products:

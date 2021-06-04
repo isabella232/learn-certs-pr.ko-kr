@@ -20,6 +20,7 @@ locales:
 - de
 - ja
 - ko
+- zh-cn
 levels:
 - advanced
 skills:
@@ -38,7 +39,7 @@ relatedCertifications:
 resources:
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 대시보드
   description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
   href: https://www.microsoft.com/learning/dashboard.aspx

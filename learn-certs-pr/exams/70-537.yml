@@ -6,7 +6,7 @@ metadata:
 uid: exam.70-537
 displayName: 70-537
 summary: |-
-  <div><strong>이 시험은 중부 표준시로 2021년 1월 31일 오후 11시 59분에 종료됩니다. 이 날짜 이후에는 더 이상 이 시험을 볼 수 없습니다. 대체 시험인, <a href='/learn/certifications/exams/AZ-600'>AZ-600</a>, 이 가능하며 새로운 Microsoft Certified&#58; Azure Stack Hub Operator Associate 인증에 필요합니다.<br/><br/></strong></div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 대체 시험, <a href='/learn/certifications/exams/AZ-600'>AZ-600</a>, 이 가능합니다.<br/><br/></strong></font></div>
   
   본 시험은 Azure Stack Hub을 사용하여 자사 데이터 센터 내의 고객 또는 최종사용자에게 Cloud 서비스를 제공하는 Azure 관리자 및 Azure Stack Hub운영자를 대상으로 실시됩니다.
   
@@ -18,7 +18,6 @@ summary: |-
 subTitle: 본 시험은 Azure Stack Hub을 사용하여 자사 데이터 센터 내의 고객 또는 최종사용자에게 Cloud 서비스를 제공하는 Azure 관리자 및 Azure Stack Hub운영자를 대상으로 실시됩니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfKQ
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=537&examname=Configuring%20and%20Operating%20a%20Hybrid%20Cloud%20with%20Microsoft%20Azure%20Stack%20Hub&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-537
 locales:
 - en
 levels:
@@ -28,12 +27,11 @@ skills:
 - Azure Stack Hub 환경을 위한 PaaS 및 IaaS 구성 (25-30%)
 - Azure Stack Hub Users위한 서비스 제공 및 DevOps 활성화 (25-30%)
 - Azure Stack Hub 환경 유지 관리 및 모니터링 (20-25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:
 - azure
-courses:
-- uid: course.20537
 relatedCertifications:
 - related:
     uid: certification.mcse-core-infrastructure

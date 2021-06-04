@@ -6,7 +6,16 @@ metadata:
 uid: certification.d365-finance-and-operations-apps-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Dynamics 365의 재무 및 운영 앱으로 작업하는 개발자는 애플리케이션을 비즈니스 요구 사항을 충족하도록 구현하고 확장합니다. 응시자는 표준화된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 통해 완전히 현실화된 솔루션을 제공해야 합니다.
+  기능 컨설턴트와 솔루션 및 기술 아키텍트와 함께 작업하는 개발자이고, Dynamics 365,에서 재무 및 운영 앱을 사용하여 요구사항을 중요한 시스템 기능으로 변환해야하는 책임이 있다면 이 인증을 사용하여 경력을 향상시킬 수 있습니다. 표준화 된 애플리케이션 코딩 패턴, 확장 가능한 기능 및 외부 통합을 사용하여 완전히 실현 된 솔루션을 제공한 경험이 반드시 있어야합니다.
+  
+  소프트웨어 개발 주기 방법론, 데이터 무결성 및 데이터 보안 규정 준수에 대해서 잘 알고 있어야합니다. 그리고 동급 최상의 기능을 제공하는 Dynamics 365의 재무 및 운영 솔루션과 관련된 기본 프레임 워크, 데이터 구조 및 개체를 사용한 깊은 지식 및 경험이 반드시 있어야합니다. 
+  
+  이 인증을 획득하기 전에 더 많은 경험이 필요하다면, 여기 몇 가지 제안이 있습니다&#58;
+  - 하나 이상의 Dynamics 365의 재무 및 운영 앱에서 개발자로 작업합니다. 
+  - 프로젝트를 개발을 돕기위해 자원봉사 합니다.
+  - [Dynamics 365 Community](https://community.dynamics.com/)에 가입합니다.
+  - Microsoft Learn에서 적용 가능한 학습 경로를 수강합니다.
+  - Microsoft Dynamics 365와 같은 강사-주도 교육에 등록합니다&#58; 핵심 재무 및 운영 및 Microsoft Dynamics 365&#58; 재무 및 운영 앱 개발자.
 subTitle: Microsoft Dynamics 365의 재무 및 운영 앱으로 작업하는 개발자는 애플리케이션을 비즈니스 요구 사항을 충족하도록 구현하고 확장합니다.
 levels:
 - intermediate
@@ -54,7 +63,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C5rP
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증서 학습 경로
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Cdas

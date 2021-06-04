@@ -7,7 +7,7 @@ uid: exam.mb-2-716
 displayName: MB2-716
 summary: |-
   <div>
-  <div><strong>이 시험 2021년 1월 31일 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 해당 시험을 치를 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
   <div><strong>본 시험 내용은 2020년 2년 4월 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong></div><br/>
   </div>
 
@@ -15,7 +15,6 @@ summary: |-
 subTitle: 본 시험은 Microsoft Dynamics 365 Customization and Configuration에 대한 인증을 획득하려는 사람에게 추천하는 시험입니다. 본 대상 그룹에는 개발자, 구현 컨설턴트, 기술 지원자 및 시스템 관리자 등이 포함됩니다. 이들은 고객의 비즈니스 요구와 설치 사항을 평가하고 애플리케이션을 구성, 배치 및 사용자 지정합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o2AP
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=MB2-716&examname=Microsoft%20Dynamics%20365%20Customization%20and%20Configuration&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/MB2-716
 locales:
 - en
 - ja
@@ -26,6 +25,7 @@ skills:
 - Microsoft Dynamics 365 엔터티, 엔터티 관계 및 필드 구현 (20-25%)
 - Microsoft Dynamics 365 솔루션, 양식, 뷰 및 시각화 만들기 (25%-30%)
 - 비즈니스 규칙, 워크플로 및 비즈니스 프로세스 흐름 구현 (20-25%)
+retirementDate: 01/31/2021
 roles:
 - business-analyst
 products:

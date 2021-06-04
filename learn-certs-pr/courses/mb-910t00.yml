@@ -1,0 +1,133 @@
+### YamlMime:Course
+title: 'Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+metadata:
+  title: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+  description: 'Course MB-910T00--A: Microsoft Certified:  Dynamics 365 Fundamentals (CRM)'
+uid: course.mb-910t00
+courseNumber: 'MB-910T00'
+hoursToComplete: 48
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Dynamics 365 Marketing의 능력 및 기능 설명
+- skill: Dynamics 365 Sales의 능력 및 기능 설명
+- skill: Dynamics 365 Customer Service의 능력 및 기능 설명
+- skill: Dynamics 365 Field Service의 능력 및 기능 설명
+- skill: Dynamics 365 Project Operations (CRM)의 능력 및 기능 설명
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- beginner
+roles:
+- business-owner
+products:
+- dynamics-365
+summary: |-
+  이 과정은 Dynamics 365.의 고객 참여 기능에 대한 폭 넓은 소개를 제공합니다. 고객 참여의 개념에 더하여, Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service 및 Dynamics 365 프로젝트 운영의 고객 관계 관리 (CRM) 기능을 포함한, 각 고객 참여 앱에도 익숙해집니다. 이 과정에는 강의와 실습도 포함됩니다. 
+
+  #### 구독자 프로필
+  다양한 역할과 직업에서 다양한 단계에 있는 사람들은 이 기본 과정을 통해 혜택을 받을 수 있습니다. 여기에는 IT 전문가, 비즈니스 이해관계자 및 기타 Dynamics 365의 고객 참여 앱 기능에 노출되기를 원하는 사람들, 학생, 최근 졸업생 및 Dynamics 365를 활용하여 다음 단계로 이동하려는 직업을 변경하는 사람들이 포함됩니다. 
+prerequisitesSection: 학습자는 고객 참여 원칙 및 비즈니스 운영에 대한 근본적인 이해가 있어야 합니다. cloud 컴퓨팅에 대한 이해는 도움이 되지만 반드시 필요한 것은 아닙니다.
+outlineSection: |-
+  ### 모듈 1&#58; Dynamics 365 Marketing의 기본 원칙 배우기
+  이 모듈에서는 Dynamics 365 Marketing에 들어가기 전에 고개 참여의 기본 개념과 고객 참여 앱의 공통점을 다룹니다. 표준 마케팅 비즈니스 프로세스와 마케팅이 이를 처리하는 방법으로 시작합니다. 그런 다음 제품 기능을 검토합니다. 마지막으로 LinkedIn Campaign Manager, Dynamics 365 Customer Voice 및 Dynamics 365 Customer Insights와 같은 추가 마케팅 앱을 다룹니다. 
+  #### 레슨
+  - Dynamics 365 고객 참여 앱 소개 받기
+  - Dynamics 365 Marketing 검토
+  - Dynamics 365 Marketing 기능 설명
+  - 추가 마케팅 앱 검토
+
+  #### 랩 &#58; 고객 참여 앱 작업하기
+  
+  #### 랩 &#58; 고객 및 활동 관리
+  
+  #### 랩 &#58; 데이터 검색 및 필터링
+  
+  #### 랩 &#58; Dynamics 365 Marketing Capstone Lab
+  - 마케팅 이메일 만들기
+  - Dynamics 365 Marketing에서 세그먼트 만들기
+  - 고객 여정 만들기
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 고객 참여 앱 및 이들의 공통점 설명
+  - 표준 마케팅 프로세스 및 Dynamics 365 Marketing이 이를 처리하는 방법 설명
+  - Dynamics 365 Marketing 특징 및 기능 설명
+  - 추가 마케팅 앱 설명
+  
+  
+  ### 모듈 2&#58; Dynamics 365 Sales의 기본 원칙 배우기
+  이 모듈은 Dynamics 365 Sales에 대한 소개를 제공합니다. 표준 판매 비즈니스 프로세스와 판매가 이를 처리하는 방법으로 시작합니다. 그런 다음 제품 기능을 검토합니다. 마지막으로 Sales Insights와 Sales Navigator같은 추가 판매 입을 다룹니다. 
+  #### 레슨
+  - Dynamics 365 Sales 살펴보기
+  - Dynamics 365 Sales로 판매 수명 주기 관리
+  - 추가 판매 앱 검토
+  
+  #### 랩 &#58; Dynamics 365 Sales Capstone Lab
+  - 리드 만들기 및 검증
+  - 판매 기회 관리
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 표준 판매 프로세스 및 Dynamics 365 Sales가 이를 처리하는 방법 설명
+  - Dynamics 365 Sales 기능 설명
+  - Sales Insights 및 Sales Navigator와 같은 추가 판매 앱 설명
+  
+  
+  ### 모듈 3&#58; Dynamics 365 Customer Service의 기본 원칙 배우기
+  이 모듈은 Dynamics 365 Customer Service에 대한 소개를 제공합니다. 표준 고객 서비스 비즈니스 프로세스와 고객 서비스가 이를 처리하는 방법으로 시작합니다. 그런 다음 제품 기능을 검토합니다. 마지막으로 고객 서비스용 Omnichannel, Dynamics 365 Customer Service Insights, 고객 서비스 일정 관리 및 연결 고객 서비스와 같은 추가 고객 서비스 앱을 다룹니다.
+  #### 레슨
+  - Dynamics 365 Customer Service 검토
+  - Dynamics Customer Service 기능 설명
+  - 추가 고객 서비스 앱 검토
+  
+  #### 랩 &#58; Dynamics 365 Capstone Lab
+  - 지식 기사 만들기 및 게시
+  - 수명 주기 동안 지원 사례 관리 
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 표준 고객 서비스 프로세스 및 Dynamics 365 Customer Service가 이를 처리하는 방법 설명
+  - Dynamics Customer Service 기능 설명
+  - 세일즈 인싸이트 및 세일즈 네비게이터와 같은 추가 판매 앱 설명
+  
+  
+  ### 모듈 4&#58; Dynamics 365 Field Service의 기본 원칙 배우기
+  이 모듈은 Dynamics 365 Field Service에 대한 소개를 제공합니다. 표준 현장 서비스 비즈니스 프로세스와 현장 서비스가 이를 처리하는 방법으로 시작합니다. 그런 다음 작업 주문 생성, 일정 관리, 재고 관리 및 자산 관리를 포함하는 제품 기능을 검토합니다.
+  #### 레슨
+  - Dynamics Field Service 검토
+  - Dynamics 365 Field Service에서 작업 지시 생성
+  - Dynamics 365 Field Service의 일정 관리 기능 설명 
+  - Dynamics 365 Field Service의 재고 관리 기능 검토
+  - Dynamics 365 Field Service의 자산 관리 기능 검토
+  
+  #### 랩 &#58; Dynamics 365 Capstone Lab
+  - 사례 만들기 및 작업 주문으로 확대
+  - Dynamics 365 Field Service으로 아이템 일정 잡기
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 현장 서비스 비즈니스 프로세스 및 Dynamics 365 Field Service가 처리하는 방법 설명
+  - 작업 지시 생성하는 방법 설명
+  - Dynamics 365 Field Service의 일정 관리 기능 설명
+  - Dynamics 365 Field Service의 재고 관리 기능 설명
+  - Dynamics 365 Field Service의 자산 관리 기능 검토
+  
+  
+  ### 모듈 5&#58; Dynamics 365 Project Operations (CRM)의 기본 원칙 배우기
+  이 모듈은 Dynamics 365 Project Operations의 고객 참여 측면을 소개합니다. 표준 프로젝트-기반 비즈니스 프로세스 및 프로젝트 운영이 이를 처리하는 방법으로 시작합니다. 그런 다음 판매, 프로젝트 관리 및 리소스 활용을 포함하는 제품 기능을 검토합니다.
+  #### 레슨
+  - Dynamics 365 Project Operations 검토
+  - Dynamics 365 Project Operations의 판매 기능 설명
+  - Dynamics 365 Project Operations으로 프로젝트 계획
+  - Dynamics 365 Project Operations의 리소스 활용 기능 검토
+  
+  #### 랩 &#58; Dynamics 365 Project Operations Capstone Lab
+  - 프로젝트-기반 리드 만들기
+  - 프로젝트-기반 기회 관리
+  - 프로젝트 견적 및 프로젝트 추산 만들기
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Dynamics 365 Project Operations에서 처리하는 프로젝트-기반 고객 참여 프로세스 설명
+  - Dynamics 365 Project Operations의 판매 기능 설명
+  - Dynamics 365 Project Operations의 프로젝트 관리 기능 설명
+  - Dynamics 365 Project Operations의 리소스 활용 기능 설명
+  
+  #### 추가 자료
+  Microsoft Learn에서 이 과정과 관련된 콘텐츠를 검토하십시오. 제품마다 별도의 학습 경로가 있으니 참고하십시오. 

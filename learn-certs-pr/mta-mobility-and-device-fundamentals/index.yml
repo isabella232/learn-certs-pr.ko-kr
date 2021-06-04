@@ -6,6 +6,8 @@ metadata:
 uid: certification.mta-mobility-and-device-fundamentals
 iconUrl: /media/learn/certification/badges/mta-badge.svg
 summary: |-
+  <div><font color='red'><strong>이 MTA 인증은 2022년 6월 30일 종료됩니다. 관련 시험은 반드시 2021년 6월 30일까지 구매해야하고, 2022년 6월 30일까지 반드시 1년 이내에 응시해야합니다. 자세한 내용은 <a href="/learn/certifications/mta-retirement-faqs">FAQ</a> 를 참고하십시오.</strong></font></br></br></div>
+
   MTA 인증은 기술 분야 커리어를 시작하고자 하는 분에게 적합합니다. MTA 인증은 광범위한 기본 기술 개념을 다루며, 핵심 기술 지식을 평가 검증하고 기술적 능력에 관한 신뢰도를 상승시킵니다. 참고&#58; MTA 시험은 MCP 인증과 연계되지 않으며 MCSA 또는 MCSD 인증과도 연계되지 않습니다.
 subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분에게 적합합니다. MTA 인증은 광범위한 기본 기술 개념을 다루며, 핵심 기술 지식을 평가 검증하고 기술적 능력에 관한 신뢰도를 상승시킵니다. 참고: MTA 시험은 MCP 인증과 연계되지 않으며 MCSA 또는 MCSD 인증과도 연계되지 않습니다.'
 levels:
@@ -17,17 +19,15 @@ roles:
 type: mta
 products:
 - windows
-courses:
-- uid: course.40368
 exams:
 - uid: exam.98-368
 resources:
 - title: 교육 및 인증 가이드
   description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 행사 내용을 확인하세요.
   href: ../deals.md

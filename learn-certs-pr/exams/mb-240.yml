@@ -6,9 +6,7 @@ metadata:
 uid: exam.mb-240
 displayName: MB-240
 summary: |-
-  <div>
-  <div><strong>이 시험의 내용은 2021년 1월 15일 업데이트 되었습니다. 변경된 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 4월 26일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
   
   이 시험의 응시자들은 현장 서비스 전문지식을 갖춘 Microsoft Dynamics 365 Customer Engagement 기능 컨설턴트입니다. 응시자들은 현장 서비스 수명주기를 완료하는 리스소를 관리하는 솔루션을 구현 할 책임이 있습니다.
   
@@ -18,14 +16,14 @@ summary: |-
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 현장 서비스 애플리케이션 구성; 작업 오더 관리; 작업 오더 일정잡기 및 발송; 현장 서비스 이동성 관리; 재고 및 구매 관리; Connected Field Service 구현.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
-practiceTestUrl: https://in.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/mb-240-microsoft-dynamics-365-field-service-microsoft-official-practice-test/p/MU-MB-240?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-240&examname=Exam%20MB-240:%20Microsoft%20Dynamics%20365%20for%20Field%20Service&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-240
 locales:
 - en
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 1월 15일 업데이트 되었습니다. 변경된 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 4월 26일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 현장 서비스 애플리케이션 구성 (15-20%)
 - 작업 주문 관리하기 (15-20%)
 - 작업 오더 일정잡기 및 발송 (25-30%)
@@ -53,7 +51,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
