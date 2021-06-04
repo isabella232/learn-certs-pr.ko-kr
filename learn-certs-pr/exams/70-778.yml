@@ -6,15 +6,12 @@ metadata:
 uid: exam.70-778
 displayName: 70-778
 summary: |-
-  <div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   이 시험의 응시자는 Power BI를 사용하여 데이터 분석을 수행하는 방법을 잘 알고 있어야 합니다. 응시자는 데이터 소스에 연결하고 데이터 변환을 수행하고, Microsoft Power BI Desktop을 사용하여 데이터를 모델링하고 시각화하며, Power BI 서비스를 사용하여 대시 보드를 구성하는 데 능숙해야 합니다. 응시자는 Microsoft SQL Azure 및 SQL Server Analysis Services (SSAS)에 직접 연결을 수행하고 Microsoft Excel에서 데이터 분석을 구현하는 데 능숙해야 합니다. 응시자는 BI 전문가, 데이터 분석가 및 Power BI를 사용하여 보고서를 생성할 책임이 있는 기타 담당자들을 포함할 수 있습니다.
 subTitle: 이 시험의 응시자는 Power BI를 사용하여 데이터 분석을 수행하는 방법을 잘 알고 있어야 합니다. 응시자는 데이터 소스에 연결하고 데이터 변환을 수행하고, Microsoft Power BI Desktop을 사용하여 데이터를 모델링하고 시각화하며, Power BI 서비스를 사용하여 대시 보드를 구성하는 데 능숙해야 합니다. 응시자는 Microsoft SQL Azure 및 SQL Server Analysis Services (SSAS)에 직접 연결을 수행하고 Microsoft Excel에서 데이터 분석을 구현하는 데 능숙해야 합니다. 응시자는 BI 전문가, 데이터 분석가 및 Power BI를 사용하여 보고서를 생성할 책임이 있는 기타 담당자들을 포함할 수 있습니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tnJB
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=778&examname=Analyzing%20and%20Visualizing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-778
 locales:
 - en
 levels:
@@ -23,6 +20,7 @@ skills:
 - Power BI Desktop을 사용한 데이터 소비 및 변환 (20-25%)
 - 데이터 모델링 및 시각화 (45-50%)
 - Power BI 서비스에서 대시보드, 보고서 및 앱 구성 (25-35%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

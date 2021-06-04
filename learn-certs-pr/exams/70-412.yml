@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-412
 displayName: 70-412
 summary: |-
-  <div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   본 시험은 엔터프라이즈 환경에서 핵심 Windows Server 2012 인프라를 관리하는 데 필요한 기술 및 지식을 테스트하는 총 3부의 시험 중 3부입니다. 이 시험에 합격하면 응시자가 내결함성, 인증서 서비스 및 ID 페더레이션 같은 Windows Server 2012 인프라의 배포, 관리 및 유지 관리에 필요한 고급 구성 작업을 수행할 수 있음을 입증받게 됩니다. 이 시험 외에 다른 두 가지 시험에도 합격하면 응시자가 Windows Server 2012 환경에서 서비스 및 인프라를 구현하고, 관리하고, 유지 관리하며 프로비전하는 데 필요한 기술 및 지식을 보유하고 있음을 확인받게 됩니다.
 
@@ -17,7 +15,6 @@ subTitle: 본 시험은 엔터프라이즈 환경에서 핵심 Windows Server 20
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tixW
 practiceTestUrl: https://www.mindhub.com/70-412-Configuring-Advanced-Windows-Server-2012-Se-p/mu-70-412_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=412&examname=Configuring%20Advanced%20Windows%20Server%202012%20Services&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-412
 locales:
 - en
 - zh-cn
@@ -34,6 +31,7 @@ skills:
 - 네트워크 서비스 구성
 - Active Directory 인프라 구성
 - 액세스 및 정보 보호 솔루션 구성
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

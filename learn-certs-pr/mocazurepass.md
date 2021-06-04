@@ -104,6 +104,7 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - MB-400T00 Microsoft Power Apps + Dynamics 365 Developer
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 Building applications and solutions with Microsoft 365 core services
+- PL-400T00 Microsoft Power Platform Developer
 - WS-050T00 Migrating Application Workloads to Azure
 
 참고: 본 목록은 변경될 수 있으며 새 버전 또는 과정이 출시되고 이전 버전 및 과정이 만료됨에 따라 제목이 이 목록에 추가되거나 제거될 수 있습니다.

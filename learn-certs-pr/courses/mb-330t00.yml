@@ -5,7 +5,7 @@ metadata:
   description: 'Course MB-330T00-A: Microsoft Dynamics 365 Supply Chain Management'
 uid: course.mb-330t00
 courseNumber: 'MB-330T00-A'
-hoursToComplete: 96
+hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
 - skill: 가장 중요한 Dynamics 365 Supply Chain Management 기능 구성.

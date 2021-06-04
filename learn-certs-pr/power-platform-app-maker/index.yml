@@ -6,7 +6,7 @@ metadata:
 uid: certification.power-platform-app-maker
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  솔루션 도메인에 대한 심도 있는 전문 지식을 갖춘 비즈니스 전문가이고 Microsoft Power Platform 솔루션 구축에 대한 열정을 활용하여 팀의 작업과 프로세스를 단순화, 자동화 및 변환하기를 원한다면, 이 인증은 귀하를 위해 디자인 되었습니다. 데이터 모델링, 기본 UX 디자인, 요구사항 분석 및 프로세스 분석과 같은 주요 기술 비즈니스 분석가 작업을 해내기 위한 기술이 있어야만 합니다.
+  솔루션 도메인에 대한 깊은 지식을 가지고 있는 비즈니스 전문가이고 귀하의 팀을 위해 작업 및 프로세스를 단순화, 자동화 및 변환하기 위해 Microsoft Power Platform 솔루션을 구축할 열정이 있다면, 이 인증은 귀하를 위해 디자인 되었습니다. 데이터 모델링, 기본 UX 디자인, 요구사항 분석 및 프로세스 분석과 같은 주요 기술 비즈니스 분석가 작업을 수행할 수 있는 기술이 있어야합니다.  
   
   자기 주도적이고 해결 중심적이라면, 앱 제작자 프로필에 적합하고, Microsoft Power Platform의 제작 도구로 작업하여 비즈니스 문제를 해결합니다. Visual Basic for Applications, Excel PivotTables, Teams 및 기타 도구에 대한 경험이 있을 수 있습니다. 공식적인 IT 교육을 받지 않았더라도, 비즈니스 문제를 해결하기 위해 기술을 사용하여 IT 관리자들과 Microsoft Power Platform 개발자들과 편안하게 작업합니다. 귀하는 다음의 책무가 있습니다&#58;
   - 앱 디자인 및 생성 그리고 업무 흐름 자동화.
@@ -90,7 +90,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CfjG
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증서 학습 경로
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CkBF

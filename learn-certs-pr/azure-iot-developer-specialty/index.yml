@@ -2,27 +2,25 @@
 title: 'Microsoft Certified: Azure IoT Developer Specialty'
 metadata:
   title: 'Microsoft Certified: Azure IoT Developer Specialty'
-  description: Azure IoT Developers는 Azure IoT 솔루션의 클라우드 및 에지 구성요소를 개발합니다.
+  description: Azure IoT 개발자들은 구성을 구현하고 IoT 솔루션의 colud와 에지 부분을 만들고 유지하는데 필요한 코딩 작업을 수행합니다. 
 uid: certification.azure-iot-developer-specialty
 iconUrl: /media/learn/certification/badges/microsoft-certified-specialty-badge.svg
 summary: |-
-  Azure IoT Developer Specialty 인증을 위한 응시자는 Azure IoT 솔루션의 클라우드 및 에지 구성요소를 개발하는 실무 전문 지식을 갖추어야 합니다.
-
-  본 역할은 클라우드 서비스 및 기타 도구을 사용하여 설정, 구성 및 유지 보수와 같은 디바이스 수명 주기를 관리하는 업무를 담당합니다. 디바이스 토폴로지, 연결, 디버깅, 보안 등의 Azure IoT 솔루션과 IoT 관련 데이터 파이프라인을 관리, 모니터 및 변환하는 솔루션을 구현합니다. 또한 Azure IoT Edge 구성 요소를 배포하고 Edge에 디바이스 네트워킹을 구성합니다.
-
-  IoT 개발자는 데이터 엔지니어 및 다른 이해 관계자와 협업하여 성공적인 비즈니스 통합을 보장합니다.
-
-  본 인증의 응시자는 데이터 스토리지 옵션, 데이터 분석, 데이터 처리 및 서비스로서의 플랫폼(Platform-as-a-Service) 옵션을 포함하여 IoT 솔루션을 구성하는 Azure 서비스를 구현한 경험이 있어야 합니다. 또한 본 역할은 IoT 솔루션의 코드 부분 내에서 Azure IoT 서비스 구성 설정을 인식하고 C#, Node, C 또는 Python을 비롯한 하나 이상의 Azure 지원 언어로 특정 IoT 코딩 작업을 수행할 수 있어야 합니다.
+  Azure IoT 개발자는 구성을 구현하고 IoT 솔루션의 could와 에지 부분을 만들고 유지하는데 필요한 코딩 작업을 수행합니다. cloud 서비스를 사용하여 장치를 구성하고 유지 관리하는 것 외에도, IoT 개발자는 물리적 장치 설정도합니다. IoT 개발자는 수명 수기 전체에 걸쳐 장치의 구성에 대한 유지 및 문제 해결에 대한 책임이 있습니다.
+  
+  IoT 개발자는 장치 토폴로지, 연결, 진단 및 모니터링 그리고 보안을 포함하여 IoT 솔루션에 대한 디자인 사양을 구현합니다. IoT 개발자는 모듈을 개발하고 배포하며 솔루션의 IoT Edge 부분에 대한 장치 네드워킹을 구성합니다. IoT 개발자는 모니터링 및 IoT와 관련된 데이터 변환을 포함하여, 데이터 파이프라인을 관리하는 솔루션에 대한 디자인을 구현합니다. IoT 개발자는 성공적인 비즈니스 통합을 위해 Azure IoT 아키텍트, 데이터 엔지니어들 및 기타 이해 관계자들과 협력합니다.
+  
+  IoT 개발자들은 데이터 저장 옵션, 데이터 분석, 데이터 처리, AI 및 기타 서비스형 플랫폼 옵션을 포함하여 장치 유형 및 Azure 서비스에 대한 일반적인 이해가 있어야합니다. IoT 개발자들은 반드시 최소한 하나의 Azure IoT SDK- 지원 언어로 프로그밍 할 수 있어야만 합니다. 
 subTitle: Azure IoT Developers는 Azure IoT 솔루션의 클라우드 및 에지 구성요소를 개발합니다.
 levels:
 - intermediate
 skills:
-- IoT 솔루션 인프라 구현
-- 장치 프로비저닝 및 관리
-- Edge 구현
-- 데이터 처리 및 관리
+- IoT 솔루션 인프라 설정 
+- 장치 제공 및 관리 
+- IoT Edge 구현
+- 비즈니스 통합 구현 
+- 데이터 처리 및 관리 
 - IoT 솔루션 모니터링, 문제 해결 및 최적화
-- 보안 구현
 roles:
 - developer
 type: specialty
@@ -37,6 +35,7 @@ paths:
 - uid: learn.securely-connect-iot-devices-to-cloud
 - uid: learn.build-intelligent-edge-with-azure-iot-edge
 - uid: learn-develop-solutions-with-azure-iot-central
+- uid: learn.azure.develop-azure-digital-twins
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nw1V
 exams:
 - uid: exam.az-220
@@ -49,10 +48,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: Exam Replay
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md

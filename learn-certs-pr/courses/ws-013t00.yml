@@ -96,7 +96,6 @@ outlineSection: |-
   - Storage Replica에 대한 계획 및 구현
 
   #### 랩&#58; Storage Spaces Direct 클러스터 구현
-  - Window Admin Center를 이용하여 Storage Spaces Direct 클러스터 구현
   - Window PowerShell을 이용하여 Storage Spaced Direct 클러스터 구현
   - Window Admin Center 및 Window PowerShell을 이용하여 Storage Spaces Direct 클러스터 관리
   - Storage Spaces Direct 클러스터에 대한 복원력 관리 및 모니터링

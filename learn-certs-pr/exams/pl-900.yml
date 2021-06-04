@@ -6,8 +6,7 @@ metadata:
 uid: exam.pl-900
 displayName: PL-900
 summary: |-
-  <div>
-  <div><strong>본 시험 내용은 2020년 7년 13월 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><div><font color='red'><strong>이 시험의 내용은 2021년 3월 10일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
   </div>
 
   본 시험의 응시자는 Power Platform 기능 이해, Power Automatic으로 기본 비즈니스 프로세스 자동화, Power BI를 통한 기본 데이터 분석을 수행하고, 단순한 Power Apps 경험을 생성하여 보다 효과적으로 작업, Power Virtual Agents를 사용하여 강력한 챗봇 작성을 통하여 생산성 향상을 열망합니다.
@@ -35,7 +34,7 @@ providers:
 levels:
 - beginner
 skills:
-- 본 시험 내용은 2020년 7년 13월 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
+- 이 시험의 내용은 2021년 3월 10일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Power Platform의 비즈니스 가치 설명 (15-20%)
 - Power Platform의 핵심 구성요소 식별 (15-20%)
 - Power BI의 기능 입증 (15-20%)
@@ -61,7 +60,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C7Gn
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

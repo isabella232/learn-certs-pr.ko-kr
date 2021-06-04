@@ -7,7 +7,7 @@ uid: exam.az-120
 displayName: AZ-120
 summary: |-
   <div>
-  <div><strong>이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 5월 28일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
   </div>
 
   본 시험의 응시자는 Microsoft Azure에서 SAP 솔루션의 장기간 운영과 관련된 SAP 시스템 환경 및 업계 표준에 대한 폭넓은 경험과 지식을 갖춘 설계자 또는 엔지니어입니다.
@@ -31,7 +31,7 @@ locales:
 levels:
 - advanced
 skills:
-- 이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 시험 기술 개요를 다운로드 받으세요.
+- 이 시험의 내용은 2021년 5월 28일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - SAP 워크로드를 Azure로 마이그레이션 (10-15%)
 - SAP 워크로드를 지원하는 Azure 솔루션 설계 (20-25%)
 - SAP 워크로드용 Azure 구축 및 배포 (35-40%)
@@ -58,10 +58,10 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AOMr
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 시험 재응시
   description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
   href: ../deals.md

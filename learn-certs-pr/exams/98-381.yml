@@ -6,6 +6,8 @@ metadata:
 uid: exam.98-381
 displayName: 98-381
 summary: |-
+  <div><font color='red'><strong>이 MTA 시험은 반드시 2021년 6월 30일까지 구매해야 합니다. 현재 이 시험을 위해 공부중인 경우, 시험이 종료되는 2022년 6월 30일까지, 반드시1년 이내에 응시해야 합니다. 자세한 내용은 <a href="/learn/certifications/mta-retirement-faqs"> FAQ</a> 를 참조하십시오.</strong></font></br></br></div>
+
   이 시험의 응시자는 구문론적으로 올바른 Python 코드를 인식하고 작성하고, Python에서 지원하는 데이터 유형을 인식하며, 주어진 문제를 논리적으로 해결 가능한 Python 코드를 인식하고 작성할 수 있어야 합니다.
 
   응시자는 최소한 Python 프로그래밍 언어로 약 100시간의 교육 또는 실습 경험이 있어야 하며, Python의 기능을 숙지하여 올바른 형식을 갖추고 문서화 된 Python 코드를 작성, 디버그 및 유지 방법을 알아야 합니다.
@@ -37,12 +39,11 @@ skills:
 - 코드 문서화 및 구조화 (15-20%)
 - 문제 해결 및 오류 처리 수행 (5-10%)
 - 모듈 및 툴을 사용한 작업 수행 (1-5%)
+retirementDate: 06/30/2022
 roles:
 - developer
 products:
 - vs
-courses:
-- uid: course.55264
 relatedCertifications:
 - related:
     uid: certification.mta-introduction-to-programming-using-python

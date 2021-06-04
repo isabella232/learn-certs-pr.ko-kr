@@ -6,9 +6,7 @@ metadata:
 uid: exam.da-100
 displayName: DA-100
 summary: |-
-  <div>
-  <div><strong>이 시험의 내용은 2021년 1월 27일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
-  </div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 5월 25일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
 
   데이터 분석가는 기업이 Microsoft Power BI를 사용하여 데이터 자산 가치를 극대화하도록 합니다. 실무 전문가인 데이터 분석가는 확장성 있는 데이터 모델 설계 및 구축, 데이터 정리 및 변환, 이해하기 쉬운 데이터 시각화로 의미있는 비즈니스 가치를 제공하는 고급 분석 기능의 활성화를 담당합니다. 데이터 분석가는 수직 시장의 주요 비즈니스 이해 관계자와 협력하여 식별된 비즈니스 요구 사항에 따라 관련 정보를 제공합니다.
   <br/>
@@ -17,7 +15,7 @@ summary: |-
 subTitle: '본 시험은 데이터 준비, 데이터 모델링, 데이터 시각화, 데이터 분석 및 결과물 배포 및 유지 관리와 같은 기술 과제를 수행할 수 있는 능력을 측정합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qlRu
-practiceTestUrl: https://in.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+practiceTestUrl: https://www.mindhub.com/da-100-analyzing-data-with-microsoft-power-bi-microsoft-official-practice-test/p/MU-DA-100?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
 - providerType: pearson-vue
   examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DA-100&examname=Exam%20DA-100:%20Analyzing%20Data%20with%20Microsoft%20Power%20BI&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fda-100
@@ -31,7 +29,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 1월 27일 업데이트됩니다. 변경되는 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 5월 25일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 데이터 준비 (20-25%)
 - 데이터 모델링 (25-30%)
 - 데이터 시각화 (20-25%)
@@ -59,7 +57,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4AzbJ
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증 포스터
   description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL

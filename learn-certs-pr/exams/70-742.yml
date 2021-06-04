@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-742
 displayName: 70-742
 summary: |-
-  <div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   본 시험은 Windows Server 2016의 기능을 사용하여 ID를 관리하는 능력을 측정합니다. 응시자는 AD DS (Active Directory 도메인 서비스)를 설치, 구성, 관리 및 유지 관리하고 GPO(그룹 정책 개체)를 구현하여야 합니다.
 
@@ -19,7 +17,6 @@ subTitle: 본 시험은 Windows Server 2016의 기능을 사용하여 ID를 관�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tp1l
 practiceTestUrl: https://www.mindhub.com/70-742-Identity-with-Windows-Server-2016-Microsoft-p/mu-70-742_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=742&examname=Identity%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-742
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - 그룹 정책 만들기 및 관리(25-30%)
 - AD CS(Active Directory 인증서 서비스) 구현(10-15%)
 - ID 페더레이션 및 액세스 솔루션 구현(15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

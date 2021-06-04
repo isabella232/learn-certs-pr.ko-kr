@@ -1,0 +1,351 @@
+### YamlMime:Course
+title: Data Engineering on Microsoft Azure
+metadata:
+  title: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
+  description: 'Course DP-203T00-A: Data Engineering on Microsoft Azure'
+  iltScheduling: true
+uid: course.dp-203t00
+courseNumber: 'DP-203T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure의 데이터 엔지니어링 워크로드에 대한 컴퓨팅 및 저장소 옵션 살펴보기
+- skill: 서빙 레이어 디자인 및 구현
+- skill: 데이터 엔지니어링 고려 사항 이해
+- skill: 서버리스 SQL 풀을 사용하여 대화형 쿼리 실행 
+- skill: Apache Spark를 사용하여 데이터 탐색, 변환 및 데이터 웨어하우스로 로드
+- skill: Azure Databricks에서 데이터 탐색 및 변환 수행
+- skill: 데이터를 데이터 웨어하우스로 수집 및 로드 
+- skill: Azure Data Factory 또는 Azure Synapse Pipelines로 데이터 변환
+- skill: 노트북의 데이터를 Azure Data Factory 또는 Azure Synapse Pipelines와 통합
+- skill: Azure Synapse의 전용 SQL 풀로 쿼리 성능 최적화 
+- skill: 데이터 웨어하우스 저장소 분석 및 최적화
+- skill: Azure Synapse Link로 하이브리드 트랜젝션 분석 처리 (HTAP) 지원
+- skill: Azure Synapse Analytics으로 종단간 보안 수행
+- skill: Stream Analytics로 실시간 스트리밍 처리 수행
+- skill: Event Hubs와 Azure 데이터브릭으로 스트리밍 처리 솔루션 만들기
+- skill: Power BI와 Azure Synapse Analytics의 통합을 사용하여 보고서 빌드
+- skill: Azure Synapse Analytics에서 통합 기계 학습 프로세스 수행
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- data-engineer
+products:
+- azure-data-factory
+- azure-synapse-analytics
+- azure-stream-analytics
+- azure-event-hubs
+- azure-data-lake
+- azure-databricks
+exams:
+- uid: exam.dp-203
+summary: |-
+  이 과정에서, 학생들은 Azure 데이터 플랫폼 기술을 사용하는 일괄 및 실시간 분석 솔루션 작업과 관련이 있는 데이터 엔지니어링 패턴 및 사례에 대해서 배우게 됩니다. 학생들은 분석 솔루션을 구축하는데 사용되는 핵심 컴퓨팅 및 저장소 기술을 이해하는 것으로 시작합니다. 그런 다음 분석 제공 레이어를 디자인하는 방법을 살펴보고 소스 파일과 작업하기 위한 데이터 엔지니어링 고려 사항에 중점을 둡니다. 학생들은 데이터 레이크의 파일에 저장된 데이터를 대화식으로 살펴보는 방법을 배웁니다. Azure Synapse Analytics 또는 Azure Databricks에 있는 Apache Spark 기능을 사용하여 데이터를 로드하는데 사용될 수 있는 다양한 수집 기술이나,  Azure Data Factory 또는 Azure Synapse 파이프라인을 사용하여 수집하는 방법을 배웁니다. 또한 학생들은 데이터를 수집하는 데 사용되는 것과 동일한 기술을 사용하여 데이터 변환 할 수 있는 다양한 방법을 배웁니다. 학생은 데이터 로드나, 시스템에 대해 실행되는 쿼리의 성능을 최적화할 수 있도록 분석 시스템의 성능을 모니터링하고 분석하는 방법을 배우는 과정에 시간을 보냅니다. 데이터가 휴식 또는 전송 중에 보호되도록 보안 구현의 중요성을 이해하게됩니다. 그런 다음 학생은 분석 시스템의 데이터를 사용하여 대시 보드를 만들거나, Azure Synapse Analytics에서 예측 모델을 구축하는 방법을 보여줍니다. 
+
+  #### 구독자 프로필
+  이 과정의 주요 대상은 데이터 엔지니어링에 대해 배우고 Microsoft Azure에 존재하는 데이터 플랫폼 기술을 사용하여 분석 솔루션을 구축하는 것을 배우려는 데이터 전문가, 데이터 아키텍트 및 비즈니스 인텔리전스 전문가입니다. 이 과정의 부차적인 대상은 Microsoft Azure에 구축 된 분석 솔루션으로 작업하는 데이터 분석가 및 데이터 과학자 입니다. 
+prerequisitesSection: |-
+  성공적인 학생들은 cloud 컴퓨팅 및 데이터 개념에 대한 지식과 핵심 데이터 개념 및 데이터 솔루션에 대한 전문적 경험을 바탕으로 이 과정을 시작합니다.
+  
+  구체적으로 완료&#58;
+  
+  - AZ-900 - Azure Fundamentals
+  - DP-900 - Microsoft Azure Data Fundamentals
+outlineSection: |-
+  ### 모듈 1&#58; 데이터 엔지니어링 워크로드에 대한 컴퓨팅 및 저장 옵션 살펴보기 
+  이 모듈은 분석 워크로드를 구축하는 데이터 엔지니어가 사용할 수 있는 Azure 컴퓨팅 및 저장 기술 옵션애 대한 개요를 제공합니다. 이 모듈은 데이터 레이크를 조직하는 방법과 탐색, 스트리밍 및 일관 워크로드에 대한 파일을 최적화하는 방법을 알려줍니다. 학생은 일괄 처리 및 스트리밍 처리를 통해 파일을 변환할 때 데이터 레이크를 데이터 개선 수준으로 조직하는 방법을 배웁니다. 그런 다음 CSV, JSON, 및 Parquet 파일과 같은 데이터세트에 인덱스를 만들고 잠재적인 쿼리와 워크로드 가속화에 사용하는 방법을 배웁니다.  
+  #### 레슨
+  - Azure Synapse Analytics 소개
+  - Azure Databricks 설명
+  - Azure Data Lake 저장소 소개
+  - Delta Lake 아키텍처 설명
+  - Azure Stream Analytics를 사용하여 데이터 스트리밍 작업
+
+  #### 랩 &#58; 데이터 엔지니어링 워크로드를 위한 대한 컴퓨팅 및 저장소 옵션 살펴보기
+  - 스트리밍 및 일괄 처리를 단일 파이프라인과 결합
+  - 데이터 레이크를 파일 변환 수준으로 체계화
+  - 쿼리 및 워크로드 가속화를 위한 인덱스 데이터 레이크 저장소
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics 설명
+  - Azure Databricks 설명
+  - Azure Data Lake 저장소 설명
+  - Delta Lake 아키텍처 설명
+  - Azure Stream Analytics 설명
+  
+  
+  ### 모듈 2&#58; 서빙 레이어 디자인 및 구현 
+  이 모듈은 최신 데이터 웨어하우스에서 데이터 저장소를 디자인 및 구현하여 분석 워크 로드를 최적화하는 방법을 알려줍니다. 학생은 팩트 및 차원 데이터를 저장하기 위해 다차원 스키마를 디자인하는 방법을 배우게 됩니다. 그런 다음 Azure Data Factory에서 증분 데이터 로딩을 통해 천천히 변화하는 차원을 채우는 방법을 배웁니다.
+  #### 레슨
+  - 분석 워크 로드를 최적화하기 위한 다차원 스키마 디자인 
+  - Azure Data Factory를 이용한 대규모 코드없는 변환
+  - Azure Synapse Analytics 파이프라인에서 느리게 변화하는 차원 채우기
+  
+  #### 랩 &#58; 서빙 레이어 디자인 및 구현하기 
+  - 분석 워크 로드를 위한 스타 스키마 디자인 
+  - Azure Data Factory와 매핑 데이터 흐름으로 천천히 변화하는 차원 채우기
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 분석 워크 로드를 위한 스타 스키마 디자인 
+  - Azure Data Factory와 매핑 데이터 흐름으로 천천히 변화하는 차원 채우기
+  
+  
+  ### 모듈 3&#58; 소스 파일을 위한 데이터 엔지니어링 고려 사항 
+  이 모듈은 Azure Data Lake에 저장된 파일에서 최신 데이터 웨어하우스 분석으로 데이터를 로딩할 때 일반적인 데이터 엔지니어링 고려 사항 및, 데이터 레이크에 저장된 파일을 저장하는 것과 관련된 보안 고려 사항을 이해하는 것을 살펴 봅니다. 
+  #### 레슨
+  - Azure Synapse Analytics를 사용하여 최신 데이터 웨어하우스 디자인 
+  - Azure Synapse Analytics에서 데이터 웨어하우스 보안 
+  
+  #### 랩 &#58; 데이터 엔지니어링 고려 사항 
+  - Azure 데이터 레이크에서 파일 관리하기 
+  - Azure 데이터 레이크에 저장된 파일 보안하기 
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics를 사용하여 최신 데이터 웨어하우스 디자인 
+  - Azure Synapse Analytics에서 데이터 웨어하우스 보안 
+  
+  
+  ### 모듈 4&#58; Azure Synapse Analytics 서버리스 SQL 풀을 사용하여 대화형 쿼리 실행
+  이 모듈에서, 학생들은 Azure Synapse Analytics의 서버리스 SQL 풀에 의해 실행되는 T-SQL 문을 통해, 데이터 레이크 및 외부 파일 소스에 저장된 파일로 작업하는 배웁니다. 학생들은 데이터 레이크에 저장된 파케이 파일과, 외부 데이터 저장소에 저장된 CSV 파일을 쿼리합니다. 다음으로 Azure Active Directory 보안 그룹을 만들고 역할-기반 접근 제어 (RBAC) 및 접근 제어 목록 (ACLs)을 통해 데이터 레이크의 파일에 대한 접근을 실행합니다.
+  #### 레슨
+  - Azure Synapse 서버리스 SQL 풀 기능 살펴보기
+  - Azure 시냅스 서버리스 SQL 풀을 사용하여 레이크에서 데이터 뭐리
+  - Azure Synapse 서버리스 SQL 풀에서 메타 데이터 개체 만들기
+  - Azure Synapse 서버리스 SQL 풀에서 데이터 보안 및 사용자 관리
+  
+  #### 랩 &#58; 서버리스 SQL 풀을 사용하여 대화형 쿼리 실행
+  - 서버리스 SQL 풀로 파케이 데이터 쿼리
+  -파케이 및 CSV 파일을 위한 외부 테이블 만들기
+  - 서버리스 SQL 풀로 보기 만들기
+  - 서버리스 SQL 풀을 사용할 때 데이터 레이크에서 데이터에 대한 접근 보안  
+  - 역할-기반 제어 (RBAC) 및 접근 제어 목록을 사용하여 데이터 레이크 보안 구성
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse 서버리스 SQL 풀 기능 이해
+  - Azure Synapse 서버리스 SQL 풀을 사용하여 레이크에서 데이터 쿼리
+  - Azure Synapse 서버리스 SQL 풀에서 메타 데이터 개체 만들기
+  - Azure Synapse 서버리스 SQL 풀에서 데이터 보안 및 사용자 관리
+  
+  
+  ### 모듈 5&#58; Apache Spark를 사용하여 데이터 탐색, 변환 및 데이터 웨어하우스로 로드
+  이 모듈은 데이터 레이크에 저장된 데이터를 살펴보고, 데이터를 변환하고, 관계형 데이터 저장소에 데이터를 로드하는 방법을 알려줍니다. 학생은 Parquet 및 JSON 파일을 살펴보고 기술을 사용하여 계층 구조로 JSON 파일을 쿼리하고 변환합니다. 그런 다음 학생은 Apache Spark를 사용하여 데이터 웨어하우스로 데이터를 로드하고 데이터 레이크의 Parquet 데이터를 전용 SQL 풀의 데이터와 결합합니다. 
+  #### 레슨
+  - Azure Synapse Analytics에서 Apache Spark를 사용하여 빅 데이터 엔지니어링 이해
+  - Azure Synapse 분석에서 Apache Spark 노트북으로 데이터 수집 
+  - Azure Synapse Analytics의 Apache Spark 풀에서 DataFrames으로 데이터 변환
+  - Azure Synapse Analytics에서 SQL 및 Apache Spark 풀 통합 
+  
+  #### 랩 &#58; Apache Spark를 사용하여 데이터 탐색, 변환 및 데이터 웨어하우스로 로드
+  - Synapse Studio에서 데이터 탐색 수행
+  - Azure Synapse Analytics에서 Spark 노트북으로 데이터 수집
+  - Azure Synapse Analytics의 Spark 풀에서 데이터프레임으로 데이터 변환
+  - Azure Synapse Analytics에서 SQL 및 Spark 통합
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics에서 Apache Spark으로 빅 데이터 엔지니어링 설명
+  - Azure Synapse Analytics에서 Apache Spark 노트북으로 데이터 수집 
+  - Azure Synapse Analytics의 Apache Spark 풀에서 데이터프레임으로 데이터 변환
+  - Azure Synapse Analytics에서 SQL 및 Apache Spark 풀 통합
+  
+  
+  ### 모듈 6&#58; Azure Databricks에서 데이터 탐색 및 변환
+  이 모듈은 다양한 Apache Spark DataFrame 방법을 사용하여 Azure Databricks에서 데이터를 탐색하고 변환하는 방법을 알려줍니다. 학생은 표준 DataFrame 방법을 수행하여 데이터를 탐색하고 변환하는 방법을 배웁니다. 또한 중복 데이터 제거, 날짜/ 시간 값 조작, 열 이름 변경 및 데이터 집계와 같은 고급 작업을 수행하는 방법을 배웁니다. 
+  #### 레슨
+  - Azure Databricks 설명
+  - Azure Databricks에서 데이터 읽고 쓰기
+  - Azure Databricks에서 DataFrames으로 작업
+  - Azure Databricks에서 DataFrames 고급 방법으로 작업
+  
+  #### 랩 &#58; Azure Databricks에서 데이터 탐색 및 변환
+  - Azure Databricks의 DataFrames를 사용하여 데이터 탐색 및 필터링 
+  - 더 빠른 후속 쿼리를 위해 DataFrame 캐시
+  - 중복 데이터 제거
+  - 날짜/ 시간 값 조작
+  - DataFrame 열 제거 및 이름 변경
+  - DataFrame에 저장된 데이터 집계
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Databricks 설명
+  - Azure Databricks에서 데이터 읽고 쓰기
+  - Azure Databricks에서 DataFrames으로 작업
+  - Azure Databricks에서 DataFrames 고급 방법으로 작업
+  
+  
+  ### 모듈 7&#58; 데이터 웨어하우스로 데이터 수집 및 로드 
+  이 모듈은 학생들에게 T-SQL 스크립트 및 Synapse Analytics 통합 파이프라인을 통해 데이터 웨어하우스로 데이터를 수집하는 방법을 알려줍니다. 학생은 T-SQL을 사용하여 PolyBase와 COPY로 Synapse 전용 SQL 풀에 데이터를 로드하는 방법을 배웁니다. 학생은 또한 페타바이트-규모의 데이터 수집을 위해 Azure Synapse 파이프라인에서 Copy 활동과 함께 워크 로드 관리를 사용하는 방법도 배웁니다. 
+  #### 레슨
+  - Azure Synapse Analytics에서 데이터 로딩 모범 사례 사용
+  - Azure Data Factory로 페타바이트-규모 수집
+  
+  #### 랩 &#58; 데이터 웨어하우스로 데이터 수집 및 로드 
+  - Azure Synapse Pipelines로 페타바이트-규모 수집 수행
+  - T-SQL을 사용하여 PolyBase와 COPY로 데이터 가져오기
+  - Azure Synapse Analytics에서 데이터 로딩 모범 사례 사용
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics에서 데이터 로드 모범 사례 사용
+  - Azure Data Factory로 페타바이트-규모 수집
+  
+  
+  ### 모듈 8&#58; Azure Data Factory 또는 Azure Synapse Pipelines로 데이터 변환
+  이 모듈은 학생들에게 데이터 통합 파이프 라인을 구축하여 여러 데이터 소스로부터 수집하고, 매핑 데이터 흐름을 사용하여 데이터를 변환하고, 하나 이상의 데이터 싱크로 데이터 이동을 수행하는 방법을 알려줍니다. 
+  #### 레슨
+  - Azure Data Factory 또는 Azure Synapse Pipelines으로 데이터 통합
+  - Azure Data Factory 또는 Azure Synapse Pipelines으로 규모에 맞는 코드없는 변환
+  
+  #### 랩 &#58; Azure Data Factory 또는 Azure Synapse Pipelines으로 데이터 변환
+  - Azure Synapse Pipelines으로 규모에 맞는 코드없는 변환 실행
+  - 형식이 잘못 된 CSV 파일을 가져오기 위한 데이터 파이프라인 만들기
+  - 매핑 데이터 흐름 만들기
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Data Factory와 데이터 통합 수행
+  - Azure Data Factory로 규모에 맞는 코드없는 변환 수행
+
+  ### 모듈 9&#58; Azure Synapse Pipelines에서 데이터 이동 및 변환 조정
+  이 모듈에서, 연결된 서비스를 만들고, Azure Synapse Pipelines에서 노트북을 사용하여 데이터 이동 및 변환을 조정하는 방법을 배웁니다.
+  #### 레슨
+  - Azure Data Factory에서 데이터 이동 및 변환 조정
+  
+  #### 랩 &#58; Azure Synapse Pipelines에서 데이터 이동 및 변환 조정
+  - 노트북의 데이터를 Azure Data Factory 또는 Azure Synapse Pipelines와  통합
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Pipelines에서 데이터 이동 및 변환 조정
+  
+  
+  ### 모듈 10&#58; Azure Synapse의 전용 SQL 풀로 쿼리 성능 최적화
+  이 모듈에서는, Azure Synapse Analytics에서 전용 SQL 풀을 사용할 때 데이터 저장 및 처리를 최적화하는 전략을 배우게 됩니다. 학생은 원도우 및 HyperLogLog 기능과 같은 개발자 기능을 사용하고, 데이터 로드 모범 사례를 사용하고, 쿼리 성능을 최적화 및 개선하는 방법을 알게 됩니다.
+  #### 레슨
+  - Azure Synapse Analytics에서 데이터 웨어하우스 쿼리 성능 최적화
+  - Azure Synapse Analytics의 데이터 웨어하우스 개발자 기능 이해
+  
+  #### 랩 &#58; Azure Synapse에서 전용 SQL 풀로 쿼리 성능 최적화
+  - Azure Synapse Analytics의 개발자 기능 이해
+  - Azure Synapse Analytics에서 데이터 웨어하우스 쿼리 성능 최적화
+  - 쿼리 성능 향상
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics에서 데이터 웨어하우스 쿼리 성능 최적화
+  - Azure Synapse Analytics의 데이터 웨어하우스 개발자 기능 이해
+  
+  
+  ### 모듈 11&#58; 데이터 웨어하우스 저장소 분석 및 최적화 
+  이 모듈에서, 학생들은 Azure Synapse 전용 SQL 풀의 데이터 저장소를 분석하고 최적화하는 방법을 배웁니다. 학생은 테이블 스페이스 사용 및 컬럼 저장 저장소 세부 사항을 이해하는 기술을 알게됩니다. 다음으로, 학생은 서로 다른 데이터 유형을 사용하는 동일한 테이블 간의 저장소 요구 사항을 비교하는 방법을 알게됩니다. 마지막으로, 학생은 복잡한 쿼리 대신 실행될 때 구체화 된 보기가 미치는 영향을 관찰하고 삭제 작업을 최적화하여 광범위한 로깅을 방지하는 방법을 배웁니다.
+  #### 레슨
+  - Azure Synapse Analytics에서 데이터 웨어하우스 저장소 분석 및 최적화
+  
+  #### 랩 &#58; 데이터 웨어하우스 저장소 분석 및 최적화 
+  - 왜곡 된 데이터 및 공간 사용량 확인 
+  - 열 저장 저장소 세부 사항 이해
+  - 구체화 된 보기의 영향 연구
+  - 최소한으로 기록 된 작업에 대한 규칙 탐색
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics에서 데이터 웨어하우스 저장소 분석 및 최적화
+  
+  
+  ### 모듈 12&#58; Azure Synapse Link로 Hybrid Transactional Analytical Processing (HTAP) 지원
+  이 모듈에서, 학생들은 Azure Synapse Link를 통해 Azure Cosmos DB 계정을 Synapse 작업 영역에 원할하게 연결하는 방법을 배웁니다. 학생은 Synapse 링크를 활성화하고 구성하는 방법을 이해한 다음 Apache Spark 및 SQL 서버리스를 사용하여 Azure Cosmos DB 분석 저장을 쿼리하는 방법 이해합니다. 
+  #### 레슨
+  - Azure Synapse Analytics를 사용하여 하리브리드 트랜잭션 및 분석 처리 디자인
+  - Azure Cosmos DB로 Azure Synapse Link 구성
+  - Apache Spark 풀로 Azure Cosmos DB 쿼리
+  - 서버리스 SQL 풀로 Azure Cosmos DB 쿼리
+  
+  #### 랩 &#58; Azure Synapse Link로 Hybrid Transactional Analytical Processing (HTAP) 지원
+  - Azure Cosmos DB로 Azure Synapse Link 구성
+  - Synapse 분석용 Apache Spark로 Azure Cosmos DB 쿼리
+  - Azure Synapse Analytics용 서버리스 SQL 풀로 Azure Cosmos DB 쿼리
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics를 사용하여 하이브리드 트랜잭션 및 분석 디자인
+  - Azure Cosmos DB로 Azure Synapse Link 구성
+  - Azure Synapse Analytics용 Apache Spark로  Azure Cosmos DB 쿼리
+  - Azure Synapse Analytics용 SQL 서버리스로 Azure Cosmos DB 쿼리 
+  
+  
+  ### 모듈 13&#58; Azure Synapse Analytics로 종단간 보안
+  이 모듈에서, 학생들은 시냅스 분석 작업 영역과 지원 인프라를 보안하는 방법을 배웁니다.  학생은 SQL Active Directory Admin를 관찰하고, IP 방화벽 규칙을 관리하고, Azure Key Vault로 기밀을 관리하고, Key Vault에 연결된 서비스 및 파이프라인 활동을 통해 해당 기밀에 접근합니다. 학생은 전용 SQL 풀을 사용할 때 열-수준 보안, 행-수준 보안, 및 동적 데이터 마스킹을 구현하는 방법을 이해하게 됩니다. 
+  #### 레슨
+  - Azure Synapse Analytics에서 데이터 웨어하우스 보안
+  - Azure Key Vault에서 기밀 구성 및 관리
+  - 민감한 데이터를 위한 규정 준수 제어 구현 
+  
+  #### 랩 &#58; Azure Synapse Analytics로 종단간 보안
+  - 인프라를 지원하는 Azure Synapse Analytics 보안
+  - Azure Synapse Analytics 작업 영역 및 관리 서비스 보안
+  - Azure Synapse Analytics 작업 영역 데이터 보안
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics에서 데이터 웨어하우스 보안
+  - Azure Key Vault에서 기밀 구성 및 관리
+  - 민감한 데이터에 대한 규정 준수 제어 구현
+  
+  
+  ### 모듈 14&#58; Stream Analytics으로 실시간 스크리밍 처리
+  이 모듈에서, 학생들은 Azure Stream Analytics으로 스트리밍 데이터를 처리하는 방법을 배우게 됩니다. 학생은 차량 원격 측정 데이터를 Event Hubs로 수집한 다음, Azure Stream Analytics의 다양한 윈도우 기능을 사용하여 해당 데이터를 실시간 처리합니다. Azure Synapse Analytics에 데이터를 출력합니다. 마지막으로, 학생은 처리량을 높이기 위해 스트리밍 분석 작업을 확장하는 방법을 배웁니다. 
+  #### 레슨
+  - Azure Event Hubs를 사용하여 Big Data 애플리케이션에 대한 안정적인 메세징 활성화
+  - Azure Stream Analytics를 사용하여 데이터 스트리밍 작업
+  - Azure Stream Analytics로 데이터 스트리밍 수집
+  
+  #### 랩 &#58; Stream Analytics로 실시간 스트리밍 처리
+  - Stream Analytics를 사용하여 Event Hubs로 부터 실시간 데이터 처리
+  - Stream Analytics 윈도우 기능을 사용하여 집계 및 출력을 Synapse Analytics에 구축
+  - 분할을 통한 처리량을 늘리기 위해 Azure Stream Analytics 작업 확장
+  - 병렬화를 최적화하기 위해 스트리밍 입력 재분할 
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Event Hubs사용하여 Big Data 애플리케이션을 위한 안정적인 메세징 활성화
+  - Azure Stream Analytics를 사용하여 데이터 스트리밍 작업
+  - Azure Stream Analytics로 데이터 스트리밍 수집
+  
+  
+  ### 모듈 15&#58; Event Hubs 및 Azure Databricks로 스트리밍 처리 솔루션 만들기
+  이 모듈에서, 학생들은 Azure Databricks에서 Event Hubs 및 Spark 구조화 된 스트리밍으로 스트리밍 데이터를 규모에 맞게 수집하고 처리하는 방법을 배우게 됩니다. 학생은 구조화 된 스트리밍의 주요 기능과 사용법을 배웁니다. 학생은 슬라이딩 윈도우를 구현하여 데이터 덩어리를 집계하고 워터 마킹을 적용하여 오래된 데이터를 제거합니다. 마지막으로, 학생은 스트리밍을 읽고 쓰기 위해 Event Hubs에 연결합니다.
+  #### 레슨
+  - Azure Databricks 구조화 된 스트리밍으로 스트리밍 데이터 처리
+  
+  #### 랩 &#58; Event Hubs 및 Azure Databricks으로 스트리밍 처리 솔루션 만들기
+  - 구조화 된 스트리밍의 주요 기능 및 사용 살펴보기 
+  - 파일에서 데이터를 스트리밍하고 분산 파일 시스템에 기록 
+  - 슬라이딩 윈도우를 상요하여 모든 데이터가 아닌 데이터 덩어리 집계 
+  - 워터 마팅을 적용하여 오래된 데이터 제거
+  - Event Hubs에 연결 읽기 및 쓰기 스트리밍  
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Databricks 구조화 된 스트리밍으로 스트리밍 데이터 처리
+  
+  
+  ### 모듈 16&#58; Azure Synapse Analytics와 Power BI 통합을 사용하여 보고서 작성
+  이 모듈에서, 학생들은 Power BI를 시냅스 작업 영역과 통합하여 Power BI에서 보고서를 작성하는 방법을 배우게 됩니다. 학생은 시냅스 스튜디오에서 새 데이터 소스와 Power BI 보고서를 만듭니다. 그런 다음 구체화된 보기와 결과-집합 캐싱을 사용하여 쿼리 성능을 향상시키는 방법을 배웁니다. 마지막으로, 학생은 서버리스 SQL 풀을 사용하여 데이터 레이크를 탐색하고 Power BI에서 해당 데이터에 대한 시각화를 만듭니다. .
+  #### 레슨
+  - Azure Synapse Analytics와의 통합을 사용하여 Power BI로 보고서 만들기
+  
+  #### 랩 &#58; Azure Synapse Analytics와 Power BI 통합을 사용하여 보고서 작성
+  - Azure Synapse 작업 영역과 Power BI 통합
+  - Power BI와의 통합 최적화
+  - 구체화 된 보기 및 결과-집합 캐싱으로 쿼리 성능 향상 
+  - SQL 서버리스로 데이터 시각화 및 Power BI 보고서 만들기
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics와의 통합을 사용하여 Power BI로 보고서 만들기
+  
+  
+  ### 모듈 17&#58; Azure Synapse Analytics에서 통합된 Machine Learning 프로세스 수행
+  이 모듈은 Azure Synapse Analytics의 통합된, 종단간 Azure Machine Learning와 Azure Cognitive Services 경험을 살펴봅니다. 연결된 서비스를 사용하여  Azure Synapse Analytics 작업 영역을 Azure Machine Learning 작업 영역에 연결한 다음 Spark 테이블의 데이터를 사용하는 자동화된 ML 실험을 유발하는 방법을 배웁니다. 또한 Azure Machine Learning 또는 Azure Cognitive Services에서 훈련된 모델을 사용하여 SQL 풀 테이블의 데이터를 보강한 다음 Power BI를 사용하여 예측 결과를 제공하는 방법을 배웁니다. 
+  #### 레슨
+  - Azure Synapse Analytics에서 통합된 기계 학습 프로세스 사용
+  
+  #### 랩 &#58; Azure Synapse Analytics에서 통합된 Machine Learning 프로세스 수행
+  - Azure Machine Learning 연결된 서비스 만들기
+  - Spark 테이블의 데이터를 사용하여 Auto ML 실험 유발
+  - 훈련된 모델을 사용하여 데이터 강화
+  - Power BI를 사용하여 예측 결과 제공
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Synapse Analytics에서 통합된기계 학습 프로세스 사용
