@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-741
 displayName: 70-741
 summary: |-
-  <div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   본 시험은 Windows Server 2016에서 사용할 수 있는 네트워킹 기능 및 네트워크 기능 수행 작업에 대해 중점적으로 다룹니다. 응시자는 DNS, DHCP 및 IPAM 구현 및 관리는 물론 VPN 및 RADIUS와 같은 원격 액세스 솔루션 배포에도 능숙해야 합니다.
 
@@ -19,7 +17,6 @@ subTitle: 본 시험은 Windows Server 2016에서 사용할 수 있는 네트워
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IW1D
 practiceTestUrl: https://www.mindhub.com/70-741-Networking-with-Windows-Server-2016-p/mu-70-741_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=741&examname=Networking%20with%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-741
 locales:
 - en
 - es
@@ -37,6 +34,7 @@ skills:
 - 네트워크 연결 및 원격 액세스 솔루션 구현(20-25%)
 - 핵심/분산 네트워크 솔루션 구현(15-20%)
 - 고급 네트워크 인프라 구현(15-20%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

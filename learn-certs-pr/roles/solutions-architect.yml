@@ -19,9 +19,9 @@ certificationPaths:
   - uid: certification.azure-solutions-architect
     levels:
     - advanced    
-- title: Dynamics 365 금융 및 운영 앱 솔루션 아키텍처
-  linkedInKeywords: Dynamics 365 금융 및 운영 앱 솔루션 아키텍처
-  uid: certification.d365-finance-and-operations-apps-solution-architect-expert
+- title: Dynamics 365 Finance and Operations Apps Solution Architect
+  linkedInKeywords: Dynamics 365 Finance and Operations Apps Solution Architect
+  uid: certification-path.d365-finance-and-operations-apps-solution-architect-expert
   prerequisites: 
   - uid: certification.d365-fundamentals
     isOptional: true
@@ -42,17 +42,14 @@ certificationPaths:
   - uid: certification.d365-finance-and-operations-apps-solution-architect-expert
     levels:
     - advanced  
-- title: Power Apps + Dynamics 365 Solution Architect
-  linkedInKeywords: Power Apps + Dynamics 365 Solution Architect
-  uid: certification.power-apps-and-d365-solution-architect-expert
+- title: Dynamics 365 + Power Platform Solution Architect
+  linkedInKeywords: Dynamics 365 + Power Platform Solution Architect
+  uid: certification-path.power-apps-and-d365-solution-architect-expert
   prerequisites: 
   - uid: certification.power-platform-fundamentals
     isOptional: true
     levels:
     - beginner 
-  - uid: certification.power-apps-and-d365-developer-associate
-    levels:
-    - intermediate
   - uid: certification.d365-functional-consultant-sales
     levels:
     - intermediate
@@ -66,6 +63,23 @@ certificationPaths:
     levels:
     - intermediate
   - uid: certification.power-apps-and-d365-solution-architect-expert
+    levels:
+    - advanced
+- title: Power Platform Solution Architect
+  linkedInKeywords: Power Platform Solution Architect
+  uid: certification-path.power-platform-solution-architect-expert
+  prerequisites: 
+  - uid: certification.power-platform-fundamentals
+    isOptional: true
+    levels:
+    - beginner 
+  - uid: certification.power-platform-functional-consultant-associate
+    levels:
+    - intermediate
+  - uid: certification.power-platform-developer-associate
+    levels:
+    - intermediate
+  - uid: certification.power-platform-solution-architect-expert
     levels:
     - advanced
 certifications:
@@ -82,13 +96,16 @@ certifications:
 - uid: certification.azure-for-sap-workloads-specialty
   requiredExams:
   - uid: exam.az-120
+- uid: certification.power-platform-solution-architect-expert
+  requiredExams:
+  - uid: exam.pl-600
 resources:
 - title: Microsoft 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 교육 및 인증 포스터
   description: 이 교육 및 인증 포스터를 통해 성공을 위한 길을 선택합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+  href: https://aka.ms/traincertposter
 - title: 인증 지원
   href: ../help.md
   description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.

@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-743
 displayName: 70-743
 summary: |-
-  <div>
-  <div><strong>본 시험은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 해당 시험을 치를 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   본 시험은 Windows Server 2016 핵심 인프라 서비스를 구현하는 IT 전문가를 대상으로 실시됩니다.
 
@@ -19,7 +17,6 @@ subTitle: 본 시험은 Windows Server 2016 핵심 인프라 서비스를 구현
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2IoQP
 practiceTestUrl: https://www.mindhub.com/70-743-Upgrade-Your-Skills-to-Windows-Server-2016-p/mu-70-743_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=743&examname=Upgrading%20Your%20Skills%20to%20MCSA:%20Windows%20Server%202016&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-743
 locales:
 - en
 - es
@@ -42,6 +39,7 @@ skills:
 - 고급 네트워크 인프라 구현
 - AD DS (Active Directory 도메인 서비스) 설치 및 구성
 - ID 페더레이션 및 액세스 솔루션 구현
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

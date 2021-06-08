@@ -42,7 +42,20 @@ products:
 exams:
 - uid: exam.mb-300
 summary: |-
-  Dynamics 365 Finance and Operations 앱은, Dynamics 365 Finance, Dynamics 365 Supply Chain Management, 및 Dynamics 365 Supply Chain Management, Manufacturing을 포함하지만 이에 국한되지는 않습니다. Dynamics 365 Finance 는 다음을 지원합니다&#58; 글로벌 재무 운영을 자동화 및 현대화합니다. 실시간 성능을 모니터링하고, 미래의 결과를 예측하고, 데이터 기반 결정으로 비즈니스 성장을 주도합니다. 인공지능(AI)으로 전략적 재무 결정을 주도하고, 재무 프로세스를 통합 및 자동화하고, 운영 비용을 줄이며, 글로벌 재무 복잡성과 위험을 줄입니다. Dynamics 365 Supply Chain Management 는 다음을 지원합니다&#58; 제조 및 공급망 운영을 변화합니다. 계획, 생산, 재고, 창고 및 운송 관리 전반에 걸쳐 AI 및 Internet of Things (IoT) 의 예측 인사이트와 인텔리젼스를 사용합니다. 운영 효율성, 제품 품질 및 수익성을 극대화합니다. 지능형 제조 운영으로 혁신하고, 창고 운영을 현대화하고 생산 성능을 최적화하고 자산 수명을 극대화하고, 공급망을 자동화 및 능률화합니다. 참고&#58; 더 자세한 정보는, https://docs.microsoft.com/learn/paths/get-started-finance-operations/ 을 참고하십시오. 이 모듈에서는, 최종 사용자와 컨설턴트가 가장 많이 사용하는 Dynamics 365 Dynamics 365 Finance 앱의 핵심 특징 및 기능에 중점을 둡니다.
+  Dynamics 365 Finance and Operations 앱은 Dynamics 365 Finance, Dynamics 365 Supply Chain Management, 그리고 Dynamics 365 Supply Chain Management, 제조를 포함하지만 이에 국한되지는 않습니다.
+  Dynamics 365 Finance는 다음과 같은 이점을 제공합니다&#58;
+  - 글로벌 재무 운영을 자동화하고 현대화합니다.
+  - 비즈니스 성장을 추진하기 위해 실시간으로 성능을 모니터링하고, 미래 결과를 예측하고, 데이터-기반 결정을 내립니다.
+  - 인공 지능 (AI)으로 전략적 재무 결정을 추진하고, 재무 프로세스를 통합 및 자동화하고, 운영 비용을 줄이고, 글로벌 재무 복잡성 및 위첨을 줄입니다. 
+  
+  Dynamics 365 Supply Chain Management는 다음과 같은 이점을 제공합니다&#58;
+  - 제조 및 공급망 운영을 변화합니다.
+  - 계획, 생산, 재고, 창고 및 운송 관리 전반에 걸쳐 AI 및 사물 인터넷 (IoT)의 예측 통찰력과 지능을 사용합니다. 
+  - 운영 효율성, 제품 품질 및 수익성을 극대화합니다. 
+  - 지능형 제조 운영으로 혁신하고, 창고 관리를 현대화하며, 제품 성능을 최적화하고, 자산의 수명을 극대화하고, 공급망을 자동화 및 간소화합니다.
+  
+  참고&#58; 더 자세한 내용은,https://docs.microsoft.com/learn/paths/get-started-finance-operations/ 를 참고하십시오.
+  이 모듈에서는, 최종 사용자와 컨설턴트가 가장 많이 사용하는 Dynamics 365 Dynamics 365 Finance 앱의 핵심 특징 및 기능에  중점을 둡니다.
   
   #### 대상 그룹 프로필
   Dynamics 365 for Finance and Operations Functional Consultant 는 검색 수행, 요구사항 캡쳐, 주제 전문가 및 이해 관계자의 참여, 요구사항 번역과 솔루션 및 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 즉시 사용할 수 있는 기능, 코드 없는 확장성, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
@@ -51,17 +64,8 @@ prerequisitesSection: |-
   - Microsoft Windows 일반 지식
   - 기본적인 처리를 위한 Dynamics 365 for Finance and Operations 사용 능력
   - 기본 모바일 장치 기능 및 탐색 일반 지식
-outlineSection: |-
-  ### 모듈 1&#58; 과정 개요
-  이 과정에서는 Dynamics 365 Finance and Operations 앱의 핵심 특징을 다룹니다. 여기에서 논의되는 전반적인 주제는 핵심 공통 특징, 핵심 구성, 데이터 마이그레이션, 및 라이브로 가기 위한 준비를 포함합니다. 이 과정은 기능 컨설턴트와 기술 컨설턴트를 위한 예비 과정입니다. Dynamics 365 Finance and Operations 앱에 대한 기본적인 이해가 있어야합니다. Dynamics 365 Finance and Operations 앱이 Power Platform을 포함한, 외부 시스템 및 도구와 통합되는 방법을 알고 있어야 합니다. 컨설턴트는 Lifecycle Services 및 기타 Microsoft 도구와 플랫폼을 사용하여 애플리케이션 수명 주기를 적극적으로 관리합니다.
-  #### 레슨
-  - 학습 목표
-  - 모듈 개요
-  
-  이 과정에서 다루는 모듈을 알게 될 것입니다.
-  
-  
-  ### 모듈 2&#58; 공통 기능 및 구현 도구 사용
+outlineSection: |-  
+  ### 모듈 1&#58; 공통 기능 및 구현 도구 사용
   이 모듈에서는, 다음을 학습하게 됩니다&#58;
   - 공통 기능 및 구현 도구 사용합니다.
   - 작업 공간의 사용 사례 및 역량 설명합니다.
@@ -76,6 +80,7 @@ outlineSection: |-
   - Power Platform 앱 및 서비스에 대한 사용 사례를 설명합니다.
   - Dynamics 365 Finance 앱에서 Power Platform을 사용하는 시기를 식별합니다.
   - Power BI 와 Dynamics 365 Finance 앱을 통합합니다.
+
   #### 레슨
   - 소개
   - 일반적인 Dynamics 365 Finance and Operations 앱 특징 및 기능 식별 및 사용
@@ -108,7 +113,7 @@ outlineSection: |-
   - Power BI 와 Dynamics 365 Finance 앱을 통합합니다.
   
   
-  ### 모듈 3&#58; 보안, 프로세스 및 옵션 구성
+  ### 모듈 2&#58; 보안, 프로세스 및 옵션 구성
   이 모듈에서는, 다음을 학습하게 됩니다&#58;
   - 역할, 의무, 권한 및 허가를 구분합니다.
   - 사용자에게 보안 역학을 적용합니다.
@@ -175,7 +180,7 @@ outlineSection: |-
   - 일괄 작업 및 경고를 설정하고 모니터링합니다.
   
   
-  ### 모듈 4&#58; Dynamics 365 Finance and Operation 데이터 관리
+  ### 모듈 3&#58; Dynamics 365 Finance and Operation 데이터 관리
   이 모듈에서는 다음을 학습하게 됩니다&#58;
   - Dynamics 365 Finance and Operations 앱에서 데이터를 관리합니다.
   - 데이터 관리 개념을 설명합니다.
@@ -241,7 +246,7 @@ outlineSection: |-
   - 데이터 작업 자동화를 구현합니다.
   
   
-  ### 모듈 5&#58; 솔루션 검증 및 지원
+  ### 모듈 4&#58; 솔루션 검증 및 지원
   이 모듈에서는, 다음을 학습합니다&#58;
   - 테스트 사례와 비즈니스 요구사항 사이의 상관관계를 설명합니다.
   - 테스트 사례 기록에 모범 사례를 사용합니다.

@@ -7,7 +7,18 @@ uid: certification.d365-functional-consultant-financials
 certificationRenewalUid: renewal.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Dynamics 365 Finance 기능 컨설턴트는 글로벌 재무 및 운영을 통합하고 업무 및 워크플로를 자동화하며 고객의 주문, 판매, 송장 발행 및 보고 기능을 간소화합니다.
+  비즈니스 요구 사항을 분석하고 이를 업계 모범사례에 따라 성공적인 비즈니스 프로세스 및 솔루션으로 변환하는 기능 컨설턴트로서의 경험이 있다면, 이 인증을 사용하여 기술을 입증하고 경력을 향상시키는데 도움이 됩니다. 비즈니스 요구 사항을 충족하기 위해 Dynamics 365 Finance를 구현하고 구성하는 경험이 필요합니다.
+  
+  이 인증은 미수금, 미지급금, 총계정 원장, 고정 자산, 예산 책정, 원가 계산 및 비용 관리 또는 비용 분야에서 일하는 재무 부서의 직원에게 적합합니다. 비즈니스 회계 원칙 및 재무 운영에 대한 기본 이해가 반드시 있어야합니다. 
+  
+  이 인증을 획득하기 전에 더 많은 경험이 필요하다면, 여기 몇 가지 제안이 있습니다:
+  - Dynamics 365 Finance를 사용하는 기능 컨설턴트와 작업합니다.
+  - 하나 이상의 프로젝스트에서 기능 컨설턴트로 작업합니다. 
+  - 재무 컨설팅 프로젝트에 작업합니다. 
+  - [community.dynamics.com](https://community.dynamics.com/)에서 전문가 및 동료 커뮤니티에 가입합니다. 
+  - Microsoft Learn에서 사용 가능한 학습 경로를 수강합니다.
+  - 강사-주도 교육 과정에 등록합니다.
+  - 더 많은 실습을 완료합니다.
 subTitle: 'Dynamics 365 Finance 기능 컨설턴트는 글로벌 재무 및 운영을 통합하고 업무 및 워크플로를 자동화하며 고객의 주문, 판매, 송장 발행 및 보고 기능을 간소화합니다.'
 levels:
 - intermediate
@@ -56,7 +67,7 @@ resources:
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcRF
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+  href: https://aka.ms/TrainingCertDeck
 - title: 인증서 학습 경로
   description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56Y

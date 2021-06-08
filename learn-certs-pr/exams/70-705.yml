@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-705
 displayName: 70-705
 summary: |-
-  <div>
-  <div><strong>본 시험은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 해당 시험을 치를 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   본 시험은 대형 조직에 라이선스 솔루션을 판매하는 세일즈 전문가를 대상으로 합니다. 대형 조직이란 일반적으로 250개의 장치 또는 동수의 사용자를 보유하고 있는 조직을 뜻합니다. 응시자는 EA(기업계약), ESA(기업 구독 계약), CSP (Cloud 솔루션 공급자), MPSA, OEM 및 Open and Open Value를 포함한 모든 Microsoft 기업 라이선스 솔루션에 대한 기본적인 이해와 함께 6개월 이상 Microsoft 라이선스 솔루션을 판매한 경력이 있어야 합니다.
 
@@ -16,7 +14,6 @@ summary: |-
 subTitle: 본 시험은 대형 조직에 라이선스 솔루션을 판매하는 세일즈 전문가를 대상으로 합니다. 대형 조직이란 일반적으로 250개의 장치 또는 동수의 사용자를 보유하고 있는 조직을 뜻합니다. 응시자는 EA(기업계약), ESA(기업 구독 계약), CSP (Cloud 솔루션 공급자), MPSA, OEM 및 Open and Open Value를 포함한 모든 Microsoft 기업 라이선스 솔루션에 대한 기본적인 이해와 함께 6개월 이상 Microsoft 라이선스 솔루션을 판매한 경력이 있어야 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trl8
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=705&examname=Designing%20and%20Providing%20Microsoft%20Licensing%20Solutions%20to%20Large%20Organizations&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-705
 locales:
 - en
 - zh-cn
@@ -33,6 +30,7 @@ skills:
 - 적절한 기술 솔루션 권고 (60%-65%)
 - 적절한 Software Assurance 혜택 권고 (10%-15%)
 - 라이선스 솔루션 권고 (20%-25%)
+retirementDate: 01/31/2021
 roles:
 - administrator
 products:

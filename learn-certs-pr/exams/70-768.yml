@@ -6,16 +6,13 @@ metadata:
 uid: exam.70-768
 displayName: 70-768
 summary: |-
-  <div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 이 날짜 이후에는 더 이상 시험을 볼 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   이 시험은 다차원 데이터 모델 구현, OLAP 큐브 구현과 유지 관리 및 테이블 형식 데이터 모델 구현을 필요로 하는 BI 솔루션의 작성에 초점을 맞추고 있는 BI(Business Intelligence) 개발자를 대상으로 합니다.
 subTitle: 이 시험은 다차원 데이터 모델 구현, OLAP 큐브 구현과 유지 관리 및 테이블 형식 데이터 모델 구현을 필요로 하는 BI 솔루션의 작성에 초점을 맞추고 있는 BI(Business Intelligence) 개발자를 대상으로 합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjR
 practiceTestUrl: https://www.mindhub.com/70-768-Developing-SQL-Data-Models-p/mu-70-768_p.htm?utm_source=microsoft&amp;utm_medium=certpage&amp;utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=ko-kr&examcode=768&examname=Developing%20SQL%20Data%20Models&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/70-768
 locales:
 - en
 levels:
@@ -25,6 +22,7 @@ skills:
 - 테이블 형식 BI 의미 체계 모델 설계(20-25%)
 - MDX(Multidimensional Expressions)와 DAX(데이터 분석 식)를 사용한 쿼리 개발(15-20%)
 - SQL Server Analysis Services(SSAS) 구성 및 유지 관리(30-35%)
+retirementDate: 01/31/2021
 roles:
 - data-analyst
 products:

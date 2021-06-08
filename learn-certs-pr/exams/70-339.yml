@@ -6,9 +6,7 @@ metadata:
 uid: exam.70-339
 displayName: 70-339
 summary: |-
-  <div>
-  <div><strong>이 인증은 2021년 1월 31일에 중단됩니다 중부 표준시(CST) 기준으로 오후11시 59분에. 해당일 이후부터는 해당 시험을 치를 수 없습니다. 다가오는 시험 종료에 대해 <a href='/learn/certifications/retired-certification-exams'>자세히 알아보세요</a>.<br/><br/></strong></div>
-  </div>
+  <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
 
   본 시험은 데이터 센터 및 클라우드에서 SharePoint 2016을 설치, 구성, 배포 및 관리하는 숙련된 IT 전문가를 대상으로 합니다. 일반적으로 응시자는 SharePoint 및 SharePoint가 의존하는 기타 핵심 기술(Windows Server 2008 R2 이상, IIS(인터넷 정보 서비스), SQL Server 2008 R2 이상, Active Directory 및 네트워킹 인프라 서비스)을 계획하고 유지 관리한 4년 이상의 실무 경력을 갖고 있습니다.
 
@@ -19,7 +17,6 @@ subTitle: 본 시험은 데이터 센터 및 클라우드에서 SharePoint 2016�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3XSBh
 practiceTestUrl: https://www.mindhub.com/70-339-Managing-Microsoft-SharePoint-Server-2016-p/mu-70-339_p.htm?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=339&examname=Managing%20Microsoft%20SharePoint%20Server%202016&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2F70-339
 locales:
 - en
 - es

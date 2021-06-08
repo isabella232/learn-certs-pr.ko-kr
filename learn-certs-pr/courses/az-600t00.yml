@@ -1,0 +1,161 @@
+### YamlMime:Course
+title: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub
+metadata:
+  title: 'Course AZ-600T00-A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+  description: 'Course AZ-600T00-A: Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub'
+uid: course.az-600t00
+courseNumber: 'AZ-600T00-A'
+hoursToComplete: 96
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure Stack Hub 배포 준비
+- skill: Azure Stack Hub용 인프라 인증서 관리
+- skill: Azure Stack Hub 등록 관리
+- skill: Azure Stack Hub 홈 디렉토리 구성
+- skill: Azure Stack Hub에 대한 서비스 주체 공급
+- skill: 비즈니스 연속성 재해 복구 (BCDR) 전략 권장
+- skill: 권한이 있는 엔드포인트를 사용하여 Azure Stack Hub 관리
+- skill: Azure Stack Hub 시장 관리
+- skill: 앱 서비스 및 Event Hub 리소스 공급자 제공
+- skill: 사용 및 청구 관리
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- administrator
+products:
+- azure
+- azure-stack
+- azure-stack-edge
+- azure-stack-hci
+- azure-stack-hub
+- azure-app-service
+- azure-event-hubs
+- azure-active-directory
+exams:
+- uid: exam.az-600
+summary: |-
+  이 과정은 Azure 관리자 및 Azure Stack Hub 운영자에게 Azure Stack Hub 인프라를 계획, 배포, 패키징, 업데이트 및 유지 관리하는 방법을 가르칩니다. 학습에는 Azure Stack Hub 배포하기, Azure Stack Hub Marketplace 관리하기, 앱 서비스와 Event Hub 리소스 공급자 제공하기, Azure Stack Hub 등록 관리하기 그리고 시스템 상태 유지관리하기가 포함됩니다. 
+
+  #### 구독자 프로필
+  AZ-600&#58; Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub 학생들은 Azure Stack Hub를 사용하여 자체 데이터 센터 내에서 최종 사용자나 고객들에게 cloud 서비스를 제공하는 Azure Stack Hub 운영자가 되는 것에 관심이 있습니다. 
+
+  Azure Stack Hub 운영자들은 Azure Stack Hub 인프라를 계획하고, 배포하고, 패키징하고, 업데이트하고, 유지관리하는 것을 담당합니다. 또한 하이브리드 cloud 리소스와 요청된 서비스를 제공하고 서비스형 인프라 (IaaS)와 서비스형 플랫폼 (PaaS)을 관리합니다. 
+prerequisitesSection: |-
+  성공적인 Azure Stack Hub 학생들은 운영 체제, 가상화, cloud 인프라, 저장소 구조 및 네트워킹에 대한 사전 경험이 있습니다&#58;
+  - VMs와 가상 네트워킹을 포함하는 온-프레미스 가상화 기술에 대한 이해
+  - TCP/IP, Domain Name System (DNS), 가상 사설 통신망 (VPNs), 방화벽 및 암호화 기술을 포함하는 네트워크 구성에 대한 이해
+  - 도메인, 포리스트 및 도메인 제어 장치를 포함하는 액티브 디렉터리 개념에 대한 이해
+  
+  Azure 및 cloud 컴퓨팅을 처음 사용하는 경우, 다음 리소스 중 하나를 고려하십시오&#58;
+  - 무료 온라인#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
+  - 강사-주도 과정&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
+  - Azure administrators를 위한 필수 조건(https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+outlineSection: |-
+  ### 모듈 1&#58; Azure Stack Hub의 개요
+  이 모듈에서는 Azure Stack Hub이 온-프레미스 환경에서 앱을 실행하고 자체 데이터 센터에서 Azure 서비스를 공급하는 방법을 제공하는 Azure의 연장선상에 있는 방법 대해 배웁니다.
+  #### 레슨
+  - Azure Stack Hub
+  - 데이터 센터 통합
+  - Azure Stack Hub PowerShell
+  - 모듈 검토 질문
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 에지 및 단절된 솔루션 설명
+  - Azure Stack Hub 통합 시스템 아키텍처 설명
+  - Azure Stack Hub 배포 옵션 설명
+  - Azure Stack Hub, Azure Stack HCI, 및 글로벌 Azure 사이의 차이점 정의
+  
+  
+  ### 모듈 2&#58; 서비스 제공
+  이 모듈에서는, 연결이 끊어진 환경에서 Azure Stack Hub Marketplace를 채우고, 앱 서비스 리소스 공급자를 배포하고, Event Hubs 리소스 공급을 배포하고, 견적, 계획, 제공 및 구독을 만들고 관리하고, 사용 및 청구를 관리하는 방법을 배웁니다.
+  #### 레슨
+  - Azure Stack Hub Marketplace 관리
+  - 앱 서비스 리소스 공급자 제공 
+  - Event Hubs 리소스 공급자 제공
+  - 서비스 제공 
+  - 사용 및 청구 관리 
+  - 모듈 검토 질문 
+  
+  #### 랩 &#58; Azure Stack Hub에서 제안 및 계획 관리
+  
+  #### 랩 &#58; Azure Gallery Packager를 사용하여 맞춤형 시장 아이템 추가
+  
+  #### 랩 &#58; Azure Stack Hub를 사용하여 Azure Resource Manager (ARM) 템플릿 유효성 검사
+
+  #### 랩 &#58; 옵션 랩 &#58; Azure Stack Hub에서 SQLServer 리소스 공급자 구현
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 맞춤형 Azure Stack Hub Marketplace 아이템 만들기
+  - 앱 서비스 리소스 공급자 배포 및 업데이트
+  - Event Hubs 리소스 공급자 배포 계획
+  - 사용자 구독 만들기 및 관리
+  - 다중-테넌트 및 CSP 시나리오에서 사용 및 청구 관리
+  
+  
+  ### 모듈 3&#58; 데이터 센터 통합 구현
+  이 모듈에서는, Stack Hub 배포를 준비하고, 인증서를 권장 및 검증하고, 연결 및 비연결 환경에서 등록하는 방법을 배웁니다. 
+  #### 레슨
+  - Azure Stack Hub 배포 준비 
+  - Azure Stack Hub 등록 관리 
+  - 모듈 검토 질문 
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58; 
+  - 사용 API를 사용하여 사용 데이터를 보고 검색
+  - 이름 확인 전략 권장 
+  - 신원 공급자 통합 확인
+  - 인증서 확인
+  - 등록 모드 추천
+  
+  
+  ### 모듈 4&#58; Azure Stack Hub에 대한 신원 및 접근 관리
+  이 모듈에서는, Azure Stack Hub 홈 디렉터리를 구성하고, Azure Stack Hub로 게스트 테넌트 디렉터리를 등록하고, 적절한 접근 방법 (서비스 주체, 사용자, 그룹)을 식별하는 방법을 배웁니다.
+  #### 레슨
+  - 멀티-테넌트 관리
+  - 접근 관리
+  - 모듈 검토 질문
+
+  #### 랩 &#58; Azure Stack Hub에서 제안 관리 위임
+  #### 랩 &#58; Azure Stack Hub에서 서비스 주체 관리
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Azure Stack Hub으로 게스트 테넌드 디렉터리 등록
+  - 게스트 테넌트 디렉터리 업데이트
+  - Azure Stack Hub에서 접근 구성
+  - 맞춤형 역할 만들기
+  
+  
+  ### 모듈 5&#58; Azure Stack Hub 인프라 관리
+  이 모듈에서는, REST API를 사용하여 시스템 상태를 모니터링하고, Syslog 서버를 사용하여 시스템 상태를 모니터링하고, Powershell을 사용하여 요청에 대한 진단 로그를 수집하고, 인프라 백업을 위한 저장소 대상을 구성하고, 수동으로 다운로드 및 가져오는 방법을 배웁니다.
+  #### 레슨
+  - 시스템 상태 관리 
+  - Azure Stack Hub의 Azure Monitor
+  - 비즈니스 연속성 및 재해 복구 계획 및 구성
+  - 용량 관리
+  - 인프라 업데이트
+  - 권한이 있는 엔드 포인트를 사용하여 Azure Stack Hub 관리
+  - 모듈 검토 질문
+  
+  #### 랩 &#58; PowerShell를 통해 Azure Stack Hub에 연결
+  
+  #### 랩 &#58; Azure Stack Hub에서 권한이 있는 엔드 포인트에 접근
+
+  #### 랩 &#58; Azure Stack Hub에서 로그 수집 관리
+
+  #### 랩 &#58; Azure Stack Hub 저장소 계정 구성 및 관리 
+
+  #### 랩 &#58; Azure Stack Hub에서 공용 IP 주소 관리
+
+  #### 랩 &#58; Azure Stack Hub 인프라 백업 구성
+  
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Event Hubs와 같은 리로스 공급자들 포함
+  - 현장 교체 혹은 수리 관리
+  - 인프라 백업에 대한 저장소 대상 구성
+  - Azure Stack Hub 업데이트
+  - 지원 세션 잠금 해제
+  - 권한이 있는 엔드 포인트에 연결
+  - Test-AzureStack을 사용하여 시스템 진단 수행
