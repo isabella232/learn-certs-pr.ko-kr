@@ -1,6 +1,6 @@
 ---
-title: 'Microsoft Learning Partners and Providers | Microsoft Docs'
-description: 'Microsoft Learning Partners and Providers'
+title: '학습 파트너 찾기 | Microsoft Docs'
+description: 'Microsoft Learning Partners - 학습 파트너 찾기'
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,13 +10,13 @@ ms.date: 06/02/2020
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# Microsoft 학습 파트너 오늘 내일의 기술 교육.
+# 학습 파트너 찾기
 
-![Microsoft Learning Partners banner](images/partners-banner.jpg "Microsoft Learning Partners banner")
+## Microsoft Learning Partners에 대하여
 
-귀하가 개인적으로 능력향상과 귀하 팀의 클라우드기술을 향상할 필요가 있는 귀하의 새 직책 또는 매니저든 상관없이, Microsoft 학습 파트너는 혼합 학습, 직접 학습 및 온라인 학습을 포함하여 귀하의 학습 필요에 적합한 폭넓은 트레이닝 솔루션을 제공합니다. 동영상, 실제 실험실과 Microsoft 인증 준비를 포함한 면밀한 트레이닝 솔루션으로 귀하의 기술력을 향상해 Microsoft 기술력을 다음 단계로 끌어 올리십시오.
+다음 역할을 위해 기술을 연마하려는 개인이든 팀의 cloud 기술을 향상시켜야 하는 관리자이든, Microsoft Learning Partners는 학습 목표를 충족하기 위해 혼합 학습, 대면 및 온라인을 포함한 광범위한 교육 솔루션을 제공합니다. 전 세계의 Microsoft Learning Partners는 Microsoft가 개발하고 Microsoft Certified Trainers가 제공하는 교육 내용을 가르치기 위해 프로그램 요구 사항을 충족해 왔습니다. 학습 파트너와의 협력 가치에 대해 더 알아보려면, 방문하십시오: [학습 파트너의 가치](/learn/certifications/partners-value).
 
-## 국가별 Microsoft 학습 파트너 찾기
+## <a name="find-microsoft-learning-partner-by-country-region"></a> 국가/지역별로 Microsoft Learning Partner 찾기
 
 우리의 전 세계 파트너 네트워크는 융통성 있고, 역할 기반의 맞춤형 훈련 및 Microsoft 기술 인증을 제공합니다 모든 강사는 엄격한 훈련을 마치고 엄중한 기술 자격 요구사항을 충족시킨 Microsoft 인증 트레이너(MCTs)입니다.
 
@@ -509,15 +509,3 @@ ms.prod: non-product-specific
 
 > [!div class="nextstepaction"]
 > [MICROSOFT 솔루션 공급자 찾기](https://www.microsoft.com/en-us/solution-providers/search?cacheId=6b7c41ec-9246-4196-9541-7a4427a37f97)
-
-## IT 전문가 및 개발자들이 얻는 이점
-
-**새로운 기술을 배우십시오.** 단 하나의 과정을 통해 기획에서 지원까지 기술 도입 과정 전체를 다루는 실무적 기술을 배울 수 있습니다. 실습 교육과 시뮬레이션 및 실제 기술 적용을 통해서만 쌓을 수 있는 수준의 숙련도를 얻을 수 있습니다. </br></br> **인증 시험 준비.** [Microsoft 인증은](https://www.microsoft.com/learning/certification-overview.aspx) 핵심 Microsoft 기술력과 스킬 레벨에 사용할 수 있습니다. Microsoft 공식 과정들은 Microsoft 인증과 연계되며 자격과 능력이 증명된 업계 강사들이 교육합니다.</br></br>**새로운 커리어 시작의 기회가 됩니다**. Microsoft 공식 과정을 담당하는 업계 강사들이 직장에서 바로 활용할 수 있는 IT 기술을 습득하도록 도와드립니다. 이 과정들은 과정을 완료한 뒤에도 지속적으로 활용할 수 있는 효율적인 디지털 리소스에 대해 액세스를 제공합니다.</br></br> 지난 해 IT/비즈니스 관련 교육을 이수한 전문가들은 그렇지 않은 업계 전문가들에 비해 평균 약 $3,400 이상의 연봉을 더 받은 것으로 밝혀졌습니다. (Global Knowledge, *IT Skills and Salary Survey*, 2011년 3월)
-
-## IT 관리자들이 얻는 이점
-
-**효율성과 생산성을 향상시키십시오.** Microsoft Learning Partners가 귀하의 기업이 기술 투자에 대한 수익을 극대화할 수 있도록 지원합니다. 직원이 오프라인 교육이나 Microsoft 공식 주문형 과정을 통해 Microsoft 기술을 효율적으로 활용할 수 있도록 하십시오. </br></br> **배포 준비에 도움이 됩니다.** Microsoft Learning Partners가 제공하는 숙련된 교육을 통해 기업의 Microsoft 신기술 배포를 가속화하고 가동 중지 시간을 줄일 수 있습니다. 조사 결과 운영적 가동 중지 시간의 40%가 담당 작업자의 핵심 시스템에 대한 지식 및 숙련도 부족으로 인한 작업자 오류로 인한 것임이 밝혀졌습니다. (Anderson, Cushing. "Impact of Training on Network Administration: Certification Leads to Operational Productivity." IDC study. Linda Musthaler, Network World, 2009년 11월 25일) </br></br> **직원 능력 계발, 채용 및 유지.** 교육 및 인증 시스템은 팀원들이 얼마나 효율적으로 특정 기술, 하드웨어 및 소프트웨어를 이용하여 작업을 수행할 수 있는지를 측정하는 효과적인 방법입니다. </br></br> 본 조사에 참여했던 기술직 운영진 응답자 중 60%가 대규모 IT 인프라 프로젝트를 구축할 때 가장 큰 문제점 중 하나로서 필수 직무 요건을 갖춘 전문가들의 부재를 지목했습니다. (TEKsystems/CIO Custom Solutions Group, *IT Workforce Planning Trends*, 2011년 6월)
-
-## Microsoft Learning Partner 되기
-
-핵심 서비스 중 하나 또는 전체 비즈니스 관행 중 하나로 고객에게 교육을 제공하는지 여부에 관계 없이 인증 역량을 획득하면 비즈니스에 새로운 기회를 열 수 있습니다. Microsoft Partner Network 혜택을 통해 시간과 비용을 절약하고 역량을 강화하고 고객에게 더 나은 서비스를 제공하며 비즈니스 잠재력에 도달할 수 있는 관계를 구축할 수 있습니다. </br></br> [Microsoft 학습 파트너 프로그램 참여하기](https://mspartner.microsoft.com/en/us/Pages/Membership/learning-competency.aspx)

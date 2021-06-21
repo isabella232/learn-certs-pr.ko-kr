@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Exam | Microsoft Docs
-description: Microsoft Retired Exam
+title: 시험 중단 | Microsoft Docs
+description: 시험 중단
 documentationcenter: NA
 author: micsullivan
 ms.topic: article
@@ -10,55 +10,15 @@ ms.date: 07/30/2019
 ms.author: msulliv
 ms.prod: non-product-specific
 ---
-# 중단 예정 시험
+# 시험 중단
 
-향후 12개월 내에 중단될 예정인 시험이 기술 별로 등재된 목록입니다. (추후 변동될 수 있습니다.)
+## 시험이 중단되는 이유
 
-| 2021년 1월 31일 일요일 중단 예정 | |
-| --- | --- |
-| [70-333](/learn/certifications/exams/70-333): Deploying Enterprise Voice with Skype for Business 2015 |
-| [70-334](/learn/certifications/exams/70-334): Core Solutions of Microsoft Skype for Business 2015 |
-| [70-339](/learn/certifications/exams/70-339): Managing Microsoft SharePoint Server 2016 |
-| [70-345](/learn/certifications/exams/70-345): Designing and Deploying Microsoft Exchange Server 2016 |
-| [70-357](/learn/certifications/exams/70-357): Developing Mobile Apps |
-| [70-410](/learn/certifications/exams/70-410): Installing and Configuring Windows Server 2012 |
-| [70-411](/learn/certifications/exams/70-411): Administering Windows Server 2012 |
-| [70-412](/learn/certifications/exams/70-412): Configuring Advanced Windows Server 2012 Services  |
-| [70-413](/learn/certifications/exams/70-413): Designing and Implementing a Server Infrastructure |
-| [70-414](/learn/certifications/exams/70-414): Implementing an Advanced Server Infrastructure |
-| [70-417](/learn/certifications/exams/70-417): Upgrading Your Skills to MCSA Windows Server 2012 |
-| [70-461](/learn/certifications/exams/70-461): Querying Microsoft SQL Server 2012/2014 |
-| [70-462](/learn/certifications/exams/70-462): Administering Microsoft SQL Server 2012/2014 Databases |
-| [70-463](/learn/certifications/exams/70-463): Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 |
-| [70-464](/learn/certifications/exams/70-464): Developing Microsoft SQL Server Databases |
-| [70-465](/learn/certifications/exams/70-465): Designing Database Solutions for Microsoft SQL Server |
-| [70-466](/learn/certifications/exams/70-466): Implementing Data Models and Reports with Microsoft SQL Server |
-| [70-467](/learn/certifications/exams/70-467): Designing Business Intelligence Solutions with Microsoft SQL Server |
-| [70-480](/learn/certifications/exams/70-480): Programming in HTML5 with JavaScript and CSS3 |
-| [70-483](/learn/certifications/exams/70-483): Programming in C# |
-| [70-486](/learn/certifications/exams/70-486): Developing ASP.NET MVC Web Applications |
-| [70-487](/learn/certifications/exams/70-487): Developing Microsoft Azure and Web Services |
-| [70-537](/learn/certifications/exams/70-537): Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub |
-| [70-705](/learn/certifications/exams/70-705): Designing and Providing Microsoft Licensing Solutions to Large Organizations |
-| [70-740](/learn/certifications/exams/70-740): Installation, Storage, and Compute with Windows Server 2016 |
-| [70-741](/learn/certifications/exams/70-741): Networking with Windows Server 2016 |
-| [70-742](/learn/certifications/exams/70-742): Identity with Windows Server 2016 |
-| [70-743](/learn/certifications/exams/70-743): Upgrading Your Skills to MCSA: Windows Server 2016 |
-| [70-744](/learn/certifications/exams/70-744): Securing Windows Server 2016 |
-| [70-745](/learn/certifications/exams/70-745): Implementing a Software-Defined Datacenter |
-| [70-761](/learn/certifications/exams/70-761): Querying Data with Transact-SQL |
-| [70-762](/learn/certifications/exams/70-762): Developing SQL Databases |
-| [70-764](/learn/certifications/exams/70-764): Administering a SQL Database Infrastructure |
-| [70-765](/learn/certifications/exams/70-765): Provisioning SQL Databases |
-| [70-767](/learn/certifications/exams/70-767): Implementing a Data Warehouse using SQL |
-| [70-768](/learn/certifications/exams/70-768): Developing SQL Data Models |
-| [70-777](/learn/certifications/exams/70-777): Implementing Microsoft Azure Cosmos DB Solutions |
-| [70-778](/learn/certifications/exams/70-778): Analyzing and Visualizing Data with Power BI |
-| [70-779](/learn/certifications/exams/70-779): Analyzing and Visualizing Data with Microsoft Excel |
-| [MB2-716](/learn/certifications/exams/mb2-716): Microsoft Dynamics 365 Customization and Configuration |
-| [MB6-894](/learn/certifications/exams/mb6-894): Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance |
-| [MB6-897](/learn/certifications/exams/mb6-897): Microsoft Dynamics 365 for Retail |
-| [MB6-898](/learn/certifications/exams/mb6-898): Microsoft Dynamics 365 for Talent |
+기술 및 관련 직업 역할은 매년 빠르게 변화합니다. 인증 프로그램의 관련성을 유지하기 위해, 시험 및 인증을 지속적으로 검토하여 최신 기술과 Microsoft 기술을 반영하고 더 이상 관련이없는 기술을 폐기합니다. 우리의 목표는 응시자들이 수요가 많은 cloud-기반 직무 역할에서, 첨단 기술을 사용할 수 있도록 지원하는 것이고, 이를 위해 조직의 디지털 혁신을 돕는 중요한 직무 역할에 대한 인증을 제공합니다. 이에 대한 더 자세한 정보는, 방문하십시오: [Updating Microsoft Certifications: How we keep them relevant – Microsoft Tech Community.](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/updating-microsoft-certifications-how-we-keep-them-relevant/ba-p/1469425)
+
+## 중단 예정 시험
+
+다음 12개월 내에 중단 될 예정인 시험은 날짜별로 여기에 나열됩니다. (이 정보는 변경될 수 있습니다.)
 
 | 2021년 6월 30일 중단 |
 | --- |
@@ -68,15 +28,30 @@ ms.prod: non-product-specific
 | [MB-600](/learn/certifications/exams/mb-600): Microsoft Dynamics 365 + Power Platform Solution Architect |
 | [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
 
+| 2022년 6월 30일 종료 |
+| --- |
+| [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
+| [98-361](/learn/certifications/exams/98-361): Software Development Fundamentals |
+| [98-364](/learn/certifications/exams/98-364): Database Fundamentals |
+| [98-365](/learn/certifications/exams/98-365): Windows Server Administration Fundamentals |
+| [98-366](/learn/certifications/exams/98-366): Networking Fundamentals |
+| [98-367](/learn/certifications/exams/98-367): Security Fundamentals |
+| [98-368](/learn/certifications/exams/98-368): Mobility and Devices Fundamentals |
+| [98-375](/learn/certifications/exams/98-375): HTML5 Application Development Fundamentals |
+| [98-381](/learn/certifications/exams/98-381): Introduction to Programming Using Python |
+| [98-382](/learn/certifications/exams/98-382): Introduction to Programming Using JavaScript |
+| [98-383](/learn/certifications/exams/98-383): Introduction to Programming Using HTML and CSS |
+| [98-388](/learn/certifications/exams/98-388): Introduction to Programming Using Java |
+
 ## 최근 중단된 시험
 
-참고로 지난 한 해동안 중단된 시험에는 12개월 동안 시험 세부 정보 페이지로 연결되는 링크가 포함됩니다.
+이 시험들은 작년에 중단되었습니다. 참고용으로, 12개월 동안 이러한 시험 세부 정보 페이지에 대한 링크를 계속 제공 할 것입니다. 이러한 시험은 더 이상 응시할 수 없지만, 중단 된 시험이 중단되지 않은 인증을 위한 요구 사항 중 하나인 경우, 중단 이후 최대 1년 동안 인증 요구 사항을 충족하는 데 사용할 수 있습니다. 
 
 | 역할 기반| | |
 | --- | --- | --- |
-| [AZ-100](https://www.microsoft.com/learning/exam-AZ-100.aspx) | Microsoft Azure Infrastructure and Deployment | 2019년 5월 1일
-| [AZ-101](https://www.microsoft.com/learning/exam-AZ-101.aspx) | Microsoft Azure Integration and Security | 2019년 5월 1일
-| [AZ-102](https://www.microsoft.com/learning/exam-AZ-102.aspx) | Microsoft Azure Administrator Certification Transition | 2019년 6월 30일
+| [AZ-100](/learn/certifications/exams/AZ-100) | Microsoft Azure Infrastructure and Deployment | 2019년 5월 1일
+| [AZ-101](/learn/certifications/exams/AZ-101) | Microsoft Azure Integration and Security | 2019년 5월 1일
+| [AZ-102](/learn/certifications/exams/AZ-102) | Microsoft Azure Administrator Certification Transition | 2019년 6월 30일
 | [AZ-103](/learn/certifications/exams/AZ-103) | Microsoft Azure Administrator | 2020년 8월 31일
 | AZ-200 | Microsoft Azure Developer Core Solutions (2018년 9월 24일에 릴리스) | 2019년 1월 3일
 | AZ-201 | Microsoft Azure Developer Advanced Solutions (2018년 9월 24일에 릴리스) | 2019년 1월 3일
@@ -84,13 +59,13 @@ ms.prod: non-product-specific
 | [AZ-203](/learn/certifications/exams/AZ-203) | Microsoft Azure 용 솔루션 개발 | 2020년 8월 31일
 | [AZ-300](/learn/certifications/exams/AZ-300) | Microsoft Azure Architect Technologies | 2020년 9월 30일
 | [AZ-301](/learn/certifications/exams/AZ-301) | Microsoft Azure Architect 설계 | 2020년 9월 30일
-| [AZ-302](https://www.microsoft.com/learning/exam-AZ-302.aspx) | Microsoft Azure Solutions Architect Certification Transition | 2019년 6월 30일
+| [AZ-302](/learn/certifications/exams/AZ-302) | Microsoft Azure Solutions Architect Certification Transition | 2019년 6월 30일
 | [MS-200](/learn/certifications/exams/ms-200) | 메시징 플랫폼 계획 및 구성’ | 2020년 8월 31일
 | [MS-201](/learn/certifications/exams/ms-201) | 하이브리드 및 보안 메시징 플랫폼 구현 | 2020년 8월 31일
-| [MS-202](https://www.microsoft.com/learning/exam-MS-202.aspx) | Microsoft 365 Messaging Administrator Certification Transition | 2019년 9월 30일
+| [MS-202](/learn/certifications/exams/MS-202) | Microsoft 365 Messaging Administrator Certification Transition | 2019년 9월 30일
 | [MS-300](/learn/certifications/exams/ms-300) | Microsoft 365 Teamwork 배포 | 2020년 8월 31일
 | [MS-301](/learn/certifications/exams/ms-301) | SharePoint Server Hybrid 배포 | 2020년 8월 31일
-| [MS-302](https://www.microsoft.com/learning/exam-MS-302.aspx) | Microsoft 365 Teamwork Administrator Certification Transition | 2019년 9월 30일
+| [MS-302](/learn/certifications/exams/MS-302) | Microsoft 365 Teamwork Administrator Certification Transition | 2019년 9월 30일
 
 <br/>
 
@@ -100,14 +75,36 @@ ms.prod: non-product-specific
 | 70-247 | Configuring and Deploying a Private Cloud | 2017년 12월 31일
 | 70-331 | Core Solutions of Microsoft SharePoint Server 2013 | 2019년 3월 31일
 | 70-332 | Advanced Solutions of Microsoft SharePoint Server 2013 | 2019년 3월 31일
+| [70-333](/learn/certifications/exams/70-333) | Deploying Enterprise Voice with Skype for Business 2015 | 2021년 1월 31일
+| [70-334](/learn/certifications/exams/70-334) | Core Solutions of Microsoft Skype for Business 2015 | 2021년 1월 31일
+| [70-339](/learn/certifications/exams/70-339) | Managing Microsoft SharePoint Server 2016 | 2021년 1월 31일
 | 70-341 | Core Solutions of Microsoft Exchange Server 2013 | 2019년 3월 31일
 | 70-342 | Advanced Solutions of Microsoft Exchange Server 2013 | 2019년 3월 31일
-| [70-346](https://www.microsoft.com/learning/exam-70-346.aspx) | Managing Office 365 Identities and Requirements | 2019년 4월 30일
-| [70-347](https://www.microsoft.com/learning/exam-70-347.aspx) | Enabling Office 365 Services | 2019년 4월 30일
-| [70-348](https://www.microsoft.com/learning/exam-70-348.aspx) | Managing Projects and Portfolios with Microsoft PPM | 2019년 12월 31일
+| [70-345](/learn/certifications/exams/70-345) | Designing and Deploying Microsoft Exchange Server 2016 | 2021년 1월 31일
+| 70-346 | Managing Office 365 Identities and Requirements | 2019년 4월 30일
+| 70-347 | Enabling Office 365 Services | 2019년 4월 30일
+| 70-348 | Managing Projects and Portfolios with Microsoft PPM | 2019년 12월 31일
+| [70-357](/learn/certifications/exams/70-357) | Developing Mobile Apps | 2021년 1월 31일
 | 70-398 | Planning for and Managing Devices in the Enterprise | 2018년 7월 31일
-| [70-473](https://www.microsoft.com/learning/exam-70-473.aspx) | Designing and Implementing Cloud Data Platform Solutions | 2019년 6월 30일
+| [70-410](/learn/certifications/exams/70-410) | Installing and Configuring Windows Server 2012 | 2021년 1월 31일
+| [70-411](/learn/certifications/exams/70-411) | Administering Windows Server 2012 | 2021년 1월 31일
+| [70-412](/learn/certifications/exams/70-412) | Configuring Advanced Windows Server 2012 Services | 2021년 1월 31일
+| [70-413](/learn/certifications/exams/70-413) | Designing and Implementing a Server Infrastructure | 2021년 1월 31일
+| [70-414](/learn/certifications/exams/70-414) | Implementing an Advanced Server Infrastructure | 2021년 1월 31일
+| [70-417](/learn/certifications/exams/70-417) | Upgrading Your Skills to MCSA Windows Server 2012 | 2021년 1월 31일
+| [70-461](/learn/certifications/exams/70-461) | Querying Microsoft SQL Server 2012/2014 | 2021년 1월 31일
+| [70-462](/learn/certifications/exams/70-462) | Administering Microsoft SQL Server 2012/2014 Databases | 2021년 1월 31일
+| [70-463](/learn/certifications/exams/70-463) | Implementing a Data Warehouse with Microsoft SQL Server 2012/2014 | 2021년 1월 31일
+| [70-464](/learn/certifications/exams/70-464) | Developing Microsoft SQL Server Databases | 2021년 1월 31일
+| [70-465](/learn/certifications/exams/70-465) | Designing Database Solutions for Microsoft SQL Server | 2021년 1월 31일
+| [70-466](/learn/certifications/exams/70-466) | Implementing Data Models and Reports with Microsoft SQL Server | 2021년 1월 31일
+| [70-467](/learn/certifications/exams/70-467) | Designing Business Intelligence Solutions with Microsoft SQL Server | 2021년 1월 31일
+| 70-473 | Designing and Implementing Cloud Data Platform Solutions | 2019년 6월 30일
 | [70-475](https://www.microsoft.com/learning/exam-70-475.aspx) | Designing and Implementing Big Data Analytics Solutions | 2019년 6월 30일
+| [70-480](/learn/certifications/exams/70-480) | Programming in HTML5 with JavaScript and CSS3 | 2021년 1월 31일
+| [70-483](/learn/certifications/exams/70-483) | Programming in C# | 2021년 1월 31일
+| [70-486](/learn/certifications/exams/70-486) | Developing ASP.NET MVC Web Applications | 2021년 1월 31일
+| [70-487](/learn/certifications/exams/70-487) | Developing Microsoft Azure and Web Services | 2021년 1월 31일
 | 70-488 | Developing SharePoint Server 2013 Core Solutions | 2018년 7월 31일
 | 70-489 | Developing SharePoint Server 2013 Advanced Solutions | 2018년 7월 31일
 | 70-496 | Administering Visual Studio Team Foundation Server | 2018년 12월 31일
@@ -117,26 +114,43 @@ ms.prod: non-product-specific
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 2018년 12월 31일
 | 70-534 | Architecting Microsoft Azure Solutions | 2017년 12월 31일
 | 70-535 | Architecting Microsoft Azure Solutions | 2018년 12월 31일
+| [70-537](/learn/certifications/exams/70-537) | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack Hub | 2021년 1월 31일
 | 70-680 | Windows 7, Configuring | 2018년 7월 31일
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 2018년 7월 31일
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 2018년 7월 31일
 | 70-695 | Deploying Windows Desktops and Enterprise Applications | 2019년 3월 31일
 | 70-696 | Administering System Center Configuration Manager and Intune | 2018년 3월 31일
-| [70-697](https://www.microsoft.com/learning/exam-70-697.aspx) | Configuring Windows Devices | 2019년 4월 30일
+| 70-697 | Configuring Windows Devices | 2019년 4월 30일
 | 70-698 | Installing and Configuring Windows 10 | 2019년 3월 31일
-| [70-703](https://www.microsoft.com/learning/exam-70-703.aspx) | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 2019년 12월 31일
-| [70-713](https://www.microsoft.com/learning/exam-70-713.aspx) | Software Asset Management (SAM) - Core | 2019년 12월 31일
-| [70-735](https://www.microsoft.com/learning/exam-70-735.aspx) | OEM Manufacturing and Deployment for Windows 10 | 2019년 12월 31일
-| [70-773](https://www.microsoft.com/learning/exam-70-773.aspx) | Analyzing Big Data with Microsoft R | 2019년 6월 30일
-| [70-774](https://www.microsoft.com/learning/exam-70-774.aspx) | Perform Cloud Data Science with Azure Machine Learning | 2019년 6월 30일
-| [70-775](https://www.microsoft.com/learning/exam-70-775.aspx) | Perform Data Engineering on Microsoft Azure HDInsight | 2019년 6월 30일
-| [70-776](https://www.microsoft.com/learning/exam-70-776.aspx) | Perform Big Data Engineering on Microsoft Cloud Services | 2019년 6월 30일
-| [74-343](https://www.microsoft.com/learning/exam-74-343.aspx) | Managing Projects with Microsoft Project 2013 | 2019년 7월 31일
+| 70-703 | Administering Microsoft System Center Configuration Manager and Cloud Services Integration | 2019년 12월 31일
+| [70-705](/learn/certifications/exams/70-705) | Designing and Providing Microsoft Licensing Solutions to Large Organizations | 2021년 1월 31일
+| 70-713 | Software Asset Management (SAM) - Core | 2019년 12월 31일
+| 70-735 | OEM Manufacturing and Deployment for Windows 10 | 2019년 12월 31일
+| [70-740](/learn/certifications/exams/70-740) | Installation, Storage, and Compute with Windows Server 2016 | 2021년 1월 31일
+| [70-741](/learn/certifications/exams/70-741) | Networking with Windows Server 2016 | 2021년 1월 31일
+| [70-742](/learn/certifications/exams/70-742) | Identity with Windows Server 2016 | 2021년 1월 31일
+| [70-743](/learn/certifications/exams/70-743) | Upgrading Your Skills to MCSA: Windows Server 2016 | 2021년 1월 31일
+| [70-744](/learn/certifications/exams/70-744) | Securing Windows Server 2016 | 2021년 1월 31일
+| [70-745](/learn/certifications/exams/70-745) | Implementing a Software-Defined Datacenter | 2021년 1월 31일
+| [70-761](/learn/certifications/exams/70-761) | Querying Data with Transact-SQL | 2021년 1월 31일
+| [70-762](/learn/certifications/exams/70-762) | Developing SQL Databases | 2021년 1월 31일
+| [70-764](/learn/certifications/exams/70-764) | Administering a SQL Database Infrastructure | 2021년 1월 31일
+| [70-765](/learn/certifications/exams/70-765) | Provisioning SQL Databases | 2021년 1월 31일
+| [70-767](/learn/certifications/exams/70-767) | Implementing a Data Warehouse using SQL | 2021년 1월 31일
+| [70-768](/learn/certifications/exams/70-768) | Developing SQL Data Models | 2021년 1월 31일
+| 70-773 | Analyzing Big Data with Microsoft R | 2019년 6월 30일
+| 70-774 | Perform Cloud Data Science with Azure Machine Learning | 2019년 6월 30일
+| 70-775 | Perform Data Engineering on Microsoft Azure HDInsight 2019년 6월 30일
+| 70-776 | Perform Big Data Engineering on Microsoft Cloud Services | 2019년 6월 30일
+| [70-777](/learn/certifications/exams/70-777) | Implementing Microsoft Azure Cosmos DB Solutions | 2021년 1월 31일
+| [70-778](/learn/certifications/exams/70-778) | Analyzing and Visualizing Data with Power BI | 2021년 1월 31일
+| [70-779](/learn/certifications/exams/70-779) | Analyzing and Visualizing Data with Microsoft Excel | 2021년 1월 31일
+| 74-343 | Managing Projects with Microsoft Project 2013 | 2019년 7월 31일
 | 74-344 | Managing Programs and Projects with Project Server 2013 | 2017년 12월 31일
 | 74-409 | Server Virtualization with Windows Server Hyper-V and System Center | 2018년 7월 31일
-| [77-419](https://www.microsoft.com/learning/exam-77-419.aspx) | Microsoft SharePoint 2013 | 2020년 6월 30일
-| [98-369](https://www.microsoft.com/learning/exam-98-369.aspx) | Cloud Fundamentals | 2019년 9월 30일
-| [98-380](https://www.microsoft.com/learning/exam-98-380.aspx) | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019년 8월 07일
+| [77-419](/learn/certifications/exams/77-419) | Microsoft SharePoint 2013 | 2020년 6월 30일
+| 98-369 | Cloud Fundamentals | 2019년 9월 30일
+| 98-380 | Introduction to Programming Using Block-Based Languages (Touch Develop) | 2019년 8월 07일
 
 <br/>
 
@@ -144,29 +158,33 @@ ms.prod: non-product-specific
 | --- | --- | --- |
 | [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 2020년 12월 31일
 | [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 2020년 12월 31일
-| [MB-900](https://www.microsoft.com/learning/exam-MB-900.aspx) | Microsoft Dynamics 365 Fundamentals | 2019년 12월 31일
-| [MB2-706](https://www.microsoft.com/learning/exam-MB2-706.aspx) | Microsoft Dynamics CRM Online Deployment | 2019년 12월 31일
-| [MB2-707](https://www.microsoft.com/learning/exam-MB2-707.aspx) | Microsoft Dynamics CRM Customization and Configuration | 2019년 12월 31일
-| [MB2-708](https://www.microsoft.com/learning/exam-MB2-708.aspx) | Microsoft Dynamics CRM Installation | 2019년 12월 31일
+| [MB-900](/learn/certifications/exams/MB-900) | 2019년 12월 31일
+| MB2-706 | Microsoft Dynamics CRM Online Deployment | 2019년 12월 31일
+| MB2-707 | Microsoft Dynamics CRM Customization and Configuration | 2019년 12월 31일
+| MB2-708 | Microsoft Dynamics CRM Installation | 2019년 12월 31일
 | MB2-709 | Microsoft Dynamics Marketing | 2017년 12월 31일
-| [MB2-710](https://www.microsoft.com/learning/exam-MB2-710.aspx) | Microsoft Dynamics CRM 2016 Online Deployment | 2019년 12월 31일
-| [MB2-711](https://www.microsoft.com/learning/exam-MB2-711.aspx) | Microsoft Dynamics CRM 2016 Installation | 2019년 12월 31일
-| [MB2-712](https://www.microsoft.com/learning/exam-MB2-712.aspx) | Microsoft Dynamics CRM 2016 Customization and Configuration | 2019년 12월 31일
-| [MB2-713](https://www.microsoft.com/learning/exam-MB2-713.aspx) | Microsoft Dynamics CRM 2016 Sales | 2019년 12월 31일
-| [MB2-714](https://www.microsoft.com/learning/exam-MB2-714.aspx) | Microsoft Dynamics CRM 2016 Customer Service | 2019년 12월 31일
-| [MB2-715](https://www.microsoft.com/learning/exam-MB2-715.aspx) | Microsoft Dynamics 365 customer engagement Online Deployment | 2019년 06월 30일
-| [MB2-717](https://www.microsoft.com/learning/exam-MB2-717.aspx) | Microsoft Dynamics 365 for Sales | 2019년 6월 30일
-| [MB2-718](https://www.microsoft.com/learning/exam-MB2-718.aspx) | Microsoft Dynamics 365 for Customer Service | 2019년 8월 31일
-| [MB2-719](https://www.microsoft.com/learning/exam-MB2-719.aspx) | Microsoft Dynamics 365 for Marketing | 2019년 8월 31일
-| [MB2-877](https://www.microsoft.com/learning/exam-MB2-877.aspx) | Microsoft Dynamics 365 for Field Service | 2019년 6월 30일
+| MB2-710 | Microsoft Dynamics CRM 2016 Online Deployment | 2019년 12월 31일
+| MB2-711 | Microsoft Dynamics CRM 2016 Installation | 2019년 12월 31일
+| MB2-712 | Microsoft Dynamics CRM 2016 Customization and Configuration | 2019년 12월 31일
+| MB2-713 | Microsoft Dynamics CRM 2016 Sales | 2019년 12월 31일
+| MB2-714 | Microsoft Dynamics CRM 2016 Customer Service |  2019년 12월 31일
+| MB2-715 | Microsoft Dynamics 365 customer engagement Online Deployment | 2019년 06월 30일
+| [MB2-716](/learn/certifications/exams/mb2-716) | Microsoft Dynamics 365 Customization and Configuration | 2021년 1월 31일
+| MB2-717 | Microsoft Dynamics 365 for Sales | 2019년 6월 30일
+| MB2-718 | Microsoft Dynamics 365 for Customer Service | 2019년 8월 31일
+| MB2-719 | Microsoft Dynamics 365 for Marketing | 2019년 8월 31일
+| MB2-877 | Microsoft Dynamics 365 for Field Service | 2019년 6월 30일
 | MB6-705 | Microsoft Dynamics AX 2012 R3 CU8 Installation and Configuration | 2017년 12월 31일
 | MB6-890 | Microsoft Dynamics AX Development Introduction | 2017년 12월 31일
 | MB6-892 | Microsoft Dynamics AX Distribution and Trade | 2017년 12월 31일
 | MB6-893 | Microsoft Dynamics AX Financials | 2017년 12월 31일
-| [MB6-895](https://www.microsoft.com/learning/exam-MB6-895.aspx) | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 2019년 8월 31일
-| [MB6-896](https://www.microsoft.com/learning/exam-MB6-896.aspx) | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 2019년 8월 31일
+| [MB6-894](/learn/certifications/exams/mb6-894) | Development, Extensions, and Deployment for Microsoft Dynamics 365 Finance | 2021년 1월 31일
+| MB6-895 | Financial Management in Microsoft Dynamics 365 for Finance and Operations | 2019년 8월 31일
+| MB6-896 | Distribution and Trade in Microsoft Dynamics 365 for Finance and Operations | 2019년 8월 31일
+| [MB6-897](/learn/certifications/exams/mb6-897) | Microsoft Dynamics 365 for Retail | 2021년 1월 31일
+| [MB6-898](/learn/certifications/exams/mb6-898) | Microsoft Dynamics 365 for Talent | 2021년 1월 31일
 
-## 다른 만료된 시험
+## 12개월 이전에 중단 된 시험
 
 | ITPro/Developer | | |
 | --- | --- | --- |

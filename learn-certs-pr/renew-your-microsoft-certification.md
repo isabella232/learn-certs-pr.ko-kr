@@ -22,40 +22,29 @@ Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무�
 
 인증 갱신 자격이 있는 경우 Microsoft 인증 ID (MCID)와 연결된 이메일을 통해 알림을 받게 됩니다. 인증이 만료되기 전 최대 4건의 이메일 알림을 받게 됩니다. 인증을 갱신한 후에는 다시 갱신할 때까지 더 미리 알림을 받지 않습니다.
 
-시장에 출시된 인증에 대한 갱신 평가를 초기에 출시하므로 다음 로드맵을 확인하십시오. (변경될 수 있습니다)
+사용 가능한 첫 번째 갱신 평가 세트가 여기에 나열됩니다. 이것들은 개별 학습자 자격이 갱신되는 순서대로 계획됩니다. 학습자는 인증 만료 전 6개월 이내에 갱신 할 수 있습니다. 목록에 대한 업데이트/변경은 이 페이지를 확인하십시오.
 
-| 갱신 평가가 2021년 2월 초에 가능합니다. |
+| 2021년 3월 갱신 평가 가능 |
 | --- |
 | Microsoft Certified: Azure Administrator Associate |
 | Microsoft Certified: Azure Developer Associate |
 | Microsoft Certified: Azure Security Engineer Associate |
 | Microsoft Certified: DevOps Engineer Expert |
 | Microsoft Certified: Azure Solutions Architect Expert |
-| Microsoft Certified: Azure for SAP Workloads Specialty |
-| Microsoft Certified: Azure IoT Developer Specialty |
+| Microsoft Certified: Azure AI Engineer Associate |
+| Microsoft Certified: Azure Data Engineer Associate |
 | Microsoft Certified: Azure Data Scientist Associate |
 | Microsoft 365 Certified: Modern Desktop Administrator Associate |
 | Microsoft 365 Certified: Messaging Administrator Associate |
 | Microsoft 365 Certified: Security Administrator Associate |
-| Microsoft 365 Certified: Developer Associate |
-| Microsoft 365 Certified: Teams Administrator Associate |
 | Microsoft 365 Certified: Enterprise Administrator Expert |
+| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
+| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
 | Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
-
-| 갱신 평가가 2021년 2월 중순에서 3월 사이에 가능합니다. |
-| --- |
-| Microsoft Certified: Azure AI Engineer Associate |
-| Microsoft Certified: Azure Data Engineer Associate |
-| Microsoft Certified: Azure Database Administrator Associate |
-| Microsoft Certified: Data Analyst Associate |
-| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Developer Associate |
-| Microsoft Certified: Dynamics 365 Finance and Operations Apps Solution Architect Expert |
 
 ## 인증 갱신 혜택
 
@@ -78,7 +67,7 @@ Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무�
 
 ## 인증 만료 정책 변경 내용
 
-2020년 12월 15일 Microsoft에서는[인증 만료 정책 변경을 발표했습니다](https://aka.ms/CertRenewalBlog). 2021년 6월부터 모든 취득한 [역할 기반](/learn/certifications/browse/?type=role-based) 또는 [전문 인증](/learn/certifications/browse/?type=specialty)은 취득한 날로부터 1년간 유효합니다. 2021년 6월 이전에 취득한 역할 기반 및 전문 분야 인증은 취득한 날로부터 2년간 유효합니다.
+2020년 12월 15일에, [인증 만료 정책 변경을 발표했습니다.](https://aka.ms/CertRenewalBlog) 2021년 6월 30일 수요일 @오전 12시 그리니치 표준시 (2021년 6월 29일 @오후 5시 태평양 표준시)부터, 모든 [역할-기반](/learn/certifications/browse/?type=role-based) 또는 [전문 인증](/learn/certifications/browse/?type=specialty)은 획득한 날짜로부터 1년 동안 유효합니다. 2021년 6월 이전에 취득한 역할 기반 및 전문 분야 인증은 취득한 날로부터 2년간 유효합니다.
 
 ## 자주 하는 질문
 
@@ -92,7 +81,7 @@ Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무�
 
     예. 인증 프로필을 연결하면 자격 기간 내에 Microsoft Learn에서 갱신 평가를 받을 수 있습니다. 또한, 좀 더 개인화된 경험을 할 수 있습니다.
 
-    최적의 환경을 위해 Microsoft Learn의 인증 프로필과 문서 프로필 모두 동일한 계정의 자격 증명 사용을 권장합니다. 하나의 문서 프로필에는 하나의 인증 프로필만 연결할 수 있으며 이후 변경할 수 없습니다. 따라서 인증 프로필이 여러 개인 경우 문서 프로필에 연결하기 전[인증 지원팀에 문의](https://aka.ms/mcpforum)하여 Microsoft 인증 프로필을 병합하십시오.
+    갱신 프로세스의 일부로, Microsoft Learn의 인증 프로필과 Doc 프로필 모두에 대해 동일한 개인 Microsoft 계정 자격 증명을 사용할 것을 요청받게 됩니다. 하나의 Docs 프로필에는 하나의 인증 프로필만 연결할 수 있다는 점을 참고하십시오. 여러 인증 프로필이 있는 경우, Docs 프로필에 연결하기 전에 [인증 지원 팀에 문의](https://aka.ms/mcpforum)하여 Microsoft Certification 프로필을 병합하십시오. 
 
 3. **내 Microsoft 인증 프로필과 Microsoft Learn의 문서 프로필의 차이점은 무엇입니까?**
 
@@ -100,38 +89,42 @@ Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무�
 
     Microsoft Learn에서 문서 프로필에는 Microsoft Learn과 Docs, Q&A, 코드 샘플에서의 사용자의 활동 기록이 포함됩니다.  개인 Microsoft 계정 또는 회사 또는 학교 계정을 사용하여 액세스합니다.
 
-4. **인증이 만료되었습니다. 이제 어떻게 됩니까?**
+4. **Learn에 각각 다른 개인 계정과 연결된 Microsoft Certification 프로필과 Docs 프로필이 있습니다. 이 두 프로필을 어떻게 연결합니까?**
+
+    각각 다른 개인 계정을 사용하는 Microsoft Certification 프로필과 Docs on Learn 프로필을 연결하기전에, 두 개인 계정에 사용할 단일 개정 계정을 선택해야합니다. 이러한 계정을 연결하는 옵션을 검토하려면, “[Aligning accounts between Certification Profile and Learn Profile](/learn/certifications/aligning-accounts-between-certification-profile-and-learn-profile)”문서를 확인하십시오.
+
+5. **인증이 만료되었습니다. 이제 어떻게 됩니까?**
 
     인증이 만료되면 필수 시험을 통과하여 인증을 다시 획득해야 합니다.
 
-5. **인증이 만료되기 전 베타 시험을 통과하거나 시험을 재응시하여 인증을 갱신할 수 있습니까?**
+6. **인증이 만료되기 전 베타 시험을 통과하거나 시험을 재응시하여 인증을 갱신할 수 있습니까?**
 
     아니요. 인증을 갱신하려면 인증이 만료되기 전 갱신 평가를 통과해야 합니다.
 
-6. **모든 Microsoft 인증은 갱신 옵션이 있습니까?**
+7. **모든 Microsoft 인증은 갱신 옵션이 있습니까?**
 
     6개월 이상 사용 가능한 Microsoft 역할 기반 및 전문 인증은 갱신 옵션이 있습니다.
 
-7. **Microsoft 기본 인증을 갱신해야 합니까?**
+8. **Microsoft 기본 인증을 갱신해야 합니까?**
 
     아니요. 기본 인증은 만료되지 않음으로 인증 갱신 프로세스는 기본 인증에 적용되지 않습니다.
 
-8. **갱신 평가가 정기 시험 업데이트 시기에 맞게 조정됩니까?**
+9. **갱신 평가가 정기 시험 업데이트 시기에 맞게 조정됩니까?**
 
     예, 평가 업데이트는 인증 시험 업데이트 시기와 일치합니다.
 
-9. **평가는 어떤 언어로 제공됩니까?**
+10. **평가는 어떤 언어로 제공됩니까?**
 
     Microsoft Learn에서 갱신 평가는 해당 시험 인증과 동일한 언어로 제공됩니다.
 
-10. **평가를 몇 번 재응시할 수 있습니까?**
+11. **평가를 몇 번 재응시할 수 있습니까?**
 
     평가를 통과하는데 필요한 횟수만큼 재응시할 수 있고 인증이 만료되기 전 통과해야 합니다. 처음에 통과하지 못한 경우 즉시 평가를 다시 시도할 수 있습니다. 그러나 두 번째 시도 후에는 추가 시도를 하려면 최소 24시간을 기다려야 합니다.
 
-11. **전문가 수준 역할 기반 인증을 갱신하고 본 인증에 준전문가 필수 인증이 포함된 경우 준전문가 인증도 자동으로 갱신됩니까?**
+12. **전문가 수준 역할 기반 인증을 갱신하고 본 인증에 준전문가 필수 인증이 포함된 경우 준전문가 인증도 자동으로 갱신됩니까?**
 
     아니요. 각 인증은 관련 평가를 통과하여 별도로 갱신해야 합니다.
 
-12. **전문가 수준 인증을 받으려면 사전 요구 사항으로서 준전문가 수준 인증 취득이 필요합니다. 준 전문가 수준 인증이 만료되면 전문가 수준 인증도 자동으로 만료됩니까?**
+13. **전문가 수준 인증을 받으려면 사전 요구 사항으로서 준전문가 수준 인증 취득이 필요합니다. 준 전문가 수준 인증이 만료되면 전문가 수준 인증도 자동으로 만료됩니까?**
 
     아니요. 준 전문가 수준의 필수 인증이 만료되더라도 전문가 수준의 인증은 자동으로 만료되지 않습니다. 각 인증은 관련 평가를 통과하여 별도로 갱신해야 합니다.
