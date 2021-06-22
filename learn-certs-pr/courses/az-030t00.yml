@@ -1,10 +1,10 @@
 ### YamlMime:Course
 title: Microsoft Azure technologies for AWS architects
 metadata:
-  title: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
-  description: 'Course AZ-030T00-A: Microsoft Azure technologies for AWS architects'
+  title: 'Course AZ-030T00--A: Microsoft Azure technologies for AWS architects'
+  description: 'Course AZ-030T00--A: Microsoft Azure technologies for AWS architects'
 uid: course.az-030t00
-courseNumber: 'AZ-030T00-A'
+courseNumber: 'AZ-030T00'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -15,7 +15,7 @@ skillsGained:
 - skill: 리소스 관리자, Azure Portal, Cloud Shell 및 CLI를 사용하여 Azure 관리.
 - skill: VNet 피어링과 같은 사이트 간 연결 솔루션 및 가상 네트워크 게이트웨이 구성.
 - skill: Azure App Service, Azure 컨테이너 인스턴스 및 Kubernetes를 관리합니다.
-learningPartnersLink: /learn/certifications/partners
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
@@ -24,14 +24,13 @@ roles:
 - solution-architect
 products:
 - azure
-exams:
-- uid: exam.az-303
 summary: |-
   본 과정에서는 Amazon Web Services을 이전에 설계해 본 솔루션 설계자에게 비즈니스 요구 사항을 안전하고 확장 가능하며 안정적인 Azure용 솔루션으로 전환하는 방법을 설명합니다. 레슨에는 가상화, 자동화, 네트워킹, 스토리지, ID, 보안, 데이터 플랫폼 및 애플리케이션 인프라가 포함됩니다. 이 역할은 각 영역의 결정이 전체 솔루션에 미치는 영향을 관리해야 합니다.
 
   #### 대상 그룹 프로필
   본 과정은 AWS에서 실행되는 솔루션을 설계 및 구현할 수 있는 전문 지식이 있고 이제는 Microsoft Azure용으로 설계하려는 AWS 클라우드 설계자를 대상으로 합니다.
 prerequisitesSection: |-
+  이 과정에서 성공하려면, 학습자들은 다음을 갖추어야합니다&#58;
   - 스토리지 구조, 컴퓨팅, 네트워킹 및 외부 리소스/서비스와 통합에 걸친 안전하고 확장 가능한 AWS 클라우드 솔루션을 설계한 AWS 설계자로서 1년 이상의 경험.
   - VM, 가상 네트워킹 및 가상 하드 디스크를 포함한 온-프레미스 가상화 기술 이해.
   - TCP/IP, DNS(Domain Name System), VPN(가상 사설망), 방화벽 및 암호화 기술을 포함한 네트워크 구성 이해.

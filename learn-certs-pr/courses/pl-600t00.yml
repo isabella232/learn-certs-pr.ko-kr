@@ -7,7 +7,7 @@ uid: course.pl-600t00
 courseNumber: 'PL-600T00'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
-learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+learningPartnersLink: /learn/certifications/partners
 locales:
 - en
 levels:
@@ -16,6 +16,8 @@ roles:
 - solution-architect
 products:
 - power-platform
+exams:
+- uid: exam.pl-600
 summary: |-
   솔루션 아키텍트는 전체 솔루션의 성공적인 디자인, 구현, 배포 및 채택을 담당합니다. 솔루션 아키텍트는 솔루션이 현재와 미래의 고객 요구를 충족하도록 보장합니다. 이 과정에서는, 학생들이 보안, 통합, Power Apps 아키텍터, Power Automate 아키텍처, 및 그 이상을 포함하여 솔루션 아키텍트가 구현 중에 내리는 결정에 대해서 배웁니다. 이 과정은 솔루션 아키텍트 역할에 대한 소개를 제공하도록 디자인 되었습니다. 
 

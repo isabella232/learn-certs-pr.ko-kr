@@ -1,6 +1,6 @@
 ---
-title: Microsoft Official Courseware (MOC) 도움말 | Microsoft Docs
-description: Microsoft Official Courseware (MOC) 도움말
+title: Microsoft Official Courseware (MOC) 지원 | Microsoft Docs
+description: Microsoft Official Courseware (MOC) 지원
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,11 +9,15 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# Microsoft Official Courseware (MOC) 도움말
+# Microsoft Official Courseware (MOC) 지원
 
-Microsoft Official Courseware (MOC) 지원이 필요하십니까? 아래 국가 목록에서 지역 지원 센터에 문의하십시오. 이러한 지원 옵션은 MOC 전용임에 유의하시기 바랍니다. Microsoft 인증 또는 시험 관련 도움이 필요하면, [인증 도움말](/learn/certifications/help)으로 가십시오.
+## MOC 지원에 대하여
+
+Microsoft Official Courseware (MOC)는 교육 과정에서 사용되는 자료입니다. MOC에 대한 지원은 전 세계 지역별로 관리됩니다.
 
 ## MOC 지역 연락처 정보
+
+이러한 지원 옵션은 MOC 전용이라는 것을 참고하십시오. Microsoft Certifications이나 시험에 대한 도움이 필요하면, 방문하십시오: [인증 지원](/learn/certifications/help).
 
 | 국가 | 전화번호 + 언어 | 이메일 | 추가 정보 | 연락처 세부 정보 |
 | ------- | ---------------- | --------- | ------------- | ---------------- |
@@ -118,7 +122,3 @@ Microsoft Official Courseware (MOC) 지원이 필요하십니까? 아래 국가 
 | 베트남 | (65) 6622 1237 | [코스웨어 마켓플레이스 질의](https://support.microsoft.com/en-my/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-my&SC=VN) |  | 9:00 - 18:00 (9:00 A.M. - 6:00 P.M.) 월요일에서 - 금요일까지 싱가포르 시간 |
 | 영국령 버진아일랜드 | 영어: +1 305 715-1492<br/>스페인어: +1 305 715-1490<br/>포르투갈어: +1 305 715-1491 | [코스웨어 마켓플레이스 질의](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VG) | 미국 전화번호임을 참고하여 주시기 바랍니다. 전화 서비스 사업자로부터 장거리 전화 또는 국제 전화 요금이 청구될 수 있습니다. | 영어: 7am – 7pm (월요일 ~ 금요일) 콜롬비아 시간<br/>스페인어: 7am – 7pm (월요일 ~ 금요일) 콜롬비아 시간<br/>포르투갈어: 9am – 6pm (월요일 ~ 금요일) BRT 브라질 시간 |
 | 미국령 버진아일랜드 | 영어: +1 305 715-1492<br/>스페인어: +1 305 715-1490<br/>포르투갈어: +1 305 715-1491 | [코스웨어 마켓플레이스 질의](https://support.microsoft.com/en-gb/supportrequestform/a62bfdd8-695f-f1d0-3dbc-e42e79a78641?SL=en-gb&SC=VI) | 미국 전화번호임을 참고하여 주시기 바랍니다. 전화 서비스 사업자로부터 장거리 전화 또는 국제 전화 요금이 청구될 수 있습니다. | 영어: 7am – 7pm (월요일 ~ 금요일) 콜롬비아 시간<br/>스페인어: 7am – 7pm (월요일 ~ 금요일) 콜롬비아 시간<br/>포르투갈어: 9am – 6pm (월요일 ~ 금요일) BRT 브라질 시간 |
-
-## 인증 도움말
-
-Microsoft 인증에 대한 도움이 필요하면, [여기를 클릭하십시오](/learn/certifications/help).
