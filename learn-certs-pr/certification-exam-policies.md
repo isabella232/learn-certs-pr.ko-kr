@@ -17,6 +17,7 @@ ms.prod: non-product-specific
 - [시험 보안 정책 및 시험 재응시 정책](/learn/certifications/exam-security-policy-and-exam-retake-policy)
 - [시험 일정 변경 및 취소 정책](/learn/certifications/exam-reschedule-and-cancellation-policy)
 - [Microsoft 인증 프로그램 계약](/learn/certifications/microsoft-certification-program-agreement)
+- [Microsoft certification non-disclosure agreement](/learn/certifications/microsoft-certification-renewal-non-disclosure-agreement)
 - [Microsoft 시험 비밀 유지 계약](/learn/certifications/microsoft-exam-non-disclosure-agreement)
 - [편의 시설 요청](/learn/certifications/request-accomodations)
 - [시험 항목 이의 제기 프로세스](/learn/certifications/exam-item-challenge-process)

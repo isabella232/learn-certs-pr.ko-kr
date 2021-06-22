@@ -1,6 +1,6 @@
 ---
-title: Microsoft Retired Courses | Microsoft Docs
-description: Microsoft Retired Courses
+title: 과정 만료 | Microsoft Docs
+description: 과정 만료
 documentationcenter: NA
 author: bipach
 ms.topic: article
@@ -9,19 +9,54 @@ ms.workload: NA
 ms.date: 07/30/2019
 ms.author: micsullivan
 ---
-# 중단된 코스웨어
+# 과정 만료
 
-다음 표는은 이미 중단되거나 향후 중단될 예정인 코스웨어 목록입니다. 명시된 중단 일자 이후부터 해당 과정은 판매가 중단됩니다.
+## 과정 만료에 대하여
 
-MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 주십시오. [https://docs.microsoft.com/learn/certifications/retired-on-demand-online-courses](/learn/certifications/retired-on-demand-online-courses)
+Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화에 보조를 맞추기 위해 인증 요구 사항을 수정합니다. 최첨단 기술을 사용하고 가장 관련성이 높은 교육 기회를 제공하기 위해, 정기적으로 신규 과정을 도입하고 이전 과정을 수정하거나 중단합니다. 
 
-## 중단된 코스웨어: 강사 지도식 교육
+한번 과정이 중단되면, 더 이상 사용할 수 없습니다. 과정은 더 이상 구매할 수 없고 이전에 구매한 사람은 더 이상 교육용 프로그램에 접근할 수 없습니다. 
+
+## 만료 과정: 강사-주도 교육
+
+* 교육용 프로그램 2021년 5월 31일 만료 
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+
+* 교육용 프로그램 2021년 4월 30일 만료
+
+    | Course number | Version | Title | Language | Retirement date |
+    | --- | --- | --- | --- | --- | 
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
 
 * 2021년 3월 31일 교육용 프로그램 종료
 
-    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
+    | Course number | Version | Title | Language | Retirement date |
     | --- | --- | --- | --- | --- |
-    | 20778 | C | Analyzing Data with Power BI | 영어 | 2021년 03월 31일 |
+    | 20778 | C | Analyzing Data with Power BI | English | 03/31/2021 |
+	| 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |   
 
 * 2020년 12월 31일 중단된 코스웨어
 
@@ -989,7 +1024,7 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
 * 2016년 6월 24일 중단된 코스웨어
 
-  [Download the complete list of retiring e-learning courses](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
+  [중단되는 e-러닝 과정 전체 목록 다운로드.](https://download.microsoft.com/download/5/3/3/533459F5-D96C-4E1E-96B1-C24C4156E09D/Courseware_Retirements_24-June-2016.xlsx)
 
 * 2016년 6월 15일 중단된 코스웨어
 
@@ -1025,7 +1060,7 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
 * 2015년 12월 31일 중단된 코스웨어
 
-  [중단되는 강사지도식 과정 전체 목록 다운로드](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
+  [중단되는 강사지도식 과정 전체 목록 다운로드.](https://download.microsoft.com/download/1/0/4/104B6188-258F-43A4-9E61-CD59B9189850/2015-12-31ILT-MSDynamicsRetirement-FINAL.xlsx)
 
 * 2015년 8월 31일 중단된 코스웨어
 
@@ -1046,7 +1081,7 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
 * 2015년 6월 30일 중단된 코스웨어
 
-  [중단되는 강사지도식 학습 과정 전체 목록 다운로드](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
+  [중단되는 강사지도식 학습 과정 전체 목록 다운로드.](https://download.microsoft.com/download/1/3/5/135A26DA-2550-49CA-B1AB-1BD7A7DDEE88/DynamicsCoursewareRetirement_30June2015.xlsx)
 
 * 2015년 1월 31일 중단된 코스웨어
 
@@ -1139,8 +1174,8 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
 * 2017년 12월 29일 중단된 코스웨어
 
-  * [중단된 SA e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
-  * [중단된 MSIA e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [중단된 SA e-러닝 과정 전체 목록 다운로드.](https://download.microsoft.com/download/5/1/2/51253E23-7457-488A-B938-2587113B37C5/SA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
+  * [중단된 MSIA e-러닝 과정 전체 목록 다운로드.](https://download.microsoft.com/download/1/3/1/13135A65-5895-4CBA-864A-69E87DD0A2F2/MSIA_Online_Learning_Retiring_Course_List_Dec_2017.xlsx)
 
 * 2017년 8월 15일 중단된 코스웨어
 
@@ -1150,62 +1185,58 @@ MOC 주문형 종료 과정을 찾고 있는 경우 다음 링크를 따라가 �
 
 * 2017년 6월 30일 중단된 코스웨어
 
-  * [중단된 SA e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
-  * [중단된 MSIA e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
+  * [중단된 SA e-러닝 과정 전체 목록 다운로드.](https://download.microsoft.com/download/5/1/2/512E5543-1DB2-4971-9DE6-95F9665746EA/SA_E-Learning-Retirement-List-30June2017.xlsx)
+  * [중단된 MSIA e-러닝 과정 전체 목록 다운로드.](https://download.microsoft.com/download/F/A/2/FA29ECE7-82E7-4335-93B4-D7575D59935A/MSIALearning-Retirement-List-30June2017.xlsx)
 
 * 2015년 6월 30일 중단된 코스웨어
 
-  * [중단되는 e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
+  * [중단되는 e-러닝 과정 전체 목록 다운로드.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/E-Learning-Retirement-List-30June15.xlsx)
 
 * 2014년 3월 12일 중단된 코스웨어
 
-  * [중단되는 e-러닝 과정 전체 목록 다운로드](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
+  * [중단되는 e-러닝 과정 전체 목록 다운로드.](https://download.microsoft.com/download/2/6/D/26DA6A05-F0A1-492D-8950-6C842BDC596F/Retired_CourseList_12March2014.pdf)
 
-## 코스웨어 및 주문형 MOC 중단 FAQ
- 
-**질문: 과정이 중단되는 이유는 무엇입니까?**
-  
-Microsoft는 지속적으로 업계 동향을 모니터링하여 기술적 변화에 발맞추어 나갈 수 있도록 인증 요건들을 끊임없이 검토 및 수정합니다. 또한, 최신 기술 교육을 제공하기 위해 정기적으로 새로운 과정을 도입하고 기존의 과정을 수정하거나 중단합니다. 
+## 중단 과정: MOC On-Demand
+
+모든 Microsoft Official Course (MOC) On-Demand 과정은 2020년 6월 30일로 중단되었습니다. 중단  과정의 전체 목록을 보려면, 방문하십시오: [MOC On-Demand Courses 중단됨](/learn/certifications/retired-on-demand-online-courses).
+
+## 과정 및 MOC On-Demand 중단에 대해 자주 묻는 질문
 
 **질문: 과정을 중단하기로 결정하는 기준은 무엇입니까?**
  
 일반적으로 다음의 사유에 해당하는 경우 과정을 중단합니다.
 
 - 다른 과정으로 대체됨. 새로운 과정이 출시되었으며 해당 과정이 한 개 이상의 기존 코스를 대체하고 대대적으로 새로운 방식으로 동일한 과정 내용을 다룹니다.
-- 과정에서 다뤄지는 기술이 더 이상 Microsoft에 의해 지원되지 않을 경우 일반적으로 해당 코스웨어는 중단됩니다.
+- 과정에서 다루는 기술이 Microsoft에서 이상 지원하지 않는다면, 과정은 일반적으로 중단 됩니다.
 - 과정의 성공 여부 또는 과정 업데이트 비용 측면을 고려한 비즈니스적 판단에 따라 과정이 중단될 수 있습니다.
-- 인증이 중단됨. 과정이 특정 인증을 위해 고안되었으나 해당 인증이 폐기되어 더 이상 제공되지 않을 경우 코스웨어가 중단됩니다.
+- 인증이 만료되었습니다. 과정이 더이상 제공되지 않는 인증용으로 디자인된 경우, 해당 과정이 중단 될 수 있습니다. 
 - 커뮤니티 제작 프로그램을 통해 Microsoft 외의 다른 저작자에 의해 제공되는 과정은 해당 저작자의 요구에 따라 중단될 수 있습니다.
 - 품질 문제로 인해 과정이 중단될 수 있습니다. - 과정의 품질에 문제가 있는 경우 품질 개선이 이루어지기 전까지 과정이 중단될 수 있습니다.
   
-**질문: 과정의 중단 여부를 어떻게 알 수 있습니까?**
+**과정의 중단 여부를 어떻게 알 수 있습니까?**
   
 Microsoft는 분기마다 중단된 과정 및 향후 3~6개월 내에 중단될 예정인 과정의 목록을 게시합니다. 중단 관련 공지는 교육 파트너, 교육 담당자, 공급업체 및 기타 관련 대상 그룹 간의 소통을 통해 공유됩니다. Microsoft Training Catalog 및 Courseware Library Catalog에 게시된 과정 설명은 중단 일자 관련 공지와 함께 업데이트 됩니다.
 
-**질문: 중단 일자 이후에 과정을 구매할 수 있는 방법이 있습니까?**
+**중단 일자 이후에 과정을 구매할 수 있는 방법이 있습니까?**
 
 명시된 중단 일자 이후부터 해당 과정은 판매가 중단됩니다. 각 과정의 중단 일자는 카탈로그 웹 페이지 및 관련 대상 그룹 전용 일반 소통 채널을 통해 게시됩니다. 중단 일자가 적용되는 시점부터 해당 코스웨어는 판매 중단으로 표시됩니다. 혼동을 방지하기 위해 중단 일자 이후 과정은 일정 기간 동안 판매 중단으로 명시되며, 이후 아카이빙 되어 카탈로그에서 완전히 제거됩니다.
 
-**질문: 중단 일자 전에 과정의 디지털 버전을 구매하여 다운로드 하거나 중단 일자 이후 사용할 수 있습니까?**
+**중단 일자 전에 과정의 디지털 버전을 구매하여 다운로드 하거나 중단 일자 이후 사용할 수 있습니까?**
 
 과정 중단 일자 이후로는 과정을 다운로드할 수 없습니다. 중단 일자 전에 코스웨어를 다운로드 하셨거나 수령 받으셨을 경우 라이선싱 약관에 따라 사용하셔야 합니다.
 
-**질문: 중단 일자 전에 학습 계획에 의해 할당받았거나 “내 과정” 섹션에 추가되었던 중단 과정들은 어떻게 됩니까?**
+**중단 일자 전에 학습 계획에 의해 할당받았거나 “내 과정” 섹션에 추가되었던 중단 과정들은 어떻게 됩니까?**
 
-해당 과정들은 중단 이후에도 지속적으로 "내 과정" 섹션에서 확인하실 수 있으나 중단된 과정을 실행하면 오류 메시지가 표기됩니다.
+이 과정은 만료 후에도 "내 과정" 섹션에서 계속 볼 수 있지만 중단된 과정을 시작하려 하면 오류 메세지가 표시됩니다. 
 
-**질문: 중단 일자 전에 과정을 완료하지 않았을 경우, 중단 이후에 남은 과정을 완료할 수 있습니까?**
+**중단되기 전에 과정을 완료하지 않은 경우, 만료 후 완료할 수 있습니까?**
 
 아니요, 과정은 중단되고 나면 더 이상 액세스가 불가능합니다.
-  
-**질문: 진행 중인 과정이 중단될 경우 과정 활동 보고서에는 어떻게 반영됩니까?**
+
+**진행 중인 과정이 중단될 경우 과정 활동 보고서에는 어떻게 반영됩니까?**
 
 과정 활동 보고서는 진행 중인 과정의 중단 당시의 상태를 반영합니다. 예를 들어 과정이 중단될 때 사용자가 과정의 60%만을 완료했을 경우, 해당 과정 활동 보고서에는 60% 완료 상태로 표시됩니다. 과정의 완료 상태를 나타내는 백분율은 과정이 중단된 후에는 변경이 불가능합니다.
 
-**질문: 온라인 학습 사이트에서 중단된 과정의 정보를 찾아볼 수 있습니까?**
+**온라인 학습 사이트에서 중단된 과정의 정보를 찾아볼 수 있습니까?**
 
 아니요, 중단된 과정은 검색 결과나 교육 과정에 나타나지 않습니다.
-
-**질문: 과정이 중단되면 관련 주문형 MOC(MOD)도 중단됩니까?**
-
-네. MOD는 코스웨어와 밀접한 관련성이 있기 때문에 과정 중단 일자에 해당 MOD도 함께 중단됩니다.

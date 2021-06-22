@@ -34,13 +34,13 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft Volume Licensing [M
 
   Microsoft Imagine Academy는 다음을 제공합니다:
 
-  * 교육자/ 직원 전문성 개발을 위한 30개의 무료 인증 시험 바우처 (MOS, MTA, Fundamentals, and MCE) VL 계약 당 (학교에서 공유)
-  * 생산성(MOS) 과정 및 초급 IT (MTA) 과정을 위한 과정 콘텐츠 패키지 – MOAC
-  * MOS 2016 및 MOS 2019/O365 시험 학습 가이드
-  * MCT (Microsoft Certified Trainer) 프로그램 50% 할인
-  * Microsoft Official Courseware (MOC) 콘텐츠에 대한 액세스
-  * 사용자 정의 가능한 과정 수료 증명서
-  * Microsoft Press Books 40% 할인
+  * 교육자/ 직원 전문성 개발을 위한 30개의 무료 인증 시험 바우처 (MOS, MTA, Fundamentals, and MCE) VL 계약 당 (학교에서 공유).
+  * 생산성(MOS) 과정 및 초급 IT (MTA) 과정을 위한 과정 콘텐츠 패키지 – MOAC.
+  * MOS 2016 및 MOS 2019/O365 시험 학습 가이드.
+  * MCT (Microsoft Certified Trainer) 프로그램 50% 할인.
+  * Microsoft Official Courseware (MOC) 콘텐츠에 대한 액세스.
+  * 사용자 정의 가능한 과정 수료 증명서.
+  * Microsoft Press Books 40% 할인.
 
   Microsoft Imagine Academy (MSIA) 액세스는 EES (Enrollment for Education Solutions), School, 및 OVS-ES (Open Value Subscription – Education Enrollment subscriptions) 볼륨 라이선스 구독을 새로 구매하거나 갱신할 때 프로그램 기술 혜택으로 추가비용 없이 사용할 수 있습니다.
 
@@ -62,10 +62,10 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft Volume Licensing [M
 
   **추가 볼륨 라이선싱 교육 기관 인증 리소스**
 
-  * [Microsoft Imagine Academy Program](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [교육 기관 데이터시트 용 Microsoft 인증](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy 인증 로드맵](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [교육 기관 볼륨 라이선싱 데이터 시트용 Microsoft 인증 시험 팩](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [Microsoft Imagine Academy Program.](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [교육 기관 데이터시트 용 Microsoft 인증.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy 인증 로드맵.](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [교육 기관 볼륨 라이선싱 데이터 시트용 Microsoft 인증 시험 팩.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 추가 볼륨 라이선싱 학술 e-러닝 리소스
 
@@ -75,18 +75,18 @@ Microsoft 교육 및 인증 솔루션은 다음의 Microsoft Volume Licensing [M
 
   Microsoft는 더 이상 볼륨 라이선싱에서 e-러닝을 판매하지 않습니다. 다음 리소스는 기존 계약에 따라 여전히 당사의 e-러닝 콘텐츠를 소비하는 고객을 위한 것입니다. 볼륨 라이선싱 e-러닝 구매를 배포, 구성 및 관리하는 데 도움이 됩니다.
 
-  * [온라인 사용을 위한 볼륨 라이선싱 온라인 서비스 관리자 가이드](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
-  * [온라인 사용을 위한 볼륨 라이선싱 최종 사용자/학생 가이드](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
-  * [Microsoft Imagine Academy program](https://www.microsoft.com/en-us/education/imagine-academy)
-  * [교육 기관 용 Microsoft 인증](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
-  * [Microsoft Imagine Academy 인증 로드맵](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
-  * [교육 기관 볼륨 라이선싱 Microsoft 인증 시험 팩](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
+  * [온라인 사용을 위한 볼륨 라이선싱 온라인 서비스 관리자 가이드.](https://download.microsoft.com/download/2/0/8/2088DD0D-3581-4A73-93C2-15470A080851/VL_MLS_Admin_Activation_Guide.pdf)
+  * [온라인 사용을 위한 볼륨 라이선싱 최종 사용자/학생 가이드.](https://download.microsoft.com/download/C/9/4/C943436F-4228-453A-9731-1CE4C6942488/VLElearning_End-User_Activation_Guide_Final.pdf)
+  * [Microsoft Imagine Academy program.](https://www.microsoft.com/en-us/education/imagine-academy)
+  * [교육 기관 용 Microsoft 인증.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/IT_Academy-Cert_Datasheet.pdf)
+  * [Microsoft Imagine Academy 인증 로드맵.](https://download.microsoft.com/download/C/6/1/C616A2EB-0245-48AC-9ECA-BBEBB1B781C6/Certification_Roadmap_A1_ENU.pdf)
+  * [교육 기관 볼륨 라이선싱 Microsoft 인증 시험 팩.](https://download.microsoft.com/download/B/6/7/B6783ECC-2C82-4C76-AF39-52709D54D0F3/ITA-Cert_VLflyer_Customer.pdf)
 
 * 문의하기
 
   Microsoft 교육 및 인증 제품을 시작하려면 볼륨 라이선싱 계정 관리자에게 문의하십시오. 가격, 라이선싱 및 신속한 할인에 대한 질문이 있으시면 [MSLVLPurchase@microsoft.com](mailto:MSLVLPurchase@microsoft.com)으로 이메일 메시지를 보내주십시오.
 
-  [Microsoft 교육 및 인증 솔루션의 추가에 대한 질문이 있으시면 영업 전문가에게 문의하십시오](mailto:mslvlhlp@microsoft.com)
+  [Microsoft 교육 및 인증 솔루션의 추가에 대한 질문이 있으시면 영업 전문가에게 문의하십시오](mailto:mslvlhlp@microsoft.com).
 
 ## 자주 하는 질문
 
@@ -142,14 +142,14 @@ Microsoft 교육 및 인증 솔루션은 Microsoft 볼륨 라이선싱 온라인
 
 Microsoft 교육 및 인증 솔루션은 1계층의 단일 패키지 가격 책정 기능을 제공합니다. Microsoft 교육 및 인증 솔루션 패키지는 12개월 구독으로 주문하거나 마스터 계약에 남은 월 수를 기준으로 비례 배분할 수 있습니다. 볼륨 라이센싱 온라인 서비스의 다른 프로그램에 필요한 별도의 USL (사용자 구독 라이선스) 또는 ASL (애드온 구독 라이선스)이 필요하지 않습니다.
 
-**참고** Microsoft 교육 및 인증 솔루션을 12개월 구독으로 주문한 경우 이후의 주문은 초기 12개월 구독 주문과 동시에 만료됩니다. [온라인 서비스 가이드를 방문하십시오](https://www.microsoft.com/learning/_silverlight/bac/bac.htm).
+**참고** Microsoft 교육 및 인증 솔루션을 12개월 구독으로 주문한 경우 이후의 주문은 초기 12개월 구독 주문과 동시에 만료됩니다.
 
 **질문: 몇 개의 코드를 취득해야 합니까?**
 
 조직에서 코드를 더 많이 취득할수록 더 큰 볼륨 할인을 받습니다. 다음 리소스 중 하나를 사용하여 조직의 교육 요구 사항을 결정하고 회사의 비즈니스 목표에 맞는 학습 계획을 수립할 것을 권장합니다.
 
-- [Microsoft 교육 및 인증 솔루션의 볼륨 라이선싱 도움말에 대한 이메일 메시지를 보내십시오](mailto:mslvlhlp@microsoft.com)
-- [Microsoft 교육 및 인증 솔루션을 위한 현지 Microsoft Certified Partner [Microsoft 인증 파트너를] 찾으십시오](https://www.microsoft.com/learning/find-partner.aspx)
+- [Microsoft 교육 및 인증 솔루션의 볼륨 라이선싱 도움말에 대한 이메일 메시지를 보내십시오.](mailto:mslvlhlp@microsoft.com)
+- [Microsoft 교육 및 인증 솔루션을 위한 현지 Microsoft Certified Partner [Microsoft 인증 파트너를] 찾으십시오.](/learn/certifications/partners)
 
 **질문: 몇 개의 시험 쿠폰을 주문해야 합니까?**
 

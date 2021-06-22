@@ -11,73 +11,59 @@ ms.author: micsullivan
 ---
 # Offers
 
-## Exam Replay
+## 특별 패키지
 
-기술 검증, 전문성 확보, 자신감 제고. Exam Replay 쿠폰은 구매일로부터 12개월 후에 만료되며 다른 제안과 결합할 수 없습니다. 구입 후 12개월 이내에 시험을 예약하고 시험(및 재시험)을 치러야 한다. 자세한 정보는 [자주 하는 질문](#frequently-asked-questions)을 확인하시기 바랍니다. Exam Replay 제안을 구입하거나 교환하는데 문제가 있는 경우 [지원 팀](mailto:mindhub@pearson.com)에 이메일을 보내주십시오.
+Pearson VUE와 협력하여, 시험 및 모의 테스트를 위한 특별 패키지를 제공합니다. 시험을 치르는 것은 어렵고 스트레스가 많을 수 있으며 시험을 치르기 전에 연습할 수 있고 자신감을 심어줄 수 있는 재응시가 있습니다. 현재 이러한 제안은 다음과 같습니다:
 
-### 두 가지 다른 Exam Replay 제안 중 하나를 선택하세요:
+- Exam Replay.
+- Practice Test으로 Exam Replay
 
-<div>
-    <table border="0">
-        <tr>
-            <td>
-                <img src="images/exam-replay-thumbnail.png">
-            </td>
-            <td>                
-                <p><strong>Microsoft Exam Replay</strong><br/>에는 다음을 포함합니다: Microsoft Certified Professional 인증 시험 쿠폰 1개 + 필요한 경우 재시험 1번.</p>
-                <p><a href=”https://us.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3”><strong>지금 구매하기</strong></a></p>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="images/exam-replay-with-practice-test-thumbnail.png">
-            </td>
-            <td>
-               <p><strong>Microsoft Exam Replay with Practice Test</strong><br/>Includes: Microsoft Certified Professional (MCP) 인증 시험 쿠폰 1개 + 필요한 경우 재시험 1번 + Microsoft 공식 연습 시험.</p>
-               <p><a href=”https://us.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink”><strong>지금 구매하기</strong></a></p>
-            </td>
-        </tr>
-    </table>
-</div>
+## 제안에 대하여
 
-## <a name="frequently-asked-questions"></a>자주 하는 질문
+### Exam Replay
 
-**질문. Exam Replay란 무엇입니까?**
+Exam Replay는 인증 시험에 합격 할 두 번째 기회를 제공합니다. 첫 번째 시도에서 합격하지 못해도, 걱정하지 말고, 기술을 연마하고 필요한 경우 다시 시험을 치르십시오. 
 
-**답변.** Exam Replay는 동일한 시험에 대한 1회 재응시가 포함된 시험 쿠폰입니다. **연습 시험을 통한 Exam Replay** 는 동일한 시험의 재시험 1회 및 Microsoft 공식 연습 시험을 위한 별도의 쿠폰을 포함하는 시험 쿠폰입니다.
+Exam Replay는 다음이 포함됩니다:
 
-**질문. Exam Replay 쿠폰은 한 번에 몇 개나 구매할 수 있습니까?**
+- Microsoft Certified Professional Certification 시험 바우처 1개.
+- 동일 시험 재응시 1개.
 
-**답변.** Exam Replay는 원하시는 만큼 구매할 수 있습니다.
+  [지금 Exam Replay를 구매하십시오.](https://www.mindhub.com/p/Microsoft-Exam-Replay?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink3)
 
-**질문. Exam Replay로 재응시를 몇 번이나 할 수 있습니까?**
+### Practice Test가 있는 Exam Replay 
 
-**답변.** 처음 시험에 합격하지 못하면 Exam Replay는 같은 시험을 1회 응시하는 데 좋습니다.
+재응시를 통해 Microsoft Official Practice Test 를 시험 바우처에 추가하여, Microsoft 인증 시험에 합격하기 위해 더 잘 준비합니다. 모의 테스트는 준비 상태를 높이고 시험 재응시는 성공 가능성을 높입니다. 
 
-**질문. Exam Replay로 인증받을 수 있는 시험은 무엇입니까?**
+Practice Test가 있는 Exam Replay는 다음을 포함합니다:
 
-**답변.** Exam Replay는 Microsoft Technology Associate(MTA) 시험, Microsoft Office Specialist(MOS) 시험, Transition 시험, Fundamental 시험, 베타 시험을 제외한 모든 Microsoft 인증 시험에 유효합니다. 이 제안은 또한 유효한 시험에 사용할 수 있는 모든 연습 시험에도 적용됩니다. [이용가능한 연습 시험 보기](https://us.mindhub.com/microsoft-practice-tests).
+- Microsoft Official Practice Test 1개.
+- Microsoft Certified Professional Certification 시험 바우처 1개.
+- 동일 시험 재응시 1개.
 
-**질문. Exam Replay 쿠폰의 유효기간은 어떻게 됩니까?**
+  [지금 Exam Replay with practice test를 구매하십시오.](https://www.mindhub.com/p/Microsoft-Exam-Replay-PT?utm_source=msftmarketing&utm_medium=msft_offers&utm_campaign=ExamReplayFY20&utm_term=ERFY20&utm_content=weblink)
 
-**답변.** 재시험을 포함한 모든 인증 시험은 구입 후 12개월 이내에 일정을 정하여 응시해야 합니다.
+원하는 만큼 Exam Replay 패키지를 구매할 수 있습니다. Exam Replay는 다음을 **제외한** 모든 Microsoft Certification 시험에 유효합니다:
+- Microsoft Technology Associate (MTA).
+- Microsoft Office Specialist (MOS).
+- Transition 시험.
+- Fundamentals 시험.
+- Beta 시험.
 
-**질문. Exam Replay 쿠폰으로 온라인 감독 시험에 응시할 수 있습니까?**
+Practice Test가 포함된 Exam Reply를 구매하기 전에, [시험에 대해 모의 테스트를 사용할 수있는지 확인하십시오.](https://www.mindhub.com/shop/microsoft?facetValueFilter=tenant~content-type%3Apractice-tests)
 
-**답변.** 예, 온라인 감독 시험에 응시 가능한 경우 Exam Replay 쿠폰으로 응시할 수 있습니다. [온라인 시험에 대해 자세히 알아보기](/learn/certifications/online-exams) for Microsoft certification.
+## 이 제안에 대한 기타 중요한 참고 사항
 
-**질문. 첫 시험과 재응시를 동시에 예약할 수 있습니까?**
+- 인증 시험 및 재응시는 구매 후 12개월 이내에 예약 및 응시해야합니다. 
+- 초기 시험을 치르고 불합격할 때까지 재시험을 예약할 수 없습니다. 
+- 이 제안으로 시험을 온라인으로 치를 수 있습니다.
+- Microsoft Official Practice Tests는 구입 후 1년 이내에 [MeasureUp.com](https://www.measureup.com/)에서 활성화 할 수 있고 활성화 후 30일 동안 유효합니다. [모의 테스트에 대한 더 자세한 내용은 여기에서 확인하십시오.](https://home.pearsonvue.com/microsoft/practicetests)
+- 모의 테스트 바우처는 프로모션에 포함 된 모든 가능한 모의 테스트에 사용할 수 있습니다. 공식 시험이나 재응시와 동일한 시험일 필요는 없습니다.
+- Exam Replay 및 Practice Test가 포함 된 Exam Replay 제품은 별도로 구매 한 시험 또는 모의 테스트에 적용되지 않습니다.
 
-**답변.** 아니요, 첫 시험에 응시하고 불합격 결과가 나오기 전까지 재시험은 예약하실 수 없습니다. 자세한 내용은 [Microsoft Certification exam retake 정책](/learn/certifications/certification-exam-policies#exam-retake-policy).
+## 이 제안을 구매하거나 사용하는데 도움이 필요한 경우
+[Pearson VUE 팀에 이메일.](https://mindhub@pearson.com/) 부탁합니다
 
-**질문. 연습 시험은 어떻게 활성화하며 얼마나 오랫동안 유효합니까?**
+## 학생들을 위한 특별 제안
+방문하십시오: [학생 할인](/learn/certifications/student-discounts).
 
-**답변.** Microsoft 공식 연습 시험은 [MeasureUp.com](https://www.measureup.com/)에서 구입한 후 1년 이내에 활성화할 수 있으며 활성화 후 30일 동안 유효합니다. 연습 시험는 연습 시험을 통한 Exam Replay 및 Exam Replay 제안으로 선택된 시험 쿠폰에만 국한되지 않으며 프로모션에 포함된 사용 가능한 연습 시험에 사용할 수 있습니다. [연습 시험을 활성화하는 방법](https://home.pearsonvue.com/microsoft/practicetests)을 참조하십시오.
-
-**질문. 이전에 시험이나 연습 시험 비용을 지불하고 Exam Replay 패키지 또는 연습 시험을 통한 Exam Replay 패키지도 구입했다면 처음 구입한 시험이나 연습 시험에 대한 환불은 가능합니까?**
-
-**답변.** 아니요. Exam Replay 및 연습 시험을 통한 Exam Replay 제안은 별도로 구매한 테스트 또는 연습 시험에는 적용되지 않습니다.
-
-**질문. Exam Replay 또는 연습 시험을 통한 Exam Replay를 구매 또는 교환하는 데 문제가 있는 경우 누구에게 연락해야 합니까?**
-
-**답변.** Exam Replay 또는 연습 시험을 통한 Exam Replay 프로모션에 문제가 있는 경우 [Pearson VUE 팀에 이메일](mailto:mindhub@pearson.com)을 보내세요.

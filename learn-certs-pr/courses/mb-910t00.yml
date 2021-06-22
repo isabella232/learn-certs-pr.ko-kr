@@ -22,6 +22,8 @@ roles:
 - business-owner
 products:
 - dynamics-365
+exams:
+- uid: exam.mb-910
 summary: |-
   이 과정은 Dynamics 365.의 고객 참여 기능에 대한 폭 넓은 소개를 제공합니다. 고객 참여의 개념에 더하여, Dynamics 365 Marketing, Dynamics 365 Sales, Dynamics 365 Customer Service, Dynamics 365 Field Service 및 Dynamics 365 프로젝트 운영의 고객 관계 관리 (CRM) 기능을 포함한, 각 고객 참여 앱에도 익숙해집니다. 이 과정에는 강의와 실습도 포함됩니다. 
 

@@ -1,10 +1,10 @@
 ### YamlMime:Course
 title: Microsoft Azure IoT Developer
 metadata:
-  title: 'Course AZ-220T00-A: Microsoft Azure IoT Developer'
-  description: 'Course AZ-220T00-A: Microsoft Azure IoT Developer'
+  title: 'Course AZ-220T00--A: Microsoft Azure IoT Developer'
+  description: 'Course AZ-220T00--A: Microsoft Azure IoT Developer'
 uid: course.az-220t00
-courseNumber: 'AZ-220T00-A'
+courseNumber: 'AZ-220T00'
 hoursToComplete: 96
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
@@ -18,25 +18,31 @@ skillsGained:
 - skill: 디바이스 트윈 및 직접 방법을 사용하여 장치 관리를 구현
 - skill: 솔루션 모니터링, 로깅 및 진단 테스트를 구현
 - skill: 보안 문제를 인식 및 해결하고 IoT용 Azure Security Center를 구현
-- skill: Azure IoT Central를 사용하여 IoT 솔루션을 구축하고 IoT용 SaaS 기회를 재조합
-learningPartnersLink: /learn/certifications/partners
+- skill: 업스트림 및 다운스트림 서비스를 통합하는 Azure Digital Twins 솔루션을 구축합니다.
+- skill: Azure IoT Central을 사용하여 IoT 솔루션을 구축하고 IoT에 대한 SaaS 기회를 인식합니다.
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
 locales:
 - en
 levels:
 - intermediate
 roles:
 - developer
-products:
-- azure
-- azure-iot
 exams:
 - uid: exam.az-220
+products:
+- azure
 summary: |-
-  본 코스는 학생들에게 Azure IoT 솔루션의 클라우드와 엣지 부분을 성공적으로 만들고 유지하는데 필요한 기술 및 지식을 제공합니다. 이 코스는 IoT Hub, 장치 프로비저닝 서비스, Azure Stream Analytics, Time Series Insights 등과 같은 핵심 Azure IoT 서비스에 대한 전체 내용이 포함됩니다. Azure PaaS 서비스에 중점을 두는 것 외에도, IoT Edge, 장치 관리, 모니터링 및 문제 해결, 보안 문제 및 Azure IoT Central에 대한 섹션이 포함됩니다. 
+  본 코스는 학생들에게 Azure IoT 솔루션의 클라우드와 엣지 부분을 성공적으로 만들고 유지하는데 필요한 기술 및 지식을 제공합니다. 이 코스는 IoT Hub, 장치 프로비저닝 서비스, Azure Stream Analytics, Time Series Insights 등과 같은 핵심 Azure IoT 서비스에 대한 전체 내용이 포함됩니다. Azure PaaS 서비스에 대한 중점 외에도, 이 과정은 IoT Edge, 장치 관리, 모니터링 및 문제 해결, 보안 문제, Azure Digital Twins, 및 Azure IoT Central의 섹션이 포함됩니다. 
 
   #### 시청자 프로파일
-  Azure IoT 개발자는 Azure IoT 솔루션의 클라우드 및 엣지 부분을 구현한 다음 유지 관리할 책임이 있습니다. Azure IoT 서비스 및 기타 마이크로소프트 도구를 사용하여 장치를 구성 및 유지 관리하는 것 외에도, IoT 개발자는 물리적 장치를 설정하고 수명 주기 동안 장치를 유지 관리할 책임이 있습니다. IoT 개발자는 장치 토폴로지, 연결, 디버깅 및 보안을 포함하여 IoT 솔루션을 위한 설계를 구현합니다. Edge 장치 시나리오의 경우, IoT 개발자는 다양한 엣지 게이트웨이 구현을 포함할 수 있는 컴퓨팅/컨테이너도 배포하고 장치 네트워킹을 구성합니다. IoT 개발자는 IoT에 관련된 모니터링 및 데이터 변환을 포함하여 데이터 파이프라인을 관리하기 위한 솔루션 설계를 구현합니다. IoT 개발자는 성공적인 비지니스 통합을 보장하기 위해 데이터 엔지니어들 및 기타 이해관계자들과 작업합니다. IoT 개발자들은 데이터 저장소 옵션, 데이터 분석, 데이터 처리 및 Azure IoT PaaS 대 SaaS 옵션을 포함한 Azure 서비스에 대해 잘 이해하고 있어야 합니다. IoT 개발자들은 C#, Node.js, Python, 혹은 Java를 포함한 최소한 하나의 Azure 지원 언어에 대한 기본 프로그래밍 기술이 있어야 합니다. 
-prerequisitesSection: "- 클라우드 솔루션 인식&#58; 학생들은 Azure Portal 사용 경험과 PaaS, SaaS 및 IaaS 구현에 대한 기본 이해가 있어야 합니다. \n- 소프트웨어 개발 경험&#58; 소프트웨어 개발 경험은 이 코스의 필수 조건 이지만 특정 소프트웨어 언어가 필요하지 않으며 경험이 전문가 수준 일 필요는 없습니다.  \n- 데이터 처리 경험&#58; 데이터 저장 및 데이터 처리에 대한 일반적인 이해가 권장되지만 필수는 아닙니다. \n\n- Azure 및 클라우드 컴퓨팅이 처음인 경우 다음 리소스 중 하나를 고려하십시오&#58;\n- 무료 온라인&#58; Azure Fundamentals (https&#58;//docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)\n- 강사 주도 코스&#58; AZ-900&#58; Azure Fundamentals (https&#58;//docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) "
+  Azure IoT 개발자는 IoT 솔루션의 cloud 및 edge 부분을 만들고 유지하는 데 필요한 구현 및 코딩을 담당합니다. Azure IoT 서비스 및 기타 마이크로소프트 도구를 사용하여 장치를 구성 및 유지 관리하는 것 외에도, IoT 개발자는 물리적 장치를 설정하고 수명 주기 동안 장치를 유지 관리할 책임이 있습니다. IoT 개발자는 장치 토폴로지, 연결, 디버깅 및 보안을 포함하여 IoT 솔루션을 위한 설계를 구현합니다. Edge 장치 시나리오의 경우, IoT 개발자는 다양한 엣지 게이트웨이 구현을 포함할 수 있는 컴퓨팅/컨테이너도 배포하고 장치 네트워킹을 구성합니다. IoT 개발자는 IoT에 관련된 모니터링 및 데이터 변환을 포함하여 데이터 파이프라인을 관리하기 위한 솔루션 설계를 구현합니다. IoT 개발자는 성공적인 비지니스 통합을 보장하기 위해 데이터 엔지니어들 및 기타 이해관계자들과 작업합니다. IoT 개발자들은 데이터 저장소 옵션, 데이터 분석, 데이터 처리 및 Azure IoT PaaS 대 SaaS 옵션을 포함한 Azure 서비스에 대해 잘 이해하고 있어야 합니다. IoT 개발자들은 C#, Node.js, Python, 혹은 Java를 포함한 최소한 하나의 Azure 지원 언어에 대한 기본 프로그래밍 기술이 있어야 합니다. 
+prerequisitesSection: |-
+  이 과정에서 성공하려면, 학습자는 다음을 갖추어야합니다&#58;
+  - 클라우드 솔루션 인식&#58; 학생들은 Azure Portal 사용 경험과 PaaS, SaaS 및 IaaS 구현에 대한 기본 이해가 있어야 합니다. 
+  - 소프트웨어 개발 경험&#58; 소프트웨어 개발 경험은 이 코스의 필수 조건 이지만 특정 소프트웨어 언어가 필요하지 않으며 경험이 전문가 수준 일 필요는 없습니다.
+  - 데이터 처리 경험&#58; 데이터 저장 및 데이터 처리에 대한 일반적인 이해가 권장되지만 필수는 아닙니다. 
+  - 무료 온라인&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
+  - 강사 주도 코스&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/en-us/learn/certifications/courses/az-900t01) 
 outlineSection: |-
   ### 모듈 1&#58; IoT 및 Azure IoT 서비스 소개
   이 모듈에서는, 학생들이 다양한 IoT 구현에 대한 비즈니스 고려 사항을 검토하고 Azure IoT Reference 아키텍처가 IoT 솔루션을 지원하는 방법을 검토하는 것으로 시작합니다. 이 모듈은 또한 학생들에게 IoT 솔루션에서 일반적으로 사용되는 Azure 서비스에 대한 개요를 제공하고 Azure 포털에 대한 소개를 제공합니다. 
@@ -204,7 +210,34 @@ outlineSection: |-
   - 보안 에이전트와 보안 모듈 쌍 구성
   - IoT Events를 위한 Azure Security Center 집계
 
-  ### 모듈 11&#58; IoT Central로 IoT 솔루션 구축
+  ### 모듈 11&#58; ADT
+
+  이 모듈에서, 학생들은 Azure Digital Twins 솔루션의 개념을 검토하고 ADT 구현을 위한 첫 단계를 시작합니다. 학생들은 Azure Digital Twins 서비스 및 ADT 솔루션에 숨은 개념을 조사하는 것으로 시작하고, ADT솔루션을 구축하고 모니터링하는데 사용할 수 있는 개발 도구를 소개합니다. 학생들은 그런 다음 개발 도구를 사용하여 맞춤 모델을 만들고, ADT 환경 그래프를 작성 및 쿼리하고, IoT 장치 원격 측정을 수집하고, 비즈니스 논리 및 데이터 처리를 구현합니다. 
+
+  #### 레슨
+
+  - Azure Digital Twins 소개
+
+  - ADT 솔루션 개발 소개
+
+  - ADT 모니터링 및 문제 해결
+
+  #### 랩 &#58; Azure Digital Twins (ADT) 솔루션 개발
+  
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+
+  - Azure Digital Twins (ADT) 솔루션의 구성 요소 설명
+
+  - ADT 인스턴스 생성 및 구성 방법 설명
+
+  - ADT 그래프 생성, 쿼리 및 관리 방법 설명
+
+  - IoT 허브에서 ADT 데이터를 수집하고 다운스트림 서비스에 대한 지원을 구현하는 방법 설명  
+
+  - ADT 모니터링 및 문제 해결 방법 설명
+
+
+  ### 모듈 12&#58; IoT Central로 IoT 솔루션 구축
   이 모듈에서, 학생들은 IoT용 SaaS 솔루션으로 Azure IoT Central를 구성하고 구현하는 방법을 배우게 될 것입니다. 학생들은 IoT Central 및 작동 방법에 대한 높은 수준의 조사를 시작하게 될 것입니다. IoT Central 설정에 대한 기본 이해를 바탕으로, 학생들은 디바이스 템플릿을 생성하고 관리하는 단계로 넘어간 후, IoT Central 애플리케이션에서 디바이스 관리하는 단계로 넘어갈 것입니다. 
 
   #### 레슨

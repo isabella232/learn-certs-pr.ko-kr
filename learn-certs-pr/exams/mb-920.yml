@@ -30,7 +30,7 @@ roles:
 - business-user
 - functional-consultant
 - student
-products: 
+products:
 - dynamics-365
 - dynamics-finance-operations
 courses:
