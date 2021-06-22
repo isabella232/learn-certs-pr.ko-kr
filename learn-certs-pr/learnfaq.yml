@@ -34,38 +34,38 @@ summary: |
 sections:
   - name: 이행에 대해 자주 묻는 질문
     questions:
-      - 질문: |
+      - question: |
           콘텐츠가 언제 Microsoft Learn으로 이동했습니까?
-        답변: |
+        answer: |
           2019년에 Microsoft Learning (https://microsoft.com/learning) 웹페이지를 Microsoft Learn (https://docs.microsoft.com/learn/)으로 이동했습니다.
           
-      - 질문: |
+      - question: |
           Microsoft Learning에는 무엇이 유지됩니까?
-        답변: |
+        answer: |
           다음 콘텐츠는 2021년 후반까지 Microsoft Learning에 유지됩니다.
           - 인증 대시보드 (https://aka.ms/certdashboard).
           
-      - 질문: |
+      - question: |
           북마크는 어떻게 됩니까? 계속 사용할 수 있습니까?
-        답변: |
+        answer: |
           Microsoft Learning에서 Microsoft Learn으로 이전된 페이지는 Microsoft Learn의 새로운 페이지로 리디렉션됩니다. 리디렉션은 영구히 유지되지 않으므로 페이지로 이전한 후 북마크를 업데이트해야 합니다.
           
-      - 질문: |
+      - question: |
           완료된 인증서 정보와 등록된 시험을 여전히 볼 수 있습니까?
-        답변: |
+        answer: |
           네, 현재와 마찬가지로, Certification Dashboard (https://aka.ms/certdashboard)의 인증 프로필에 대한 전체 접근 권한을 지속하게 됩니다. 예정된 시험, 배지, 인증 및 성정 증명서는 계속 사용할 수 있습니다. 또한, 인증 대시보드에 대한 링크가 Microsoft Learn 프로필 페이지에 추가되었습니다.
           
-      - 질문: |
+      - question: |
           Microsoft Learn 사이트에, 프로필 "로그인"이 있습니다. Microsoft Learning의 프로필 "로그인"과 동일한 것입니까? 인증 및 시험 정보를 보기 위해 Microsoft Learn 사이트에 로그인을 할 수 있습니까? 
-        답변: |
+        answer: |
           Microsoft Learning 인증 대시보드가 Microsoft Learn으로 이동될 때까지, Microsoft Learning에서 사용 가능하고 Microsoft Learn 사이트에서 접근 가능한 Certification Dashboard (https://aka.ms/certdashboard)의 프로필에 로그인하여 인증과 관련된 모든 항목(시험 일정, 기록, 배지, 등)에 계속 접근할 수 있습니다. [Microsoft Learn 프로필](https://docs.microsoft.com/learn)은 추후까지 별도로 남습니다. 앞으로 몇 달 내에, certification dashboard를 Microsoft Learn 프로필로 병합하여 통합 프로필을 만들것입니다.
           
-      - 질문: |
+      - question: |
           Microsoft Learning에 이미 프로필이 있는 경우, Microsoft Learn?에 프로필을 등록해야합니까?
-        답변: |
+        answer: |
           네. Microsoft Learning (certification) 프로필은 Microsoft Learn 프로필과 다릅니다. 로그인하지 않으면 작동하지 않는 Microsoft Learn의 확실한 특징과 기능에 접근하려면 Microsoft Learn에서 프로필을 만들어야합니다. 프로필을 만드는 경우, Microsoft Learning (certification) 프로필을 만들때 사용했던 것과 동일한 이메일을 사용하여 등록하는 것이 좋습니다. 앞으로 몇 달 내에, Microsoft Learning 인증 대시 보드가 Microsoft Learn Tech Profile에 병합되면, 프로필 연결 및 기타 프로필 관련 변경에 대한 세부 정보를 제공할 것입니다.
           
-      - 질문: |
+      - question: |
           문제가 질문이 있을 경우 어떻게 도움을 받을 수 있습니까? 어디서 지원을 받을 수 있습니까?
-        답변: |
+        answer: |
           지원에 접근하는 방법에 대한 자세한 설명은, 방문하십시오: [인증 지원](/learn/certifications/help).
