@@ -29,7 +29,7 @@ Credly 플랫폼으로 다음을 할 수 있습니다:
 - 귀하의 기술을 보유한 사람을 찾고 있는 고용주 알아보기
 - 귀하의 Microsoft 기술을 필요로 하는 직장의 예상 급여 알아보기.
 - 인증과 관련된 새로운 취업 기회를 찾아보고 몇 번의 클릭만으로 신청하기.
-- 인력 시장 통찰력 및 취업 기회를 살펴보십시오. 동영상을 보십시오: [Credly: Labor market insights](https://vimeo.com/379867308) 시장에서 기회를 빠르게 발견하는 것이 얼마나 쉬운지 확인하십시오. 
+- 인력 시장 통찰력 및 취업 기회를 살펴봅니다. 동영상을 시청합니다: [Labor Market Insights](https://support.credly.com/hc/en-us/articles/360041974091-Video-What-labor-market-insights-are-available-with-my-badge) 시장에서 기회를 빠르게 발견하는 것이 얼마나 쉬운지 확인하십시오.
 
 더 자세한 내용은, 블로그 포스팅 [Unlock Active Job Postings with Your Microsoft Certification](/learn/certifications/posts/unlock-active-job-postings-with-your-microsoft-certification)을 참고하십시오.
 
@@ -48,7 +48,7 @@ _*이 링크는 Microsoft와 개인 정보 보호 관행이 다른 타사 인 Cr
 
 ## Credly에서 배지를 자동으로 수락하는 방법
 
-Credly의 Acclaim 플랫폼에서, 발행 된 배지를 자동으로 수락하도록 계정 설정을 조정하십시오. Acclaim 비디오 “[How to manage your badge.](https://www.youtube.com/watch?v=rMeSQM0h1_Y)”에서 단계별 절차를 시청하십시오. 비디오에는 Acclaim에서 보내는 배지 이메일 알림이 표시되지만, 이메일 알림은 Microsoft에서 제공된다는 것을 참고하십시오. 
+Credly 플랫폼에서, 발행 된 배지를 자동으로 수락하도록 계정 설정을 조정하십시오. Credly 비디오 “[How do I manage and share my digital badge?](https://support.credly.com/hc/en-us/articles/360021222231-How-do-I-manage-and-share-my-digital-badge-)”에서 단계별 절차를 시청하십시오. 비디오에는 Credly에서 보내는 배지 이메일 알림이 표시되지만, 이메일 알림은 Microsoft에서 제공된다는 것을 참고하십시오. 
 
 ## 배지를 공유하는 방법
 
@@ -66,7 +66,8 @@ Microsoft Certification 배지를 신청한 후에, 배지와 인증을 공유�
 Microsoft Certification Program에서의 모든 유효한시험 및 인증에 관한 배지는 아래의 예외를 제외하고 발행됩니다.
 
 - 인증 발급에 필요한 시험이 하나인 경우, 시험 통과에 관한 배지는 별도로 발행되지 않고 인증 배지만 발행됩니다.
-- 이미 중단된 과거 시험 및 인증 일부의 경우에는 배지가 발급되지 않습니다. Acclaim 프로파일에 중단된 과거 시험 또는 인증 배지가 표시되지 않으면, 해당 시험 또는 인증에 대한 배지는 발급되지 않습니다.
+- 일부 레거시 시험 및 인증에는 배지를 사용할 수 없습니다. Credly 프로필에 레거시 시험 또는 인증에 대한 배지가 표시되지 않는 경우, 해당 시험 또는 인증에 대해 배지를 발급하지 않은 것입니다.
+
 
 만료 된 시험 또는 인증에 대한 배지를 취득한 경우에도, Credly의 플랫폼을 통해 배지를 신청할 수 있습니다.
 
@@ -78,7 +79,7 @@ Microsoft Certification Program에서의 모든 유효한시험 및 인증에 �
 
 **내 자격 증명이 어떻게 Microsoft 배지로 표시됩니까?**
 
-Credly의 플랫폼은 Mozilla에서 정의한 Open Badges 표준을 사용하여 귀하의 자격증을 고유하게 연결된 메타데이타와 관련된 디지털 이미지로 변형합니다. 
+Credly의 플랫폼은 IMS Global에서 정의한 공개 배지 표준을 사용하여 자격 증명을 귀하와 고유하게 연결된 메타 데이터와 관련된 디지털 이미지로 변환합니다. 이 표준은 고용주 및 기타 귀하의 기술에 관심이 있는 사람들이 확인할 수 있는 방식으로 디지털 배지를 온라인으로 쉽게 공유할 수 있게 합니다.
 
 **새 배지가 이전에 받은 배지와 다르게 보입니다. 무엇이 바뀌었습니까?**
 
@@ -92,7 +93,7 @@ Credly의 플랫폼은 Mozilla에서 정의한 Open Badges 표준을 사용하�
 
 방문하십시오: [인증 지원](/learn/certifications/help).
 
-Credly 플랫폼이나 배지 신청 방법에 대한 질문은, [Credly’s 지원.](https://support.youracclaim.com/)에 연락하십시오.
+Credly 플랫폼 또는 배지 요청 방법에 대한 질문이 있는 경우, [Credly 도움말 센터](https://support.credly.com/hc/en-us)의 리소스를 참고하거나 [도움 요청을 제출하십시오.](https://support.credly.com/hc/en-us/requests/new)
 
 **Certiport를 통해 Microsoft 배지를 획득했지만 아직 배지를 받지 못한 경우 어떻게 합니까?**
 
