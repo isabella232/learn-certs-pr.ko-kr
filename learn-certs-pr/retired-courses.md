@@ -19,44 +19,57 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
 
 ## 만료 과정: 강사-주도 교육
 
+* 코스웨어는 2021년 6월 30일 중단됩니다
+
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
+    | --- | --- | --- | --- | --- |
+    | AI-100T01 | A | Designing and Implementing an Azure AI Solution | 영어 | 6/30/2021 |
+    | DP-200T01 | A | Implementing an Azure Data Solution | 영어 | 6/30/2021 |
+    | DP-201T01 | A | Designing an Azure Data Solution | 영어 | 6/30/2021 |
+    | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | 영어 | 6/30/2021 |
+    | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | 영어 | 6/30/2021 |
+    | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | 일본어 | 6/30/2021 |
+    | AI-100T01KO | A | Designing and Implementing an Azure AI Solution | 한국어 | 6/30/2021 |
+    | AI-100T01ZH | A | Designing and Implementing an Azure AI Solution | 중국어 (간체) | 6/30/2021 |
+
 * 교육용 프로그램 2021년 5월 31일 만료 
 
-    | Course number | Version | Title | Language | Retirement date |
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | English | 5/31/2021 |
-    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | English | 5/31/2021 |
-    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | English | 5/31/2021 |
+    | 40519 | A | Microsoft Cloud Workshop: SAP NetWeaver on Azure | 영어 | 5/31/2021 |
+    | 40527 | A | Microsoft Cloud Workshop: Security baseline on Azure | 영어 | 5/31/2021 |
+    | 40529 | A | Microsoft Cloud Workshop: High Performance Computing | 영어 | 5/31/2021 |
 
 * 교육용 프로그램 2021년 4월 30일 만료
 
-    | Course number | Version | Title | Language | Retirement date |
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- | 
-    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | English | 04/30/2021 |
+    | 20537 | B | Configuring and Operating a Hybrid Cloud with Microsoft Azure Stack | 영어 | 04/30/2021 |
 
 * 2021년 3월 31일 교육용 프로그램 종료
 
-    | Course number | Version | Title | Language | Retirement date |
+    | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
-    | 20778 | C | Analyzing Data with Power BI | English | 03/31/2021 |
-	| 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | Japanese | 3/31/2021 |
-    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | Japanese | 3/31/2021 |
-    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | Japanese | 3/31/2021 |
-    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | Japanese | 3/31/2021 |
-    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (Japanese) | Japanese | 3/31/2021 |
-    | 40241 | A | MTA Cloud Fundamentals 98-369 (Japanese) | Japanese | 3/31/2021 |
-	| 40349 | B | Windows OS Fundamentals | English | 03/31/2021 |
-    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | English | 3/31/2021 |
-    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | English | 3/31/2021 |
-    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | English | 3/31/2021 |
-    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | English | 3/31/2021 |
-    | 40366 | B | Networking Fundamentals | English | 03/31/2021 |
-    | 40367 | B | Security Fundamentals | English | 03/31/2021 |
-    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | English | 03/31/2021 |
-    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | English | 03/31/2021 |
-	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | English | 3/31/2021 |
-    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | English | 3/31/2021 |
-    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | English | 3/31/2021 |
-    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | English | 3/31/2021 |   
+    | 20778 | C | Analyzing Data with Power BI | 영어 | 03/31/2021 |
+	| 40037 | A | Database Administration Fundamentals: MTA Exam 98-364 | 일본어 | 3/31/2021 |
+    | 40038 | A | Networking Fundamentals: MTA Exam 98-366 | 일본어 | 3/31/2021 |
+    | 40039 | A | Security Fundamentals: MTA Exam 98-367 | 일본어 | 3/31/2021 |
+    | 40040 | A | Windows Server Administration Fundamentals: MTA Exam 98-365 | 일본어 | 3/31/2021 |
+    | 40240 | A | MTA Mobility & Device Fundamentals 98-368 Windows (일본어) | 일본어 | 3/31/2021 |
+    | 40241 | A | MTA Cloud Fundamentals 98-369 (일본어) | 일본어 | 3/31/2021 |
+	| 40349 | B | Windows OS Fundamentals | 영어 | 03/31/2021 |
+    | 40361 | A | Software Development Fundamentals: Training for MTA Exam 98-361 | 영어 | 3/31/2021 |
+    | 40362 | A | Windows Development Fundamentals: Training for MTA Exam 98-362 | 영어 | 3/31/2021 |
+    | 40363 | A | Web Development Fundamentals: Training for MTA Exam 98-363 | 영어 | 3/31/2021 |
+    | 40364 | A | Database Administration Fundamentals: Training for MTA Exam 98-364 | 영어 | 3/31/2021 |
+    | 40366 | B | Networking Fundamentals | 영어 | 03/31/2021 |
+    | 40367 | B | Security Fundamentals | 영어 | 03/31/2021 |
+    | 40368 | A | Mobility & Devices Fundamentals: MTA Exam 98-368 | 영어 | 03/31/2021 |
+    | 40369 | A | Cloud Fundamentals: MTA Exam 98-369 | 영어 | 03/31/2021 |
+	| 40372 | A | Microsoft .NET Fundamentals: Training for MTA Exam 98-372 | 영어 | 3/31/2021 |
+    | 40373 | A | Mobile Development Fundamentals: Training for MTA Exam 98-373 | 영어 | 3/31/2021 |
+    | 40374 | A | Gaming Development Fundamentals: MTA Exam 98-374 | 영어 | 3/31/2021 |
+    | 40375 | A | HTML5 Application Development Fundamentals: Training for MTA Exam 98-375 | 영어 | 3/31/2021 |   
 
 * 2020년 12월 31일 중단된 코스웨어
 
@@ -244,7 +257,7 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
     | 10988 | C | Managing SQL Business Intelligence Operations | 영어 | 2020년 06월 30일 |
     | 10999 | A | SQL Server on Linux | 영어 | 2020년 06월 30일 |
     | 20332 | B | Advanced Solutions of Microsoft SharePoint Server 2013 | 영어 | 2020년 06월 30일 |
-    | 20335 | B | Network Readiness and Assessment for Lync | English | 06/30/2020 |영어 | 2020년 06월 30일 |
+    | 20335 | B | Network Readiness and Assessment for Lync | 영어 | 06/30/2020 |영어 | 2020년 06월 30일 |
     | 20336 | B | Core Solutions of Microsoft® Lync® Server 2013 | 영어 | 2020년 06월 30일 |
     | 20337 | B | Enterprise Voice and Online Services with Microsoft® Lync® Server 2013 | 영어 | 2020년 06월 30일 |
     | 20342 | B | Pro: Exchange Server 15 | 영어 | 2020년 06월 30일 |
@@ -781,14 +794,14 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
     | 6738 | A | Configuration et administration des services Windows Media® dans Windows Server® 2008 | 프랑스령 | 2018년 06월 30일 |
     | 6741 | A | Configuration et dépannage d'une infrastructure réseau Windows Server 2008 | 프랑스령 | 2018년 06월 30일 |
     | 6742 | A | Konfigurieren einer Netzwerkinfrastruktur und Problembehandlung unter Windows Server® 2008 | 독일 | 2018년 06월 30일 |
-    | 6743 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (Japanese) | 일본어 | 2018년 06월 30일 |
+    | 6743 | A | Configuring and Troubleshooting a Windows Server® 2008 Network Infrastructure (일본어) | 일본어 | 2018년 06월 30일 |
     | 6747 | A | Planification et administration de serveurs Windows Server® 2008 | 프랑스령 | 2018년 06월 30일 |
     | 6851 | A | Fundamentals of Windows Server® 2008 Active Directory® | 중국어 | 2018년 6월 30일
     | 6853 | A | Deploying Windows Server® 2008 | 중국어 | 2018년 6월 30일
     | 6855 | A | Configuring and Troubleshooting Windows Server® 2008 Terminal Services (중국어(간체)) | 중국어 | 2018년 06월 30일
     | 6856 | A | Fundamentals of Windows Server 2008 Active Directory | 독일 | 2018년 06월 30일 |
     | 6857 | A | Fundamentals of Windows Server 2008 Active Directory | 프랑스령 | 2018년 06월 30일 |
-    | 6871 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® (Japanese) | 일본어 | 2018년 06월 30일 |
+    | 6871 | A | Configuring and Troubleshooting Identity and Access Solutions with Windows Server® 2008 Active Directory® (일본어) | 일본어 | 2018년 06월 30일 |
     | 7193 | A | Developing Managed Applications for Windows Mobile 6 | 중국어 | 2018년 6월 30일
     | 7196 | A | Developing Native Applications for Microsoft Windows Mobile 6 | 중국어 | 2018년 6월 30일
     | 10036 | A | Designing a Windows Server® 2008 Network Infrastructure - French | 프랑스령 | 2018년 06월 30일 |
@@ -802,7 +815,7 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
     | 10087 | A | Visual Studio® 2008: ADO.NET 3.5 | 중국어 | 2018년 6월 30일
     | 10184 | A | Designing Windows Server 2008 Network Infrastructure | 중국어 | 2018년 6월 30일
     | 10185 | A | Designing Active Directory® Infrastructure and Services in Windows Server® 2008 | 중국어 | 2018년 6월 30일
-    | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(Japanese) | 일본어 | 2018년 06월 30일 |
+    | 10218 | A | Writing Queries Using Microsoft® SQL Server® 2008 Transact-SQL(일본어) | 일본어 | 2018년 06월 30일 |
     | 10326 | A | Implementieren und Verwalten von Windows Small Business Server 2008 | 독일 | 2018년 06월 30일 |
     | 10562 | A | Developing Web Applications with Microsoft® Visual Studio® 2010(중국어(간체)) | 중국어 | 2018년 06월 30일
     | 80307 | A | Enterprise Portal Development in Microsoft Dynamics® AX 2012 | 영어 | 2018년 06월 30일 |
@@ -837,22 +850,22 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
     | 80583 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Installation and Configuration | 영어 | 2018년 06월 30일 |
     | 80584 | A | Microsoft Dynamics® AX 2012 R2 for Retail in eCommerce Stores: Development and Customization | 영어 | 2018년 06월 30일 |
     | 80585 | A | Microsoft Dynamics® AX 2012 R2 for Retail in Brick and Mortar Stores: Development and Customization | 영어 | 2018년 06월 30일 |
-    | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
+    | 80616 | A | Customization and Configuration in Microsoft Dynamics® CRM 2013 (일본어) | 일본어 | 2018년 06월 30일 |
     | 80617 | A | Konfiguration und Anpassung in Microsoft Dynamics® CRM 2013 | 독일 | 2018년 06월 30일 |
     | 80618 | A | Personalización y configuración de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 6월 30일
     | 80619 | A | Personnalisation et configuration dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
-    | 80620 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
+    | 80620 | A | Installation and Deployment in Microsoft Dynamics® CRM 2013 (일본어) | 일본어 | 2018년 06월 30일 |
     | 80621 | A | Instalación e implementación de Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
     | 80622 | A | Installation und Bereitstellung in Microsoft Dynamics® CRM 2013 | 독일 | 2018년 06월 30일 |
     | 80623 | A | Installation et déploiement dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
     | 80624 | A | Administración de ventas de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 6월 30일
     | 80625 | A | Vertriebsverwaltung in Microsoft Dynamics® CRM 2013 | 독일 | 2018년 06월 30일 |
     | 80626 | A | Gestion des ventes dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
-    | 80627 | A | Sales Management in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
+    | 80627 | A | Sales Management in Microsoft Dynamics® CRM 2013 (일본어) | 일본어 | 2018년 06월 30일 |
     | 80628 | A | Kundenservice in Microsoft Dynamics® CRM 2013 | 독일 | 2018년 06월 30일 |
     | 80629 | A | Servicio al cliente de Microsoft Dynamics® CRM 2013 | 스페인어 | 2018년 6월 30일
     | 80630 | A | Service clientèle dans Microsoft Dynamics® CRM 2013 | 프랑스령 | 2018년 06월 30일 |
-    | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (Japanese) | 일본어 | 2018년 06월 30일 |
+    | 80631 | A | Customer Service in Microsoft Dynamics® CRM 2013 (일본어) | 일본어 | 2018년 06월 30일 |
 
 * 2018년 3월 30일 중단된 코스웨어
 

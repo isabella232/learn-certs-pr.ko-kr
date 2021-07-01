@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: 'Microsoft Power Platform Solution Architect (beta)'
+title: 'Microsoft Power Platform Solution Architect'
 metadata:
-  title: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
-  description: 'Exam PL-600: Microsoft Power Platform Solution Architect (beta)'
+  title: 'Exam PL-600: Microsoft Power Platform Solution Architect'
+  description: 'Exam PL-600: Microsoft Power Platform Solution Architect'
 uid: exam.pl-600
 displayName: PL-600
 summary: |-
@@ -11,8 +11,6 @@ summary: |-
   솔루션 설계자는 Power Platform, Dynamics 365 고객 참여 앱, 관련 Microsoft cloud 솔루션 및 기타 타사 기술에 대한 기능 및 기술 지식을 보유하고 있습니다. 솔루션 설계자는 참여 전반에 걸쳐 지식과 경험을 적용합니다. 솔루션 설계자는 고객의 투자 가치를 높이고 조직 건강을 촉진하기 위해 사전 및 예방 작업을 수행합니다. 이 역할은 비즈니스 문제를 해결하기 위한 기회를 식별하는 능력을 필요로합니다.
   
   솔루션 설계자들은 Power Platform 의 기능 및 기술 분야 전반에 걸쳐 경험이 있습니다. 솔루션 설계자들은 개발, 구성, 통합, 인프라, 보안, 가용성, 스토리지 및 변경 관리 전반에 걸쳐 디자인 결정을 촉진할 수 있어야 합니다. 이 역할은 기능적 및 비기능적 요구사항을 만족시키면서 프로젝트의 비즈니스 요구 사항의 균형을 맞춥니다.
-  
-  <div><br/><font color='red'><strong>베타 시험은 문제와 시험의 품질에 대한 데이터를 수집하고 있기 때문에 즉시 채점되지 않습니다. <a href="/learn/certifications/beta-exams">베타 시험에 대한 가치와 중요성에 대해 더 알아보세요</a>.</strong></font></div>
 subTitle: '이 시험은 다음의 기술 작업을 완수하는 능력을 측정합니다: 솔루션 구상 및 요구사항 분석 수행; 솔루션 설계; 그리고 솔루션을 구현합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4M56D
@@ -54,6 +52,9 @@ relatedCertifications:
 - related:
     uid: certification.power-platform-solution-architect-expert
 resources:
+- title: 인증서 학습 경로
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWEGLH
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색합니다.
   href: https://aka.ms/TrainingCertDeck

@@ -7,7 +7,7 @@ uid: exam.ms-101
 displayName: MS-101
 summary: |-
   <div>
-  <div><font color='red'><strong>이 시험의 내용은 2021년 5월 25일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 5월 25일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
   </div>
   
   본 시험은 Microsoft 365 서비스를 평가, 계획, 마이그레이션, 배포, 관리에 참여하는 Microsoft 365 Enterprise Administrator를 대상으로 실시됩니다. 응시자는 ID, 보안, 규제 준수 및 지원 기술을 포함해 기업용 Microsoft 365 테넌트 관리 작업을 수행하게 됩니다.
@@ -24,7 +24,7 @@ locales:
 levels:
 - advanced
 skills:
-- 이 시험의 내용은 2021년 5월 25일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 5월 25일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 최신 장치 서비스 구현 (40-45%)
 - Microsoft 365 보안 및 위협 관리 구현 (20-25%)
 - Microsoft 365 거버넌스 및 준수 관리 (35-40%)

@@ -79,18 +79,19 @@ outlineSection: |-
   ### 모듈 3&#58; Azure Administration
   본 모듈에서는 Azure Administration이 인프라를 관리하는 데 사용하는 도구를 학습합니다. 여기에는 Azure Portal, Cloud Shell, Azure PowerShell, CLI, 및 Resource Manager 템플릿이 포함됩니다. 본 모듈에는 다음이 포함됩니다&#58;
   #### 단원
-  - Azure Resource Manager
-  - Azure Portal and Cloud Shell
-  - Azure PowerShell and CLI
-  - ARM Templates
+  *   Azure Resource Manager
+
+  *   Azure Administrator Tools
+
+  *   ARM 템플릿
   
-  #### 랩&#58; Azure Portal을 통한 Azure 리소스 관리
-  
-  #### 랩&#58; ARM 템플릿을 통한 Azure 리소스 관리
-  
-  #### 랩&#58; Azure PowerShell을 통한 Azure 리소스 관리(선택 사항)
-  
-  #### 랩&#58; Azure CLI를 통한 Azure 리소스 관리(선택 사항)
+  #### 랩 : ARM 템플릿을 사용하여 Azure 리소스 관리
+
+  #### 랩 : Azure PowerShell을 사용하여 Azure 리소스 관리 (옵션)
+
+  #### 랩 : Azure CLI를 사용하여 Azure 리소스 관리 (옵션)
+
+  #### 랩 : Azure Portal을 사용하여 Azure 리소스 관리
   
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - Azure Resource Manager를 활용하여 리소스 구성.
@@ -103,7 +104,6 @@ outlineSection: |-
   본 모듈에서는 가상 네트워크 및 서브네팅, IP 주소 지정, 네트워크 보안 그룹, Azure Firewall 및 Azure DNS와 같은 기본 가상 네트워킹 개념을 학습합니다.
   #### 단원
   - 가상 네트워크
-  - IP 주소 지정
   - 네트워크 보안 그룹
   - Azure Firewall
   - Azure DNS
@@ -112,7 +112,6 @@ outlineSection: |-
   
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - 가상 네트워크 및 서브넷 구현.
-  - 공용 및 개인 IP 주소 지정 구성.
   - 네트워크 보안 그룹 구성.
   - Azure Firewall 구성.
   - 개인 및 공용 DNS 영역 구성.
@@ -194,9 +193,11 @@ outlineSection: |-
   
   #### 랩&#58; Web Apps 구현
   
-  #### 랩&#58; Azure Container Instances 구현
-  
-  #### 랩&#58; Azure Kubernetes Service 구현
+  #### 랩 : Azure Kubernetes Service 구현
+
+  ####
+
+  #### 랩 : Azure Container Instances 구현
   
   본 모듈을 완료하면 학생들은 다음을 수행할 수 있습니다&#58;
   - App Service 계획 생성.
