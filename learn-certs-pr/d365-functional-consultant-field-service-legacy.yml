@@ -1,0 +1,83 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (레거시)'
+metadata:
+  title: 'Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate (레거시)'
+  description: 'Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.'
+uid: certification.d365-functional-consultant-field-service-legacy
+certificationRenewalUid: renewal.d365-functional-consultant-field-service
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.
+  
+  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.
+  
+  고객을 위해 Dynamics 365 솔루션의 구성과 구현을 담당하는기능 컨설턴트인 경우, 기술을 강조하고 경력을 향상시키는데 도움이 되는 이 인증이 적합합니다. Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 수명 주기를 완료하는 리소스를 관리하는 솔루션을 구현하는 것을 담당합니다. 기능 컨설턴트로서, 프로젝트 관리자들, 개발자들 및 솔루션 아키텍트와 협력하는 방법을 알고있습니다. Dynamics 365를 구현하는 기능 컨설턴트로서 최소 1-3년의 경험이 필요합니다.  
+  
+  이 인증을 획득하기 전에 더 많은 경험이 필요하다면, 여기 몇 가지 제안이 있습니다&#58;
+  - 몇 가지 프로젝트에서 Dynamics 365 기능 컨설턴트로 작업합니다.
+  - Dynamics 365 Field Service 구현을 작업합니다.
+  - [community.dynamics.com](https://community.dynamics.com/)에서 커뮤니티에 가입합니다.
+  - [Microsoft Learn](/learn/browse/?expanded=dynamics-365&roles=functional-consultant&resource_type=learning%20path&products=dynamics-field-service)에서 사용 가능한 학습 경로를 수강합니다.
+  - 더 많은 실습을 완료합니다.
+  - 강사-주도 교육 과정에 등록합니다.
+subTitle: Microsoft Dynamics 365 Field Service 기능 컨설턴트는 현장 서비스 애플리케이션을 구성하고 현장 서비스 수명주기를 관리하는 솔루션을 구현하며 IoT(Connected Field Service) 솔루션을 배포합니다.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- 없음
+roles:
+- functional-consultant
+type: role-based
+products:
+- dynamics-365
+- dynamics-field-service
+courses:
+- uid: course.pl-200t00
+- uid: course.mb-240t00
+paths:
+- uid: learn-dynamics.get-started-using-common-data-service
+- uid: learn-dynamics.manage-permissions-and-administration-for-common-data-service
+- uid: learn-bizapps.create-powerapps
+- uid: learn-bizapps.create-app-models-business-processes
+- uid: learn-bizapps.create-business-process-flow
+- uid: learn-bizapps.automate-process-using-flow
+- uid: learn-bizapps.get-started-power-automate-buttons
+- uid: learn-bizapps.best-practices-environments
+- uid: learn-bizapps.create-use-analytics-reports-power-bi
+- uid: learn-dynamics.create-relationships-business-rules-calculations-and-rollups-in-common-data-service
+- uid: learn-bizapps.work-power-virtual-agents
+- uid: learn-bizapps.bring-ai
+- uid: learn-bizapps.improve-business-performance-ai-builder
+- uid: learn-bizapps.implementing-dyn365-field-service
+- uid: learn-bizapps.universal-resource-scheduling
+exams:
+- uid: exam.mb-200
+- uid: exam.mb-240
+resources:
+- title: 인증 포스터
+  description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 인증으로의 여정
+  description: 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4H12f
+- title: 교육 및 인증 가이드
+  description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증서 학습 경로
+  description: 필수 시험 준비와 인증 획득에 도움이 되는 추천 교육 리소스입니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4C56X
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 배지 공유
+  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  href: badges.md
+
