@@ -1,0 +1,82 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure Developer Associate (레거시)'
+metadata:
+  title: 'Microsoft Certified: Azure Developer Associate (레거시)'
+  description: 'Azure 개발자는 클라우드 솔루션 및 서비스를 설계, 구성, 테스트 및 유지 관리합니다.'
+uid: certification.azure-developer-legacy
+certificationRenewalUid: renewal.azure-developer
+iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
+summary: |-
+  이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.
+  
+  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.
+  
+  Azure Developer Associate 인증의 응시자들은 Microsoft Azure에서 cloud 애플리케이션 및 서비스를 디자인하고, 구축하고, 테스트하고, 유지 관리하는데 있어 주제별 전문지식을 가지고있어야합니다.  
+  
+  이 역할의 책임은 요구사항, 정의 및 디자인에서; 개발, 배포 및 유지 관리까지; 성능 튜닝 및 모니터링 까지, cloud 개발의 모든 단계에 참여하는 것이 포함됩니다. 
+  
+  Azure 개발자들은 솔루션을 구현하기 위해 cloud 솔루션 아키텍트, cloud DBAs, cloud 관리자 및 고객들과 협력합니다.
+  
+  이 인증의 응시자는 1-2 년의 전문적인 개발 경험과 Microsoft Azure에 대한 경험이 있어야합니다. 또한 이 역할의 후보자는 Azure 에 의해 지원되는 언어로 프로그래밍 할 수 있어야 하고, Azure SDKs, Azure PowerShell, Azure CLI, 데이터 저장소 옵션, 데이터 연결, APIs, 앱 인증 및 권한 부여, 컴퓨팅 및 컨테이너 배포, 디버깅, 성능 튜닝 및 모니터링에 능숙해야합니다. 
+subTitle: Azure 개발자는 클라우드 솔루션 및 서비스를 설계, 구성, 테스트 및 유지 관리합니다.
+hidden: true
+hideFishboneDiagram: true
+levels:
+- intermediate
+skills:
+- 없음
+roles:
+- developer
+type: role-based
+products:
+- azure
+- azure-virtual-machines
+- azure-storage
+- azure-active-directory
+- azure-cognitive-services
+- azure-resource-manager
+- azure-app-service
+- azure-bot-service
+- azure-functions
+- azure-logic-apps
+courses:
+- uid: course.az-204t00
+- uid: course.az-020t00
+paths:
+- uid: learn.create-serverless-applications
+- uid: learn.connect-your-services-together
+- uid: learn.store-data-in-azure
+- uid: learn.deploy-a-website-with-azure-virtual-machines
+- uid: learn.manage-resources-in-azure
+- uid: learn.deploy-a-website-with-azure-app-service
+- uid: learn.secure-your-cloud-data
+exams:
+- uid: exam.az-203
+- uid: exam.az-200
+- uid: exam.az-201
+resources:
+- title: Azure 인증 포스터
+  description: Azure에 대한 기본 지식, 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: 인증으로의 여정
+  description: Azure Developer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4woK5
+- title: 교육 및 인증 가이드
+  description: 간략 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
+  href: https://aka.ms/TrainingCertDeck
+- title: 인증 포스터
+  description: 기초, 역할 기반 및 전문 인증에 대한 개요를 확인합니다.
+  href: https://aka.ms/traincertposter
+- title: Exam Replay
+  description: 성공 확률을 높여주는 두 가지 훌륭한 제안을 확인하세요.
+  href: deals.md
+- title: 인증 지원
+  description: Microsoft Certification 지원 포럼에서 도움을 받으십시오. 포럼 조정자는 월요일에서 금요일까지 업무일 하루 만에 응답할 것입니다.
+  href: help.md
+- title: 인증 대시보드
+  description: 예약된 약속, 인증서 및 스크립트를 검토하고 관리합니다.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: 인증 배지 공유
+  description: 여러 사람들과 인증 획득을 기념하세요. Microsoft Certification 배지를 신청하고 LinkedIn, 이력서 등에 추가하세요.
+  href: badges.md
+
