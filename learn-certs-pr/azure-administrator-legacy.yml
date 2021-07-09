@@ -7,9 +7,7 @@ uid: certification.azure-administrator-legacy
 certificationRenewalUid: renewal.azure-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.
-  
-  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.
+  <div><font color="#D83B01"><strong>이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.<br/><br/></strong></font></div>
   
   Azure Administrator Associate 인증 응시자는 조직의 Microsoft Azure 환경을 구현, 관리 및 모니터링하는 실무 전문 지식을 갖추고 있어야 합니다.
 

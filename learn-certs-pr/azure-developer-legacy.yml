@@ -7,9 +7,7 @@ uid: certification.azure-developer-legacy
 certificationRenewalUid: renewal.azure-developer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.
-  
-  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.
+  <div><font color="#D83B01"><strong>이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.<br/><br/></strong></font></div>
   
   Azure Developer Associate 인증의 응시자들은 Microsoft Azure에서 cloud 애플리케이션 및 서비스를 디자인하고, 구축하고, 테스트하고, 유지 관리하는데 있어 주제별 전문지식을 가지고있어야합니다.  
   
