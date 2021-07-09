@@ -7,9 +7,7 @@ uid: certification.azure-solutions-architect-legacy
 certificationRenewalUid: renewal.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.
-  
-  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.
+  <div><font color="#D83B01"><strong>이 버전의 인증을 이제는 사용할 수 없습니다. 이 버전의 인증이 있는 경우 최신 버전의 인증이 자동으로 부여됩니다.<br/><br/>  두 버전의 인증이 모두 인증에 나열됩니다. 최신 버전만 갱신하면 됩니다. 이전 버전이 만료되면 성적표의 인증 이력 섹션으로 이동합니다.<br/><br/></strong></font></div>
   
   Azure Solutions Architect Expert 인증을 위한 응시자는 컴퓨팅, 네트워크, 스토리지 및 보안과 같이 Microsoft Azure에서 실행되는 솔루션을 설계 및 구현한 실무 전문 지식을 갖추고 있어야 합니다.응시자들은 Azure 관리에 대한 중급 수준의 기술을 가지고 있어야합니다. 응시자들은 Azure 개발 및 DevOps 프로스세를 이해해야합니다.
 
