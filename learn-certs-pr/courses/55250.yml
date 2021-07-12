@@ -1,0 +1,230 @@
+### YamlMime:Course
+title: Introduction to Microsoft Dynamics 365
+metadata:
+  title: 'Course 55250-A: Introduction to Microsoft Dynamics 365'
+  description: 'Course 55250-A: Introduction to Microsoft Dynamics 365'
+uid: course.55250
+courseNumber: '55250-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Sales, Service 및 Marketing을 포함하여 Microsoft Dynamics 365 Customer Engagement의 Apps과 Hubs 숙지 
+- skill: Dynamics 365 Apps과 PowerApps 차이점 이해
+- skill: Microsoft Dynamics 365에서 기록 생성, 업데이트, 연결, 할당 및 삭제 가능
+- skill: 타임라인 제어에서 게시물, 메모 및 활동 생성 및 관계 보조원과 상호작용 
+- skill: 활동 관리, 할당 및 완료
+- skill: 연결을 이해하고 기록을 함께 모으기 위해 이를 사용 
+- skill: 보기로 작업하고 기록의 개인 보기를 만들고 저장 
+- skill: 조회 및 관련 기록으로 작업하는 방법 이해 
+- skill: 다른 사용자들과 기록 및 보기 공유
+- skill: 기록에 대한 대량 작업 수행 
+- skill: 사용자 경험을 맞춤화하기 위해 개인 옵션 구성 
+- skill: Dynamics 365에서 기록에 대한 Outlook의 이메일 및 약속 추적 
+- skill: 글로벌 검색, 빠른 찾기 및 고급 찾기를 사용하여 능숙하게 정보 찾기
+- skill: 보고서 마법사를 사용하여 즉시 사용 가능한 보고서를 탐색하고 맞춤형 보고서 생성
+- skill: 개인 차트 및 대시보드를 만들고 자신의 홈페이지로 설정
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- dynamics-365
+summary: |-
+  이 과정은 모든 후속 과정 및 학습을 위한 기반을 구축하여 학생들에게 Microsoft Dynamics 365 Customer Engagement에 대한 소개를 제공합니다. Sales, Service 및 Marketing을 포함하는 주요 기능 및 앱이 소개됩니다. 학생들은 웹 브라우저를 통한 고급 찾기, 보고서 마법사, 차트 및 대시 보드와 같은 즉시 사용 가능한 도구 및 Dynamics 365 for Outlook을 사용하여 정보를 빠르고 쉽게 찾기위해 Microsoft Dynamics 365 에서 능숙하게 작업하는 방법을 포함하여 중요한 최종 사용자 기술을 배우게 됩니다.
+
+  이 과정을 수강하는데 Microsoft Dynamics 365에 대한 이전 경험은 필요하지 않습니다. 과정은 Microsoft Dynamics 365 Version 9의 비즈니스 및 엔터프라이즈 에디션 모두와 온라인 및 온-프레미스 배포도 적용됩니다.
+
+  #### 구독자 프로필
+  이 과정은 다음을 포함하여, Microsoft Dynamics 365 Customer Engagement의 최종 사용자에게 적용되도록 디자인되었습니다&#58;
+  - 영업 담당자들
+  - 고객 서비스 담당자들
+  - 마케팅 인원
+  - 프로젝트 관리자들
+  - Dynamics 365의 기술을 향상 시키려는 일반 최종 사용자들. 이 과정의 참석자들은 Microsoft Office, Microsoft Excel 및 Microsoft Outlook에 대한 기존 실무 지식을 갖출 것을 권장합니다. 그러나 이 과정에서는 Microsoft Dynamics 365에 대한 사전 지식이 없다고 가정합니다. 
+
+prerequisitesSection: |-
+  이 과정에 참여하기 전에, 학생들은 다음을 갖추어야 합니다&#58;
+  - Microsoft Office, Microsoft Excel 및 Microsoft Outlook에 대한 실무 지식. 그러나 이 과정에서는 Microsoft Dynamics 365에 대한 사전 지식이 없다고 가정합니다. 
+outlineSection: |-
+  ### 모듈 1&#58; 소개
+  이 모듈은 참석자에게 Microsoft Dynamics 365 Customer Engagement에 대한 소개를 제공합니다.
+  #### 레슨
+  - Dynamics 365는 무엇입니까?
+  - Dynamics 365의 이점
+  - Sales Apps 및 Hubs
+  - Customer Service Apps 및 Hubs
+  - Marketing App
+  - Dynamics 365 및 PowerApps
+  - Web 인터페이스
+  - Outlook 인터페이스
+  - 목록 및 그리드
+  - 양식
+  - 조회 및 관련 기록
+  - 도움을 받을 수 있는 곳
+  - 추가 읽기 및 리소스
+
+
+  #### 랩 &#58; 랩 환경 설정하기
+  - 샘플 데이터 설치
+
+
+  #### 랩 &#58; Dynamics 365 Orientation
+  - Microsoft Dynamics 365 탐색
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Microsoft Dynamics 365 Customer Engagement의 주요 기능 및 이점 설명
+  - Sales Hub, Customer Service Hub 및 Marketing App에 대해 잘 알고 있습니다. 
+  - Web과 Outlook 인터페이스의 차이점 이해
+  - 도움말 및 추가 자료 리소스를 찾을 수 있는 위치 파악 
+
+  ### 모듈 2&#58; 기록, 활동 및 개인 오션
+  이 모듈은 Microsoft Dynamics 365 Customer Engagement의 기본 개념 및 기능을 설명합니다. 기록 및 관계의 관련성, 활동 추적 및 개인 옵션 구성을 조사합니다. 또한 타임라인 제어에서 게시물, 활동 및 메모로 작업하는 방법을 배우게 됩니다.
+  #### 레슨
+  - 기록 및 관계
+  - 활동
+  - 타임라인 제어
+  - 관계 보조원
+  - 연결
+  - 개인 옵션 설정하기
+
+
+  #### 랩 &#58; 개인 옵션 설정
+  - 홈페이지 변경
+  - 페이지 당 기록 변경
+  - 형식 설정 구성
+
+
+  #### 랩 &#58; 활동으로 작업하기
+  - 작업 활동 만들기
+  - 설정 관련 필드를 사용하여 활동 추적
+  - 소유자 필드를 사용하여 활동 할당
+  - 활동 찾기 및 완료
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 기록 및 활동으로 작업
+  - 타임라인 제어에서 게시물, 메모 및 첨부 파일과 상호 작용
+  - 기록 연결 만들기
+  - 개인 옵션 구성
+  - 활동 기록으로 작업
+  - 도움말 및 추가 자료 리소스 찾을 수 있는 위치 파악
+
+
+  ### 모듈 3&#58; Dynamics 365에서 작업 수행하기
+  이 모듈은 최종 사용자가 Microsoft Dynamics 365 Customer Engagement에서 능숙하게 작업을 수행하는데 필요한 일반적인 기술을 제공합니다. 기록으로 작업하고, 개인 보기를 만들고, 기록을 다른 소유자에게 다시 할당하고, 기록, 보기 및 차트를 다른 사용자들과 공유하는 방법을 배웁니다. 또한 여러 항목 편집과 같은 대량 작업을 수행하는 방법도 배우게 됩니다. 
+  #### 레슨
+  - 데이터 및 기록으로 작업하기
+  - 보안 고려 사항
+  - 시스템 보기 및 개인 보기
+  - 기록 만들기
+  - 기존 기록 편집하기
+  - 기록 삭제하기
+  - 관련 기록
+  - 새로운 소유자에게 기록 재할당하기
+  - 다른 사용자 또는 팀과 기록 공유하기
+  - 여러 기록에 대한 작업 수행하기
+
+
+  #### 랩 &#58; 기록 관리하기
+  - 계정 기록 만들기
+  - 연락처를 계정에 연결
+  - 계정 기록 재 할당
+  - 계정 기록 공유
+  - 계정 비활성화 만들기
+
+
+  #### 랩 &#58; 개인 보기 만들기
+  - 개인 보기 만들기
+  - 기본 개인 보기 설정
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 기록에 대한 작업 수행
+  - 개인 보기 만들기 및 관리
+  - 기록 재 할당 및 공유
+  - 기록에 대한 대량 작업 수행
+
+
+  ### 모듈 4&#58; Dynamics 365 for Outlook
+  이 모듈에서는 Dynamics 365 for Outlook을 사용하는 방법을 배우게됩니다. Outlook Add-in은 Dynamics 365 탐색 옵션, Dynamics 365에서 기록에 대한 이메일 및 약속을 추적하기 위한 절차 및 귀하의 작업을 Dynamics 365 서버와 동기화하는 방법을 포함하여 고려됩니다. 
+
+  #### 레슨
+  - Dynamics 365 for Outlook 소개
+  - Dynamics 365 Pop-out Window
+  - Outlook에서 활동 추적하기
+  - 템플릿, 판매 문헌 및 기사
+  - Outlook에서 Dynamics 365 Records 만들기
+  - Outlook에서 Dynamics 365 Records 검색하기
+
+
+  #### 랩 &#58; Outlook에서 활동 추적하기
+  - Dynamics 365 for Outlook에서 이메일 추적
+  - Dynamics 365 for Outlook에서 약속 추적
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Dynamics 365 for Outlook App을 잘 알고 있습니다. 
+  - Web과 Outlook 인터페이스의 차이점 이해
+  - Dynamics 365에서 기록에 대해 Outlook의 활동 추적
+
+
+  ### 모듈 5&#58; Dynamics 365에서 검색하기
+  이 모듈에서는 Microsoft Dynamics Customer Engagement에서 정보를 검색하고 찾는 방법에 대해서 배우게 됩니다. 글로벌 찾기, 빠른 찾기 및 고급 찾기를 포함하여 모든 즉시 사용 가능한 검색 도구를 살펴보겠습니다. 
+  #### 레슨
+  - Dynamics 365에서 검색하기 소개
+  - 글로벌 찾기
+  - 빠른 찾기
+  - 고급 찾기
+
+
+  #### 랩 &#58; 글로벌 찾기 사용하기
+  - 정보를 검색하기 위해 글로벌 찾기 사용
+
+
+  #### 랩 &#58; 빠른 찾기 사용하기
+  - 계정 기록을 검색하기 위해 빠른 찾기 사용
+
+
+  #### 랩 &#58; 고급 찾기 사용하기
+  - 정보를 검색하기 위해 고급 찾기 사용
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 글로벌 검색 사용
+  - 빠른 찾기 사용
+  - 고급 찾기 도구에 능숙합니다.
+
+
+  ### 모듈 6&#58; 보고서, 차트 및 대시 보드
+  이 모듈은 정보를 분석하기 위해 Microsoft Dynamics 365에서 사용할 수 있는 다양한 방법을 살펴봅니다. 즉시 사용가능한 "기본" 보고서 및 Dynamics 365 Report Wizard를 사용하여 사용자 지정 보고서를 만들기 위한 절차를 살펴 봅니다. 이 모듈은 또한 사용자 지정 차트 및 대시 보드를 구성하는 절차 뿐만 아니라 즉시 사용 가능한 차트 및 대시 보드를 검사합니다.
+  #### 레슨
+  - 보고서, 차트 및 대시 보드 소개
+  - 기본 보고서
+  - 보고 마법사
+  - 차트로 작업하기
+  - 대시 보드로 작업하기
+
+
+  #### 랩 &#58; 사용자 지정 보고서 만들기
+  - 사용자 지정 보고서 만들기
+  - 신규 보고서 테스트
+
+
+  #### 랩 &#58; 차트 탐색
+  - 차트 탐색
+  - 사용자 지정 차트 만들기
+
+
+  #### 랩 &#58; 대시 보드 탐색
+  - 대시 보드 탐색
+  - 사용자 지정 대시 보드 만들기
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 즉시 사용 가능한 보고서를 잘 알고 있습니다.
+  - 사용자 지정 보고서를 만들기 위해 보고 마법사 사용
+  - Dynamics 365 Charts 이해
+  - 사용자 지정 개인 차트 만들기
+  - Dynamics 365 Dashboards 이해
+  - 사용자 지정 개인 대시 보드 만들기
+
+  #### 추가 자료
+  N/A
