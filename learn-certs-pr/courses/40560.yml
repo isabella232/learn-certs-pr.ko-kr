@@ -1,0 +1,46 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+metadata:
+  title: 'Course 40560-G: Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+  description: 'Course 40560-G: Microsoft Cloud Workshop: Predictive Maintenance for remote field devices'
+uid: course.40560
+courseNumber: '40560-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: Azure에서 IoT-기반 예측 유지 관리 솔루션을 디자인합니다.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  이 워크샵에서는, PaaS 및 SaaS-기반 IoT 제품에 대한 Microsoft의 카탈로그를 평가하여 Fabrikam의 요구를 충족하는 최적의 도구 조합을 결정하는 방법을 배우게 됩니다. IoT 장치 관리 및 보고를 단순화하는 솔루션을 디자인 및 구현하여 Fabrikam에 많은 사용자 지정 개발 없이 IoT 전략을 실현할 수 있는 더 빠른 경로를 제공합니다. 다음으로, 훈련된 예층 가능한 유지 관리 기계 학습 모델을 배포하고 거의 실시간에 모델로 예측을 만드는 스트림 처리 파이프라인을 디자인하는 방법을 배우게 됩니다. 이 파이프라인의 끝에는 펌프 고장이 임박했을 때 오일 펌프 유지 관리 팀으로 보내지는 경고가 있습니다.
+
+  #### 구독자 프로필
+  이 워크샵은 cloud 기술의 인프라 및 솔루션 디자인에 대한 아키텍처 전문 지식이 있고 "요약" 및 "획득한 기술" 영역에서 설명된 대로 Azure와 Azure 서비스에 대해 더 알아보려는 Cloud Architects 및 IT 전문가를 대상으로 합니다. 이 워크샵에 참석하는 사람들은 다른 비-Microsoft cloud 기술에 대한 경험이 있어야 하고, 과정 필수 조건을 만족해야 하며, Azure에 대한 교차-교육을 원해야 합니다.
+
+prerequisitesSection: |-
+  워크샵 내용은 인프라 및 솔루션 디자인에 대한 300-수준의 아키텍처 전문 지식을 추정합니다. 학생들이 이 워크샵에 참석하기 전에 이 전제 조건을 수강할 것을 권장합니다.  
+  - Microsoft Azure Essentials course, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 모듈 1&#58; 화이트보드 디자인 세션 - 원격 필드 장치에 대한 예측 유지 관리
+  #### 레슨
+  - 고객 사례 연구 검토
+  - 개념 증명 솔루션 디자인
+  - 솔루션 제시
+
+
+  ### 모듈 2&#58; 실습 랩 - 원격 필드 장치에 대한 예측 유지 관리
+  #### 레슨
+  - 장치 및 메타데이터로 IoT Central 구성하기
+  - Rod Pump Simulator 실행
+  - 장치 세트 만들기
+  - 유용한 대시보드 만들기
+  - Event Hub를 만들고 IoT Central에서 지속적으로 데이터 내보내기
+  - Azure Databricks 및 Azure Machine Learning 서비스를 사용하여 예측 모델 학습 및 배포
+  - 펌프 실패를 예측하는 Azure Function 만들기

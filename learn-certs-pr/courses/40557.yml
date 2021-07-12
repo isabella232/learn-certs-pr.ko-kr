@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+metadata:
+  title: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+  description: 'Course 40557-G: Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics'
+uid: course.40557
+courseNumber: '40557-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 확장 가능한 기계 학습, 빅 데이터 및 실시간 처리 기능과 함께 높은 처리량 수집, 저지연 서비스 및 글로벌 규모가 요구되는 고급 분석 솔루션을 지원하는 Cosmos DB의 강점을 활용하는 솔루션을 구현합니다.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  이 워크샵에서는, 확장 가능한 스트리밍 데이터의 수집과, 사전-채점된 데이터 및 기계 학습 모델 둘 다의 전 세계적으로 분산된 서비스를 위해 Cosmos DB를 활용하는 데이터 파이프라인 솔루션을 디자인하는 것을 배우게 됩니다. 솔루션은 Azure Databricks Delta와 함께 Cosmos DB 변경 데이터 피드를 활용하여 오프라인, 일괄 접근 방식 및 거의 실시간, 요청/응대 접근 방식에서 사기를 위한 트랜잭션 점수를 매기기 위한 위험 감소 솔루션을 만드는 데 사용할 수 있는 최신 데이터 웨어하우스 솔루션을 가능하게 합니다.
+
+  #### 구독자 프로필
+  이 워크샵은 cloud 기술의 인프라 및 기술 디자인에 대한 아키텍처 전문 지식이 있고 "요약" 및 "획득한 기술" 영역에서 설명된 대로 Azure와 Azure 서비스에 대해 더 알아보려는 Cloud Architects 및 IT 전문가를 대상으로 합니다. 이 워크샵에 참석하는 사람들은 다른 비-Microsoft cloud 기술에 대한 경험이 있어야 하고, 과정 필수 조건을 만족해야 하며, Azure에 대한 교차-교육을 원해야 합니다.
+
+outlineSection: |-
+  ### 모듈 1&#58; 화이트보드 디자인 세션 - Cosmos DB 실시간 고급 분석
+  #### 레슨
+  - 고객 사례 연구 검토
+  - 개념 증명 솔루션 디자인
+  - 솔루션 제시
+
+
+  ### 모듈 2&#58; 실습 랩 - Cosmos DB 실시간 고급 분석
+  #### 레슨
+  - 스트리밍 트랜잭션 데이터 수집하기
+  - 대규모 트랜잭션 데이터 이해 및 준비하기
+  - 사기 모델 만드기 및 평가하기
+  - 전 세계적으로 확장하기
+  - 보고하기
