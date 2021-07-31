@@ -19,13 +19,18 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
 
 ## 만료 과정: 강사-주도 교육
 
+* 코스웨어 30th, 2021년 7월 30일에 중단
+
+    | 과정 번호 | 버전 | 제목 | 언어 | 중단 날짜 |
+    | --- | --- | --- | --- | --- |
+    | DP-200T01 | A | Implementing an Azure Data Solution | 영어 | 2021년 7월 30일 |
+    | DP-201T01 | A | Designing an Azure Data Solution | 영어 | 2021년 7월 30일 |
+
 * 코스웨어는 2021년 6월 30일 중단됩니다
 
     | 과정 번호 | 버전| 제목 | 언어 | 중단 일자 |
     | --- | --- | --- | --- | --- |
     | AI-100T01 | A | Designing and Implementing an Azure AI Solution | 영어 | 6/30/2021 |
-    | DP-200T01 | A | Implementing an Azure Data Solution | 영어 | 6/30/2021 |
-    | DP-201T01 | A | Designing an Azure Data Solution | 영어 | 6/30/2021 |
     | MB-600T00 | A | Microsoft Dynamics 365 + Power Platform Solution Architect | 영어 | 6/30/2021 |
     | MB-901T00 | A | Microsoft Dynamics 365 Fundamentals | 영어 | 6/30/2021 |
     | AI-100T01JA | A | Designing and Implementing an Azure AI Solution | 일본어 | 6/30/2021 |

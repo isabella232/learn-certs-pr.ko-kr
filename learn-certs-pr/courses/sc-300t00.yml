@@ -18,14 +18,9 @@ locales:
 levels:
 - intermediate
 roles:
-- administrator
-- identity-access-admin
 - security-engineer
 products:
 - azure
-- azure-active-directory
-- azure-log-analytics
-- azure-sentinel
 exams:
 - uid: exam.sc-300
 summary: |-
@@ -34,7 +29,7 @@ summary: |-
   #### 구독자 프로필
   이 과정은 관련 인증 시험에 응시할 계획이거나 일상 업무에서 신원 접근 관리 작업을 수행하는 신원 및 접근 관리자를 위한 것입니다. 이 과정은 또한 Azure-기반 솔루션을 위한 신원 솔루션 및 접근 관리 시스템을 전문으로 제공하려는 관리자 또는 엔지니어에게도 도움이됩니다; 조직을 보호하는 필수적인 역할을 합니다. 
 prerequisitesSection: |-
-  성공적인 학습자는 다음에 대한 사전 지식과 이해를 갖게 됩니다&#58;
+  이 과정에 참여하기 전, 학생들은 다음 사항에 대해 이해해야 합니다:
   - 심층 방어, 최소 권한 접근, 책임 공유 및 제로트러스트 모델과 같은 보안 모범 사례 및 산업 보안 요구 사항.
   - 인증, 권한 부여 및 활동 디렉터리와 같은 신원 개념에 익숙합니다. 
   - Azure 워크로드 배포 경험이 있습니다. 이 과정에서는 Azure 관리의 기본을 다루지 않고, 대신 보안 특정 정보를 추가하여 해당 지식에 과정 콘텐츠를 구축합니다. 
@@ -78,7 +73,7 @@ outlineSection: |-
   #### 랩 &#58; 동적 그룹 탐색
   
   이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
-  - 맞춤형 설정으로 초기 Azure AD 배포
+  - 사용자 지정 설정으로 초기 Azure AD 배포
   - 내부 및 외부 신원 모두 관리
   - 하이브리드 신원 솔루션 구현
   

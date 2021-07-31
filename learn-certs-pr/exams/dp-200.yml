@@ -7,7 +7,7 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
-  <div><font color='red'><strong>이 시험의 새 버전인, <a href="/learn/certifications/exams/dp-203">DP-203</a>, 시행됩니다. 이 시험은 2021년 6월 30일 종료 될 때까지 응시할 수 있습니다. 참고: 시험은 중부 표준시 오후 11시 59분에 종료됩니다.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 시험의 새로운 버전인, <a href='/learn/certifications/exams/dp-203'>DP-203</a>,이 가능합니다. 이 시험이 중단되는 2021년 8월 31일까지 응시할 수 있습니다. 참고: 시험은 중부 표준시 기준 오후 11시 59분에 중단됩니다.</strong></font><br/><br/></div>
 
   <div><strong>이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
   </div>
@@ -36,7 +36,7 @@ skills:
 - 데이터 저장소 솔루션 구현 (40-45%)
 - 데이터 처리 관리 및 개발 (25-30%)
 - 데이터 솔루션 모니터링 및 최적화 (30-35%)
-retirementDate: 06/30/2021
+retirementDate: 08/31/2021
 roles:
 - data-engineer
 products:

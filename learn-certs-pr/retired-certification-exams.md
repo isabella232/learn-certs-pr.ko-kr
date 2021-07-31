@@ -20,14 +20,6 @@ ms.prod: non-product-specific
 
 다음 12개월 내에 중단 될 예정인 시험은 날짜별로 여기에 나열됩니다. (이 정보는 변경될 수 있습니다.)
 
-| 2021년 6월 30일 중단 |
-| --- |
-| [AI-100](/learn/certifications/exams/ai-100): Designing and Implementing an Azure AI Solution |
-| [DP-200](/learn/certifications/exams/dp-200): Implementing an Azure Data Solution |
-| [DP-201](/learn/certifications/exams/dp-201): Designing an Azure Data Solution |
-| [MB-600](/learn/certifications/exams/mb-600): Microsoft Dynamics 365 + Power Platform Solution Architect |
-| [MB-901](/learn/certifications/exams/mb-901): Microsoft Dynamics 365 Fundamentals |
-
 | 2022년 6월 30일 종료 |
 | --- |
 | [98-349](/learn/certifications/exams/98-349): Windows Operating System Fundamentals |
@@ -49,6 +41,7 @@ ms.prod: non-product-specific
 
 | 역할 기반| | |
 | --- | --- | --- |
+| [AI-100](/learn/certifications/exams/ai-100) | Designing and Implementing an Azure AI Solution | 2021년 6월 30일
 | [AZ-100](/learn/certifications/exams/AZ-100) | Microsoft Azure Infrastructure and Deployment | 2019년 5월 1일
 | [AZ-101](/learn/certifications/exams/AZ-101) | Microsoft Azure Integration and Security | 2019년 5월 1일
 | [AZ-102](/learn/certifications/exams/AZ-102) | Microsoft Azure Administrator Certification Transition | 2019년 6월 30일
@@ -156,9 +149,6 @@ ms.prod: non-product-specific
 
 | Microsoft Dynamics | | |
 | --- | --- | --- |
-| [MB-200](/learn/certifications/exams/mb-200) | Microsoft Power Platform + Dynamics 365 Core | 2020년 12월 31일
-| [MB-400](/learn/certifications/exams/mb-400) | Microsoft Power Apps + Dynamics 365 Developer | 2020년 12월 31일
-| [MB-900](/learn/certifications/exams/MB-900) | 2019년 12월 31일
 | MB2-706 | Microsoft Dynamics CRM Online Deployment | 2019년 12월 31일
 | MB2-707 | Microsoft Dynamics CRM Customization and Configuration | 2019년 12월 31일
 | MB2-708 | Microsoft Dynamics CRM Installation | 2019년 12월 31일

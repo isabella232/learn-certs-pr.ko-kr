@@ -7,8 +7,6 @@ uid: certification.azure-ai-engineer
 certificationRenewalUid: renewal.azure-ai-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/ai-102'>시험 AI-102</a>은 AI-100을 대체하는 시험입니다. AI-100은 2021년 6월 30일 종료됩니다.</strong></font><br/><br/></div>
-  
   Azure AI Engineer Associate 인증에 대한 응시자들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임워크를 활용하는 AI 솔루션을 구축하고, 관리하고, 배포하는 주제 전문 지식을 갖추어야 합니다.  
  
   그들의 책임에는 요구 사항 정의 및 디자인부터 개발, 배포, 유지, 성능 조정 및 모니터링까지 AI 솔루션 개발의 모든 단계에 참여하는 것을 포함합니다. 
@@ -16,11 +14,6 @@ summary: |-
   Azure AI 엔지니어들은 그들의 비전을 실행하기 위해 솔루션 아키텍처와 협력하고 완전한 종단 간 AI 솔루션을 구축하기 위해 데이터 과학자들, 데이터 엔지니어들, IoT 전문가들 및 AI 개발자들과 협력합니다. 
   
   이 인증에 대한 응시자들은 C#, Python, 또는 JavaScript에 능숙해야 하고 REST-기반 API 및 SDK를 사용하여 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝 및 대화형 AI 솔루션을 구출할 수 있어야 합니다. 또한 Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 저장소 옵션을 이해해야 합니다. 추가로, 응시자들은 책임 있는 AI 원칙을 이해하고 적용할 수 있어야합니다.  
-  
-  <div><br/><strong>다음 시험 중 하나를 통과하면 이 인증을 받게 됩니다&#58;</strong><br/>
-  <ul>
-  <li><a href="/learn/certifications/exams/ai-100">AI-100</a> (2021년 6월 30일 종료) <strong>혹은</strong></li>
-  <li><a href="/learn/certifications/exams/ai-102">AI-102</a> (2021년 2월 23일 베타 출시)</li></ul></div>
 subTitle: Azure AI 엔지니어들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임 워크를 활용하는 AI 솔루션을 구축, 관리 및 배포합니다.
 levels:
 - intermediate
@@ -33,7 +26,7 @@ skills:
 roles:
 - ai-engineer
 type: role-based
-products:						  
+products:
 - azure-bot-service
 - azure-cognitive-search
 - azure-cognitive-services
@@ -56,7 +49,7 @@ courses:
 - uid: course.ai-102t00
 paths:
 - uid: learn.data-ai.evaluate-text-with-language-services
-- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services														   
+- uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
 - uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
 - uid: learn.wwl.process-natural-language-azure-cognitive-language-services
 - uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
