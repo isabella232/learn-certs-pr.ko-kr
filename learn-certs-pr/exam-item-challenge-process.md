@@ -36,7 +36,7 @@ Microsoft Certification 시험은 시험에 합격하고 인증을 획득한 응
 ### 시험 문항 이의 제기 절차:
 
 1. 시험 문항 이의 제기 수락 기준과 수락되지 않는 기준을 검토하십시오.
-2. [시험 문항 이의 제기 양식](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR_ISAtLPKo9OtWclB8hC17dUOEpJNklTMlBWWFc0UUI2VjJBTUI5REVWUC4u) 을 작성하여 제출하십시오.
+2. [시험 문항 이의 제기 양식](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR9SQgdTBB3hHnpJO6XSRH7RURDkwT0FBRjQ5TVpFMjZXMTUzOElISVdTTS4u) 을 작성하여 제출하십시오.
 3. Microsoft Certification 팀은 귀하의 제출 내용이 완전한지 검토합니다. 불완전한 경우 추가 정보를 제공을 요청받게 됩니다. 완료되면, Microsoft Certification 팀이 검토합니다. 검토에는 약 2주가 걸립니다. .
 4. 검토가 완료되면, 결과를 알려드립니다. 
 

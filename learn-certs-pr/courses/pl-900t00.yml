@@ -8,11 +8,11 @@ courseNumber: 'PL-900T00-A'
 hoursToComplete: 48
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: Power Platform 구성 요소 설명
+- skill: Microsoft Power Platform 구성 요소 설명
 - skill: Microsoft Dataverse, 커넥터와 AI 빌더 설명
 - skill: M365, Dynamics 365, 마이크로소프트 Azure 및 타사 서비스 전반에 걸친 클라우드 간 시나리오 설명
-- skill: Power Platform의 이점 및 능력 확인
-- skill: 기본 기능 및 비즈니스 가치 Power Platform 구성 요소 확인
+- skill: Microsoft Power Platform에 대한 이점 및 기능 식별
+- skill: Microsoft Power Platform 구성 요소의 기본 기능 및 비즈니스 가치 식별
 - skill: Power Apps, Power Automate, Power BI 및 Power Virtual Agents에 간단한 솔루션 구현
 learningPartnersLink: /learn/certifications/partners
 locales:
@@ -20,13 +20,13 @@ locales:
 levels:
 - beginner
 roles:
-- developer
+- student
 products:
 - power-platform
 exams:
 - uid: exam.pl-900
 summary: |-
-  Power Platform의 비즈니스 가치 및 제품 기능에 대해 배웁니다. 간단한 Power Apps를 만들고, 데이터버스와 데이터를 연결하고, Power BI Dashboard를 빌드하고, automate processes with Power Automate로 프로세스를 자동화하고, Power Virtual Agents로 챗봇을 빌드합니다. 
+  Microsoft Power Platform의 비즈니스 가치와 제품 기능에 대해 알아봅니다. 간단한 Power Apps을 만들고, Dataverse에 데이터를 연결하고, Power BI 대시보드를 구축하고, Power Automate로 프로세스를 자동화하고, Power Virtual Agents로 챗봇을 구축합니다. 
 
   #### 시청자 프로파일
   
@@ -34,20 +34,29 @@ summary: |-
 prerequisitesSection: |-
   이 코스를 위한 필수 조건 없음
 outlineSection: |-
-  ### 모듈 1&#58; Power Platform 소개
-  Power Platform 구성 요소, 데이터 연결 방법 및 조직인 비즈니스 솔루션을 만들기 위해 이 기술을 활용하는 방법을 알아봅니다. 
+  ### 모듈 1: Microsoft Power Platform 소개
+
+  Microsoft Power Platform의 구성 요소, 데이터 연결 방법, 조직이 이 기술을 활용하여 비즈니스 솔루션을 만드는 방법에 대해서 배웁니다. 
+
   #### 레슨
-  - Power Platform 개요
-  - 모듈 요약
 
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - 비즈니스 솔루션을 만들기 위해 각 Power Platform 구성 요소 애플리케이션을 사용하는 시기 확인
-  - 비즈니스 솔루션을 만들기 위해 Power Platform 사용 가치 알아보기
-  - Power Platform의 구성 요소 및 기능 알아보기
+  *   Microsoft Power Platform 개요
+
+  *   모듈 요약
 
 
-  ### 모듈 2&#58; Microsoft Dataverse 소개
-  데이터버스는 cloud에서 강력하고, 확장 가능한 데이터 솔루션을 탐구할 수 있게합니다. 데이터버스를 틱하게 만드는 것과 Power Platform과 함께 작업하여 독특하고 효과적인 비즈니스 솔루션을 만드는 방법을 배웁니다.
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+
+  *   각 Microsoft Power Platform 구성 요소 애플리케이션을 사용하여 비즈니스 솔루션을 만드는 시기 식별
+
+  *   비즈니스 솔루션을 만들기 위해 Microsoft Power Platform의 사용하는 것에 대한 가치 알아보기
+
+  *   Microsoft Power Platform의 구성 요소 및 기능 알아보기
+
+
+  ### 모듈 2: Microsoft Dataverse 소개
+
+  Dataverse를 사용하면 cloud에서 강력하고, 확장 가능한 데이터 솔루션을 깊이 연구할 수 있습니다. Dataverse가 작동하는 이유와 Microsoft Power Platform과 함께 작동하여 독특하고 효율적인 비즈니스 솔루션을 만드는 방법을 알아봅니다.
   #### 레슨
   - Microsoft Dataverse 개요
   - 모듈 요약

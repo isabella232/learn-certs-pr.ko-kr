@@ -1,0 +1,52 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: App Modernization'
+metadata:
+  title: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+  description: 'Course 40512-G: Microsoft Cloud Workshop: App Modernization'
+uid: course.40512
+courseNumber: '40512-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 이 워크샵이 끝나면, 온-프레미스에서 cloud로 서비스를 이전하려는 조직을 위한 현대화 계획을 더 잘 디자인 할 수 있게 됩니다. 
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  이 워크샵에서는, Azure Active Directory를 사용하여 모두 보호되는 웹 및 모바일 서비스를 혼합하여 추가하는 동시에, cloud 서비스를 활용하여 레거시 온-프레미스 애플리케이션 및 인프라를 현대화하는 단계에 대해 더 잘 이해할 수 있게 됩니다. 
+
+  #### 구독자 프로필
+  이 워크샵은 cloud 기술의 인프라 및 솔루션 디자인에 대한 아키텍처 전문 지식이 있고 "요약" 및 "습득한 기술" 영역에 설명된 것과 같이 Azure 및 Azure 서비스에 대해 더 배우려는 Cloud 설계자 및 IT 전문가들을 대상으로 합니다. 또한 이 워크샵에 참여하는 사람들은 기타 비-Microsoft cloud 기술에 경험이 있어야 하고, 과정 필수 조건을 충족하며, Azure에서 교차-교육을 원해야 합니다. 
+prerequisitesSection: |-
+  워크샵 내용은 인프라 및 솔루션 디자인에 대한 아키텍처 전문 지식 300-단계를 가정 합니다. 우리는 학생들이 이 워크샵에 참석하기 전에 이 전제 조건을 수강할 것을 제안합니다. 
+  - Microsoft Azure Essentials 과정, http://www.microsoft.com/en-US/azureessentials
+outlineSection: |-
+  ### 모듈 1&#58; 화이트보드 디자인 세션 - 앱 현대화
+  #### 레슨
+  - 고객 사례 연구 검토
+  - 개념 증명 솔루션 디자인
+  - 솔루션 제시
+
+
+  ### 모듈 2&#58; 실습 랩 - 앱 현대화
+  #### 레슨
+  - 데이터베이스를 Azure SQL Database로 마이그레이션
+  - 앱 서비스 프로비저닝
+  - 식별 및 보안
+  - 블롭 저장소에 PDFs 업로드
+  - PDFs 액세스를 위한 서버리스 API 만들기 
+  - Azure Search 서비스 만들기
+  - Key Vault 구성
+  - Contoso Insurance Web API 구성 및 배포
+  - Contoso Insurance 웹 앱 구성 및 배포
+  - 레거시 데스크톱 (Windows Forms) 애플리케이션 구성 및 실행
+  - 모바일 애플리케이션 구성 및 실행
+  - 푸시 알림을 보내기 위해 Flow 앱 만들기
+  - PowerApps에 앱 만들기
+  - Azure Function을 Azure API Management에 추가

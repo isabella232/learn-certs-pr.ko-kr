@@ -8,7 +8,7 @@ courseNumber: 'PL-200T00-A'
 hoursToComplete: 120
 iconUrl: /media/learn/certification/course.svg
 skillsGained:
-- skill: 조직과 협력하여 요구사항 수집 및 Power Platform 솔루션 구현
+- skill: 조직과 협력하여 요구 사항을 수집하고 Microsoft Power Platform 솔루션을 구현합니다. 
 - skill: 모델 기반, 캔버스 및 포털 앱 빌드
 - skill: Power Automate 흐름 만들기
 - skill: Power Virtual Agents를 사용하여 간단한 챗봇 설계
@@ -19,34 +19,47 @@ locales:
 levels:
 - intermediate
 roles:
-- developer
+- functional-consultant
 products:
 - power-platform
 exams:
 - uid: exam.pl-200
 summary: |-
-  Power Platform은 조직이 비지니스 프로세스를 자동화하고, 고유의 풍부한 앱 경험을 개발하고, 고객과 더 좋고 빠르게 연결하도록 지원합니다. 이 과정에서, 학생들은 검색을 수행하고, 요구사항을 캡처하고, 주제 전문가 및 이해 관계자와 참여하고, 요구사항을 번역하고, Power Platform 솔루션과 앱을 구성하는 방법을 배웁니다. 애플리케이션 강화, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 만들기 위해 실습 랩으로 학습을 보완 합니다. Power Platform은 네 가지 주요 제품으로 구성됩니다&#58; Power Apps, Power Automate, Power BI, and Power Virtual Agents. 이 과정에서, Microsoft Dataverse (이전 Common Data Service), AI Builder, 커넥터 및 포털에 추가로 중심을 두고 이 네 가지 애플리케이션을 심도있게 다룹니다.
-  
-  #### 대상 그룹 프로필
-  Power Platform Functional Consultant는 검색 수행, 요구사항 캡처, 주제 전문가 및 이해 관계자 참여, 요구사항 번역, Power Platform 솔루션 및 앱 구성을 담당합니다. Functional Consultant는 애플리케이션 강화, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화 및 사용자 지정 시각화를 포함하는 솔루션의 구성요소를 구현합니다.
+  Microsoft Power Platform은 조직이 비즈니스 프로세스를 자동화하고, 그들만의 풍부한 앱 경험을 개발하고, 고객과 더 빠르고 효과적으로 연결할 수 있도록 합니다. 이 과정에서, 학생들은 검색 수행, 요구 사항 캡처, 주제 전문가 및 이해관계자 참여, 요구 사항 번역 및 Microsoft Power Platform 솔루션 및 앱 구성 방법을 배우게 됩니다. 애플리케이션 향상, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화, 및 사용자 지정 시각화를 만들기 위해 실습 랩으로 학습을 보완하게 됩니다. Microsoft Power Platform은 네 가지 주요 제품으로 구성되어 있습니다: Power Apps, Power Automate, Power BI, 및 Power Virtual Agents. 이 과정에서는, Microsoft Dataverse, AI Builder, 커넥터, 및 포털에 중점을 두고 이 네 가지 애플리케이션을 심층적으로 다룹니다.
+
+  #### 구독자 프로필
+
+  Microsoft Power Platform Functional Consultant는 앱, 자동화, 및 솔루션을 만들고 구성하는 일을 담당합니다. 이들은 사용자와 구현 팀 사이의 연락책 역할을 합니다. 기능 컨설턴트는 조직 내에서 솔루션의 활용을 촉진합니다. 기능 컨설턴트는 검색을 수행하고, 주제 전문가와 이해관계자를 참여시키고, 요구 사항을 캡처하고, 요구 사항을 기능에 매핑할 수 있습니다. 이들은 애플리케이션 향상, 사용자 지정 사용자 경험, 시스템 통합, 데이터 변환, 사용자 지정 프로세스 자동화, 및 간단한 시각화를 포함한 솔루션의 구성 요소를 구현합니다.
 prerequisitesSection: |-
-  - IT 전문가 혹은 학생과 같은 경험
-  - Power Platform과 주요 구성 요소에 대한 실무 지식
-  - Microsoft Dataverse (또는 일반 데이터 모델링) 및 보안 개념에 대한 지식
+  *   IT 전문가 또는 학생으로서의 경험
+
+  *   Microsoft Power Platform 및 해당 주요 구성 요소에 대한 실무 지식
+
+  *   다음에 대한 지식&nbsp;Microsoft&nbsp;Dataverse (또는 일반 데이터 모델링)&nbsp;및 보안 개념
 outlineSection: |-
-  ### 모듈 1&#58; Power Platform 소개
-  본 모듈은 학습자들에게 Power Platform 및 4가지 주요 구성요소에 대한 배경 지식을 제공합니다&#58; Power Apps, Power Automate, Power BI, and Power Virtual Agents.
+  ### 모듈 1: Microsoft Power Platform 소개
+
+  이 모듈은 학습자에게 Microsoft Power Platform 및 해당 4가지 주요 구성 요소에 대한 배경지식을 제공합니다: Power Apps, Power Automate, Power BI, 및 Power Virtual Agents.
+
   #### 레슨
-  - Power Platform 개요
-  
-  #### 랩 &#58; 랩 환경 검증
-  
-  이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
-  - Power Platform의 핵심 구성요소 식별
-  - 기능 컨설턴트의 역할 설명 
-  
-  ### 모듈 2&#58; 기능 컨설턴트 역할 
-  이 모듈에서, 학생들은 조직을 위해 Power Platform을 성공적으로 구현하는데 필요한 기능 컨설턴트 역할과 기술에 대해서 자세히 학습합니다.
+
+  *   Microsoft Power Platform 개요
+
+
+  #### 랩 : 랩 환경 검증
+
+  ####
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+
+  *   Microsoft Power Platform에 대한 주요 구성 요소 식별
+
+  *   기능 컨설턴트의 역할 설명
+
+
+  ### 모듈 2: 기능 컨설턴트 역할
+
+  이 모듈에서, 학생들은 조직을 위한 Microsoft Power Platform 솔루션을 성공적으로 구현하는데 필요한 기능 컨설턴트 역할과 기술에 대해 자세히 알아볼 것입니다.
 
   #### 레슨
   - 컨설턴트 기술 개요
@@ -84,7 +97,7 @@ outlineSection: |-
   이 모듈을 마친 후, 학생들은 할 수 있게 됩니다&#58;
   - 테이블, 열, 행 및 관계 이해
   - Dataverse에서 데이터 모델 구성
-  - 관리 센터 내 환경에서 작업
+  - Microsoft Power Platform 관리 센터 내 환경에서 작업
   
   
   ### 모듈 4&#58; Power Apps 만들기
@@ -160,7 +173,7 @@ outlineSection: |-
   - 주제 및 개체 생성
   
   
-  ### Module 7&#58; Power BI로 데이터 분석
+  ### 모듈 7&#58; Power BI로 데이터 분석
   이 모듈에서, 학생들은 Power BI Desktop과 Power BI Service를 사용하여 데이터를 분석하고 시각화를 만드는 방법을 배웁니다.
   #### 레슨
   - Power BI 시작

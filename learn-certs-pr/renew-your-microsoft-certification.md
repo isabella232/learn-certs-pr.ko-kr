@@ -12,39 +12,9 @@ ms.prod: non-product-specific
 ---
 # Microsoft 인증 갱신
 
-Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무를 수행하는 데 필요한 관련 기술과 지식이 있음을 입증합니다. 인증은 새로운 경력 기회를 열고 조직의 디지털 혁신을 지원하는 능력이 있음을 입증하는 데 도움을 줍니다. 또한 클라우드 환경에서 기술이 발전하는 속도를 고려할 때 최신 기술과 유효한 인증을 유지하는 것이 중요합니다.
+Microsoft Certifications은 귀하가 현대 디지털 비즈니스에서 직무를 성공적으로 수행하는 데 필요한 관련 기술과 지식을 보유하고 있음을 입증합니다. 인증은 직업 기회를 열어주고 조직의 디지털 혁신을 지원할 수 있는 능력을 입증할 수 있습니다. cloud 기술이 발달하는 속도를 감안할 때, 기술을 최신 상태로 유지하고 인증을 활성화하는 것은 중요합니다.  
 
-12월 15일 Microsoft [새로운 접근법 도입](https://aka.ms/CertRenewalBlog)을 통해 학습자의 최신 동향 습득을 지원합니다. 6개월 이내에 유효 인증이 만료되는 사용자는 Microsoft Learn에서 갱신 평가를 통과하여 매년 무료로 인증을 갱신할 수 있습니다.
-
-## 인증 갱신 일정
-
-역할 기반 및 전문 인증이 출시된 지 약 6개월 후 관련된 갱신 평가 및 학습 모듈 모음이 Microsoft Learn에서 제공됩니다. 갱신 평가는 인증 시험 업데이트에 맞춰 업데이트됩니다.
-
-인증 갱신 자격이 있는 경우 Microsoft 인증 ID (MCID)와 연결된 이메일을 통해 알림을 받게 됩니다. 인증이 만료되기 전 최대 4건의 이메일 알림을 받게 됩니다. 인증을 갱신한 후에는 다시 갱신할 때까지 더 미리 알림을 받지 않습니다.
-
-사용 가능한 첫 번째 갱신 평가 세트가 여기에 나열됩니다. 이것들은 개별 학습자 자격이 갱신되는 순서대로 계획됩니다. 학습자는 인증 만료 전 6개월 이내에 갱신 할 수 있습니다. 목록에 대한 업데이트/변경은 이 페이지를 확인하십시오.
-
-| 2021년 3월 갱신 평가 가능 |
-| --- |
-| Microsoft Certified: Azure Administrator Associate |
-| Microsoft Certified: Azure Developer Associate |
-| Microsoft Certified: Azure Security Engineer Associate |
-| Microsoft Certified: DevOps Engineer Expert |
-| Microsoft Certified: Azure Solutions Architect Expert |
-| Microsoft Certified: Azure AI Engineer Associate |
-| Microsoft Certified: Azure Data Engineer Associate |
-| Microsoft Certified: Azure Data Scientist Associate |
-| Microsoft 365 Certified: Modern Desktop Administrator Associate |
-| Microsoft 365 Certified: Messaging Administrator Associate |
-| Microsoft 365 Certified: Security Administrator Associate |
-| Microsoft 365 Certified: Enterprise Administrator Expert |
-| Microsoft Certified: Dynamics 365 Marketing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management, Manufacturing Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Sales Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Customer Service Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Field Service Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate |
-| Microsoft Certified: Dynamics 365 Supply Chain Management Functional Consultant Associate |
+2020년 12월 15일, Microsoft는 학습자들이 최신 상태를 유지할 수 있도록 [새로운 접근 방식을 도입](https://aka.ms/CertRenewalBlog)했습니다. 6개월 이내에 만료되는 활성 인증이 있는 사람들은 Microsoft Learn에서 갱신 평가를 통과하여 - 비용 없음 - 인증을 매년 갱신할 수 있습니다. 
 
 ## 인증 갱신 혜택
 
@@ -56,6 +26,7 @@ Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무�
 
 - 약 6개월 이내에 만료되는 Microsoft 역할 기반 또는 전문 인증을 보유한 경우 이를 갱신할 수 있습니다.
 - 인증을 갱신하려면 인증 만료 _전_ Microsoft Learn에서 관련 평가를 통과하십시오.
+- Microsoft Learn에서 갱신 평가에 통과하는 것이 인증을 갱신하는 유일한 방법입니다. 인증을 획득하기 위해 최초 통과한 시험의 새로운 버전이나 업데이트된 버전이더라도, 시험을 통과하여 인증을 갱신할 수 없습니다. 예를 들어, AZ-103에 응시하여 Microsoft Azure Administrator 인증을 획득한 경우, 인증을 갱신하기 위해 새로운 시험 AZ-104에 응시하고 통과할 수 없습니다. 인증을 갱신하려면 Microsoft Learn에서 반드시 갱신 평가를 통과해야 합니다. 이 정책에는 예외가 없습니다. 
 
 ## 인증 갱신 방법
 
@@ -64,10 +35,6 @@ Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무�
 - 갱신 자격이 되는 즉시 Microsoft Learn에서 사용 가능한 평가를 안내하는 이메일 알림을 받게 됩니다.
 - 온라인 평가를 통과하면 현재 만료일로부터 1년 더 인증이 연장됩니다.
 - 평가 준비에 도움이 되도록 무료 자기 주도적 학습 모듈을 통해 기술을 향상하십시오. 인증 갱신 페이지에서 관련된 사용 가능한 모듈을 살펴보십시오.
-
-## 인증 만료 정책 변경 내용
-
-2020년 12월 15일에, [인증 만료 정책 변경을 발표했습니다.](https://aka.ms/CertRenewalBlog) 2021년 6월 30일 수요일 @오전 12시 그리니치 표준시 (2021년 6월 29일 @오후 5시 태평양 표준시)부터, 모든 [역할-기반](/learn/certifications/browse/?type=role-based) 또는 [전문 인증](/learn/certifications/browse/?type=specialty)은 획득한 날짜로부터 1년 동안 유효합니다. 2021년 6월 이전에 취득한 역할 기반 및 전문 분야 인증은 취득한 날로부터 2년간 유효합니다.
 
 ## 자주 하는 질문
 
@@ -95,11 +62,11 @@ Microsoft 인증은 최신 디지털 비즈니스에서 성공적으로 업무�
 
 5. **인증이 만료되었습니다. 이제 어떻게 됩니까?**
 
-    인증이 만료되면 필수 시험을 통과하여 인증을 다시 획득해야 합니다.
+    인증이 만료되면, 반드시 필수 시험을 통과하여 인증을 다시 취득해야 합니다. 더 자세한 내용은, 방문하십시오: [인증 만료 정책.](/learn/certifications/certification-expiration-policy)
 
 6. **인증이 만료되기 전 베타 시험을 통과하거나 시험을 재응시하여 인증을 갱신할 수 있습니까?**
 
-    아니요. 인증을 갱신하려면 인증이 만료되기 전 갱신 평가를 통과해야 합니다.
+    아니요. 인증을 갱신하려면, 인증이 만료되기 전에 갱신 평가를 통과해야합니다. 이 정책에는 예외가 없습니다.
 
 7. **모든 Microsoft 인증은 갱신 옵션이 있습니까?**
 

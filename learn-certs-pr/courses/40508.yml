@@ -1,0 +1,40 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Modern Cloud Apps'
+metadata:
+  title: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+  description: 'Course 40508-G: Microsoft Cloud Workshop: Modern Cloud Apps'
+uid: course.40508
+courseNumber: '40508-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 이 워크샵이 끝나면, Azure Web Apps 및 관련 서비스를 더 잘 배포하고 구성할 수 있게 됩니다. 이 외에도, Azure AD로 인증을 위핸 웹 앱을 구성하고, App Insights로 애플리케이션을 계측 및 부하-테스트하고, Azure Functions 및 Logic Apps를 사용하여 백-엔드 서비스를 자동화하는 방법을 배우게 됩니다. 
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  이 워크샵에서는, Azure App Services, Azure Active Directory, 및 Visual Studio Team Services를 기반으로 하는 전자 상거래를 위한 종단간 솔루션을 구현하는 그룹으로 작업하게 됩니다. 솔루션이 PCI를 준수하는지 확인하고, 온-프레미스 및 공용 액세스 시나리오 모두에 적절한 보안 조치를 취해야 합니다.
+
+  #### 구독자 프로필
+  이 워크샵은 cloud 기술의 인프라 및 솔루션 디자인에 대한 아키텍처 전문 지식이 있고 "요약" 및 "습득한 기술" 영역에 설명된 것과 같이 Azure 및 Azure services 에 대해 더 배우려는 Cloud 설계자 및 IT 전문가들을 대상으로 합니다. 또한 이 워크샵에 참여하는 사람들은 기타 비-Microsoft cloud 기술에 경험이 있어야 하고, 과정 필수 조건을 충족하며, Azure에서 교차-교육을 원해야 합니다. 
+outlineSection: |-
+  ### 모듈 1&#58; 화이트보드 디자인 세션 - 최신 cloud 앱
+  #### 레슨
+  - 고객 사례 연구 검토
+  - 개념 증명 솔루션 디자인
+  - 솔루션 제시
+
+
+  ### 모듈 2&#58; 실습 랩 - 최신 cloud 앱
+  #### 레슨
+  - 개념 증명 배포
+  - 신원 및 보안
+  - 고객 사이트에 Azure B2C 활성화
+  - Application Insights로 Telemetry 활성화
+  - Azure Functions 및 Logic Apps로 백엔드 프로세스 자동화

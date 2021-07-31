@@ -27,13 +27,6 @@ roles:
 - administrator
 products:
 - azure
-- azure-stack
-- azure-stack-edge
-- azure-stack-hci
-- azure-stack-hub
-- azure-app-service
-- azure-event-hubs
-- azure-active-directory
 exams:
 - uid: exam.az-600
 summary: |-
@@ -50,9 +43,9 @@ prerequisitesSection: |-
   - 도메인, 포리스트 및 도메인 제어 장치를 포함하는 액티브 디렉터리 개념에 대한 이해
   
   Azure 및 cloud 컴퓨팅을 처음 사용하는 경우, 다음 리소스 중 하나를 고려하십시오&#58;
-  - 무료 온라인#58; Azure Fundamentals (https://docs.microsoft.com/learn/paths/azure-fundamentals/)
-  - 강사-주도 과정&#58; AZ-900&#58; Azure Fundamentals (https://docs.microsoft.com/learn/certifications/courses/az-900t01)
-  - Azure administrators를 위한 필수 조건(https://docs.microsoft.com/learn/paths/az-104-administrator-prerequisites/)
+  - 무료 온라인#58; Azure Fundamentals ([http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/](http://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/))
+  - 강사-주도 과정&#58; AZ-900&#58; Azure Fundamentals ([https://docs.microsoft.com/learn/certifications/courses/az-900t01](https://docs.microsoft.com/learn/certifications/courses/az-900t01))
+  - Azure administrators를 위한 필수 조건([https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/](https://docs.microsoft.com/en-us/learn/paths/az-104-administrator-prerequisites/)
 outlineSection: |-
   ### 모듈 1&#58; Azure Stack Hub의 개요
   이 모듈에서는 Azure Stack Hub이 온-프레미스 환경에서 앱을 실행하고 자체 데이터 센터에서 Azure 서비스를 공급하는 방법을 제공하는 Azure의 연장선상에 있는 방법 대해 배웁니다.

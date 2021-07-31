@@ -20,9 +20,9 @@ ms.prod: non-product-specific
 
 |         | 시험 기간*           | 좌석 기간*  |
 | ------------- |:-------------:| -----:|
-| Fundamentals 시험      | 60 분 | 80 분 |
-| 랩이 없는 Associate and expert role-based 시험 ** | 130 분 | 150 분 |
-| 랩이 포함 된 Associate and expert role-based 시험 | 150 분 | 170 분 |
+| Fundamentals 시험      | 45 분 | 65 분 |
+| 랩이 없는 Associate and expert role-based 시험 ** | 100 분 | 120 분 |
+| 랩을 포함할 수 있는 보조 및 전문 역할-기반 시험** | 130 분 | 150 분 |
 | 교육 채널을 통해 제공되는 Microsoft Technology Associate (MTA) 시험 | 45 분 | 50 분 |
 | MTA 시험 상업 채널을 통해 제공되는 | 45 분 | 80 분 |
 | Microsoft Office Specialist (MOS) 시험 | 50 분 | 60 분 |

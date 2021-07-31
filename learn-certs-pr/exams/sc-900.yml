@@ -6,6 +6,8 @@ metadata:
 uid: exam.sc-900
 displayName: SC-900
 summary: |-
+  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 26일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
   이 시험은 cloud-기반 및 관련 Microsoft 서비스 전반에서 보안, 규정 준수 및 식별 (SCI)에 대한 기본 사항을 숙지하려는 사람들을 대상으로 합니다.
   
   여기에는 Microsoft 보안, 규정 준수 및 식별 솔루션에 관심이 있는 비즈니스 이해관계자들, 신규 또는 기존 IT 전문가들, 혹은 학생들이 포함될 수 있는 넓은 대상입니다. 
@@ -15,6 +17,7 @@ summary: |-
 subTitle: '이 시험은 다음을 설명하는 귀하의 능력을 측정합니다: 보안, 규정 준수 및 식별의 개념 ; Microsoft 식별 및 액세스 관리 솔루션의 기능; Microsoft 보안 솔루션의 기능; Microsoft 규정 준수 솔루션의 기능.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr81
+practiceTestUrl: https://in.mindhub.com/sc-900-microsoft-security-compliance-and-identity-fundamentals-microsoft-official-practice-test/p/MU-SC-900?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
 providers:
   - providerType: pearson-vue
     examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=SC-900&examname=Exam%20SC-900:%20Microsoft%20Security,%20Compliance,%20and%20Identity%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-900
@@ -34,6 +37,7 @@ locales:
 levels:
 - beginner
 skills:
+- 이 시험의 내용은 2021년 7월 26일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 보안, 규정 준수 및 식별의 개념 설명 (5-10%)
 - Microsoft 식별 및 액세스 관리 솔루션의 기능 설명 (25-30%)
 - Microsoft 보안 솔루션의 기능 설명 (30-35%)

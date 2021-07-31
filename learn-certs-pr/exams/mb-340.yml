@@ -9,11 +9,11 @@ summary: |-
   이 시험의 응시자는 Dynamics 365 Commerce에서 애플리케이션 기능을 설정 및 사용하고 애플리케이션에 대한 지원을 제공합니다. 
   
   응시자들은 통합 상거래 비즈니스 운영에 대해 잘 알고 있습니다. 그들은 Dynamics 365 Commerce를 구성하고, 배포하고, 유지한 경험이 있을 수 있습니다. 
-  
-  <div><font color="red"><strong>참고: 이 시험은 2021년 6월/7월 시행됩니다.</strong></font><br/><br/></div>
-subTitle: '이 시험은 2021년 6월/ 7월 시행됩니다. 이 시험은 다음과 같은 기술 업무를 수행하는 귀하의 능력을 측정합니다: Dynamics 365 Commerce 본사 구성; 제품, 가격, 할인, 충성도 및 제휴 구성; Dynamics 365 Commerce에서 판매 시점 (POS) 관리; Dynamics 365 Commerce 콜 센터 구성 및 관리; 전자상거래 관리.'
+
+subTitle: '이 시험은 다음 기술 작업을 수행하는 능력을 측정합니다: Dynamics 365 Commerce Headquarters 구성; 제품, 가격, 할인, 충성도, 및 제휴 구성; Dynamics 365 Commerce에서 판매 시점(POS) 관리; Dynamics 365 Commerce 콜 센터 구성 및 관리; 전자 상거래 관리.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWCZKn
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-340&examname=Exam%20MB-340:%20Microsoft%20Dynamics%20365%20Commerce%20Functional%20Consultant%20%28beta%29&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-340
 locales:
 - en
 levels:

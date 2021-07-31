@@ -21,8 +21,6 @@ ms.author: micsullivan
 
 |                                             |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
-| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021년 6월 30일 중단 |
-| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021년 6월 30일 중단 |
 | [MTA: Database Fundamentals](/learn/certifications/mta-database-fundamentals) | 2022년 6월 30일 만료 |
 | [MTA: Windows Server Administration Fundamentals](/learn/certifications/mta-windows-server-administration-fundamentals) | 2022년 6월 30일 만료 |
 | [MTA: Security Fundamentals](/learn/certifications/mta-security-fundamentals) | 2022년 6월 30일 만료 |
@@ -44,6 +42,8 @@ ms.author: micsullivan
 
 | 역할 기반                                                                         |                    |
 | ---------------------------------------------------------------------------------- | ------------------ |
+| [Microsoft Certified: Dynamics 365 Fundamentals](/learn/certifications/d365-fundamentals) | 2021년 6월 30일 |
+| [Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert](/learn/certifications/power-apps-and-d365-solution-architect-expert) | 2021년 6월 30일 |
 | [Microsoft Certified: Power Apps + Dynamics 365 Developer Associate](/learn/certifications/power-apps-and-d365-developer-associate) | 2020년 12월 31일 |
 | [Microsoft 365 Certified: Teamwork Administrator Associate](/learn/certifications/m365-teamwork-administrator)              | 2020년 8월 31일 |
 
