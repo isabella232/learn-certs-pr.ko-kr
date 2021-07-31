@@ -1,0 +1,41 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Internet of Things'
+metadata:
+  title: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+  description: 'Course 40505-G: Microsoft Cloud Workshop: Internet of Things'
+uid: course.40505
+courseNumber: '40505-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 이 워크샵이 끝나면, IoT Hub Device Provisioning Service로 장치 등록을 구현하고 Power BI로 핫 데이터를 시각화하는 IoT 솔루션을 더 잘 구성할 수 있게 됩니다.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- developer
+products:
+- azure
+summary: |-
+  이 워크샵은 스마트 미터에서 방출되고 Azure에서 분석되는 고속 데이터를 시뮬레이션하는 종단간 IoT 솔루션의 구현을 안내합니다. 핫 경로에서 실시간 시각화를 위해 원격 분석 데이터의 부분 집합을 필터링하고, 콜드 경로를 위해 모든 데이터를 장기 저장소에 저장하는, 람다 아키텍처를 디자인합니다.
+
+  #### 구독자 프로필
+  이 워크샵은 cloud 기술의 인프라 및 솔루션 디자인에 대한 아키텍처 전문 지식이 있고 "요약" 및 "습득한 기술" 영역에 설명된 것과 같이 Azure 및 Azure services에 대해 더 배우려는 Cloud 설계자 및 IT 전문가들을 대상으로 합니다. 또한 이 워크샵에 참여하는 사람들은 기타 비-Microsoft cloud 기술에 경험이 있어야 하고, 과정 필수 조건을 충족하며, Azure에서 교차-교육을 원해야 합니다.
+outlineSection: |-
+  ### 모듈 1&#58; 화이트보드 디자인 세션 - 사물 인터넷
+  #### 레슨
+  - 고객 사례 연구 검토
+  - 개념 증명 솔루션 디자인
+  - 솔루션 제시
+
+
+  ### 모듈 2&#58; 실습 랩- 사물 인터넷
+  #### 레슨
+  - 환경 설정
+  - IoT Hub 프로비저닝
+  - Smart Meter Simulator 완료
+  - Stream Analytics로 핫 경로 데이터 처리
+  - HDInsight Spark로 콜드 경로 데이터 처리
+  - IoT Hub Operations Monitoring으로 장치 중단 보고하기

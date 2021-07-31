@@ -1,0 +1,43 @@
+### YamlMime:Course
+title: 'Microsoft Cloud Workshop: Big Data &amp; Visualization'
+metadata:
+  title: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+  description: 'Course 40502-G: Microsoft Cloud Workshop: Big Data &amp; Visualization'
+uid: course.40502
+courseNumber: '40502-G'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 이 워크샵이 끝나면, Azure Databricks에서 완전한 기계 학습 모델을 더 잘 구축하여 예정된 비행에 지연이 발생할 지 예측할 수 있습니다. 이 외에도, 학습된 모델을 Azure Machine Learning Model Management에 저장한 다음, 확장 가능한 주문형 예측을 위해 Docker 컨테이너로 배포하고, 데이터를 이동 및 ML 스코어링 운영화를 위해 Azure Data Factory (ADF)를 사용하고, Azure Databricks와 Spark SQL로 데이터를 요약하며, Power BI를 사용하여 지도상에서 일괄 예측을 시각화합니다.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- azure
+summary: |-
+  이 워크샵에서는, 주어진 비행 지연 데이터 및 날씨 조건으로 여행 지연을 예측하기 위해 기계 학습 (ML)을 사용하여 웹 앱을 배포하게 됩니다. 테스트를 위한 데이터 정리 및 조작, 기계 학습 모델 교육과 같은 준비에 이어, 대량 데이터 가져오기 작업을 계획합니다. 
+
+  #### 구독자 프로필
+  이 워크샵은 cloud 기술의 인프라 및 솔루션 디자인에 대한 아키텍처 전문 지식이 있고 "요약" 및 "습득한 기술" 영역에 설명된 것과 같이 Azure 및 Azure 서비스에 대해 더 배우려는 Cloud 설계자 및 IT 전문가들을 대상으로 합니다. 또한 이 워크샵에 참여하는 사람들은 기타 비-Microsoft cloud 기술에 경험이 있어야 하고, 과정 필수 조건을 충족하며, Azure에서 교차-교육을 원해야 합니다. 
+outlineSection: |- 
+  ### 모듈 1&#58; 화이트보드 디자인 세션 - 빅 데이터 및 시각화
+  #### 레슨
+  - 고객 사례 연구 검토
+  - 개념 증명 솔루션 디자인
+  - 솔루션 제시
+
+
+  ### 모듈 2&#58; 실습 랩 - 빅 데이터 및 시각화
+  #### 레슨
+  - 기계 학습 모델 구축
+  - Azure Data Factory 설정
+  - Azure ML로 기계 학습 모델 배포
+  - 데이터 이동을 위한 Data Factory 파이프라인 개발
+  - Azure Databricks 및 Data Factory로 ML 스코어링 운영화
+  - Azure Databricks를 사용하여 데이터 요약
+  - Power BI Desktop에서 시각화하기
+  - 지능형 웹 앱 배포

@@ -18,10 +18,9 @@ locales:
 levels:
 - beginner
 roles:
-- business-user
 - student
 products:
-- m365
+- azure
 exams:
 - uid: exam.sc-900
 summary: |-
@@ -36,28 +35,31 @@ prerequisitesSection: |-
   - Microsoft Azure 및 Microsoft 365의 일반적인 이해.
 outlineSection: |-
   ### 모듈 1&#58; 보안, 규정 준수 및 신원의 기본 개념을 설명합니다. 
-  제로-트러스트, 공동 책임, 개인 정보 보호 원칙 등을 포함하여 보안, 규정 준수 및 신원 솔루션의 기초가되는 핵심 개념, 원칙 및 방법론에 대해서 배웁니다.
+  Zero-Trust, 책임 공유, ID 제공자의 역할, 등을 포함하여, 보안, 규정 준수, 및 식별 솔루션의 기초가 되는 핵심 개념 및 방법론에 대해서 알아봅니다. 
+
   #### 레슨
-  - 보안 개념 및 방법론을 설명합니다. 
-  - Microsoft 보안 및 규정 준수 원칙을 설명합니다.  
-  
-  이 모듈을 완료 후, 학생들은 다음을 할 수 있습니다&#58;
-  - 보안 개념 및 방법론을 설명합니다. 
-  - 서비스 트러스트 포털을 살펴봅니다. 
-  - Azure 규정 준수 문서를 찾고 검토할 수 있는 위치를 파악합니다. 
+
+  *   보안 및 규정 준수 개념 및 방법론 설명 
+
+  *   ID 개념 설명
+
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+
+  *   보안 및 규정 준수 개념 및 방법론 설명 
+
+  *   ID 개념 설명
   
   
   ### 모듈 2&#58; Microsoft 신원 및 접근 관리 솔루션의 개념과 기능 설명
   Azure AD 서비스 및 신원 주체, 보안 인증, 접근 관리 기능, 신원 보호 및 거버넌스에 대해 배웁니다. 
   #### 레슨
-  - 신원 개념 설명
   - Azure AD의 기본 서비스와 신원 유형 설명
   - Azure AD의 인증 기능 설명
   - Azure AD의 접근 관리 기능 설명
   - Azure AD의 신원 보호 및 거버넌스 기능 설명
   
   이 모듈을 완료 후, 학생들은 다음을 할 수 있습니다&#58;
-  - 기본 신원 개념을 설명합니다.
   - Azure AD의 기본 서비스와 신원 유형을 설명합니다. 
   - Azure AD의 인증 기능을 설명합니다.
   - Azure AD의 접근 관리 기능을 설명합니다.
@@ -73,7 +75,18 @@ outlineSection: |-
   - Microsoft 365의 위협 보호 기능 설명
   - Microsoft 365의 보안 관리 기능 설명
   - Microsoft Intune으로 엔드 포인트 보안 설명
-  - 모듈 요약
+
+  #### 랩 : Microsoft Cloud App Security 살펴보기
+
+  #### 랩 : Azure Sentinel 살펴보기
+
+  #### 랩 : Azure Security Center 살펴보기
+
+  #### 랩 : Azure Network Security Groups (NSGs) 살펴보기
+
+  #### 랩 : Microsoft 365 Defender 포털 살펴보기
+
+  #### 랩 : Microsoft Intune 살펴보기
   
   이 모듈을 완료 후, 학생들은 다음을 할 수 있습니다&#58;
   - Azure기본 보안 기능을 설명합니다.
@@ -90,14 +103,24 @@ outlineSection: |-
   - Microsoft에서 규정 준수 관리 기능 설명
   - Microsoft 365의 정보 보호 및 거버넌스 기능 설명
   - Microsoft 365에서 내부자 위험 기능 설명
-  - Microsoft 365의 eDiscovery 기능 설명
-  - Microsoft 365의 감사 기능 설명
+  - Microsoft 365의 eDiscovery와 감사 기능 설명
   - Azure에서 리소스 거버넌스 기능 설명
   
+  #### 랩 : Azure 정책 살펴보기
+
+  #### 랩 : Microsoft 365에서 내부자 위험 관리 살펴보기
+
+  #### 랩 : Service Trust Portal 살펴보기
+
+  #### 랩 : Microsoft 365 규정 준수 센터 살펴보기&amp; 규정 준수 관리자
+
+  #### 랩 : Microsoft 365에서 민감도 레이블 살펴보기
+
+  #### 랩 : Microsoft 365에서 내부자 위험 관리 살펴보기
+
   이 모듈을 완료 후, 학생들은 다음을 할 수 있습니다&#58;
   - Microsoft에서 규정 준수 관리 기능을 설명합니다.
   - Microsoft 365의 정보 보호 및 거버넌스 기능을 설명합니다. 
   - Microsoft 365에서 내부자 위험 기능을 설명합니다. 
-  - Microsoft 365의 eDiscovery 기능을 설명합니다.
-  - Microsoft 365의 감사 기능을 설명합니다.
+  - Microsoft 365의 eDiscovery 및 감사 기능을 설명합니다. 
   - Azure에서 리소스 거버넌스 기능을 설명합니다. 

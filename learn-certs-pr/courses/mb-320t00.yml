@@ -1,8 +1,8 @@
 ### YamlMime:Course
-title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant
+title: Microsoft Dynamics 365 Supply Chain Management, Manufacturing
 metadata:
-  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
-  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing - Functional Consultant'
+  title: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
+  description: 'Course MB-320T00-A: Microsoft Dynamics 365 Supply Chain Management, Manufacturing'
 uid: course.mb-320t00
 courseNumber: 'MB-320T00-A'
 hoursToComplete: 96
@@ -19,15 +19,14 @@ levels:
 roles:
 - developer
 products:
-- dynamics
-- dynamics-finance-operations
+- dynamics-365
 exams:
 - uid: exam.mb-320
 summary: |-
   이 과정에는 여섯개의 모듈이 있고 4일 학습 일정으로 디자인되었습니다. 직접/ 또는 가상으로 가르칠 수 있습니다. 강사가 이 과정의 주제를 제공할 것입니다. 모듈 1은 Dynamics 365 Supply Chain Management, Manufacturing에 대한 필요한 구성을 소개합니다. 모듈 2는 다양한 유형의 제조 프로세스 관리에 대해 더 심도있게 설명합니다. 모듈 3은 생산을 위한 마스터 계획을 구현하는 주소입니다. 모듈 4는 여러 제조 기능을 구현하는 태클이 될 것입니다. 모듈 5는 제품 제조를 위한 하청 계약에 중점을 둡니다.
   
   #### 대상 그룹 프로필
-  Dynamics 365 for Finance and Operations Functional Consultant 는 검색 수행, 요구사항 캡쳐, 주제 전문가 및 이해 관계자의 참여, 요구사항 번역과 솔루션 및 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 즉시 사용할 수 있는 기능, 코드 없는 확장성, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다.
+  Dynamics 365 Finance and Operations Functional Consultant는 검색 수행, 요구 사항 캡처, 주제 전문가 및 이해관계자 참여, 요구 사항 번역, 솔루션 및 애플리케이션 구성을 담당합니다. 기능 컨설턴트는 기본 제공 기능, 코드 없는 확장성, 애플리케이션 및 서비스 통합을 사용하여 솔루션을 구현합니다. 
 prerequisitesSection: |-
   - 공급망 관리 및 제조 용어에 대한 기본적인 이해
   - Dynamics 365 finance and operation 앱에 대한 기본적인 이해

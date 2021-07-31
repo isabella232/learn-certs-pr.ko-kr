@@ -1,0 +1,285 @@
+### YamlMime:Course
+title: Designing and Implementing Microsoft Azure Networking Solutions
+metadata:
+  title: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+  description: 'Course AZ-700T00--A: Designing and Implementing Microsoft Azure Networking Solutions'
+uid: course.az-700t00
+courseNumber: 'AZ-700T00'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- intermediate
+roles:
+- network-engineer
+products:
+- azure
+summary: |-
+  이 과정은 네트워크 엔지니어들에게 Azure 네트워킹 솔루션을 디자인, 구현 및 유지 관리하는 방법을 가르쳐줍니다. 이 과정은 핵심 Azure 네트워킹 인프라, 하이브리드 네트워킹 연결, 트래픽 부하 균형, 네트워크 라우팅, Azure 서비스에 대한 비공개 액세스, 네트워크 보안 및 모니터링을 디자인하고, 구현하고, 관리하는 것에 대한 프로세스를 다룹니다. Azure에서 안전하고, 안정적인, 네트워크 인프라를 디자인하는 방법과 Azure에서 하이브리드 연결, 라우팅, Azure 서비스에 대한 비공개 액세스, 및 모니터링을 설정하는 방법을 알아봅니다.
+
+  #### 구독자 프로필
+
+  이 과정은 Azure 네트워킹 솔루션 분야를 전문으로 하려는 네트워크 엔지니어를 위한 것입니다. Azure 네트워크 엔지니어는 핵심 Azure 네트워킹 인프라, 하이브리드 네트워킹 연결, 트래픽 부하 균형, 네트워크 라우팅, Azure 서비스에 대한 비공개 액세스, 네트워크 보안 및 모니터링을 디자인하고 구현합니다. Azure 네트워크 엔지니어는 최적의 성능, 복원, 규모, 및 보안을 위한 네트워킹 솔루션을 관리하게 됩니다.  
+prerequisitesSection: |-
+  성공적인 Azure 네트워크 엔지니어들은 엔터프라이즈 네트워킹, 온-프레미스 또는 cloud 인프라 및 네트워크 보안에 있어서의 경험을 바탕으로 이 역할을 시작합니다.
+
+  *   다음에 대한 이해&nbsp;온-프레미스 가상화 기술, 다음을 포함한: VMs, 가상 네트워킹, 및 가상 하드 디스크.
+
+  *   다음에 대한 이해&nbsp;TCP/IP, Domain Name System (DNS), 가상 사설망 (VPNs), 방화벽, 및 암호화 기술을 포함한 네트워크 구성.
+
+  *   소프트웨어 정의 네트워킹에 대한 이해.
+
+  *   VPN과 같은 하이브리드 네트워크 연결 방법 이해
+
+  *   고가용성 및 복원 작업을 포함한, 복원력 및 재해 복구 이해
+
+  **필수 과정 (또는 동등한 지식 및 실무 경험):**
+
+
+  이 무료 온라인 교육은 이 과정에서 성공하는데 필요한 경험을 제공합니다.
+
+  *   [Azure Fundamentals 파트 1: 핵심 Azure 개념 설명 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+
+  *   [Azure Fundamentals 파트 2: 핵심 Azure services 설명 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/)
+
+  *   [Azure Fundamentals 파트 3: Azure의 핵심 솔루션 및 관리 도구 설명 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-solutions-management-tools-azure/)
+
+  *   [Azure Fundamentals 파트 4: 일반 보안 및 네트워크 보안 기능 설명 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-general-security-network-security-features/)
+
+  *   [AZ-104: Azure 관리자를 위한 가상 네트워크 구성 및 관리 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
+outlineSection: |-
+  ### 모듈 1: Azure 가상 네트워크
+
+  이 모듈에서는 가상 네트워크, 공용 및 사설 IPs, DNS, 가상 네트워크 피어링, 라우팅, 및 Azure Virtual NAT와 같은 기본적인 Azure 네트워킹 리소스를 디자인하고 구현하는 방법을 알아봅니다. 
+
+  #### 레슨
+
+  *   Azure 가상 네트워크
+
+  *   공용 IP 서비스
+
+  *   공용 및 개인 DNS
+
+  *   교차-VNet 연결
+
+  *   가상 네트워크 라우팅
+
+  *   Azure 가상 네트워크 NAT
+
+
+  #### 랩 : Azure에서 가상 네트워크 디자인 및 구현
+
+  ####
+
+  #### 랩 : Azure에서 DNS 설정 구성
+
+  ####
+
+  #### 랩 : 피어링으로 가상 네트워크 연결
+
+  ####
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+
+  *   가상 네트워크 구현
+
+  *   공용 IP 서비스 구성
+
+  *   사설 및 공용 DNS 영역 구성
+
+  *   교차-VNET 연결 디자인 및 구현
+
+  *   가상 네트워크 라우팅 구현
+
+  *   Azure 가상 네트워크 NAT 디자인 및 구현
+
+
+  ### 모듈 2: 하이브리드 네트워킹 디자인 및 구현
+
+  이 모듈에서는 사이트-대-사이트 간 VPN 연결, 지점-대-사이트 간 VPN 연결, Azure Virtual WAN 및 가상 WAN 허브와 같은 하이브리드 네트워킹 솔루션을 디자인하고 구현하는 방법을 알아봅니다.
+
+  #### 레슨
+
+  *   사이트-대-사이트 간 VPN 연결
+
+  *   지점-대-사이트 간 VP 연결
+
+  *   Azure 가상 WAN
+
+
+  #### 랩 : 로컬 게이트웨이 만들기 및 구성
+
+  ####
+  *   가상 네트워크 게이트웨이 만들기 및 구성
+     
+  *   Azure 포털을 사용하여 가상 WAN 만들기
+
+  *   사이트-대-사이트 간 VPN 연결을 디자인하고 구현
+
+  *   지점-대-사이트 간 VPN 연결을 디자인하고 구현
+
+  *   인증 디자인 및 구현
+
+  *   Azure 가상 WAN 리소스 디자인 및 구현
+
+  ### 모듈 3: Azure ExpressRoute 디자인 및 구현
+
+  이 모듈에서는 Azure ExpressRoute, ExpressRoute Global Reach, ExpressRoute FastPath 및 ExpressRoute Peering 옵션을 디자인하고 구현하는 방법을 배우게 됩니다.
+
+  #### 레슨
+
+  *   ExpressRoute
+
+  *   ExpressRoute Direct
+
+  *   ExpressRoute FastPath
+
+  *   ExpressRoute Peering
+
+
+  #### 랩 : ExpressRoute 만들기 및 구성
+
+  ####
+
+  Expressroute 디자인 및 구현
+
+  *   Expressroute Direct 디자인 및 구현
+
+  *   Expressroute FastPath 디자인 및 구현
+
+
+  ### 모듈 4: Azure의 비-HTTP(S) 트래픽 부하 균형
+
+  이 모듈에서는 Azure Load balancer 및 Traffic Manager로 Azure에서 비-HTTP(S) 트래픽에 대한 부하 균형 솔루션을 디자인하고 구현하는 방법을 배우게 됩니다. 
+
+  #### 레슨
+
+  *   콘텐츠 전달 및 부하 균형
+
+  *   Azure Load balancer
+
+  *   Azure Traffic Manager
+
+  *   Azure 모니터
+
+  *   네트워크 감시자
+
+
+  #### 랩 : Azure 포털을 사용하여 VMs 부하를 분산하는 공용 부하 균형 장치를 만들고 구성
+
+  ####
+
+  #### 랩 : Azure 포털을 사용하여 Traffic Manager 프로필 만들기
+
+  ####
+
+  #### 랩 : Azure 모니터에서 메트릭 경고 만들기, 보기 및 관리
+
+  ####
+
+  Azure Laod Balancers 디자인 및 구현
+
+  *   Azure Traffic Manager 디자인 및 구현
+
+  *   Azure 모니터로 네트워크 모니터링
+
+  *   네트워크 감시자 사용
+
+
+  ### 모듈 5: Azure에서 HTTP(S) 트래픽 부하 균형
+
+  이 모듈에서는 Azure Application gateway 및 Azure Front Door를 사용하여 Azure에서  HTTP(S) 트래픽에 대한 부하 균형 솔루션을 디자인하고 구현하는 방법을 배우게 됩니다. 
+
+  #### 레슨
+
+  *   Azure Application Gateway
+
+  *   Azure Front Door
+
+
+  #### 랩 : Azure 포털을 사용하여 고가용성 웹 애플리케이션을 위한 Front Door 만들기
+
+  ####
+
+  #### 랩 : Application Gateway 만들기 및 구성
+
+  ####
+
+  Azure Application Gateway 디자인 및 구현
+
+  *   Azure Front Door 구현
+
+  ### 모듈 6: 네트워크 보안 디자인 및 구현
+
+  이 모듈에서는 Azure DDoS, Azure Firewalls, 네트워크 보안 그룹, 및 웹 애플리케이션 방화벽과 같은 네트워크 보안 솔루션을 디자인하고 구현하는 방법을 배우게 됩니다. 
+
+  #### 레슨
+
+  *   Azure DDoS Protection
+
+  *   Azure Firewall
+
+  *   네트워크 보안 그룹
+
+  *   Azure Front Door에서 웹 애플리케이션 방화벽
+
+
+  #### 랩 : DDoS 보호 계획으로 가상 네트워크 만들기
+
+  ####
+
+  #### 랩 : Azure Firewall 배포 및 구성
+
+  ####
+
+  #### 랩 : Azure Front Door에서 웹 애플리케이션 방화벽 만들기
+
+  ####
+
+  Azure DDoS 보호 계획 구성 및 모니터링
+
+  *   Azure Firewall 구현 및 관리
+
+  *   네트워크 보안 그룹 구현
+
+  *   Azure Front Door에서 웹 애플리케이션 방화벽 (WAF) 구현
+
+
+  ### 모듈 7: Azure Services에 비공개 액세스 디자인 및 구현
+
+  이 모듈에서는 Azure Private Link, 및 가상 네트워크 서비스 엔트포인트로 Azure 서비스에 대한 비공개 액세스를 디자인하고 구현하는 방법을 배우게 됩니다.
+
+  #### 레슨
+
+  *   Azure Private Link 및 비공개 엔트포인트 정의
+
+  *   비공개 엔트포인트 디자인 및 구성
+
+  *   DNS 및 온-프레미스 클라이언트와 Private Link 통합
+
+  *   서비스 엔트포인트 만들기, 구성, 및 액세스 제공
+
+  *   앱 서비스용 VNET 통합 구성
+
+
+  #### 랩 : 가상 네트워크 서비스 엔트포인트로 PaaS 리소스에 대한 네트워크 액세스 제한
+
+  ####
+
+  #### 랩 : Azure 비공개 엔트포인트 만들기
+
+  ####
+
+  Private Link Service 및 비공개 엔드포인트의 차이점 정의
+
+  *   비공개 엔트포인트 디자인 및 구성
+
+  *   가상 네트워크 서비스 엔트포인트 설명
+
+  *   서비스 엔드포인트에 대한 액세스 디자인 및 구성
+
+  *   Private Link와 DNS 통합 
+
+  *   사용자의 앱 서비스와 Azure 가상 네트워크 통합

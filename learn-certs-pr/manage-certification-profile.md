@@ -55,10 +55,10 @@ Microsoft 인증 시험에 응시하기 위해, Microsoft 인증 프로필에 �
 
 ### 영어 언어 요청 
 
-[이 양식.](https://aka.ms/MSCertificationLegalNamechange)을 사용하여 프로필 이름 변경 요청을 제출하십시오. Microsoft 인증 프로필에 포함된 정보를 확인하라는 요청을 받을 것입니다. 현재, 이 양식은 영어로만 가능합니다. 이름이 변경되는 데 24-48 업무 시간이 소요됩니다. 
+[Microsoft Certification 프로필 이름 변경 요청 양식](https://aka.ms/MSCertificationLegalNamechange)을 사용하여 변경 요청을 제출하십시오. 귀하의 Microsoft 인증 프로필에 포함된 정보를 확인하라는 요청을 받게됩니다. 현재, 이 양식은 영어로만 제공됩니다. 귀하의 이름을 변경하려면 24-48 영업 시간이 소요될 수 있습니다.
 
 ### 영어 이외의 언어
-방문하십시오: [인증 지원](/learn/certifications/help) 영어 이외의 언어로 인증 프로필을 관리하려면.
+중재된 인증 지원 포럼을 통해 요청을 제출하십시오. 방문하십시오: [인증 지원](/learn/certifications/help) 영어 이외의 언어로 귀하의 인증 프로필을 관리하는데 도움을 받기 위해.
 
 ## Microsoft Certification 프로필 식별 번호 (MCID)를 찾으려면
 

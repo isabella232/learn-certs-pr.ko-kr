@@ -75,6 +75,8 @@
   - name: 정책 및 계약
     expanded: false
     items:
+    - name: 인증 만료 정책
+      href: certification-expiration-policy.md
     - name: Exam item challenge process
       href: exam-item-challenge-process.md
     - name: 시험 보안 정책

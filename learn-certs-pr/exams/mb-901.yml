@@ -7,8 +7,7 @@ uid: exam.mb-901
 displayName: MB-901
 summary: |-
   <div>
-  <div><strong>이 시험은 2021년 6월 30일 만료됩니다. 두 가지 대체 시험, MB-910 과 MB-920, 이 가능합니다. 더 자세한 정보는, <a href="/learn/certifications/exams/mb-910">MB-910</a> 및 <a href="/learn/certifications/exams/mb-920">MB-920</a> 시험 상세 페이지를 확인하십시오. 참고&#58; 시험은 중부 표준시 오후 11&#58;59에 만료됩니다.</strong><br/><br/></div>
-  <div><strong>본 시험 내용은 2020년 7년 10월 업데이트되었습니다. 변경된 내용을 보시려면 아래의 실력 측정 문서를 다운로드하십시오.</strong><br/><br/></div>
+  <div><font color="red"><strong>이 시험은 2021년 6월 30일 중단되었습니다. 두 가지 대체 시험인, MB-910 및 MB-920, 이 있습니다. 더 자세한 내용은, <a href="/learn/certifications/exams/mb-910">MB-910</a> 및 <a href="/learn/certifications/exams/mb-920">MB-920</a> 시험 세부 정보 페이지를 참조하십시오.</strong></font><br/><br/></div>
   </div>
   
   본 시험에서는 Dynamics 365 도입의 포지셔닝 및 이점을 다룹니다.
@@ -18,8 +17,6 @@ summary: |-
   응시자는 IT 환경에 관한 일반적인 수준의 지식 및 관련 작업 경험이 있어야 합니다. 응시자는 또한 기본적인 수준의 비즈니스 시나리오 및 비즈니스, 법률, IT 프로젝트에 필요한 보안 요구사항을 처리한 경험을 갖추고 있어야 합니다.
   
   이 인증 시험을 통과하면 ACE 대학 학점으로 인정 받을 수도 있습니다. 자세한 사항은 [인증 시험에 대한 ACE 대학 학점](/learn/certifications/ace-credit-for-certification-exams)을 참고하세요.
-  
-  <div><br/><strong>이 시험은 2021년 6월 30일에 완료되기 때문에, Microsoft 는 “Microsoft Dataverse" 에 “Common Data Service” 에 대한 참조를업데이트하지 않습니다.</strong></div>
 subTitle: 본 시험은 다음과 같은 Microsoft Dynamics 365 이해 능력을 측정합니다. 인공 지능, 혼합 현실, Power Platform, 클라우드 개념, 클라우드 보안, Dynamics 365 역할 기반 보안, 일반 데이터 서비스(CDS), 데이터 관리 프레임워크, Dynamics 365 리포팅, Dynamics 365 통합 및 클라우드 배포.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n1DO
@@ -31,15 +28,9 @@ locales:
 - fr
 - ko
 - ja
-providers:
-- providerType: pearson-vue
-  examUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=MB-901&examname=Exam%20MB-901:%20Microsoft%20Dynamics%20365%20Fundamentals&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-901
-- providerType: certiport
-  examUrl: http://www.certiport.com/locator
 levels:
 - beginner
 skills:
-- 본 시험 내용은 2020년 7년 10월 업데이트되었습니다. 변경된 내용을 보시려면 아래의 시험 기능 개요를 다운로드해 주십시오.
 - Dynamics 365용 Microsoft 플랫폼 구성 요소 식별 (30-35%)
 - Dynamics 365에서 인공지능과 혼합 현실 설명 (10-15%)
 - 모델 기반 앱 설명 (25-30%)
