@@ -11,7 +11,6 @@ iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.s
 summary: |-
   본 인증이 있고 6개월 이내에 만료되는 경우 갱신할 수 있습니다. 인증 갱신 평가를 통과하여 최신 Azure AI 업데이트 사항을 파악하고 있음을 입증하십시오. 선별된 학습 모듈 모음으로 인증 갱신을 준비할 수도 있습니다.
 skills:
-- Azure Cognitive Language Services로 텍스트 평가
 - Azure Cognitive Speech Services로 음성 처리 및 번역
 - Azure Cognitive Vision Services로 이미지 처리 및 분류
 - Azure Cognitive Language Services로 자연어 처리

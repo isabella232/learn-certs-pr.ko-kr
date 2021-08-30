@@ -6,7 +6,7 @@ metadata:
 uid: exam.ai-102
 displayName: AI-102
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 29일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 29일 업데이트되었습니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
   
   AI-102 시험 응시자들: Designing and Implementing a Microsoft Azure AI Solution은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot Framework를 활용하는 AI 솔루션을 구축, 관리 및 배포합니다. 
   
@@ -14,7 +14,7 @@ summary: |-
   
   그들은 솔루션 설계자와 협력하여 비전을 해석하고 데이터 과학자, 데이터 엔지니어, IoT 전문가, 및 AI 개발자와 협력하여 완전한 종단간 AI 솔루션을 구축합니다.
   
-  이 시험의 응시자들은 C#, Python, 또는 JavaScript에 능숙해야 하고 REST-기반 APIs 및 SDKs를 사용하여 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝 및 대화형 AI 솔루션을 구축할 수 있어야 합니다. 
+  이 시험의 응시자들은 C# 또는 Python에 능숙해야 하며 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝, 및 대화형 AI 솔루션을 구축하기 위해  REST-기반 APIs 및 SDKs를 사용할 수 있어야 합니다.
   
   또한 Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 저장소 옵션을 이해해야 합니다. 추가로, 응시자들은 책임 있는 AI 원칙을 이해하고 적용할 수 있어야 합니다. 
 subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 귀하의 능력을 측정합니다: Azure Cognitive Services 솔루션 계획 및 관리; 컴퓨터 비전 솔루션 구현; 자연어 처리 솔루션 구현; 지식 마이닝 솔루션 구현; 대화형 AI 솔루션 구현.'
@@ -23,10 +23,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MbY
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AI-102&examname=Exam%20AI-102:%20Designing%20and%20Implementing%20a%20Microsoft%20Azure%20AI%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fai-102
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 7월 29일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 7월 29일에 업데이트되었습니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Azure Cognitive Services 솔루션 계획 및 관리 (15-20%)
 - 컴퓨터 비전 솔루션 구현 (20-25%)
 - 자연어 처리 솔루션 구현 (20-25%)
@@ -56,12 +59,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 relatedCertifications:
 - related:
     uid: certification.azure-ai-engineer
