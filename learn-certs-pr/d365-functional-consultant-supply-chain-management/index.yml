@@ -7,29 +7,20 @@ uid: certification.d365-functional-consultant-supply-chain-management
 certificationRenewalUid: renewal.d365-functional-consultant-supply-chain-management
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  공급망 관리 산업 표준을 근본적으로 이해하고 있는 기능 컨설턴트 또는 비즈니스 사용자라면, 이 인증이 적합할 수 있습니다. 또한 조직의 요구를 충족하기 위해 Dynamics 365 Supply Chain Management를 구성하고 구현하는 경험이 필요합니다. 공급망 기능 컨설턴트들은 재무, 상거래 및 제조에 있어 개발자들, 솔루션 아키텍트, 프로젝트 관리자들 및 기능 컨설턴트들과 협력하는 핵심 리소스입니다.
+  이 시험의 응시자들은 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 모범 사례를 구현하는 완전히 실현된 비즈니스 프로세스 및 솔루션으로 변환합니다. 응시자들은 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 구성하는데 핵심 리소스 역할을 합니다.
   
-  이 인증을 획득하기 전에 더 많은 경험이 필요하다면, 여기 몇 가지 제안이 있습니다&#58;
+  이 시험의 응시자들은 회계 원칙과 비즈니스의 재무 운영, 고객 서비스, 현장 서비스, 제조, 소매 및 공급망 관리 개념에 대한 기본적인 이해를 가지고 있습니다. 이들은 일반적으로 재무, 제조, 및 공급망 관리를 포함한 재무 및 운영 앱에 대한 하나 이상의 기능 세트를 전문으로 합니다. 
   
-  - Microsoft Learn,에서 공급망 모듈을 학습하고, 더 많은 실습을 완료합니다.
-  - MB-300 또는 MB-330 트랙을 다루는 강사-주도 교육 과정에 등록합니다.
-  - [community.dynamics.com](https://community.dynamics.com/)에서 커뮤니티에 참여하거나, 사용자 그룹에 가입하십시오.
-  - 공급망 기능 컨설턴트를 쉐도우하고, Dynamics 365 Supply Chain Management 기능을 구현하는데 도움을 줍니다.
-  - 멘토를 구하고, 창고를 둘러보고, 어떻게 만들어지는지 알아보십시오.
-  - 전문가와 고객에게 질문하고 배우십시오.
+  응시자들은 조달, 무역, 물류, 창고 관리, 및 운송 관리를 포함한, 공급망 관리 관행에 대한 지식이 반드시 있어야합니다. 
 subTitle: 'Dynamics 365 Supply Chain Management 기능 컨설턴트는 고객을 위해 비용 회계, 재고 관리, 마스터 계획 및 웨어하우스 관리를 간소화합니다.'
 levels:
 - intermediate
 skills:
-- 일반 기능 및 구현 도구 사용
-- 보안, 프로세스 및 선택 사항의 구성
-- 재정 및 운영 데이터 관리
-- 솔루션 검증 및 지원
 - 제품 정보 관리 구현
-- 재고 관리 구현
+- 재고 관리 구현 
 - Supply Chain 프로세스 구현 및 관리
 - 창고 관리 및 운송 관리 구현 
-- 마스터 계획 구현 
+- 계획 최적화 구현
 roles:
 - functional-consultant
 type: role-based

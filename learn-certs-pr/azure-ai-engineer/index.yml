@@ -13,7 +13,9 @@ summary: |-
   
   Azure AI 엔지니어들은 그들의 비전을 실행하기 위해 솔루션 아키텍처와 협력하고 완전한 종단 간 AI 솔루션을 구축하기 위해 데이터 과학자들, 데이터 엔지니어들, IoT 전문가들 및 AI 개발자들과 협력합니다. 
   
-  이 인증에 대한 응시자들은 C#, Python, 또는 JavaScript에 능숙해야 하고 REST-기반 API 및 SDK를 사용하여 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝 및 대화형 AI 솔루션을 구출할 수 있어야 합니다. 또한 Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 저장소 옵션을 이해해야 합니다. 추가로, 응시자들은 책임 있는 AI 원칙을 이해하고 적용할 수 있어야합니다.  
+  이 인증의 응시자들은 C# 또는 Python에 능숙해야 하며 Azure에서 컴퓨터 비전, 자연어 처리, 지식 마이닝, 및 대화형 AI 솔루션을 구축하기 위해  REST-기반 APIs 및 SDKs를 사용할 수 있어야 합니다. 
+  
+  또한 Azure AI 포트폴리오를 구성하는 구성 요소와 사용 가능한 데이터 저장소 옵션을 이해해야 합니다. 그뿐만 아니라, 응시자들은 책임 있는 AI 원칙을 이해하고 적용할 수 있어야 합니다.
 subTitle: Azure AI 엔지니어들은 Azure Cognitive Services, Azure Cognitive Search, 및 Microsoft Bot 프레임 워크를 활용하는 AI 솔루션을 구축, 관리 및 배포합니다.
 levels:
 - intermediate
@@ -48,12 +50,15 @@ products:
 courses:
 - uid: course.ai-102t00
 paths:
-- uid: learn.data-ai.evaluate-text-with-language-services
+- uid: learn.wwl.prepare-for-ai-engineering 
+- uid: learn.wwl.provision-manage-azure-cognitive-services
+- uid: learn.wwl.process-translate-text-azure-cognitive-services
 - uid: learn.wwl.process-translate-speech-azure-cognitive-speech-services
-- uid: learn.wwl.process-classify-images-with-azure-cognitive-vision-services
-- uid: learn.wwl.process-natural-language-azure-cognitive-language-services
-- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
+- uid: learn.wwl.create-language-understanding-solution
+- uid: learn.wwl.build-qna-solution
 - uid: learn.wwl.create-conversational-ai-solutions
+- uid: learn.wwl.create-computer-vision-solutions-azure-cognitive-services
+- uid: learn.wwl.implement-knowledge-mining-azure-cognitive-search
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHf
 exams:
 - uid: exam.ai-102
