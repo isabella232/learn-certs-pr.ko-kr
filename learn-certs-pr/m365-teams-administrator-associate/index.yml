@@ -2,20 +2,22 @@
 title: 'Microsoft 365 Certified: Teams Administrator Associate'
 metadata:
   title: 'Microsoft 365 Certified: Teams Administrator Associate'
-  description: Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리할 수 있어야 합니다.
+  description: 이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다.
 uid: certification.m365-teams-administrator-associate
+certificationRenewalUid: renewal.m365-teams-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리할 수 있어야 합니다.
-
-  Microsoft Teams 관리자는 팀&#58; 채팅, 앱, 채널, 회의, 오디오 회의, 라이브 이벤트 및 통화를 계획하고, 배포하고, 관리할 수 있어야 합니다.
-subTitle: Microsoft Teams 관리자는 엔터프라이즈 환경에서 효율적이고 효과적인 협업 및 통신에 초점을 맞춘 Microsoft Teams용 Office 365 워크로드를 구성, 배포 및 관리할 수 있어야 합니다.
+  이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다.  
+  
+  이 시험의 응시자들은 Teams 채팅, 앱, 채널, 회의, 오디오/화상 회의, 라이브 이벤트, 통화 및 Microsoft Teams-인증 장치를 계획, 배포, 구성 및 보안할 수 있어야 합니다.
+subTitle: 이 시험의 응시자들은 Microsoft 365 환경에서 효율적이고 효과적인 공동 작업 및 커뮤니케이션을 촉진하기 위해 Microsoft Teams를 관리하는 Microsoft Teams 관리자들입니다.
 levels:
 - intermediate
 skills:
-- Microsoft Teams 환경 계획 및 구성
-- 채팅, 통화, 및 회의 관리
-- Teams 및 앱 정책 관리
+- Microsoft Teams 환경 계획 및 구성 
+- 채팅, 팀, 채널, 및 앱 관리 
+- 통화 및 회의 관리 
+- Microsoft Teams 환경 모니터링 및 문제 해결 
 roles:
 - administrator
 type: role-based

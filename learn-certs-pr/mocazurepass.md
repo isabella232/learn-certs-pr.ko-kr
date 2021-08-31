@@ -15,7 +15,7 @@ ms.prod: non-product-specific
 
 <div>다음은 Microsoft 클라우드 기술을 다루는 특정 과정을 위한 랩 솔루션 지원을 위해 Microsoft가 제공한 Azure Pass에 관련된 정보입니다.  대체할 수 있는 SLA 지원 솔루션에 대한 자세한 내용은 현재 Azure에 대한 액세스를 제공하는 ALH(Authorized Lab Hosters) 중 한 곳에 문의하시기 바랍니다.</div>
 
-최근 업데이트: **2021년 5월 27일**
+마지막 업데이트: **2021년 7월 29일**
 
 Microsoft는 Microsoft Official Courses을 통해 자격있는 Azure 관련 과정에 등록하는 학생들에게 30일 무료 Microsoft Azure Pass를 제공합니다. 학생을 위한 Pass는 공인 Microsoft Learning Partner가 Courseware Marketplace를 통해서만 얻을 수 있으며, 주문한 MOC 과정당 1개의 Pass를 한도로 MOC 과정 구매에 직접 연결됩니다. 학생 Pass를 받기 위한 다른 메커니즘은 사용할 수 없습니다. Learning Partner가 MOC 과정을 주문했지만 구입 시 제공되는 Azure Pass를 선택하지 않은 경우, Partner는 Courseware Marketplace로 돌아가서 필요한 경우 Pass를 주문할 수 있는 선택권이 있습니다.
 
@@ -47,11 +47,8 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - 40514 Microsoft Cloud Workshop: Data Platform Upgrade and Migration
 - 40515 Microsoft Cloud Workshop: Enterprise-Class Networking in Azure
 - 40516 Microsoft Cloud Workshop: Intelligent Analytics
-- 40519 Microsoft Cloud Workshop: SAP on Azure
 - 40522 Microsoft Cloud Workshop: Azure Stack
 - 40526 Microsoft Cloud Workshop: SAP HANA on Azure
-- 40527 Microsoft Cloud Workshop: Security baseline on Azure
-- 40529 Microsoft Cloud Workshop: High Performance Computing
 - 40530 Microsoft Cloud Workshop: Cognitive Services and Deep Learning
 - 40531 Microsoft Cloud Workshop: IoT and the Smart City
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
@@ -63,6 +60,7 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - 40562 Microsoft Cloud Workshop: Migrating SQL databases to Azure
 - 40564 Microsoft Cloud Workshop: Securing the IoT end-to-end
 - 40573 Microsoft Cloud Workshop: Hybrid identity
+- 40584 Microsoft Cloud Workshop: Leveraging Azure Digital Twins in a supply chain
 - 50331 Windows Client, Enterprise Desktop Support Technician
 - 55093 Windows Azure Data Services (basics)
 - 55188 Lizenzierung und Verwaltung Virtueller Umgebungen und Cloud Services
@@ -70,14 +68,15 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - 55224-2 Operationalize Cloud Analytics Solutions with Microsoft Azure
 - 55247 Designing and Implementing Cloud Data Platform Solutions
 - 55264 Introduction to Programming Using Python
-- AI-100T01 Designing and Implementing an Azure AI Solution
 - AI-102T00 Designing and Implementing a Microsoft Azure AI Solution
 - AI-900T00 Microsoft Azure AI Fundamentals
 - AZ-010T00 Azure Administration for AWS SysOps
 - AZ-020T00 Microsoft Azure solutions for AWS developers
 - AZ-030T00 Microsoft Azure technologies for AWS architects
+- AZ-040T00 Automating Administration with PowerShell
 - AZ-104T00 Microsoft Azure Administrator
 - AZ-120T00 Planning and Administering Microsoft Azure for SAP Workloads
+- AZ-140T00 Configuring and Operating Microsoft Azure Virtual Desktop
 - AZ-203T0X Developing Solutions for Microsoft Azure courses
 - AZ-204T00 Developing Solutions for Microsoft Azure
 - AZ-220T00 Microsoft Azure IoT Developer
@@ -93,6 +92,7 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - DP-100T01 Designing and Implementing a Data Science Solution on Azure
 - DP-200T01 Implementing an Azure Data Solution
 - DP-201T01 Designing an Azure Data Solution
+- DP-203T00 Data Engineering on Microsoft Azure
 - DP-300T00 Administering Relational Databases on Microsoft Azure
 - MB-500T00 Microsoft Dynamics 365: Finance and Operations Apps Developer
 - MS-600T00 Building applications and solutions with Microsoft 365 core services
@@ -100,6 +100,7 @@ Learning Partner 및 MCT에 배포할 수 있는 Pass 수는 제한되어 있습
 - PL-600T00 Power Platform Solution Architect
 - SC-200T00 Microsoft Security Operations Analyst
 - SC-300T00 Microsoft Identity and Access Administrator
+- SC-900T00 Microsoft Security, Compliance, and Identity Fundamentals
 - WS-013T00 Azure Stack HCI
 - WS-050T00 Migrating Application Workloads to Azure
 

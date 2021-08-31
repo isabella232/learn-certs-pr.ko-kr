@@ -7,6 +7,12 @@ uid: course.az-700t00
 courseNumber: 'AZ-700T00'
 hoursToComplete: 72
 iconUrl: /media/learn/certification/course.svg
+skillsGained: 
+- skill: 하이브리드 네트워크 연결 디자인, 구현 및 관리
+- skill: 핵심 Azure 네트워킹 인프라 디자인 및 구현
+- skill: Azure에서 라우팅 및 로드 밸런싱 디자인 및 구현
+- skill: 네트워크 보안 및 모니터링
+- skill: Azure Services에 대한 비공개 액세스 디자인 및 구현
 learningPartnersLink: /learn/certifications/partners
 locales:
 - en
@@ -16,6 +22,8 @@ roles:
 - network-engineer
 products:
 - azure
+exams:
+- uid: exam.az-700
 summary: |-
   이 과정은 네트워크 엔지니어들에게 Azure 네트워킹 솔루션을 디자인, 구현 및 유지 관리하는 방법을 가르쳐줍니다. 이 과정은 핵심 Azure 네트워킹 인프라, 하이브리드 네트워킹 연결, 트래픽 부하 균형, 네트워크 라우팅, Azure 서비스에 대한 비공개 액세스, 네트워크 보안 및 모니터링을 디자인하고, 구현하고, 관리하는 것에 대한 프로세스를 다룹니다. Azure에서 안전하고, 안정적인, 네트워크 인프라를 디자인하는 방법과 Azure에서 하이브리드 연결, 라우팅, Azure 서비스에 대한 비공개 액세스, 및 모니터링을 설정하는 방법을 알아봅니다.
 
@@ -50,36 +58,33 @@ prerequisitesSection: |-
 
   *   [AZ-104: Azure 관리자를 위한 가상 네트워크 구성 및 관리 - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/az-104-manage-virtual-networks/)
 outlineSection: |-
-  ### 모듈 1: Azure 가상 네트워크
+  ### 모듈 1: Azure Virtual Networks 소개
 
   이 모듈에서는 가상 네트워크, 공용 및 사설 IPs, DNS, 가상 네트워크 피어링, 라우팅, 및 Azure Virtual NAT와 같은 기본적인 Azure 네트워킹 리소스를 디자인하고 구현하는 방법을 알아봅니다. 
 
   #### 레슨
+  *   Azure Virtual Networks 살펴보기
 
-  *   Azure 가상 네트워크
+  *   공용 IP 서비스 구성
 
-  *   공용 IP 서비스
+  *   가상 네트워크를 위한 이름 확인 디자인 
 
-  *   공용 및 개인 DNS
+  *   피어링으로 교차-VNet 연결 활성화
 
-  *   교차-VNet 연결
+  *   가상 네트워크 트래픽 라우팅 구현
 
-  *   가상 네트워크 라우팅
-
-  *   Azure 가상 네트워크 NAT
+  *   Azure Virtual NAT로 인터넷 액세스 구성
 
 
-  #### 랩 : Azure에서 가상 네트워크 디자인 및 구현
-
-  ####
-
-  #### 랩 : Azure에서 DNS 설정 구성
+  #### 랩 : 연습: Azure에서 가상 네트워크 디자인 및 구현
 
   ####
 
-  #### 랩 : 피어링으로 가상 네트워크 연결
+  #### 랩 : 연습: Azure에서 DNS 설정 구성
 
   ####
+
+  #### 랩 : 연습: 글로벌 가상 네트워크 피어링을 사용하여 두 개의 Azure Virtual Networks 연결
 
   이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
 
@@ -101,28 +106,32 @@ outlineSection: |-
   이 모듈에서는 사이트-대-사이트 간 VPN 연결, 지점-대-사이트 간 VPN 연결, Azure Virtual WAN 및 가상 WAN 허브와 같은 하이브리드 네트워킹 솔루션을 디자인하고 구현하는 방법을 알아봅니다.
 
   #### 레슨
+  *   Azure VPN Gateway 디자인 및 구현
 
-  *   사이트-대-사이트 간 VPN 연결
+  *   사이트 간 VPN 연결로 네트워크 연결
 
-  *   지점-대-사이트 간 VP 연결
+  *   지점 및 사이트 간 VPN 연결로 네트워크에 장치 연결
 
-  *   Azure 가상 WAN
+  *   Azure Virtual WANs를 사용하여 원격 리소스 연결
+
+  *   가상 허브에서 네트워크 가상 어플라이언스 (NVA) 만들기
 
 
-  #### 랩 : 로컬 게이트웨이 만들기 및 구성
+  #### 랩 : 연습: Azure Portal을 사용하여 가상 WAN 만들기
 
   ####
-  *   가상 네트워크 게이트웨이 만들기 및 구성
-     
-  *   Azure 포털을 사용하여 가상 WAN 만들기
 
-  *   사이트-대-사이트 간 VPN 연결을 디자인하고 구현
+  #### 랩 : 연습: 가상 네트워크 게이트웨이 만들기 및 구성 
 
-  *   지점-대-사이트 간 VPN 연결을 디자인하고 구현
+  ####
 
-  *   인증 디자인 및 구현
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
 
-  *   Azure 가상 WAN 리소스 디자인 및 구현
+  *   사이트 간 VPN 연결 디자인 및 구현
+
+  *   지점 및 사이트 간 VPN 연결 디자인 및 구현
+
+  *   Azure Virtual WAN 리소스 디자인 및 구현
 
   ### 모듈 3: Azure ExpressRoute 디자인 및 구현
 
@@ -130,86 +139,92 @@ outlineSection: |-
 
   #### 레슨
 
-  *   ExpressRoute
+  *   Azure ExpressRoute 살펴보기
 
-  *   ExpressRoute Direct
+  *   ExpressRoute 배포 디자인
 
-  *   ExpressRoute FastPath
+  *   ExpressRoute 배포를 위한 피어링 구성
 
-  *   ExpressRoute Peering
+  *   ExpressRoute 회로를 VNet에 연결
+
+  *   지리적으로 분산된 네트워크와 ExpressRoute 글로벌 리치 연결
+
+  *   ExpressRoute FastPath로 네트워크 간 데이터 경로 성능 향상
+
+  *   ExpressRoute 연결 문제 해결
 
 
-  #### 랩 : ExpressRoute 만들기 및 구성
+  #### 랩 : 연습: ExpressRoute 게이트웨이 구성
 
   ####
 
-  Expressroute 디자인 및 구현
+  #### 랩 : 연습: ExpressRoute 회로 프로비저닝
+
+  ####
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+
+  *   Expressroute 디자인 및 구현
 
   *   Expressroute Direct 디자인 및 구현
 
   *   Expressroute FastPath 디자인 및 구현
 
 
-  ### 모듈 4: Azure의 비-HTTP(S) 트래픽 부하 균형
+  ### 모듈 4: Azure의 비-HTTP(S) 트래픽 부하 분산
 
-  이 모듈에서는 Azure Load balancer 및 Traffic Manager로 Azure에서 비-HTTP(S) 트래픽에 대한 부하 균형 솔루션을 디자인하고 구현하는 방법을 배우게 됩니다. 
+  이 모듈에서는 Azure Load balancer 및 Traffic Manager로 Azure에서 비-HTTP(S) 트래픽을 위한 부하 분산 솔루션을 디자인하고 구현하는 방법을 배우게 됩니다. 
 
   #### 레슨
 
-  *   콘텐츠 전달 및 부하 균형
+  *   부하 분산 살펴보기
 
-  *   Azure Load balancer
+  *   Azure portal을 사용하여 Azure load balancer 디자인 및 구현
 
-  *   Azure Traffic Manager
-
-  *   Azure 모니터
-
-  *   네트워크 감시자
+  *   Azure Traffic Manager 살펴보기
 
 
-  #### 랩 : Azure 포털을 사용하여 VMs 부하를 분산하는 공용 부하 균형 장치를 만들고 구성
+  #### 랩 : 연습: Azure portal을 사용하여 Traffic Manager 프로필 만들기
 
   ####
 
-  #### 랩 : Azure 포털을 사용하여 Traffic Manager 프로필 만들기
+  #### 랩 : 연습: Azure load balancer 만들기 및 구성
 
   ####
 
-  #### 랩 : Azure 모니터에서 메트릭 경고 만들기, 보기 및 관리
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
 
-  ####
-
-  Azure Laod Balancers 디자인 및 구현
+  *   Azure Load Balancers 디자인 및 구현
 
   *   Azure Traffic Manager 디자인 및 구현
 
-  *   Azure 모니터로 네트워크 모니터링
 
-  *   네트워크 감시자 사용
+  ### 모듈 5: Azure에서 Load balancing HTTP(S) 트래픽
 
-
-  ### 모듈 5: Azure에서 HTTP(S) 트래픽 부하 균형
-
-  이 모듈에서는 Azure Application gateway 및 Azure Front Door를 사용하여 Azure에서  HTTP(S) 트래픽에 대한 부하 균형 솔루션을 디자인하고 구현하는 방법을 배우게 됩니다. 
+  이 모듈에서는 Azure Application gateway 및 Azure Front Door를 사용하여 Azure에서 HTTP(S) 트래픽에 대한 부하 분산 솔루션을 디자인하고 구현하는 방법을 배우게 됩니다. 
 
   #### 레슨
 
-  *   Azure Application Gateway
+  *   Azure application gateway 디자인
 
-  *   Azure Front Door
+  *   Azure application gateway 구성
+
+  *   Azure front door 디자인 및 구성
 
 
-  #### 랩 : Azure 포털을 사용하여 고가용성 웹 애플리케이션을 위한 Front Door 만들기
-
-  ####
-
-  #### 랩 : Application Gateway 만들기 및 구성
+  #### 랩 : 연습: Azure application gateway 배포
 
   ####
 
-  Azure Application Gateway 디자인 및 구현
+  #### 랩 : 연습: 고가용성 웹 애플리케이션을 위한 프론트 도어 만들기 
 
-  *   Azure Front Door 구현
+  ####
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+
+  *   Azure Application Gateway 디자인 및 구현
+
+  *  Azure Front Door 구현
 
   ### 모듈 6: 네트워크 보안 디자인 및 구현
 
@@ -217,69 +232,105 @@ outlineSection: |-
 
   #### 레슨
 
-  *   Azure DDoS Protection
+  *   Azure portal에서 가상 네트워크 보안
 
-  *   Azure Firewall
+  *   Azure portal을 사용하여 Azure DDoS Protection 배포
 
-  *   네트워크 보안 그룹
+  *   Azure portal을 사용하여 Network Security Groups 배포
 
-  *   Azure Front Door에서 웹 애플리케이션 방화벽
+  *   Azure Firewall 디자인 및 구현
+
+  *   Azure Firewall Manager로 작업하기
+
+  *   Azure Front Door에서 Web Application Firewall 구현
 
 
-  #### 랩 : DDoS 보호 계획으로 가상 네트워크 만들기
-
-  ####
-
-  #### 랩 : Azure Firewall 배포 및 구성
-
-  ####
-
-  #### 랩 : Azure Front Door에서 웹 애플리케이션 방화벽 만들기
+  #### 렙 : 연습: Azure portal을 사용하여 Azure Firewall 배포 및 구성
 
   ####
 
-  Azure DDoS 보호 계획 구성 및 모니터링
+  #### 랩 : 연습: Azure Firewall Manager를 사용하여 가상 허브 보안
+
+  ####
+
+  #### 랩 : 연습: Azure portal을 사용하여 가상 네트워크에서 DDoS Protection 구성
+
+  ####
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+
+  *   Azure DDoS protection 계획 구성 및 모니터링
 
   *   Azure Firewall 구현 및 관리
 
   *   네트워크 보안 그룹 구현
 
-  *   Azure Front Door에서 웹 애플리케이션 방화벽 (WAF) 구현
+  *   Azure Front Door에서 웹 애플리케이션 방화벽 (WAF) 구현 
 
 
-  ### 모듈 7: Azure Services에 비공개 액세스 디자인 및 구현
+  ### 모듈 7: Azure Services에 대한 비공개 액세스 디자인 및 구현
 
-  이 모듈에서는 Azure Private Link, 및 가상 네트워크 서비스 엔트포인트로 Azure 서비스에 대한 비공개 액세스를 디자인하고 구현하는 방법을 배우게 됩니다.
+  이 모듈에서는 Azure Private Link, 및 가상 네트워크 서비스 엔드포인트로 Azure Services에 대한 비공개 액세스를 디자인하고 구현하는 방법을 배우게 됩니다.
 
   #### 레슨
 
-  *   Azure Private Link 및 비공개 엔트포인트 정의
+  *   Private Link Service 및 비공개 엔트포인트 정의 
 
-  *   비공개 엔트포인트 디자인 및 구성
+  *   가상 네트워크 서비스 엔드포인트 설명
 
-  *   DNS 및 온-프레미스 클라이언트와 Private Link 통합
+  *   DNS와 Private Link 통합
 
-  *   서비스 엔트포인트 만들기, 구성, 및 액세스 제공
-
-  *   앱 서비스용 VNET 통합 구성
+  *   Azure virtual networks와 App Service 통합
 
 
-  #### 랩 : 가상 네트워크 서비스 엔트포인트로 PaaS 리소스에 대한 네트워크 액세스 제한
+  #### 랩 : 연습: Azure PowerShell을 사용하여 Azure 비공개 엔드포인트 만들기
 
   ####
 
-  #### 랩 : Azure 비공개 엔트포인트 만들기
+  #### 랩 : 연습: 가상 네트워크 서비스 엔드포인트로 PaaS 리소스에 대한 네트워크 액세스 제한
 
   ####
 
-  Private Link Service 및 비공개 엔드포인트의 차이점 정의
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
 
-  *   비공개 엔트포인트 디자인 및 구성
+  *   Private Link Service와 비공개 엔트포인트 사이의 차이점 정의
 
-  *   가상 네트워크 서비스 엔트포인트 설명
+  *   비공개 엔드포인트 디자인 및 구성
 
-  *   서비스 엔드포인트에 대한 액세스 디자인 및 구성
+  *   가상 네트워크 서비스 엔드포인트 설명
 
-  *   Private Link와 DNS 통합 
+  *   서비스 엔드포인트에 대한 엑세스 디자인 및 구성 
 
-  *   사용자의 앱 서비스와 Azure 가상 네트워크 통합
+  *  DNS와 Private Link 통합
+
+  *   Azure virtual networks와 App Service 통합
+
+
+  ### 모듈 8: 네트워크 모니터링 디자인 및 구현
+
+  이 모듈에서는 Azure Monitor 및 Network watcher와 같은 네트워크 모니터링 솔루션을 디자인하고 구현하는 방법을 배우게 됩니다. 
+
+  #### 레슨
+
+  *   Azure Monitor로 네트워크 모니터링
+
+  *   Azure Network Watcher로 네트워크 모니터링 
+
+
+  #### 랩 : 연습: Azure Monitor를 사용하여 부하 분산 장치 리소스 모니터링
+
+  ####
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다:
+
+  *   Azure Monitor를 사용하여 네트워크 상태 경고 및 로깅 구성
+
+  *   Connection Monitor 인스턴스 만들기 및 구성
+
+  *   Traffic Analytics 구성 및 사용
+
+  *   NSG 흐름 로그 구성
+
+  *   진단 로깅 활성화 및 구성
+
+  *   Azure Network Watcher 구성

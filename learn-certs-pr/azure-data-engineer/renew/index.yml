@@ -13,6 +13,9 @@ summary: |-
 skills:
 - Azure Data Factory로 페타바이트 규모로 처리
 - Azure Data Factory로 규모에 맞게 코드 없는 변환 수행
+- Azure Data Factory와 데이터 통합
+- Azure Synapse Analytics로 데이터 웨어하우스 디자인
+- PolyBase를 사용하여 Azure Synapse Analytics로 데이터 가져오기
 examsPassed:
 - dp-200, dp-201 또는 dp-203
 studyGuideDescription: '본 학습 모듈을 사용하면 Microsoft Certified: Azure Data Engineer Associate 인증 갱신 평가를 준비하는 데 도움이 됩니다.'

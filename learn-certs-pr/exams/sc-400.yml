@@ -6,7 +6,7 @@ metadata:
 uid: exam.sc-400
 displayName: SC-400
 summary: |-
-  <div><font color="red"><strong>이 시험의 내용은 2021년 7월 23일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><font color="red"><strong>이 시험의 내용은 2021년 7월 23일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
   
   정보 보호 관리자는 조직의 규정 준수 요구에 맞는 제어를 계획하고 구현합니다. 이 사람은 요구 사항 및 규정 준수 제어를 기술 구현으로 변환하는 것을 담당합니다. 그들은 조직 관리 소유자가 규정을 준수하고 유지하도록 지원합니다.
   
@@ -20,10 +20,13 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Mr8
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=SC-400&examname=Exam%20SC-400:%20Microsoft%20Information%20Protection%20Administrator&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fsc-400
 locales:
 - en
+- zh-cn
+- ja
+- ko
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 7월 23일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 7월 23일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 정보 보호 구현 (35-40%)
 - 데이터 손실 방지 구현 (30-35%)
 - 정보 거버넌스 구현 (25-30%)
