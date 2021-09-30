@@ -7,8 +7,6 @@ uid: certification.azure-data-engineer
 certificationRenewalUid: renewal.azure-data-engineer
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div><font color='red'><strong><a href='/learn/certifications/exams/dp-203'>시험 DP-203</a>은 시험 DP-200 및 DP-201을 대체합니다. DP-200 및 DP-201은 2021년 8월 31일 중단됩니다.</strong></font><br/><br/></div>
-  
   Azure Data Engineer Associate 인증에 대한 응시자는 다양한 정형 및 비정형 데이터 시스템의 데이터를 분석 솔루션 구축에 적합한 구조로 통합하고, 변환하고, 강화하는 주제 전문 지식을 가지고 있어야 합니다. 
   
   이 역할에 대한 책임에는 다양한 도구와 기술을 사용하여 이해관계자들이 탐색을 통해 데이터를 이해하게 돕고, 보안 및 규정 준수 데이터 처리 파이프라인을 구축하고 유지하는 것을 포함합니다. 이 전문가는 다양한  Azure 데이터 서비스와 언어를 사용하여 분석을 위한 정리되고 향상된 데이터 세트를 저장하고 생산합니다. 
@@ -16,11 +14,6 @@ summary: |-
   또한 Azure 데이터 엔지니어는 특정 비즈니스 요구 사항 및 제약 조건을 고려할 때,  데이터 파이프라인 및 데이터 저장소가 고-성능이며, 효율적이고, 조직적이고, 믿을 수 있다는 것을 보장하도록 도와줍니다. 이 전문가는 예상치 못한 문제를 신속하게 처리하고 데이터 손실을 최소화 합니다. 또한 Azure 데이터 엔지니어는 데이터 파이프라인 요구에 맞춰 데이터 플랫폼을 디자인, 구현, 모니터링 및 최적화합니다. 
   
   이 인증에 대한 응시자는 SQL, Python, 혹은 Scala와 같은 데이터 처리 언어에 대한 확실한 지식이 있어야 하며 병렬 처리 및 데이터 아키텍처 패턴을 이해해야합니다. 
-  
-  <div><br/><strong>다음 옵션 중 하나를 완료하면 이 인증을 받게 됩니다&#58;</strong><br/>
-  <ul>
-  <li>합격 <a href="/learn/certifications/exams/dp-200">DP-200</a> 및 <a href="/learn/certifications/exams/dp-201">DP-201</a> (2021년 8월 31일에 중단) <strong>또는</strong></li>
-  <li>통과 <a href="/learn/certifications/exams/dp-203">DP-203</a> (2021년 2월 23일 베타 출시)</li></ul></div>
 subTitle: Azure 데이터 엔지니어들은 다양한 정형 및 비정형 데이터 시스템에서 분석 솔루션 구축에 적합한 구조로 데이터를 통합, 변환 및 강화합니다.
 levels:
 - intermediate

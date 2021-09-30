@@ -52,7 +52,7 @@ Associate 및 Expert 시험은 일반적으로 US$165의 비용이 들지만 특
 
 - 특정 항목의 기술적 정확성이 우려되는 경우, 방문하십시오: [시험 항목 이의 제기 절차](/learn/certifications/exam-item-challenge-process).
 - 시험 센터나 시험 중 발생한 기술적인 문제에 대한 우려 사항을 보고하려면, 적절한 시험 제공 업체의 고객 서비스에 문의하십시오.  
-- 보안 우려사항을 보고하려면, [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com)으로 연락하십시오.
+- 보안 문제를 보고하려면, 이 [양식](https://aka.ms/wwlcertsecurity)을 작성해 주십시오. 
 - 다른 유형의 피드백을 제공하려면, [인증 지원.](https://aka.ms/mcpforum)으로 연락하십시오.
 
 ## 시험 세부 사항

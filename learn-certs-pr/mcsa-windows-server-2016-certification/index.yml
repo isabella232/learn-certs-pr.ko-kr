@@ -13,7 +13,22 @@ subTitle: IT 비용을 절약하고 더 많은 비즈니스 가치를 제공하�
 levels:
 - intermediate
 skills:
-- none
+- 호스트 및 컴퓨팅 환경에 Windows Server 설치 
+- 저장소 솔루션 구현 
+- Hyper-V 구현 
+- Windows 컨테이너 구현 
+- 고가용성 구현
+- 서버 환경 유지 관리 및 모니터링
+- DNS (Domain Name System) 구현
+- DHCP 및 IPAM 구현
+- 네트워크 연결 및 원격 액세스 솔루션 구현
+- 핵심/분산 네트워크 솔루션 구현
+- 고급 네트워크 인프라 구현
+- AD DS (Active Directory 도메인 서비스) 설치 및 구성
+- AD DS 관리 및 유지
+- 그룹 정책 만들기 및 관리
+- AD CS(Active Directory 인증서 서비스) 구현
+- ID 페더레이션 및 액세스 솔루션 구현
 roles:
 - administrator
 type: mcsa
@@ -23,6 +38,7 @@ courses:
 - uid: course.20740
 - uid: course.20741
 - uid: course.20742
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMC
 exams:
 - uid: exam.70-740
 - uid: exam.70-741
