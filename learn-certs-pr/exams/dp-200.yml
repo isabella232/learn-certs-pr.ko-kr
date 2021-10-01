@@ -7,7 +7,7 @@ uid: exam.dp-200
 displayName: DP-200
 summary: |-
   <div>
-  <div><font color='red'><strong>이 시험의 새로운 버전인, <a href='/learn/certifications/exams/dp-203'>DP-203</a>,이 가능합니다. 이 시험이 중단되는 2021년 8월 31일까지 응시할 수 있습니다. 참고: 시험은 중부 표준시 기준 오후 11시 59분에 중단됩니다.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 시험은 2021년 9월 31일 중단됩니다. 대체 시험, DP-203,이 가능합니다. 더 자세한 정보는<a href='/learn/certifications/exams/dp-203'>DP-203</a>, 시험 상세 페이지를 방문하십시오.</strong></font><br/><br/></div>
 
   <div><strong>이 시험의 내용은 2020년 11월 24일 업데이트 되었습니다. 변경 된 내용을 확인하려면 아래 기술 측정 문서를 다운로드 받으세요.</strong><br/><br/></div>
   </div>
@@ -23,7 +23,6 @@ subTitle: '이 시험은 다음과 같은 기술적 과제를 수행하는 능�
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzx2
 practiceTestUrl: https://www.mindhub.com/p/MU-DP-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=DP-200&examname=Exam%20DP-200:%20Implementing%20an%20Azure%20Data%20Solution&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fdp-200
 locales:
 - en
 - ja
@@ -63,9 +62,6 @@ paths:
 - uid: learn.data-ai.implement-data-streaming-with-asa
 - uid: learn.data-ai.implement-sql-data-warehouse
 - uid: learn.wwl.data-engineer-azure-databricks
-relatedCertifications:
-- related:
-    uid: certification.azure-data-engineer
 resources:
 - title: 인증으로의 여정
   description: Azure Data Engineer Associate 인증을 받기 위한 단계 및 준비에 도움이 되는 리소스를 살펴봅니다.

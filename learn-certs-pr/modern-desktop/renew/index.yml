@@ -14,9 +14,10 @@ skills:
 - Windows Autopilot을 사용한 Windows 배포 자동화
 - Microsoft Endpoint Manager로 장치 관리 단순화
 - Windows 10으로 더 많은 작업 수행 및 보안 유지
-- Microsoft 365를 사용한 최신 데스크톱으로 전환
+- cloud에서 Windows 업데이트 관리
+- Microsoft Endpoint Manager를 사용하는 장치 관리 이해
 - System Center Configuration Manager 사용 및 공동 관리를 통한 Windows 10 관리
-- Microsoft Endpoint Manager로 기기 관리 단순화
+- Microsoft Endpoint Manager를 이용하는 조건부 액세스 정책 이해
 - Windows 10으로 배포, 업그레이드, 마이그레이션
 - Microsoft Intune을 사용한 애플리케이션 관리
 examsPassed:

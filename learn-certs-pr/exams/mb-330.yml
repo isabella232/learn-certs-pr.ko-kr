@@ -14,7 +14,7 @@ summary: |-
   이 시험의 응시자들은 회계 원칙과 비즈니스의 재무 운영, 고객 서비스, 현장 서비스, 제조, 소매 및 공급망 관리 개념에 대한 기본적인 이해를 가지고 있습니다. 이들은 일반적으로 재무, 제조, 및 공급망 관리를 포함한 재무 및 운영 앱에 대한 하나 이상의 기능 세트를 전문으로 합니다. 
 
   응시자는 조달, 무역, 물류, 웨어하우스 관리 및 운송 관리를 포함한 공급망 관리 관행에 대한 일정한 지식을 가지고 있어야 합니다.
-subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 제품 정보 관리 구현; 재고 관리 구현; 공급망 프로세스 구현 및 관리; 창고 및 운송 관리 구현; 그리고 계획 최적화를 구현합니다.'
+subTitle: '이 시험은 다음과 같은 기술 작업을 수행하는 능력을 측정합니다: 제품 정보 관리 구현; 재고 관리 구현; 공급망 프로세스 구현 및 관리; 창고 및 운송 관리 구현; 계획 최적화를 구현합니다.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwVt
 practiceTestUrl: https://in.mindhub.com/mb-330-microsoft-dynamics-365-supply-chain-microsoft-official-practice-test/p/MU-MB-330?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -27,7 +27,7 @@ levels:
 skills:
 - 이 시험의 내용은 2021년 7월 26일 업데이트되었습니다. 변경된 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - 제품 정보 관리 구현 (25-30%)
-- 재고 관리 구현  (15-20%)
+- 재고 관리 구현 (15-20%)
 - Supply Chain 프로세스 구현 및 관리 (15-20%)
 - 창고 관리 및 운송 관리 구현 (20-25%)
 - 계획 최적화 구현 (15-20%)

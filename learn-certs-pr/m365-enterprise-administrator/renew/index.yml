@@ -13,9 +13,9 @@ summary: |-
 skills:
 - System Center Configuration Manager 사용 및 공동 관리를 통한 Windows 10 관리
 - Microsoft Endpoint Manager로 장치 관리 단순화
-- Azure Active Directory로 액세스 및 ID 프로비저닝 간소화
 - 커넥터를 사용한 Microsoft 365 외부 사서함으로 메일 전달
-- Microsoft Threat Protection으로 위협 방어
+- Microsoft Defender for Identity로 환경 보호
+- Microsoft Defender for Endpoint로 위협으로 부터 보호
 - Microsoft 365에서 사용자 파일 및 설정 마이그레이션
 - Microsoft 365 앱 및 비즈니스 앱 제공
 - 민감도 레이블로 데이터 보호

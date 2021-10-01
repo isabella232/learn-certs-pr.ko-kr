@@ -6,15 +6,17 @@ metadata:
 uid: exam.mb-300
 displayName: MB-300
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 8월 9일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
-
-  이 시험의 응시자들은 비즈니스 요구 사항을 분석하고 이러한 요구 사항을 업계 모범 사례를 구현하는 완전히 실현 된 비즈니스 프로세스 및 솔루션으로 변환합니다. 응시자들은 비즈니스 요구 사항을 충족하기 위해 애플리케이션을 구현하고 구성 함에 있어서 핵심 리소스 역할을합니다.
+  <div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 8월 9일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  </div>
+  
+  컨설턴트 (기능 및 기술)는 비즈니스 요구 사항을 수집 및 분석하고 이러한 요구 사항을 업계 권장 사례를 구현하는 완전히 실현된 비즈니스 프로세스 및 솔루션으로 변환합니다. 비즈니스 요구 사항을 충족하도록 앱을 구현하고 구성하는 데 있어 핵심 리소스 역할을 합니다.
   <br/>
 
-  응시자들은 Finance and Operations 앱의 일반적인 특징과 기능 및 각 기능을 구성하고 사용하는 방법을 이해합니다. 또한 Finance and Operations 앱이 Power Platform을 포함한 외부 시스템 및 도구와 통합되는 방식을 알고 있어야합니다. 응시자들은 Lifecycle Services (LCS) 및 기타 Microsoft 도구 및 플랫폼을 사용하여 애플리케이션 수명주기를 적극적으로 관리합니다.
+  컨설턴트들은 Dynamics 365 Finance and Operations 앱의 핵심 구성 요소 및 기능을 구현할 수 있어야 합니다. 또한 Dynamics 365 Finance and Operations 앱을 Power Platform을 포함한 외부 시스템 및 도구와 통합하는 방법을 숙지하고 있어야 합니다. 컨설턴트는 애플리케이션 수명 주기 관리 (ALM) 프로세스를 촉진하기 위해 Lifecycle Services (LCS), Azure DevOps, 및 기타 Microsoft 도구 및 플랫폼을 사용합니다.
 
-  이 시험의 응시자들은 일반적으로 재무, 제조 및 공급망 관리를 포함한 Finance and Operations 앱의 하나 이상의 기능 세트를 전문으로합니다.
-subTitle: '이 시험은 다음과 같은 기술적 작업을 수행하는 능력을 측정합니다: 공통 기능 및 구현 도구 사용; 보안, 프로세스 및 옵션 구성; Finance and Operation 데이터 관리; 솔루션 검증 및 지원.'
+  컨설턴트는 제품 출시 정보를 읽고, 제품 로드맵을 검토하고, 회의에 참석하여 지속적인 교육을 추구하거나, Microsoft Learn, Microsoft Docs, 강사-주도 교육, 블로그, 및 사용자 커뮤니티를 사용하여 학습을 지속합니다. 또한 자신들의 지식이 인정될 수 있도록 역할-기반 인증 및 평가도 추구해야 합니다.
+subTitle: '이 시험은 다음과 같은 기술 업무를 수행하는 능력을 측정합니다: 재무 및 운영 앱 설명, Microsoft Power Platform 기술을 사용하여 앱 확장; 관리 기능 및 워크플로 구성; Finance and Operation  데이터 관리; 솔루션 검증 및 지원.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
 practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,11 +27,11 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 8월 9일 업데이트됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
-- 공통 기능 및 구현 도구 사용 (15-20%)
-- 보안, 프로세스 및 옵션 구성 (30-35%)
-- Finance and Operations 데이터 관리 (25-30%)
-- 솔루션 검증 및 지원 (15-20%)
+- 이 시험의 내용은 2021년 8월 9일 업데이트 되었습니다. 변경된 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 재무 및 운영 앱을 설명하고, Microsoft Power Platform 기술을 사용하여 앱 확장 (20–25%)
+- 관리 기능 및 워크플로 구성 (30–35%)
+- 재무 및 운영 데이터 관리 (25-30%)
+- 솔루션 검증 및 지원 (20-25%)
 roles:
 - functional-consultant
 products:

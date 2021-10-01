@@ -13,7 +13,17 @@ subTitle: 이 인증은 다양한 Windows 장치에서 놀라운 사용자 환�
 levels:
 - intermediate
 skills:
-- none
+- 프로그램 흐름 관리
+- 유형 생성 및 사용
+- 애플리케이션 디버깅 및 보안 구현
+- 데이터 액세스 구현
+- 적응형 UI를 위한 XAML 페이지 레이아웃 개발
+- 페이지 탐색 및 수명 주기 이벤트 구현
+- 데이터 액세스 및 데이터 바인딩 구현
+- 적응 코딩을 위한 기능 검색 구현
+- 사용자 입력 관리 및 사용자 상호 작용 사용자 지정
+- 인증 및 ID 관리 을 관리
+- 알림, 백그라운드 작업 및 재사용 가능 구성 요소 구현
 roles:
 - administrator
 type: mcsa
@@ -21,6 +31,7 @@ products:
 - vs
 courses:
 - uid: course.20483
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlMD
 exams:
 - uid: exam.70-483
 - uid: exam.70-357

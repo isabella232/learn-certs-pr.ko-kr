@@ -20,6 +20,10 @@ subTitle: 'Dynamics 365 Commerce 기능 컨설턴트는 Dynamics 365 Commerce에
 levels:
 - intermediate
 skills:
+- 재무 및 운영 앱을 설명하고, Microsoft Power Platform 기술을 사용하여 앱 확장  
+- 관리 기능 및 워크플로 구성  
+- 재무 및 운영 데이터 관리  
+- 솔루션 검증 및 지원  
 - Dynamics 365 Commerce 본사 구성
 - 제품, 가격, 할인, 충성도 및 제휴 구성 
 - Dynamics 365 Commerce에서 판매 시점 (POS) 관리
@@ -55,6 +59,9 @@ resources:
 - title: 인증 포스터
   description: Dynamics 365 및 Power Platform에 대한 기본 역할 기반 및 전문성 인증을 포함한 개요를 확인합니다.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4CcQL
+- title: 인증을 향한 여정
+  description: 인증을 받기 위한 단계와 준비에 도움이 되는 리소스를 살펴봅니다.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWJJ8C
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.
   href: https://aka.ms/TrainingCertDeck

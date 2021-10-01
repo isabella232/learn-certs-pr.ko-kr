@@ -13,12 +13,17 @@ subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분�
 levels:
 - beginner
 skills:
-- 없음
+- 장치 구성 이해
+- 데이터 액세스 및 관리 이해
+- 장치 보안 이해
+- 클라우드 서비스 이해
+- Enterprise Mobility 이해
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLp
 exams:
 - uid: exam.98-368
 resources:

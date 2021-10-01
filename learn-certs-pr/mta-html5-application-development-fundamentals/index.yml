@@ -13,12 +13,16 @@ subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분�
 levels:
 - beginner
 skills:
-- 없음
+- 애플리케이션 수명 주기 관리
+- HTML5를 사용한 유저 인터페이스(UI) 구축 
+- CSS(Cascading Style Sheets)를 사용한 UI 양식 지정 
+- JavaScript 코딩
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolX
 exams:
 - uid: exam.98-375
 resources:

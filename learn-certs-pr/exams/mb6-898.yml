@@ -3,7 +3,7 @@ title: Microsoft Dynamics 365 for Talent
 metadata:
   title: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
   description: 'Exam MB6-898: Microsoft Dynamics 365 for Talent'
-uid: exam.mb-6-898
+uid: exam.mb6-898
 displayName: MB6-898
 summary: |-
   <div><font color='red'><strong>이 시험은 2021년 1월 31일 종료되었습니다. 현재 가능한 옵션은, <a href='/learn/certifications/browse/?resource_type=examination'>인증 및 시험 페이지 찾아보기</a> 을 참고하십시오.<br/><br/></strong></font></div>
@@ -12,7 +12,7 @@ summary: |-
 
   본 시험의 응시자는 일반적으로 인적 자본 관리 및 인적 자원(HR) 운영 프로세스에 대해 잘 알고 있으며, Microsoft Dynamics 365 for Talent 의 배포, 유지 관리 및 사용 경험이 있어야 합니다.
 
-  <div style='font-weight&#58; bold;'><br/>Exam MB6-898 은 2018년 4월 출시 Dynamics 365 for Talent에 적용됩니다. 제품 관련 최신 정보는 다음을 참조하십시오&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</div>
+  <div><strong><br/>Exam MB6-898 은 2018년 4월 출시 Dynamics 365 for Talent에 적용됩니다. 제품 관련 최신 정보는 다음을 참조하십시오&#58; <a href="https://aka.ms/talentdocs">https://aka.ms/talentdocs</a>.</strong></div>
 subTitle: 이 시험은 Microsoft Dynamics 365 for Talent에서 응용 프로그램 기능을 설정 및 사용하고 해당 응용 프로그램에 대한 지원을 제공하는 Microsoft Dynamics 365 파트너를 대상으로 실시됩니다. 이 시험은 비즈니스 솔루션과 관련된 배경 지식이 있고 Microsoft Dynamics 365 for Talent 응용 프로그램의 기능에 대한 기본적인 이해를 입증하고자 하는 판매 직원에게도 적합합니다.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t7kd

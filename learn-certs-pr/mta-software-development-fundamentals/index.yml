@@ -13,12 +13,18 @@ subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분�
 levels:
 - beginner
 skills:
-- 없음
+- 핵심 프로그래밍 이해 
+- 객체 지향 프로그래밍 이해
+- 일반 소프트웨어 개발 이해 
+- 웹 애플리케이션 이해 
+- 데스크톱 애플리케이션 이해
+- 데이터베이스 이해
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdXK
 exams:
 - uid: exam.98-361
 resources:

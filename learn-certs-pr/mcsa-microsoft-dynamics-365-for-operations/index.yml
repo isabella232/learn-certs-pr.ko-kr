@@ -31,7 +31,7 @@ courses:
 exams:
 - uid: exam.70-764
 - uid: exam.70-765
-- uid: exam.mb-6-894
+- uid: exam.mb6-894
 resources:
 - title: 교육 및 인증 가이드
   description: 간결한 교육 및 인증 가이드에서 모든 인증을 탐색하십시오.

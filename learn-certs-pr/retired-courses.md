@@ -19,6 +19,21 @@ Microsoft는 업계 동향을 지속적으로 모니터링하고 기술 변화�
 
 ## 만료 과정: 강사-주도 교육
 
+* 코스웨어는 2021년 10월 29일 중단됩니다
+
+    | 과정 번호 | 버전 | 제목 | 언어 | 중단 날짜 |
+    | --- | --- | --- | --- | --- |
+    | 10997 | D | Office 365 Administration and Troubleshooting | 영어 | 2021년 10월 29일 |
+
+* 코스웨어는 2021년 9월 30일 중단됩니다
+
+    | 과정 번호 | 버전 | 제목 | 언어 | 중단 날짜 |
+    | --- | --- | --- | --- | --- |
+    | 40510 | G | Microsoft Cloud Workshop: SQL Server Hybrid Cloud | 영어 | 2021년 9월 30일 |
+    | 40516 | G | Microsoft Cloud Workshop: Intelligent Analytics | 영어 | 2021년 9월 30일 |
+    | 40561 | G | Microsoft Cloud Workshop: Machine Learning | 영어 | 2021년 9월 30일 |
+    | MS-050T00 | A | SharePoint Hybrid Deployment and Migration | 영어 | 2021년 9월 30일 |
+
 * 코스웨어는 2021년 8월 31일 중단됩니다
 
     | 코스 번호 | 버전 | 제목 | 언어 | 중단일 |
