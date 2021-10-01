@@ -13,7 +13,21 @@ subTitle: 이 인증은 미래의 미션 크리티컬 환경을 개발 및 유�
 levels:
 - advanced
 skills:
-- none
+- 데이터베이스 개체 생성 
+- 데이터 작업 
+- 데이터 수정 
+- 문제 해결 및 최적화 
+- 설치 및 구성 
+- 인스턴스 및 데이터베이스 유지 관리 
+- 최적화 및 문제 해결
+- 데이터 관리 
+- 보안 구현 
+- 고가용성 구현
+- 데이터 웨어하우스 설계 및 구현
+- 데이터 추출, 변환
+- 데이터 로드 
+- SSIS 솔루션 구성 및 배치
+- 데이터 품질 솔루션 작성
 roles:
 - database-administrator
 type: mcsa
@@ -23,6 +37,7 @@ courses:
 - uid: course.20461
 - uid: course.20462
 - uid: course.20463
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIdYU
 exams:
 - uid: exam.70-461
 - uid: exam.70-462

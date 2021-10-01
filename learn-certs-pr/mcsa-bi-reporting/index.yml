@@ -13,7 +13,12 @@ subTitle: 이 인증은 Power BI 및 Excel로 데이터를 분석할 수 있는 
 levels:
 - intermediate
 skills:
-- none
+- Power BI Desktop을 사용한 데이터 소비 및 변환 
+- 데이터 모델링 및 시각화
+- Power BI 서비스에서 대시보드, 보고서 및 앱 구성 
+- Microsoft Excel을 사용한 데이터 소비 및 변환 
+- 데이터 모델링
+- 데이터 시각화 
 roles:
 - data-analyst
 type: mcsa
@@ -22,6 +27,7 @@ products:
 courses:
 - uid: course.20778
 - uid: course.20779
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIwaM
 exams:
 - uid: exam.70-778
 - uid: exam.70-779

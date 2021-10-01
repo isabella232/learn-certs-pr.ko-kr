@@ -6,7 +6,7 @@ metadata:
 uid: exam.ms-600
 displayName: MS-600
 summary: |-
-  <div><font color='red'><strong>이 시험의 내용은 2021년 7월 26일 업데이트되었습니다. 변경된 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
   
   본 시험의 응시자는 Microsoft 365 플랫폼을 사용하는 조직의 생산성 및 협업 요구에 최적화된 애플리케이션 및 솔루션을 설계, 구축, 테스트 및 유지 관리하는 Microsoft 365 개발자입니다.
   
@@ -27,7 +27,7 @@ locales:
 levels:
 - intermediate
 skills:
-- 이 시험의 내용은 2021년 7월 26일 업데이트되었습니다. 변경된 사항을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
+- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Microsoft Identity 구현 (20-25%)
 - Microsoft Graph로 앱 구축 (15-20%)
 - SharePoint 확장 및 사용자 지정 (15-20%)

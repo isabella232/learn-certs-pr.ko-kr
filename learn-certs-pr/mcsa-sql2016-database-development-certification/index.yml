@@ -13,7 +13,13 @@ subTitle: 인증으로써 온-프레미스 데이터베이스와 클라우드 �
 levels:
 - advanced
 skills:
-- none
+- Transact-SQL로 데이터 관리
+- 고급 Transact-SQL 구성 요소를 사용하여 데이터 쿼리
+- Transact-SQL을 사용하여 데이터베이스 프로그래밍
+- 데이터베이스 개체 설계 및 구현
+- 프로그래밍 개체 구현
+- 데이터베이스 동시성 관리
+- 데이터베이스 개체 및 SQL 인프라 최적화
 roles:
 - developer
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20761
 - uid: course.20762
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomL
 exams:
 - uid: exam.70-761
 - uid: exam.70-762

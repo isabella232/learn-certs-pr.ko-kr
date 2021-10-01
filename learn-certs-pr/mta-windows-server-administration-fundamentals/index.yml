@@ -13,12 +13,18 @@ subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분�
 levels:
 - beginner
 skills:
-- 없음
+- 서버 설치 이해 
+- 서버 역할 이해 
+- 액티브 디렉터리 이해
+- 저장소 이해
+- 서버 성능 관리 이해
+- 서버 유지 관리 이해
 roles:
 - administrator
 type: mta
 products:
 - windows
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIw9X
 exams:
 - uid: exam.98-365
 resources:

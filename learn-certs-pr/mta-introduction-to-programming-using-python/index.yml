@@ -13,12 +13,18 @@ subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분�
 levels:
 - beginner
 skills:
-- 없음
+- 데이터 유형 및 연산자를 사용한 프로그래밍 
+- 의사 결정 및 루프의 흐름 제어 
+- 입력 및 출력 작업 수행 
+- 코드 문서화 및 구조화
+- 문제 해결 및 오류 처리 수행
+- 모듈 및 툴을 사용한 작업 수행
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLr
 exams:
 - uid: exam.98-381
 resources:

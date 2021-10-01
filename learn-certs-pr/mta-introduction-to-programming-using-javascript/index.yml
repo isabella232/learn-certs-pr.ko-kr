@@ -13,12 +13,17 @@ subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분�
 levels:
 - beginner
 skills:
-- 없음
+- JavaScript 연산자, 메서드 및 키워드를 사용한 프로그래밍 
+- 변수, 데이터 유형 및 함수를 사용한 프로그래밍
+- 의사 결정 및 루프의 구현 및 분석
+- 문서 객체 모델과의 상호 작용 
+- HTML 양식과의 상호 작용 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlLz
 exams:
 - uid: exam.98-382
 resources:

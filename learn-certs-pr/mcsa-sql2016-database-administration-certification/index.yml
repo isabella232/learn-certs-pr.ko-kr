@@ -13,7 +13,13 @@ subTitle: 인증은 데이터베이스 설치, 유지, 구성, 권한 설정 문
 levels:
 - intermediate
 skills:
-- none
+- 데이터 액세스 및 감사 구성
+- 데이터베이스 백업 및 복원 관리
+- SQL Server 인스턴스 관리 및 모니터링
+- 고가용성 및 재해 복구 관리
+- Azure에서 SQL 구현
+- 데이터베이스 및 인스턴스 관리
+- 저장소 관리 
 roles:
 - database-administrator
 type: mcsa
@@ -22,6 +28,7 @@ products:
 courses:
 - uid: course.20764
 - uid: course.20765
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIlME
 exams:
 - uid: exam.70-764
 - uid: exam.70-765

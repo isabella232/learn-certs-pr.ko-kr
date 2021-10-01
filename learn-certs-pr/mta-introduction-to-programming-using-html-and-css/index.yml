@@ -13,12 +13,17 @@ subTitle: 'MTA 인증은 기술 분야 커리어를 시작하고자 하는 분�
 levels:
 - beginner
 skills:
-- 없음
+- HTML 기초 이해 
+- CSS 기초 이해 
+- HTML을 사용하는 문서 구조 작성
+- HTML을 사용한 멀티미디어 표시
+- CSS를 사용하는 웹 페이지 스타일링 
 roles:
 - developer
 type: mta
 products:
 - vs
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIolW
 exams:
 - uid: exam.98-383
 resources:

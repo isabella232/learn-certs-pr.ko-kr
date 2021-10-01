@@ -6,6 +6,8 @@ metadata:
 uid: exam.az-140
 displayName: AZ-140
 summary: |-
+  <div><font color='red'><strong>이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 기술 측정 문서를 다운로드하십시오.</strong></font><br/><br/></div>
+
   이 시험의 응시자들은 Azure에서, 모든 장치에 대한, 가상 데스크톱 환경 및 원격 앱을 계획하고, 제공하고, 관리하는 것에 있어 주제별 전문 지식을 갖춘 관리자들입니다.  
   
   이 역할의 책임은 가상 데스크톱 환경 및 앱을 Azure로 배포하는 것을 포함합니다. 이 역할의 전문가는 Azure Virtual Desktop에서 애플리케이션을 제공하고 다중-세션 가상 환경에서 실행되도록 최적화 합니다. 이러한 경험을 제공하기 위해, Microsoft 365 Administrators와 함께 Azure 관리자들 및 설계자들과 긴밀하게 협력합니다. 
@@ -19,10 +21,21 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4MFS
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=ko-kr&examcode=AZ-140&examname=Exam%20AZ-140:%20Configuring%20and%20Operating%20Azure%20Virtual%20Desktop&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-140
 locales:
 - en
+- ja
+- zh-cn
+- ko
+- fr
+- de
+- es
+- pt-br
+- ru
+- ar-sa
+- zh-tw
+- it
 levels:
 - intermediate
 skills:
-- '참고: 아래 각 측정 기술을 표시하는 항목은 해당 기술을 평가하는 방법을 보여주기 위한 것입니다. 이 목록은 확정적이거나 완전한 것이 아닙니다.'
+- 이 시험의 내용은 2021년 9월 24일 업데이트 됩니다. 변경되는 내용을 확인하려면 아래 시험 기술 개요를 다운로드하십시오.
 - Azure Virtual Desktop Architecture 계획 (10-15%)
 - Azure Virtual Desktop Infrastructure 구현 (25-30%)
 - 액세스 및 보안 관리 (10-15%)

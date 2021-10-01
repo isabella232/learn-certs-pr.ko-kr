@@ -1,0 +1,100 @@
+### YamlMime:Course
+title: Writing Reports with Report Builder and SSRS Level 3
+metadata:
+  title: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+  description: 'Course 55236-A: Writing Reports with Report Builder and SSRS Level 3'
+uid: course.55236
+courseNumber: '55236-A'
+hoursToComplete: 24
+iconUrl: /media/learn/certification/course.svg
+skillsGained:
+- skill: 모양을 사용하여 향상된 사용자 지정 보고서 시각화를 만듭니다.
+- skill: SSRS 보고서에서 Visual Basic 프로그래밍의 사용을 이해합니다.
+- skill: SSRS 보고 작업에서 Visual Basic 코드를 사용하고 지원합니다.
+learningPartnersLink: /learn/certifications/partners
+locales:
+- en
+levels:
+- advanced
+roles:
+- data-engineer
+products:
+- sql-server
+summary: |-
+  이 1-일 과정에서, 학생들은 Microsoft® SQL Server® Report Builder 및 SSRS를 사용한 보고서 작성에 대한 학습을 계속하게 됩니다. 이 과정의 초점은 사용자 지정 보고서 시각화와 SSRS 보고서에서 Visual Basic 프로그래밍의 사용을 높이는 것입니다. 보고서에서 Visual Basic 프로그래밍을 지원하는 것은 오늘날의 보고 환경에서 일반적인 요구 사항이며 이 과정은 그룹 토론, 워크시트, 연습, 시연, 및 랩 활동을 사용하여 필요한 정보를 제공합니다. 보고서 작성기는 지원되는 모든 Microsoft SQL Server 버전에서 사용할 수 있습니다. 
+
+  #### 구독자 프로필
+  이 과정의 주요 구독자는 보고서 작성기 및 SSRS를 사용한 경험이 있는 사람입니다. 이 과정의 두 번째 구독자는 능숙한 보고서 디자이너 (SSRS) 보고서 작성자들입니다. 과정 참가자들은 비즈니스 분석가들, 프로그래머 분석가들, 데이터 분석가들, 데이터베이스 관리자들, 또는 IT 전문가들일 수도 있습니다.
+prerequisitesSection: |-
+  이 과정에 참여하기 전에, 학생들은 반드시 다음을 갖추어야 합니다&#58;
+  - Windows에 익숙합니다. 
+  - 폴더를 만들고 탐색합니다.
+  - 오프닝 프로그램.
+  - windows을 조작하기.
+  - 텍스트 복사, 붙여넣기 및 서식 지정하기.
+  - 파일 저장하기.
+  - Course 55128&#58; Writing Reports with Report Builder and SSRS Level 2
+  - Microsoft® Office Access 2013&#58; Level 1 또는 기본 데이터베이스 개념에 대한 동등한 경험이 있습니다."
+
+outlineSection: |-
+  ### 모듈 1&#58; 향상된 시각화 생성하기
+  이 모듈에서는 형태, 직사각형, 이미지, 및 데이터 영역을 사용하여 향상된 시각화를 만드는 보고서 서식 지정 기술을 소개합니다. 사용자 지정 및 향상된 보고 시각화를 지원하기 위해, 이 과정은 보고서에 표시된 항목의 제어를 지원하는 특정 속성의 검토를 요구합니다.
+  #### 레슨
+  - 보고에서 형태의 중요성
+  - 직사각형을 사용한 향상된 시각화
+  - 보고서 항목 표시 제어
+  - Tablix에서 타일 만들기
+
+
+  #### 랩 &#58; 향상된 시각화 만들기 
+  - 직사각형이 있는 보고서에서 타일 만들기 
+  - 텍스트 상자가 있는 Tablix에서 타일 만들기 
+  - 텍스트 상자 타일, Tablix 타일, 및 Tablixes를 사용하여 향상된 시각화 만들기
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - 보고에서 형태를 사용하는 주요 기능, 용도, 및 접근 방식을 설명합니다. 
+  - 직사각형 도구에 대한 더 충분히 이해합니다.
+  - 보고서 항목의 표시에 영향을 주는 보고서 항목 속성을 조작합니다.
+  - 텍스트 상자가 아닌 타일을 표시하여 데이터 영역을 변환합니다.
+
+
+  ### 모듈 2&#58; Visual Basic
+  이 모듈은 Microsoft Visual Basic 프로그래밍 언어를 소개합니다. 이 모듈의 목표는 프로그래밍 언어와 그 사용을 비-프로그래머들에게 의미 있게 만드는 것입니다. 이 모듈은 과정 핸드북, 그룹 토론, 워크시트, 및 리뷰를 사용하여 Visual Basic 프로그래밍을 소개할 뿐만 아니라, 코드가 하는 일을 이해합니다.
+  #### 레슨
+  - Visual Basic 프로그래밍 언어
+  - Visual Basic 언어 구성 요소
+  - 결정 구조 및 절차
+
+
+  #### 랩 &#58; Visual Basic으로 작업하기
+  - 표현식을 Visual Basic 절차로 전환
+  - 보고서에서 가치 유형 작업 
+  - 보고서에서 참조 유형 작업 
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - Visual Basic의 주요 기능을 설명합니다.
+  - Visual Basic 언어 요소를 설명합니다.
+  - Visual Basic 문장과 그 목적을 인식합니다.
+  - 결정 구조를 사용하여 워크플로 논리를 적용합니다.
+  - 비즈니스 로직을 Visual Basic 코드로 전환합니다.
+  
+  ### 모듈 3&#58; SSRS 보고에서 Visual Basic 사용하기
+  보고서 작성자는 보고서 작성기 애플리케이션에서 세 가지 다른 방식으로 Visual Basic 언어를 활용할 수 있습니다. Visual Basic 프로그래밍 언어가 계획적으로 통합되었거나 기존 보고서를 통해 상속되었는지에 관계없이, 보고서 작성자는 보고 목표를 달성하기 위해 기능을 적용할 수 있는 방법을 숙지하고 있어야 합니다. Visual Basic은 보고서 작성기에 필요한 언어입니다.
+  #### 레슨
+  - SSRS 보고서의 Visual Basic
+  - 보고서에서 Visual Basic 코드 호출하기
+  - 보고서에서 외부 Visual Basic 코드 사용하기
+
+
+  #### 랩 &#58; 보고서에서 Visual Basic 사용하기
+  - 문자, 필드, 및 보고서 항목과 함께 조건부 논리 사용
+  - Visual Basic을 사용하여 보고서 만들기
+  - 외부 코드를 사용하기 위해 보고서 업데이트 
+  - 보고서의 Visual Basic 오류 문제 해결
+
+  이 모듈을 완료 후, 학생들은 다음을 할 수 있게 됩니다&#58;
+  - SSRS 보고 솔루션에서 Visual Basic의 주요 기능과 용도를 설명합니다. 
+  - 보고서에 사용할 수 있는 Visual Basic 코드의 세 가지 구현을 인식합니다. 
+  - Visual Basic 변수, 상수, 표현식, 및 절차를 만듭니다.
+  - 보고서의 사용자 지정 코드로 외부 기관을 연결하고 사용합니다. 
+  - 보고서에서 Visual Basic 오류 문제를 해결합니다.

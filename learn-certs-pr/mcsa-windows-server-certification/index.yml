@@ -13,7 +13,24 @@ subTitle: IT 비용을 절약하고 더 많은 비즈니스 가치를 제공하�
 levels:
 - intermediate
 skills:
-- none
+- 서버 설치 및 구성
+- 서버 역할 및 기능 구성 
+- Hyper-V 구성
+- 핵심 네트워크 서비스 배포 및 구성
+- Active Directory 설치 및 관리
+- 그룹 정책 만들기 및 관리
+- 서버 배포, 관리 및 유지 관리
+- 파일 및 인쇄 서비스 구성
+- 네트워크 서비스 및 액세스 구성
+- 네트워크 정책 서버 인프라 구성
+- Active Directory 구성 및 관리
+- Group Policy 구성 및 관리
+- 고가용성 구성 및 관리
+- 파일 및 저장소 솔루션 구성
+- 비즈니스 연속성 및 재해 복구 구현
+- 네트워크 서비스 구성
+- Active Directory 인프라 구성
+- 액세스 및 정보 보호 솔루션 구성
 roles:
 - administrator
 type: mcsa
@@ -23,6 +40,7 @@ courses:
 - uid: course.20410
 - uid: course.20411
 - uid: course.20412
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWIomH
 exams:
 - uid: exam.70-410
 - uid: exam.70-411
