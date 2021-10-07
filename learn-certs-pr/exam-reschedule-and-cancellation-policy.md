@@ -2,12 +2,12 @@
 title: 'Exam reschedule and cancellation policy | Microsoft Docs'
 description: '시험 일정 변경 및 취소 정책'
 documentationcenter: NA 
-author: micsullivan
+author: venkatorugantimsft
 ms.topic: article
 ms.tgt_pltfrm: NA
 ms.workload: NA
 ms.date: 08/11/2020
-ms.author: msulliv
+ms.author: venkato
 ms.prod: non-product-specific
 ---
 # 시험 일정 변경 및 취소 정책
